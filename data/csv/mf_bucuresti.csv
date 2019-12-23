@@ -1,4 +1,4 @@
-Nr. Contract,Denumire furnizor,Nume medic,Adresa punct de lucru,Telefon SITE,E-MAIL SITE
+contractNo,supplierName,medicName,address,phone,email
 A0001,CMI MIHAILA DOINA,MIHAILA DOINA,Calea Dorobantilor nr.32A sect.1,021.211.00.62,doina-mihaila@hotmail.com
 A0003,CMI BARBA CARMEN,BARBĂ CARMEN,"Strada Soldat Marin Savu 27, Sector 2",0212554145,barba_carmen@yahoo.com
 A0005,CMI MURESAN MARIANA CARMEN,MURESAN MARIANA CARMEN,"Strada Ardeleni nr.3A, Sector 2",021/211.70.75/0745.065.877,muresanmariana1@yahoo.ro
