@@ -7,6 +7,9 @@ A set of utility ReasonML scripts for Cancer Atlas, handling:
 
 The repository also contains the generated `.json` files which can be loaded directly via [jsDelivr](https://www.jsdelivr.com/)
 
+## Data Sources
+- [CNAS](http://www.cnas.ro/casmb/map-county)
+
 <br/><br/>
 
 > Made with :heart: and :coffee: by
