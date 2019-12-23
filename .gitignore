@@ -7,3 +7,5 @@ npm-debug.log
 .env
 *.bs.js
 .~lock.*
+/data/json/*.json
+!/data/json/*_min_flat.json
