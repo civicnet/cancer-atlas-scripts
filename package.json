@@ -1,6 +1,6 @@
 {
-  "name": "hartacancer",
-  "version": "1.0.0",
+  "name": "cancer-atlas-scripts",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
