@@ -1,0 +1,28 @@
+{
+    "list": [
+      {
+        "contractNo": "A0001",
+        "supplierName": "CMI MIHAILA DOINA",
+        "medicName": "MIHAILA DOINA",
+        "address": "Calea Dorobantilor nr.32A sect.1",
+        "phone": "021.211.00.62",
+        "email": "doina-mihaila@hotmail.com"
+      },
+      {
+        "contractNo": "A0003",
+        "supplierName": "CMI BARBA CARMEN",
+        "medicName": "BARBĂ CARMEN",
+        "address": "Strada Soldat Marin Savu 27, Sector 2",
+        "phone": "0212554145",
+        "email": "barba_carmen@yahoo.com"
+      },
+      {
+        "contractNo": "A0005",
+        "supplierName": "CMI MURESAN MARIANA CARMEN",
+        "medicName": "MURESAN MARIANA CARMEN",
+        "address": "Strada Ardeleni nr.3A, Sector 2",
+        "phone": "021/211.70.75/0745.065.877",
+        "email": "muresanmariana1@yahoo.ro"
+      }
+    ]
+}

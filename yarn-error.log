@@ -1,0 +1,52 @@
+Arguments: 
+  /home/claudiu/.nvm/versions/node/v10.0.0/bin/node /home/claudiu/.yarn/bin/yarn.js
+
+PATH: 
+  /home/claudiu/.rbenv/plugins/ruby-build/bin:/home/claudiu/.rbenv/shims:/home/claudiu/.rbenv/bin:/home/claudiu/.yarn/bin:/home/claudiu/.config/yarn/global/node_modules/.bin:/home/claudiu/.rbenv/plugins/ruby-build/bin:/home/claudiu/.rbenv/shims:/home/claudiu/.rbenv/bin:/home/claudiu/.yarn/bin:/home/claudiu/.config/yarn/global/node_modules/.bin:/home/claudiu/.nvm/versions/node/v10.0.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/claudiu/Android/Sdk/emulator:/home/claudiu/Android/Sdk/tools:/home/claudiu/Android/Sdk/tools/bin:/home/claudiu/Android/Sdk/platform-tools:/usr/share/logstash/bin:/usr/lib/jvm/java-8-openjdk-amd64:/home/claudiu/Android/Sdk/emulator:/home/claudiu/Android/Sdk/tools:/home/claudiu/Android/Sdk/tools/bin:/home/claudiu/Android/Sdk/platform-tools:/usr/share/logstash/bin:/usr/lib/jvm/java-8-openjdk-amd64
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  10.0.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/claudiu/Desktop/dev/civicnet/hartacancer/package.json: Unexpected token } in JSON at position 395
+      at JSON.parse (<anonymous>)
+      at /home/claudiu/.yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/home/claudiu/.yarn/lib/cli.js:304:30)
+      at /home/claudiu/.yarn/lib/cli.js:315:13
+      at run (/home/claudiu/.yarn/lib/cli.js:105421:22)
+      at /home/claudiu/.yarn/lib/cli.js:105438:30
+      at flush (/home/claudiu/.yarn/lib/cli.js:104922:9)
+      at process._tickCallback (internal/process/next_tick.js:172:11)
+
+npm manifest: 
+  {
+    "name": "hartacancer",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "build": "bsb -make-world",
+      "start": "bsb -make-world -w",
+      "clean": "bsb -clean-world"
+    },
+    "devDependencies": {
+      "@ahrefs/bs-dotenv": "^2.0.0",
+      "@glennsl/bs-json": "^5.0.1",
+      "bs-fetch": "^0.5.0",
+      "bs-platform": "^7.0.1",
+      "isomorphic-fetch": "^2.2.1"
+    },
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

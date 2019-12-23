@@ -1,0 +1,928 @@
+{
+  "list": [
+    {
+      "name": "S.C. LOTUS MED SRL",
+      "specialty": "laborator analize",
+      "address": "B-dul Ficusului nr. 40, Sector 1",
+      "phone": "6682562"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Eforiei nr. 4, Sector 5",
+      "phone": "021.313.96.77"
+    },
+    {
+      "name": "S.C. EGO TEST LAB S.R.L.",
+      "specialty": "laborator analize",
+      "address": "str. LACUL MARE NR. 1A , SECTOR 5",
+      "phone": "021.776.00.75"
+    },
+    {
+      "name": "SPITALUL CLINIC COLTEA",
+      "specialty": "laborator, anatomie patologica",
+      "address": "B-dul IC Bratianu nr. 1, Sector 3",
+      "phone": "021.3874.105"
+    },
+    {
+      "name": "SPITALUL CLINIC DE URGENTA \"SF. PANTELIMON",
+      "specialty": "RADIOLOGIE",
+      "address": "Sos. Pantelimon nr. 340- 342, Sector 2",
+      "phone": "021- 2554099"
+    },
+    {
+      "name": "SC BROTAC MEDICAL LABOR-FARM SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Turturelelor nr. 11 A, ET. 1, Sector 3",
+      "phone": "219406"
+    },
+    {
+      "name": "SC ALMINA TRADING SRL",
+      "specialty": "laborator analize",
+      "address": "str. Chitiei nr. 78, Sector 1",
+      "phone": "031-1002345"
+    },
+    {
+      "name": "CENTRUL MEDICAL MH SRL",
+      "specialty": "laborator analize",
+      "address": "Calea 13 Septembrie nr. 193, Sector 5",
+      "phone": "021-3.20.20.37"
+    },
+    {
+      "name": "SC MNT HEALTHCARE EUROPE SRL",
+      "specialty": "RADIOLOGIE",
+      "address": "B-dul Ficusului nr. 40, Sector 1",
+      "phone": "021-9230"
+    },
+    {
+      "name": "SC BAU M.A.N. CONSTRUCT SRL",
+      "specialty": "RADIOLOGIE",
+      "address": "Valea Doftanei nr. 113, sector 6",
+      "phone": "722839207"
+    },
+    {
+      "name": "SC ONCO TEAM DIAGNOSTIC SA",
+      "specialty": "anatomie patologica",
+      "address": "Str. Tony Bulandra nr. 27, et. 2, Sector 2",
+      "phone": "031-226.20.20"
+    },
+    {
+      "name": "SC MEDICAL EXPERT CLINIC SRL",
+      "specialty": "laborator analize",
+      "address": "B-dul Uverturii nr. 81",
+      "phone": "031-4257050"
+    },
+    {
+      "name": "SC SASDID LAB SRL",
+      "specialty": "laborator analize",
+      "address": "STR. Ioan Bianu nr. 24, demisol, Sector 1",
+      "phone": "021-2225331"
+    },
+    {
+      "name": "SC MARY-CRIS MED SRL",
+      "specialty": "laborator analize",
+      "address": "Str.Salcamilor nr. 6 A, ET. 2, Sector 2",
+      "phone": "314328022"
+    },
+    {
+      "name": "SC BIOTECH LABORATOR SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Mircea Vulcanescu nr. 69, corp D, Sector 1",
+      "phone": "021-313.8781"
+    },
+    {
+      "name": "Centrul National Clinic de Recuperare Neuropsihomotorie Copii \"Dr. N. Robanescu",
+      "specialty": "laborator analize",
+      "address": "Str. Dumitru Minca nr. 44, Sector 4",
+      "phone": "021 460 02 32"
+    },
+    {
+      "name": "Sp.Cl. N.MALAXA",
+      "specialty": "laborator analize, radiologie",
+      "address": "Sos. Vergului nr. 12, Sector 2",
+      "phone": "021-2555405"
+    },
+    {
+      "name": "CLINICA SF.LUCIA SRL",
+      "specialty": "laborator analize, anatomie patologica",
+      "address": "Str. Gramont nr. 8, Sector 4",
+      "phone": "213372953"
+    },
+    {
+      "name": "CLINICA SF.LUCIA SRL",
+      "specialty": "laborator, anatomie patologica",
+      "address": "Str. Gramont nr. 7, Sector 4",
+      "phone": "213372953"
+    },
+    {
+      "name": "S.C CMI DR. MARINESCU DANA S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Cetatea Histriei nr. 12, Sector 6",
+      "phone": "021-3673205"
+    },
+    {
+      "name": "HEALTH SERVICES COMPANY",
+      "specialty": "laborator analize",
+      "address": "Str. Mitropolit Dosoftei nr. 28, Sector 5",
+      "phone": "213230034"
+    },
+    {
+      "name": "FUNDATIA VICTOR BABES",
+      "specialty": "laborator analize",
+      "address": "Sos. Mihai Bravu nr. 281, Sector 3",
+      "phone": "213179503"
+    },
+    {
+      "name": "S.C. APT MEDICA SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Ion Neculce nr. 58A , Sector 1",
+      "phone": "021.4324.0337"
+    },
+    {
+      "name": "S.C. BIOCLINICA S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Calea Calarasilor nr. 161, Sector 3",
+      "phone": "213203312"
+    },
+    {
+      "name": "S.C. MEDIC ART LAB S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Econom Cezarescu nr. 47- 59, Sector 6",
+      "phone": "0734.586.441, 0730.320.293"
+    },
+    {
+      "name": "S.C. CLINICA MICOMI SRL.",
+      "specialty": "laborator analize",
+      "address": "Str. Alizeului nr 44 A, Sector 6",
+      "phone": "216372527"
+    },
+    {
+      "name": "S.C. EGO TEST LAB S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Sos. Alexandriei nr. 140, Sector 5",
+      "phone": "021.776.00.75"
+    },
+    {
+      "name": "S.C. MEDLIFE S.A. BUCURESTI- SUCURSALA BUCURESTI",
+      "specialty": "laborator analize, radiologie",
+      "address": "Str. Zagazului nr. 7, Sector 1",
+      "phone": "219646"
+    },
+    {
+      "name": "MUNOR CRIS MEDICA SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Winting nr. 28A, Sector 1",
+      "phone": "021-3188020"
+    },
+    {
+      "name": "CS RATB",
+      "specialty": "laborator analize",
+      "address": "Str. Dr. Grozovici nr. 6, Sector 2",
+      "phone": "021 311 05 95"
+    },
+    {
+      "name": "IXIA MEDICA SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Doamna Ghica nr. 135, Sector 2",
+      "phone": "021 240 0101"
+    },
+    {
+      "name": "ANIMA SPECIALITY SERVICES SRL",
+      "specialty": "laborator analize",
+      "address": "Sos Chitila nr. 228C, Et. 1, Sector 1",
+      "phone": "219838"
+    },
+    {
+      "name": "MEDIC LINE BUSINESS HEALTH SRL",
+      "specialty": "laborator analize",
+      "address": "Rahovei nr. 21, Sector 5",
+      "phone": "021/325.33.30, 021/325.33.33"
+    },
+    {
+      "name": "TOTAL DIAGNOSTIC GRUP SRL",
+      "specialty": "laborator analize",
+      "address": "Calea Floreasca nr. 60, Sector 1",
+      "phone": "031.438.10.32"
+    },
+    {
+      "name": "CM VICTORIA DIAGNOSTIC SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Paul Greceanu nr. 40, Sector 2",
+      "phone": "031.620.53.99"
+    },
+    {
+      "name": "SC CMI IACOBESCU C.ANCA SRL",
+      "specialty": "laborator analize",
+      "address": "Masina de Paine nr 47, Sector 2",
+      "phone": "021.24.24.100"
+    },
+    {
+      "name": "DOMINA SANA",
+      "specialty": "anatomie patologica",
+      "address": "Str. Viesparilor nr. 26, Sector 2",
+      "phone": "021-211 80 43; 0371 114 573; 0722 832 931"
+    },
+    {
+      "name": "TINOS CLINIC SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Poiana Florilor nr. 4, Sector 4",
+      "phone": "0734 317 561"
+    },
+    {
+      "name": "TINOS CLINIC SRL",
+      "specialty": "laborator analize",
+      "address": "Sos. Aleea Barajul Dunarii nr. 10 C, Sector 3",
+      "phone": "0213 402 277"
+    },
+    {
+      "name": "ROMAR DIAGNOSTIC CENTER SRL",
+      "specialty": "laborator analize",
+      "address": "Sos.Panduri nr. 71, et. 2, corp B , Sector 5",
+      "phone": "0723 118 846"
+    },
+    {
+      "name": "DISCOVERY CLINIC SRL",
+      "specialty": "laborator analize",
+      "address": "Sos. Oltenitei nr. 38 A, Sector 4",
+      "phone": "021-335.12.48 / 49"
+    },
+    {
+      "name": "LABORATOR IANCULUI SRL",
+      "specialty": "laborator analize",
+      "address": "Sos. Iancului nr. 3, Sector 2",
+      "phone": "212569652"
+    },
+    {
+      "name": "AIDE SANTE SRL",
+      "specialty": "laborator analize",
+      "address": "Elena Farago nr. 49 a, Sector 6",
+      "phone": "6370537"
+    },
+    {
+      "name": "GHENCEA MEDICAL CENTER SRL",
+      "specialty": "laborator analize, radiologie",
+      "address": "Ghencea nr. 43 B , Parter, Sector 6",
+      "phone": "021 440 35 88"
+    },
+    {
+      "name": "MILENIUM DIAGNOSTIC SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Vrancea nr. 20, Sector 1",
+      "phone": "743232664"
+    },
+    {
+      "name": "MILENIUM DIAGNOSTIC SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Turnul Chindiei nr. 12, Sector 1",
+      "phone": "314202831"
+    },
+    {
+      "name": "MILENIUM DIAGNOSTIC SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Guatemala nr. 13, Sector 1",
+      "phone": "216670975"
+    },
+    {
+      "name": "MILENIUM DIAGNOSTIC SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Guatemala nr. 11, Sector 1",
+      "phone": "021.667.11.29"
+    },
+    {
+      "name": "S.C. EUROSANITY S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Calea Plevnei nr. 44, parter, sector 1",
+      "phone": "213115454"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL S?N?TATEA TA SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Viitorului nr. 44, Sector 2",
+      "phone": "021. 211 .53.50"
+    },
+    {
+      "name": "CM SANATATEA TA SRL",
+      "specialty": "laborator analize",
+      "address": "Alexandru Donici nr. 18, demisol, Sector 2",
+      "phone": "021.211.5350"
+    },
+    {
+      "name": "C.M. PANDURI S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Culcerului nr. 13, sector 1",
+      "phone": "311013001"
+    },
+    {
+      "name": "C.M. PANDURI S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Racari nr. 34, Sector 5",
+      "phone": "311069831"
+    },
+    {
+      "name": "C.M. PANDURI S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Ion Atanasiu nr. 34, Sector 5",
+      "phone": "021.4102543, 0124102544"
+    },
+    {
+      "name": "MICROMED CLINIC SRL",
+      "specialty": "laborator analize",
+      "address": "Pericle Papahagi nr. 51 -63, Sector 3",
+      "phone": "021 345 15 14, 0745 144 146"
+    },
+    {
+      "name": "S.C. C.M. APOLO-LABORATOR S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Coriolan Caius Marcius nr. 41, et. 1, ap 31-32, Sector 5",
+      "phone": "214103373"
+    },
+    {
+      "name": "SAN MED 2001 SRL",
+      "specialty": "laborator analize",
+      "address": "GEN. Petre Popavat nr. 15, Sector 6",
+      "phone": "212239258"
+    },
+    {
+      "name": "FUNDATIA RENASTEREA PENTRU EDUCATIE, SANATATE SI CULTURA",
+      "specialty": "laborator analize",
+      "address": "Serban Voda nr. 211, Sector 4",
+      "phone": "021.335.68.71"
+    },
+    {
+      "name": "S.C. CLINICA POLISANO S.R.L.",
+      "specialty": "laborator analize, radiologie",
+      "address": "Cuza Voda nr. 53, Sector 4",
+      "phone": "219267"
+    },
+    {
+      "name": "S.C. INTERNATIONAL MEDICAL CENTER S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Prelungirea Ghencea nr. 65B, bl. F, parter, Sector 6",
+      "phone": "7775070"
+    },
+    {
+      "name": "S.C. GRAL MEDICAL S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Ion Movila nr. 5, Sector 2",
+      "phone": "213230000"
+    },
+    {
+      "name": "SC GRAL MEDICAL SRL",
+      "specialty": "laborator analize",
+      "address": "Ion Luca Caragiale nr. 10-12, Sector 2",
+      "phone": "213230000"
+    },
+    {
+      "name": "S.C. GRAL MEDICAL S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Berceni nr.. 10 -12, Sector 4",
+      "phone": "21.323"
+    },
+    {
+      "name": "SC GRAL MEDICAL SRL",
+      "specialty": "laborator analize,",
+      "address": "SOS. Pantelimon nr. 340- 342, Sector 2",
+      "phone": "213230000"
+    },
+    {
+      "name": "S.C. GRAL MEDICAL S.R.L.",
+      "specialty": "laborator analize, radiologie",
+      "address": "Sos. Stefan cel Mare nr. 19- 21, Sector 2",
+      "phone": "213230000"
+    },
+    {
+      "name": "S.C. BIOLUMIMEDICA S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Valea Doftanei nr. 113, Sector 6",
+      "phone": "213360126"
+    },
+    {
+      "name": "BIOLUMIMEDICA SRL",
+      "specialty": "laborator analize",
+      "address": "Serban Voda nr. 232- 234, Sector 4",
+      "phone": "213360126"
+    },
+    {
+      "name": "S.C. MED EXPERT S.R.L.",
+      "specialty": "RADIOLOGIE",
+      "address": "Sos. Oltenitei, nr. 105, Sector 4",
+      "phone": "021.332.31.41"
+    },
+    {
+      "name": "S.C ANALITIC LABORAMED S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Ciresiului nr. 29, Sector 2",
+      "phone": "213275070"
+    },
+    {
+      "name": "S.C. SIMPTOM S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Olanesti nr. 4, bl.43A, sc. 1, et. 2, Sector 6",
+      "phone": "021 220 84 64"
+    },
+    {
+      "name": "S.C. LABORETICA S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Baicului nr. 80, Sector 2",
+      "phone": "212550443"
+    },
+    {
+      "name": "S.C. CLINICA- SANTEE S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Giurgiului nr. 46, Sector 4",
+      "phone": "213373034"
+    },
+    {
+      "name": "S.C. LABORATOARELE SYNLAB S.R.L.",
+      "specialty": "laborator analize",
+      "address": "B-dul T. Vladimirescu nr. 29, parter. Birou nr. 8, Sector 5",
+      "phone": "214107093"
+    },
+    {
+      "name": "S.C. ADMEDICA S.R.L.",
+      "specialty": "laborator analize",
+      "address": "B-dul Regiei nr.6- 8, Sector 6",
+      "phone": "21.3116543"
+    },
+    {
+      "name": "CMI DR. STOICA MARIANA",
+      "specialty": "laborator analize",
+      "address": "B-dul Iuliu Maniu nr. 7, Se ctor 6",
+      "phone": "213166656"
+    },
+    {
+      "name": "S.C. CRIS MEDICAL S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Calea Rhovei nr. 195, Sector 5",
+      "phone": "213222034"
+    },
+    {
+      "name": "VIPER INTERNET S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Calea Plevnei nr. 13, Sector 6",
+      "phone": "725777164"
+    },
+    {
+      "name": "VIPER INTERNET SRL",
+      "specialty": "laborator analize",
+      "address": "Oltenitei nr. 48-50, bl. 7A, Sector 4",
+      "phone": "0213.11.00.75"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "specialty": "laborator analize, radiologie",
+      "address": "Costache Negri nr. 1- 5, Sector 5",
+      "phone": "219268"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "specialty": "laborator analize, radiologie imagistica",
+      "address": "Str. Constantin Dobrogeanu Gherea nr. 85, Sector 1",
+      "phone": "219268"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "specialty": "RADIOLOGIE",
+      "address": "Calea Vaccaresti nr. 391, Sector4",
+      "phone": "219268"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "specialty": "RADIOLOGIE",
+      "address": "Costache Negri nr. 1- 5, Sector 5",
+      "phone": "219268"
+    },
+    {
+      "name": "CMI DR. TARMUREAN CRISTINA",
+      "specialty": "laborator analize",
+      "address": "Str. Pictor Ghe. Tattarascu nr. 2, Sector 3",
+      "phone": "213247872"
+    },
+    {
+      "name": "S.C. LIFE MED SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Plugarilor nr. 18, Sector 4",
+      "phone": "213303942"
+    },
+    {
+      "name": "BINAFARM SRL",
+      "specialty": "laborator analize",
+      "address": "Teofil nr. 3-5, Sector 2",
+      "phone": "212422688"
+    },
+    {
+      "name": "S.C. HUMANITAS MEDICAL S.R.L.",
+      "specialty": "laborator analize, radiologie imagistica, ecografii,",
+      "address": "Subcetate nr. 41, Sector 1",
+      "phone": "021.667.65.77"
+    },
+    {
+      "name": "CENTRUL MEDICAL DELFINULUI S.R.L.",
+      "specialty": "laborator analize, radiologie",
+      "address": "str. Pictor Harlescu nr. 6,, sector 2",
+      "phone": "021.627.41.45"
+    },
+    {
+      "name": "VALCRI MEDICAL SRL",
+      "specialty": "laborator analize, radiologie",
+      "address": "Str. Magnoliei nr. 29, Sector 2",
+      "phone": "021.240.30.50"
+    },
+    {
+      "name": "S.C. CENTRUL MEDICAL MATEI BASARAB",
+      "specialty": "laborator analize",
+      "address": "Str. Matei Basarab, nr. 45, Sector 3",
+      "phone": "021.302.94.34"
+    },
+    {
+      "name": "S.C. AUSTROMED CLINIC S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Mihai Eminescu nr. 156, et. 1, Sector 2",
+      "phone": "021.317.49.17"
+    },
+    {
+      "name": "MEDICOR INTERNA?IONAL SRL",
+      "specialty": "laborator analize",
+      "address": "Alexandru Obregia nr. 20 , bl. 20 bis, Sector 4",
+      "phone": "021460.98.48"
+    },
+    {
+      "name": "CLINICA LIL MED SRL",
+      "specialty": "laborator analize, radiologie",
+      "address": "Suzana nr. 7, Sector 5",
+      "phone": "214206055"
+    },
+    {
+      "name": "CMI DR.CRAINIC MARIA",
+      "specialty": "laborator analize",
+      "address": "B-dul Basarabia nr. 19, Sector 2",
+      "phone": "0213202676, 0314382294"
+    },
+    {
+      "name": "CM SF.ALEXANDRU SRL",
+      "specialty": "laborator analize",
+      "address": "B-dul Iuliu Maniu nr. 524, Sector 6",
+      "phone": "0213117465; 0213117464"
+    },
+    {
+      "name": "CDTM NICOLE SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Caransebes nr. 1, Sector 1",
+      "phone": "219404"
+    },
+    {
+      "name": "CM MEDICLAB SRL",
+      "specialty": "laborator analize",
+      "address": "Sos. Panduri nr. 20, Et. 1, camerele 20,21,22, Sector 5",
+      "phone": "214113275"
+    },
+    {
+      "name": "S.C. HIPERDIA S.A.",
+      "specialty": "RADIOLOGIE",
+      "address": "B-dul Marasti nr. 17, Sector 1",
+      "phone": "268405300"
+    },
+    {
+      "name": "S.C. HIPERDIA S.A.",
+      "specialty": "laborator analize, radiologie imagistica",
+      "address": "Ritmului nr. 24, Sector 2",
+      "phone": "021.250.67.85"
+    },
+    {
+      "name": "SC HIPERDIA SA",
+      "specialty": "RADIOLOGIE",
+      "address": "Sos. Stefan cel Mare nr. 19- 21, Sector 2",
+      "phone": "213173245"
+    },
+    {
+      "name": "S.C. HIPERDIA S.A.",
+      "specialty": "laborator analize, radiologie",
+      "address": "Sos. Berceni nr. 10 -12, Sector 4",
+      "phone": "021.334.37.31"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL MED AS 2003 SRL",
+      "specialty": "laborator analize, radiologie imagistica, ecografii, CT, RMN, angiografii, mamografii",
+      "address": "Bd. Corneliu Coposu, Nr. 2A, Sector 3",
+      "phone": "219232"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL MED AS 2003 SRL",
+      "specialty": "RADIOLOGIE",
+      "address": "Ion Movila nr. 57, parter , Sector 2",
+      "phone": "219232"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL MED AS 2003 SRL",
+      "specialty": "laborator analize, radiologie imagistica, ecografii,",
+      "address": "Nicolae Grigorescu nr. 41, corp A, et. 5,Sector 1",
+      "phone": "219232"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL MED AS 2003 SRL",
+      "specialty": "laborator analize, radiologie imagistica, ecografii, CT, RMN, scintigrafie, mamografii",
+      "address": "Ion Mihalache nr. 37-39, Sector1",
+      "phone": "219232"
+    },
+    {
+      "name": "CENTRUL MEDICAL MED AS 2003",
+      "specialty": "laborator analize, radiologie imagistica, ecografii,",
+      "address": "Nicolae Grigorescu nr. 41, corp A, Sector 1",
+      "phone": "219232"
+    },
+    {
+      "name": "S.C. CLINICA MED AS 2003 S.R.L.",
+      "specialty": "laborator analize, radiologie imagistica, ecografii, CT, RMN, scintigrafie, mamografii",
+      "address": "Ion Mihalache nr. 37-39, Sector1",
+      "phone": "219232"
+    },
+    {
+      "name": "C.M. POP DE BASESTI SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Ghe. Pop de Basesti nr. 26A, Sector 2",
+      "phone": "212531394"
+    },
+    {
+      "name": "S.C. FOCUS LAB PLUS SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Presei nr. 6, sector 1",
+      "phone": "213262741"
+    },
+    {
+      "name": "S.C. FOCUS LAB S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Ciresului nr. 1, Sector 2",
+      "phone": "213262741"
+    },
+    {
+      "name": "S.C. CLINICA SIMONA S.R.L",
+      "specialty": "laborator analize",
+      "address": "Aleea Pacala nr. 11 -13, Sector 3",
+      "phone": "314054209"
+    },
+    {
+      "name": "S.C. CLINICA SIMONA S.R.L",
+      "specialty": "laborator analize",
+      "address": "Str. Inginer Pascal nr. 33, Sector 6",
+      "phone": "213172462"
+    },
+    {
+      "name": "SCM PAJURA",
+      "specialty": "laborator analize",
+      "address": "Sos. Pajura nr. 15, Sector 1",
+      "phone": "216673135"
+    },
+    {
+      "name": "S.C. LOTUS MEDICA S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Sos. Oltenitei, nr. 105, Sector 4",
+      "phone": "021.332.63.76"
+    },
+    {
+      "name": "SPITALUL CLINIC COLTEA",
+      "specialty": "laborator analize, radiologie",
+      "address": "B-dul IC Bratianu nr. 1, Sector 3",
+      "phone": "021.3874.105"
+    },
+    {
+      "name": "S.C. DIAMED CENTER S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Vasile Gherghel nr. 9, Sector 1",
+      "phone": "212244109"
+    },
+    {
+      "name": "S.C. DIAMED CENTER S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Pescarusului nr. 13, Sector 2",
+      "phone": "212550148"
+    },
+    {
+      "name": "CENTRUL MEDICAL POLIMED SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Tony Bulandra nr. 27, Sector 2",
+      "phone": "0213.186.108"
+    },
+    {
+      "name": "CENTRUL MEDICAL POLIMED SRL",
+      "specialty": "laborator analize",
+      "address": "Caraiman nr. 65, Sector 1",
+      "phone": "021.224.74.00"
+    },
+    {
+      "name": "ALCOS 99 SRL",
+      "specialty": "laborator analize",
+      "address": "Scoala Floreasca nr. 20 -22, parter, Sector 1",
+      "phone": "0722.396.324"
+    },
+    {
+      "name": "S.C. CLINICA ROMGERMED S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Calea Plevnei nr. 137 C , Sector 6",
+      "phone": "213673205"
+    },
+    {
+      "name": "S.C. CLINICA ROMGERMED S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Vitan Barzesti nr 13, Sector 4",
+      "phone": "213673205"
+    },
+    {
+      "name": "CLINICA ROMGERMED S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Bucur nr. 10, Sector 4",
+      "phone": "213673205"
+    },
+    {
+      "name": "CLINICA ROM GERMED SRL",
+      "specialty": "laborator analize",
+      "address": "Iancu de Hunedoara nr. 30-32, Sector 1",
+      "phone": "213673205"
+    },
+    {
+      "name": "CLINICA ROM GERMED SRL",
+      "specialty": "laborator analize",
+      "address": "Calea Plevnei nr. 137 C , Sector 6",
+      "phone": "213673205"
+    },
+    {
+      "name": "CLINICA ROM GERMED SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Demosthen Atanase nr. 21, Sector 5",
+      "phone": "213673205"
+    },
+    {
+      "name": "S.C. SANADOR S.R.L.",
+      "specialty": "radiologie, anatomie patologica",
+      "address": "Str. Sevastopol nr. 9, Sector1",
+      "phone": "021.96.99"
+    },
+    {
+      "name": "SC. MEDICLIN A&M S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Econom Cezarescu nr. 47- 59, Sector 6",
+      "phone": "021.413.55.70"
+    },
+    {
+      "name": "POL.MED-LIFE SRL",
+      "specialty": "laborator analize",
+      "address": "B-dul Timisoara nr. 17A, Sector 6",
+      "phone": "219646"
+    },
+    {
+      "name": "POL.MED-LIFE SRL",
+      "specialty": "laborator analize, radiologie",
+      "address": "Calea Grivitei nr. 365, Sector 1",
+      "phone": "21.9646"
+    },
+    {
+      "name": "POL.MED-LIFE SRL",
+      "specialty": "RADIOLOGIE",
+      "address": "Christian Andersen nr. 1, Sector 1",
+      "phone": "21.9646"
+    },
+    {
+      "name": "CL. MED. HIPOCRAT 2000 SRL",
+      "specialty": "laborator analize, radiologie",
+      "address": "Calea Rahovei nr. 259, Sector 5",
+      "phone": "3.10.20.50"
+    },
+    {
+      "name": "SC HIPOCRAT 2000 SRL",
+      "specialty": "laborator analize, radiologie",
+      "address": "Str. Fantinica nr. 22A, Sector 2",
+      "phone": "021.311.38.10"
+    },
+    {
+      "name": "CLINICA ROM GERMED SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Drumul Taberei nr. N12, Bl A2, Sc. 2 Ap. 23-24, Sector 6",
+      "phone": "021.311.00.75"
+    },
+    {
+      "name": "C.M.I. DR.TUDORACHE DANIELA",
+      "specialty": "laborator analize",
+      "address": "Str. Malcoci nr. 4, Sector 5",
+      "phone": "744356788"
+    },
+    {
+      "name": "SC MEDICTEST SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Justitiei nr. 16, Ap. 3, Sector 4",
+      "phone": "021.335.23.34"
+    },
+    {
+      "name": "SC MEDCENTER SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Aeroportului nr. 2, Corp 1, parter Camera 4, Sector 1",
+      "phone": "021.242.44.77"
+    },
+    {
+      "name": "S.C. LOTUS MED SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Armenis nr. 6, Bl J3, Sc. C, Et. 2, Ap. 26, Sector 3",
+      "phone": "021.318.61.08"
+    },
+    {
+      "name": "S.C. BIO TERRA MED S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Pictor Ion Negulici nr. 27, Sector 1",
+      "phone": "021.315.15.93, 021.319.65.78"
+    },
+    {
+      "name": "S. C. MEDICLIN A & M S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Str. Cetatea Histria nr. 12, Sector 6",
+      "phone": "021.413.55.70"
+    },
+    {
+      "name": "SYNEVO ROMANIA SRL",
+      "specialty": "laborator analize",
+      "address": "Dr. Calistrat Grozovici nr. 6, Sector 2",
+      "phone": "021.315.19.10"
+    },
+    {
+      "name": "SOC.CRE?T.MUNPOSAN 94' SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Witing nr. 10-12, Sector 1",
+      "phone": "021.81.22.04"
+    },
+    {
+      "name": "INCD VICTOR BABES",
+      "specialty": "laborator analize, histopatologie",
+      "address": "Splaiul Independentei nr. 99-101, Sector 5",
+      "phone": "021.319.27.32, 021.3.19.45.28, 021.319.45.30, 021.319.27.34"
+    },
+    {
+      "name": "SANADOR SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Dr. Iacob Felix nr. 32, Sector 1",
+      "phone": "21.9699"
+    },
+    {
+      "name": "S.C. SANTEE CONSULT S.R.L.",
+      "specialty": "laborator analize",
+      "address": "Calea Calarasilor nr. 175, Bl. 44, Sc. 3, parter, Ap. 68, Sector 3",
+      "phone": "021.326.61.07"
+    },
+    {
+      "name": "KORONA MED COM SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Drumul Taberei nr. 38, Bl. OD 4, Sc. 3, Ap. 73-74, Sector 6",
+      "phone": "021.413.88.15"
+    },
+    {
+      "name": "IDS LABORATORIES SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Av. Teodor Iliescu nr. 50, Sector 1",
+      "phone": "021.211.58.64"
+    },
+    {
+      "name": "ALFA MEDICAL SRL",
+      "specialty": "laborator analize",
+      "address": "Calea Vitan nr. 12, Sector 3",
+      "phone": "031.9495/TASTA6, 021.332.72.65"
+    },
+    {
+      "name": "SC PULS MEDICA SRL",
+      "specialty": "laborator analize",
+      "address": "Intr. Spatarului nr. 3, Ap. 10, Sector 2",
+      "phone": "021.211.17.55"
+    },
+    {
+      "name": "SC MED LIFE SA",
+      "specialty": "laborator analize",
+      "address": "Calea Grivitei nr. 365, Sector 1",
+      "phone": "21.9646"
+    },
+    {
+      "name": "TELEMEDICA SRL",
+      "specialty": "laborator analize",
+      "address": "Calea Vitan Barzesti nr. 11, Sector 4",
+      "phone": "021.327.52.59"
+    },
+    {
+      "name": "SC CENTRUL MEDICAL ROMAR SRL",
+      "specialty": "laborator analize",
+      "address": "Sos Panduri nr. 71, corp B, camera 16, Sector 5",
+      "phone": "021.410.24.50"
+    },
+    {
+      "name": "Institutul National de Geriatrie ?i Gerontologie Ana Aslan",
+      "specialty": "laborator analize",
+      "address": "Str. Spatarului nr. 15, Sector 5",
+      "phone": "73"
+    },
+    {
+      "name": "IOROVI MEDICA IMPEX SRL",
+      "specialty": "laborator analize",
+      "address": "Str. Moinesti nr. 54, Sector 6",
+      "phone": "021.444.20.92"
+    },
+    {
+      "name": "CL. MED. HIPOCRAT 2000 SRL",
+      "specialty": "laborator analize",
+      "address": "B-dul Chisinau nr. 16, Sector 2",
+      "phone": "021.9695, 021.255.18.75, 031.8153530"
+    }
+  ]
+}

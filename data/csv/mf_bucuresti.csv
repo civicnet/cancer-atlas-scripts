@@ -1,0 +1,996 @@
+Nr. Contract,Denumire furnizor,Nume medic,Adresa punct de lucru,Telefon SITE,E-MAIL SITE
+A0001,CMI MIHAILA DOINA,MIHAILA DOINA,Calea Dorobantilor nr.32A sect.1,021.211.00.62,doina-mihaila@hotmail.com
+A0003,CMI BARBA CARMEN,BARBĂ CARMEN,"Strada Soldat Marin Savu 27, Sector 2",0212554145,barba_carmen@yahoo.com
+A0005,CMI MURESAN MARIANA CARMEN,MURESAN MARIANA CARMEN,"Strada Ardeleni nr.3A, Sector 2",021/211.70.75/0745.065.877,muresanmariana1@yahoo.ro
+A0007,CMI ARTENE CAMELIA,ARTENE CAMELIA,"Str. Teius Nr. 3, Sect. 5",021.421.10.32,cameliaromeo@yahoo.com
+A0011,CMI DESCULTU PETRA,DESCULTU PETRA,"Calea Dudești nr.102, Corp A, Parter,Sector 3",021/327.58.52/0722.134.583,petra.descultu@biolumimedica.ro
+A0012,CMI RAHAIAN FLORENTINA,RAHAIAN FLORENTINA,"Str.Focsani nr.5,bl.M181,ap.55-56,sect.5",0723.394.046,florentina.rahaian@gmail.com
+A0013,CMI POPESCU IRINA,POPESCU IRINA,Aleea Raul Sadului nr.1 sect.4,0722.78.18.43,drpopescuirina@yahoo.com
+A0014,CMI BOBOC VALENTINA,BOBOC VALENTINA,"Str.Avrig nr.9-19,sect.2",021.252.61.96/0722.822.575,boboc.valentina@yahoo.com
+A0016,CMI PIRNACU MIHAELA,PÎRNACU MIHAELA,"Strada Drumul Taberei 124-126, Sector 6",0722622629,mihaelapster@gmail.com
+A0017,CMI SPINEANU LACRAMIOARA,SPINEANU LACRAMIOARA,"Str.Malcoci nr.4,sect.5",0722.634.433,cmilaspin@yahoo.com
+A0019,CMI ZAMFIR STEFANIA,ZAMFIR STEFANIA,"Str.Teius nr.3, sect.5",0745.072.972,zamfirstefania@yahoo.com
+A0024,CMI NEICU IRINA,NEICU IRINA,"Str.Prof.Grigore Cobalcescu nr.2,sect.1",021.316.22.43/0723.602.920,irina_neicu2007@yahoo.com
+A0025,CMI GHEORDUNESCU MIHAELA,GHEORDUNESCU MIHAELA-ELENA,"Bulevard Eroii Sanitari 35B, cab.1, Sector 5",0214109284,mihaelagheordunescu@yahoo.com
+A0027,CMI VOINEA MARMANDIU MIHAELA,VOINEA MARMANDIU MIHAELA,"Cal. Dudesti Nr. 104-122, Sect. 3",021.320.95.99,mihaela.voinea54@gmail.com
+A0028,CMI AVRAM MARIA,AVRAM MARIA,"Strada Trei Scaune 29-31, Sector 2",0212433801,dr.avram@yahoo.com
+A0029,CMI AXINTE LILIANA,AXINTE LILIANA,"Str Teius 3, Sect 5",0723.563.780,axintesto@yahoo.com
+A0031,CMI MARIN MIRELA PAULA,MARIN MIRELA PAULA,"Str Teius 3, Sect 5",021.421.02.63,marinmirelapaula@yahoo.com
+A0032,CMI CONSTANTINIU ADRIANA,CONSTANTINIU ADRIANA,"Spl. Independentei Nr. 64, Sect. 5",021.314.68.03,adrianaconstantiniu@yahoo.com
+A0033,CMI STEFANESCU EUGENIA,ŞTEFĂNESCU EUGENIA,"Strada Ardeleni 3A, Sector 2",0212121002,eugeniastefanescu14@gmail.com
+A0034,CMI VALCEANU ADINA,VALCEANU ADINA,"Strada Apusului 63, Sector 6",0724.015.793,adina.valceanu@yahoo.com
+A0035,CMI RADOSLAV CORNELIA,RADOSLAV CORNELIA,"Bd.1 Mai nr.51-55, Sector 6",031/438.15.69/0722.383.594,nfgrad@yahoo.com
+A0040,CMI OLTENESCU DANIELA,OLTENESCU DANIELA,"Str.Masina de Paine nr.6,bl.R1,ap.45,sect.2",0723.239.578,oltenescu1@yahoo.com
+A0043,CMI SIMONESCU ALINA,SIMONESCU ALINA,"Str. Dreptatii Nr. 2, Sect. 6 ",0735.623.495,alina.simonescu@upcmail.ro
+A0044,CMI DRAGNE GABRIELA,DRAGNE GABRIELA,"Calea Rahovei nr.321, bl.28,sc.2,ap.44,Sector 5",021/425.27.95/0723.02.44.57,gabriela.dragne@yahoo.com
+A0048,CMI BALASESCU ELVIRA MARIANA,BALASESCU ELVIRA MARIANA,"Str. Giuseppe Garibaldi Nr. 20, Sect. 2",021.230.60.44,medicab2011@gmail.com
+A0049,CMI GAVANESCU DIDICA MIHAELA BEATRICE,GAVANESCU DIDICA MIHAELA BEATRICE,"Str. Sebastian Nr. 137, Bl. V79, Sc. 2, Ap. 38, Sect. 5",021.411.49.48,mihaela@sonerg.ro
+A0052,CMI ANASTASESCU SIMONA,ANASTASESCU SIMONA-ADRIANA,"Calea Giuleşti 135, Sector 6",0723618855,simonaanastasescu99@gmail.com
+A0054,CMI MASOUD STEFANIA,MASOUD ŞTEFANIA,"Calea Dudesti 104-122, Sector 3",0213272542,msd_stefania@yahoo.com
+A0058,CMI GEORGESCU MIRELA LIGIA,GEORGESCU MIRELA LIGIA,"Bulevard Mihail Kogalniceanu nr.64, Sector 5",0732.13.31.03/0722.34.47.53,amanoluci@yahoo.com
+A0059,CMI DINESCU ADRIANA,DINESCU ADRIANA,"Strada Apusului 63, Sector 6",0771519261,dinescu_adriana@yahoo.com
+A0060,CMI DUMITRU RODICA NATALIA,TUDOR IULIANA AURELIA,"Str. Pravăt Nr. 12, Sect. 6",021.490.01.64,ana_thea84@yahoo.com
+A0061,CMI BABOLEA DAMIAN M,BABOLEA DAMIAN MAGDALENA-CECILIA,"Strada Clăbucet 4-6, Sector 1",0216657536,magda.babolea@yahoo.com
+A0063,CMI MIRCEA IRINA MARIA,MIRCEA IRINA MARIA,"Strada Dreptătii 2, Sector 6",021/430.0980,mirceairinamaria@gmail.com
+A0065,CMI FRUMOSU AMALIA,FRUMOSU AMALIA,"Calea Dudesti 104-122, Sect 3",021.327.25.42,amalia.frumosu@yahoo.com
+A0067,CMI BRIHAILESCU OLGA OFELIA,BRIHAILESCU OLGA OFELIA,"Soseaua Berceni nr  8, Sector 4",0722.456.158,pia_brih@yahoo.com
+A0068,CMI POP SILVIA MARIA,POP SILVIA-MARIA,"Strada Soldat Marin Savu 27,  Sector 2",0212554145,silviamaria.pop@gmail.com
+A0069,CMI RUS CRISTINA RENATTA,RUS CRISTINA RENATTA,"Str. Pravat Nr. 12, Sect. 6  ",021.413.52.96,renattarus@yahoo.com
+A0071,CMI TAPU SANDA TAMARA,ŢAPU SANDA-TAMARA,"Strada Trei Scaune 29, Sector 2",0212423225,tamaratapu@yahoo.com
+A0072,CMI BULESCU MAGDALENA CORNELIA,BULESCU MAGDALENA CORNELIA,"Str. Trei Scaune Nr. 29, Sect. 2",021.688.75.29,drmagdabulescu@yahoo.com
+A0073,CMI ARTENE ROMEO ERNEST,ARTENE ROMEO ERNEST,"Str. Dreptatii Nr. 2, Sect. 6 ",021.430.36.20,romeoartene@gmail.com
+A0074,CMI IONESCU SILVIA,IONESCU SILVIA,"Bd.Nicolae Grigorescu nr.41,sect.3",0723.413.734,silvia.ionescu64@yahoo.com
+A0076,CMI GOSPODINOV LILIANA,GOSPODINOV LILIANA MARIA,"Soseaua Pantelimon 292, Sector 2",0722.311.601,liana_gospodinov@yahoo.com
+A0078,CMI CHITIC SORINA,CHITIC SORINA,"Calea Dudesti nr.104-122,sect.3",0314.201.381/0788.307.252,sorina.chitic@gmail.com
+A0079,CMI BRATU LAURA DUMITRA,BRATU LAURA DUMITRA,"Strada Soldat Savu Marin nr.27, Sector 2",021/255.41.45/0722.73.87.19,minela2005@yahoo.com
+A0080,CMI BUZSA ANICA,BUZSA ANICA,"Sos.Pantelimon nr.292,sect.2",0753.758.401/0745.058.337,buzsaanica@yahoo.com
+A0082,CMI MATEESCU MARIANA,MATEESCU MARIANA,"Al. Cricovul Dulce Nr.11, Ap. 8, Sect. 4",021.332.18.85,doctormm_56@yahoo.co.in
+A0087,CMI POPA CARMEN,POPA CARMEN,"Aleea Lunguletu nr.6,sect.2",021.252.42.22/0723.734.972,carmenpopa10@yahoo.com
+A0090,CMI CERBAN MARIA,CERBAN MARIA,"Bulevard Natiunile Unite 3-5, Sector 4",0213357845,cerbanrazvan@yahoo.com
+A0092,CMI DAVIŢOIU ADRIANA NICOLETA,DAVIŢOIU ADRIANA NICOLETA,"Cal. Dudesti Nr. 104-122, Sect. 3",021.322.66.74,adavitoiu@yahoo.com
+A0094,CMI BUTA FANICA,BUŢĂ FĂNICA,"Strada Trei Scaune 29-31, Sector 2",0212433801,butafanica@yahoo.com
+A0095,CMI DOBRESCU GEORGE,DOBRESCU GEORGE,"Strada Drumea Radulescu 16-18, Sector 4",0213302333,gedobrescu@yahoo.com
+A0096,CMI GĂMAN PAUNA,GĂMAN PAUNA,"Str. Drumea Radulescu Nr. 16-18, Sect. 4",021.330.51.96,paunagaman@yahoo.com
+A0099,CMI MILOSESCU CONSTANTA,MILOŞESCU CONSTANŢA,"Calea Dudesti 104-122, Sector 3",0726573140,cta_coco@yahoo.com
+A0100,CMI PREDA CRISTINA GEORGETA,PREDA CRISTINA GEORGETA,"Str. Nada Florilor Nr. 19, Sect. 2",021.243.41.62,drpredacristina@gmail.com
+A0103,CMI MARINESCU ELENA,MARINESCU ELENA,"Str.Iancu Jianu nr.9,bl.M180,ap.3,sect.5",021.423.44.75/0721.271.251,dr_elena_marinescu@yahoo.com
+A0105,CMI ILIE COCA MARIA,ILIE COCA MARIA,"Al. Lunguletu Nr 6, Bl. D14, Sect. 2",021.252.42.22,cocutaped@yahoo.com
+A0110,CMI LEOVEANU MIHAELA MARINA,LEOVEANU MIHAELA MARINA,"Al. Raul Sadului Nr. 1, Sect. 4  ",021.682.38.80,leoveanumihaela@yahoo.com
+A0112,CMI SACEANU DANIELA,SACEANU DANIELA RUXANDRA,"Calea Dorobantilor nr.58, Sector 1",021/210.95.25/0727.32.44.41,drsaceanu@yahoo.com
+A0117,CMI VASILESCU MARIANA,VASILESCU MARIANA,"Calea Giulesti 135, Sector 6",0212210875,vasilescumariana33@gmail.com
+A0120,CMI GANEA IULIA,GANEA IULIA,"Aleea Raul Sadului 1, Sector 4",0216823879,iulia_gn@yahoo.com
+A0125,CMI CANDELA VIORICA ELENA,CANDELA VIORICA ELENA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Et. 3, Cab.320, Sect. 3",021.340.03.35,viocandela@gmail.com
+A0126,CMI IONESCU CARMEN,IONESCU CARMEN,"Strada Drumea Radulescu 16-18, Sector 4",0213304010,carmenionescudr@yahoo.com
+A0127,CMI OPREI ILEANA,OPREI ILEANA,"Str.Dreptatii nr.2,sect.6",021.430.09.80/0744.485.749,ileana.oprei@yahoo.com
+A0130,CMI ADAM SILVIA,ADAM SILVIA,"Str Brailita 1, Bl V17, Ap 2, Sc 1, Sect 3","021.326.00.81, 0745.182.161, 0733.947.061",clinicamemento@yahoo.com; adam@icemenerg.ro
+A0131,CMI TANASESCU RODICA,TANASESCU RODICA,"Sos.Pantelimon nr.292,sect.2",0720.095.144,tanasestii@yahoo.com
+A0132,CMI DUMITRESCU VALERICA,DUMITRESCU VALERICA,"Calea Dudesti 104-122, Sect 3",0770.818.954,dr.dumitrescu@yahoo.com
+A0135,CMI DIACONU TEODORA RALUCA,DIACONU TEODORA RALUCA,"Sos. Ştefan cel Mare Nr. 23, Parter, Sect. 2",021.210.20.27,ra_luca_teodora@yahoo.com
+A0136,CMI DIMA CATALINA,DIMA CĂTĂLINA-MONICA,"Bulevard Pache Protopopescu 49, Sector 2",0212525108,dr.dimacatalina@yahoo.com
+A0137,CMI NITA CAMELIA,NITA CAMELIA,"Calea Dudesti nr.104-122,sect.3",021.322.60.25/0722.880.844,cnita71@gmail.com
+A0137,CMI NITA CAMELIA - PUNCT DE LUCRU,NITA CAMELIA,"Str.Nicolae Caranfil nr.85A, et.1, sect.1",021.322.60.25/0722.880.844,cnita71@gmail.com
+A0138,CMI GHITA AUGUSTA,GHITA AUGUSTA,"Calea Dudesti nr.104-122,sect.3",021.320.55.22,augusta.ghita@yahoo.com
+A0139,CMI MIHAESCU ANDREA CRISTINA,MIHAESCU ANDREA CRISTINA,"Str Malcoci 4, Sect 5","021.456.16.10, 0723.141.752",mihaescuandreea2008@yahoo.com
+A0140,CMI VASILESCU CRISTINA MAGDALENA,VASILESCU CRISTINA-MAGDALENA,"Strada Uranus 95, Sector 5",0214103935,dr.cristina_vasilescu@yahoo.com
+A0141,CMI OLARU ALEXANDRA,OLARU ALEXANDRA,"Str. Sold. Savu Marin Nr. 27, Sect. 2",021.627.24.44,drolaru.alexandra@gmail.com
+A0142,CMI PATRASCU DANIELA GEORGETA,PATRASCU DANIELA GEORGETA,"Str. Masina de Paine Nr. 18, Bl. R28, Sc. A, Et. Parter, Ap. 4, Sect. 2",0722.463.134,patrascu_cmi@yahoo.com
+A0143,CMI GUSITA CLAUDIU,GUSITA CLAUDIU,"Bd.Iuliu Maniu nr.65,bl.7P,sc.9,ap.265",021.434.15.57/0742.631.575,cabinet@gorjului.ro
+A0145,CMI COSTEA MIHAELA,COSTEA MIHAELA,"Str Cricovul Dulce 11, Sect 4","021.332.18.85, 0770.293.385",costea.mihaela@gmail.com
+A0149,CMI URSEA ADRIAN,URSEA ADRIAN,"Calea Giuleşti 135, Sector 6",021/221.0875,roxana_ursea_yo_1vip@yahoo.com
+A0150,CMI BUDULEA MARY DIANA,BUDULEA MARY DIANA,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",021/341.1101,dr.budulea.diana@gmail.com
+A0152,CMI UTAN RODICA,UTAN RODICA,"Bd Bucurestii Noi 50A, Sect 1",037.405.09.60,utan.rodica@gmail.com
+A0157,CMI BALDEA ILEANA,BALDEA ILEANA,"Sos. Pantelimon 292, Sect. 2",0743.540.068,baldea_ileana@yahoo.com
+A0158,CMI CIOMU DIANA MIHAELA,CIOMU DIANA MIHAELA,"Str.Drumul Taberei nr.29,bl.F2,sc.5, ap.76,sect.6",0722.309.251/021.745.68.97,diamed_57@yahoo.com
+A0159,CMI GOMOIU ELENA,GOMOIU ELENA,"Strada Apusului nr. 63, sector 6",0745.07.65.15,egomoiu@gmail.com
+A0160,CMI ANGHELINA TANIA,ANGHELINA TANIA,"Sos Pantelimon 292, Sect 2",0765.839.400,tania.anghelina@live.com
+A0162,CMI DINULESCU GEORGE,DINULESCU GEORGE,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0213400592,george_dinulescu@yahoo.com
+A0167,CMI GRIGORESCU RALUCA ANA,GRIGORESCU RALUCA ANA,"Calea Dorobantilor 103-105, Sect 1",0723.560.116,ralugrig@gmail.com
+A0169,CMI STEFANESCU SILVIA,STEFANESCU SILVIA,"Str. Spătar Preda Buzescu Nr. 34, Sect. 4",021.332.11.44,silviastefanescu1958@gmail.com
+A0170,CMI GEORGESCU MARIUTAN STELUTA,GEORGESCU MARIUTAN STELUTA,"Str Nada Florilor 1A, Sect 2","021.242.97.90, 0745.014.436",gemarcris@yahoo.com
+A0171,CMI NANIU SEVASTITA,NANIU SEVASTIŢA,"Strada Doamna Chiajna 24, Sector 3",0213264805,naniusevastita@yahoo.com
+A0172,CMI NEGREA RODICA,NEGREA RODICA,"Bd Pictor Nicolae Grigorescu 41, Sect 3",0722.878.888,rodica.negrea@gmail.com
+A0173,CMI COCAU VIORICA,COCAU VIORICA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.15.37,cocauviorica@yahoo.com
+A0174,CMI MORAR CARMEN,MORAR CARMEN,"Strada Dreptătii 2, Sector 6",0723.305.036,carmen.morar@gmail.com
+A0179,CMI MOIA ANCA,MOIA ANCA,"Str Pajura 15, Sect 1","031.418.20.34, 0745.137.439",moia_anca@yahoo.com
+A0187,CMI PELICAN MARIANA,PELICAN MARIANA,"Str. Ardeleni Nr. 3A, Sect. 2",021.210.61.22,pelmar69@yahoo.com
+A0188,CMI RATIU GEORGETA,RATIU GEORGETA,"Str. Pravat Nr. 12, Sect. 6  ",0730.845.530,georgeta.ratiu@yahoo.com
+A0190,CMI HOROŞAN ANCA MIRELA,HOROŞAN ANCA MIRELA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35 int. 144,anca.horosan@gmail.com
+A0191,CMI DOBRE SILVIA,DOBRE SILVIA,"Bulevard Bucureştii Noi 64, Sector 1",0730.448.551,cmidr.dobresilvia@yahoo.com
+A0192,CMI FRÂNCU MARIAN VIOREL,FRÂNCU MARIAN VIOREL,"Al. Raul Sadului Nr. 1, Sect. 4  ",021.682.45.67,vmfvdf@yahoo.com
+A0194,CMI SIN DOINA DANIELA,SIN DOINA DANIELA,"Str. Spatar Preda Buzescu  Nr.34, Sect. 4",021.332.20.72,sindoina1965@gmail.com
+A0196,CMI CHIRU CRISTINA MIHAELA,CHIRU CRISTINA MIHAELA,"Str Soldat Savu Marin 27, Sect 2",0756.027.339,chirucristinamihaela@yahoo.com
+A0199,CMI AUGUSTIN ROZALIA,AUGUSTIN ROZALIA,"Bulevard Ing. Gheorghe Duca 10-22, Apartament SECROR 1",021.260.10.10/0723.351.337,cmi_rozalia_augustin@yahoo.com
+A0200,CMI BARON DANA ROXANA,BARON DANA ROXANA,"Cal. Dudesti Nr. 104-122, Sect. 3",021.320.50.30,barondana@yahoo.com
+A0202,CMI GARNITA MARIANA,GÂRNIŢĂ MARIANA,"Calea Dudesti 104-122, Sector 3",0755909628,cmi.mariana@yahoo.com
+A0204,CMI POENARU ELENA,POENARU ELENA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35 int. 217,lenapoe@yahoo.com
+A0205,CMI BARBULESCU CARMEN ANGELA,BARBULESCU CARMEN ANGELA,"Str Drumul Taberei 124-126, Parter, Sect 6",021.745.05.90,cabarbulescu@yahoo.com
+A0206,CMI OLTEANU ANA ECATERINA,OLTEANU ANA ECATERINA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Ap. 322, Sect. 3",021.340.03.35 int. 144,dr.olteanu@gmail.com
+A0207,CMI IONESCU MIHAELA ŞTEFANIA,IONESCU MIHAELA ŞTEFANIA,"Str. Clabucet Nr. 4-6, Sect. 1",021.666.31.65,cmi.drionescumihaelastefania@yahoo.com
+A0208,CMI MOANGĂ DECEBAL,MOANGĂ DECEBAL,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35,moangaanca@yahoo.com
+A0209,CMI ŢIŢIRIGĂ RĂDOI ALEXANDRINA,ŢIŢIRIGĂ RĂDOI ALEXANDRINA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35 int. 147,cmi_tralexandrina@yahoo.com
+A0210,CMI MIHAI ELENA,MIHAI ELENA,"Sos Iancului 74, Sect 2",021.250.87.72,elenamihai5604@yahoo.com
+A0211,CMI MARIN MARIA SIMONA,MARIN MARIA SIMONA,"Str.Focsani nr.5,bl.M181,ap.55-56,sect.5",0766.557.646/021.423.40.64,cabinet_dr.marin_simona@yahoo.com
+A0213,CMI DUCA MONICA,DUCA MONICA,"Strada Dreptatii 2, Sector 6",0318057740,moni.duca@yahoo.com
+A0214,CMI BITA CRISTINA,BITA CRISTINA,"Calea Dudesti 104-122, Sect 3",021.326.03.72,bitt2flux@gmail.com
+A0215,CMI MANEA SILVIA,MANEA SILVIA,"Sos.Oltenitei nr.83C si Calea Vacaresti nr.391,sect.4",0722.676.181,silviam13@yahoo.com
+A0216,CMI MUSAT LACRAMIOARA,MUSAT LACRAMIOARA,"Bd Pictor Nicolae Grigorescu 41, Sect 3",021.340.03.35,lacramusat@gmail.com
+A0218,CMI MORARU TINCA,MORARU TINCA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35,tinca.moraru.tm@gmail.com
+A0219,CMI POPESCU ELENA CRISTINA,POPESCU ELENA CRISTINA,"Aleea Raul Sadului 1, Sector 4",021/460.8291,cristina.p@valsan.ro ; cristina.coman.popescu@gmail.com
+A0220,CMI DUMITRU POPOVICI LILIANA,DUMITRU POPOVICI LILIANA,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0721.534.730 ; 021/340.0335 int.203,drdumitruliliana@yahoo.com
+A0222,CMI NICOLAU CARMEN,NICOLAU CARMEN-LIDIA,"Bulevard Inginer Gheorghe Duca 10-22, Sector 1",0744330332,nicolau_lidia@yahoo.com
+A0223,CMI MARINESCU ANGELA,MARINESCU ANGELA,"Str.Preda Buzescu nr.34,sect.4",021.332.17.37,gr_marinescu@yahoo.com
+A0225,CMI STOICA VIRGINICA,STOICA VIRGINICA,"Str. Teius nr.3,sect.5","021/421.18.39,0723.94.48.16",stoicavirginica@yahoo.com
+A0226,CMI POPESCU MIHAELA,POPESCU MIHAELA,"Str Apusului 63, Sect 6",0723.554.025,mihaela.popescu59@yahoo.com
+A0227,CMI SAJGO ANA,SAJGO ANA,"Calea Dorobantilor nr.32A,Corp A, parter, cabinet 10, pozitiile 32 si 35, sect.1",021.212.28.29,anasajgo@yahoo.com
+A0233,CMI BĂIES CRISTINA GRATZIELA,BĂIES CRISTINA GRATZIELA,"Cal. Dudesti Nr. 104-122, Ap. 264, Sect. 3",021.322.66.74,baiescristina@yahoo.com
+A0234,CMI STANCU JANETA,STANCU JANETA,"Str. Apusului Nr. 63, Sect. 6",0723.521.449,doctorx2k4@yahoo.com
+A0235,CMI FUIOREA LUMINITA CRISTINA,FUIOREA LUMINIŢA-CRISTINA,"Str. Drumul Taberei 124-126, Sect 6","021/745.16.16,0723.52.17.53",docfuiorea@yahoo.com
+A0236,CMI NICULA DELIA,NICULA DELIA,"Cal. Dudesti Nr. 104-122, Et. 1, Cab. 160, Sect. 3",021.327.70.37 ,d_n_1957@yahoo.com
+A0238,CMI ŢIŢIRIGĂ RĂDOI DAN LIVIU,ŢIŢIRIGĂ RĂDOI DAN LIVIU,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",0787.675.130,andra_blidaru@yahoo.com
+A0242,SC ILCA MED SRL,CARAGHEORGHE ILEANA,"Sos Pantelimon 40, Ap 3, Sect 2","021.252.29.46, 0722.366.753",ilca_med@yahoo.com
+A0242,SC ILCA MED SRL,DRULE RALUCA-SIMONA,"Sos Pantelimon 40, Ap 3, Sect 2",021.252.29.46,ilca_med@yahoo.com
+A0244,SCM POLIMED APACA,ANDREI MIRELA-ROXANA,"Strada Dezrobirii 13, Sector 6",0213113810,polimedapaca7@yahoo.com
+A0244,SCM POLIMED APACA,DAMCALESCU MARIA,"Strada Dezrobirii 13, Sector 6",0213113810,polimedapaca7@yahoo.com
+A0244,SCM POLIMED APACA,EDU FELICIA,"Strada Dezrobirii 13, Sector 6",0213113810,polimedapaca7@yahoo.com
+A0244,SCM POLIMED APACA,IGNAT SORINA,"Strada Dezrobirii 13, Sector 6",0213113810,polimedapaca7@yahoo.com
+A0244,SCM POLIMED APACA,RĂDULESCU AMELIA,"Strada Dezrobirii 13, Sector 6",0213113810,polimedapaca7@yahoo.com
+A0244,SCM POLIMED APACA,TOMESCU CĂTĂLINA,"Strada Dezrobirii 13, Sector 6",0213113810,polimedapaca7@yahoo.com
+A0244,SCM POLIMED APACA,VARSANI MIHAELA,"Strada Dezrobirii 13, Sector 6",0213113810,polimedapaca7@yahoo.com
+A0245,SC DR.PILL MEDICAL SRL,RADU ELENA-ECATERINA,"Strada Ramnicu Valcea nr.30, bl.15 , parter, ap.39, Sector 3",021.346.89.11/0723.22.53.18,elllena28@yahoo.com
+A0249,CMI ONCESCU CEZARINA ELENA,ONCESCU CEZARINA ELENA,"Str. Focsani Nr. 5 Bl. M181, Sc.2, Et. Parter, Ap. 55-56, Sect. 5",021.423.40.64,dr.oncescucezarina@yahoo.com
+A0257,CMI VAIDA DANIELA,VAIDA DANIELA,"Calea Grivitei 3-5, Sector 1",0722.646.382,danivlad2003@yahoo.com
+A0259,CMI STOICA ANCA MARIANA,STOICA ANCA-MARIANA,"Str. Drumea Radulescu nr.16-18,Sect 4",021/330.70.08/0744.78.64.80,stoicaancamariana@gmail.com
+A0263,CMI POPESCU MARIANA,POPESCU MARIANA,"Strada Spatar Preda Buzescu 34, Sector 4",0213321144,popescu_mariana61@yahoo.com
+A0264,CMI BALAN CAMELIA,BALAN CAMELIA,"Str Spataru Preda 5, Sect 5",0745.069.387,balan.camelia@yahoo.de
+A0268,CMI ZINCA SORINA,ZINCA SORINA,"Str. Drumul Taberei 124-126, Sect 6",021.745.05.79 ,sorina_zinca@yahoo.com
+A0269,CMI MULTESCU FLORENTINA,MULTESCU FLORENTINA,"Str Apusului 30, Sect 6",0722.952.467,mflori4@yahoo.com
+A0270,CMI EZARU ANISOARA,EZARU ANISOARA,"Sos.Berceni nr.8,sect.4",0723.154.404,ezarua_medfam@yahoo.com
+A0271,CMI SCURTU IOANA MIHAELA,SCURTU IOANA MIHAELA,"Cal. 13 Septembrie Nr.197, Sect. 5 ",021.311.64.60,scurtuioana@gmail.com
+A0273,CMI SERI MARIOARA,ŞERI MARIOARA,"Aleea Lunguletu nr.6, Bl.D14,Sect 2",0744.50.01.59,mioaraseri@yahoo.com
+A0277,CMI IONITA ANCA MARILENA,IONITA ANCA MARILENA,"Cal. Dudesti Nr. 104-122, Sect. 3",0767.986.863,ionitaanca277@yahoo.com
+A0279,CMI URSULEANU MARCELA,URSULEANU MARCELA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35 ,marcela.ursuleanu@yahoo.com
+A0280,CMI TUDAN VIORICA,TUDAN VIORICA  ,"Strada Academiei 2, Sector 3",0213148254,viorica.tudan@yahoo.com
+A0283,CMI LUCA RODICA,LUCA RODICA,"Str. Apusului Nr. 63, Cab. 2, Sect. 6",0727.384.488,lucarodica65@yahoo.com
+A0284,CMI MARINESCU ANCA,MARINESCU ANCA,"Calea Dorobantilor 32A, Sect 1","021.211.87.34, 0723.678.836",ancamarinescu.dr@gmail.com
+A0285,CMI ZINCA MIHAELA,ZINCA MIHAELA-DANA,"Soseaua Pantelimon 27, Sector 2",0212531392,zinca.mihaela@gmail.com
+A0287,CMI LICU GLADIOLA,LICU GLADIOLA,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0213400335/int.112,gladiolalicu@gmail.com
+A0288,CMI TANASESCU HORATIU,TANASESCU HORATIU,"Sos.Pantelimon nr.292,sect.2",0722.337.675,tanasescuhorace@gmail.com
+A0289,CMI CANANAU CRISTINA,CANANAU CRISTINA,"Str Spatar Preda Buzescu 34, Et 1, Sect 4",021.332.17.37,cristinacananau@yahoo.com
+A0291,CMI GHINET CRISTINA,GHINEŢ CRISTINA,"Bulevard Regiei 6-8, Sector 6",0213162437,ghinetcristina@yahoo.com
+A0292,CMI PRUNDEANU ROXANA,PRUNDEANU LUMINIŢA-ROXANA,"Strada Mihail Sebastian 7, Bloc S33, Scara 1, Apartament 2, Sector 5",0214250553,roxanaprundeanu@yahoo.com
+A0294,CMI PANDREA IULIAN,PANDREA IULIAN-EMIL,"Calea Dudesti 104-122, Sector 3",0213201152,pandreai@yahoo.com
+A0295,CMI PETCU MIHAELA CRISTINA,PETCU MIHAELA CRISTINA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Cab. 105, Sect. 3",021.340.03.35 int.110,michellepetcu@gmail.com
+A0298,CMI GEICULESCU CALIN MIHAI,GEICULESCU CALIN MIHAI,"Str. V. V. Stanciu nr. 213 , Corp. B, et. 1, cabinet 3, sectorul 4",021.330.53.92,calinmihai333@yahoo.com
+A0301,CMI BALTA MIHAELA,BALTA MIHAELA,"Calea Dudesti nr.104-122,sect.3",0729.395.133/0721.207.750,balta.dana2015@gmail.com
+A0303,CMI BOTEZ VOICA RUXANDRA,BOTEZ VOICA RUXANDRA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Et. 1, Cab. 101, Sect. 3",021.340.03.35 int. 146,voica.ruxandra@gmail.com
+A0304,CMI FARCASANU MARIANA,FARCASANU MARIANA,"Cal. Giuleşti Nr. 135, Sect. 6",021.220.53.24,marianafarcasanu@yahoo.com
+A0306,CMI BAICAN CORINA,BAICAN CORINA,"Strada Şoldanului 3E, Apartament 9, Sector 4",0727.480.853,dr.corinabaican@gmail.com
+A0308,CMI IORGA VIORICA,IORGA VIORICA,"Strada Malcoci 4, Sector 5",0722.830.850 ; 021/456.0700,iorga_viorica@yahoo.com
+A0309,CMI IONESCU LAURA,IONESCU LAURA,"Strada Pictor Nicolae Grigorescu nr.41, Sector 3",0372.93.36.00,ionesculaura10@yahoo.com
+A0311,CMI POPESCU ILEANA DESPINA,POPESCU ILEANA DESPINA,"Bd Pictor Nicolae Grigorescu 41, Et 6, Sect 3",021.340.03.35 INT 207,popescudespina62@gmail.com
+A0312,CMI FELECAN ILEANA,FELECAN ILEANA,"Strada Avrig 9-19, Bloc U1, Parter, Cabinet 10, Sector 2",0723.238.956,felecan.ileana@yahoo.ro
+A0314,CMI ROMAN MIHAELA RAMONA,ROMAN MIHAELA RAMONA,"Bd. Ion Mihalache Nr. 106, Sect. 1",021.222.75.26,ramona@dr.com
+A0315,CMI SANDU CONSTANTIN,SANDU CONSTANTIN,"Calea Dorobantilor nr.32A,Corp A, parter, cabinet 10, pozitiile 32 si 35, sect.1",0314.053.184/0744.487.346,csandum@yahoo.com
+A0316,CMI NITA GABRIELA CARMEN,NIŢĂ GABRIELA-CARMEN,"Aleea Terasei nr.4, Bl. E2, Sc. 3,  Parter, Ap. 41 ,Sect 4","021/461.01.71,0722.59.06.80",nitagabrielacarmen@yahoo.com
+A0318,CMI JAMBOR MIHAELA ANCA,JAMBOR MIHAELA ANCA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.15.37,anca.jambor@gmail.com
+A0323,CMI RADU DUMITRA,RADU DUMITRA,"Sos. Pantelimon Nr.  86, Bl. 409A, Sc. 1, Ap. 4, Sect. 2",021.250.27.03,radu_dumitra@yahoo.com
+A0326,CMI RADULESCU MIHAELA SANDA,RADULESCU MIHAELA SANDA,"Calea Grivitei 3-5, Sector 1",0724.279.911 ; 021/319.8575,stanca.diana@yahoo.com
+A0330,CMI STANCIU PAULA,STANCIU PAULA,"Str. Dreptătii Nr. 2, Sect. 6",0727.961.234,stanciu54@yahoo.com
+A0332,CMI SERBAN CARMEN,SERBAN CARMEN,"Calea Dudesti nr.104-122,sect.3",0722.340.266/0726.000.346 cab,carmenserban57@yahoo.com
+A0334,CMI ISAR CRISTINA CORNELIA,ISAR CRISTINA CORNELIA,"Str. Apusului Nr. 63, Sect. 6",0745.081.350,cristina.isar@gmail.com
+A0335,CMI ZAMFIRESCU IRINA LUCIA,ZAMFIRESCU IRINA LUCIA,"Bld. Ion Mihalache nr.106, Sect 1",021/224.12.45/0724.22.50.14,cmi.zamfirescu@yahoo.com
+A0336,CMI ANGHEL CRISTINA IULIANA,ANGHEL CRISTINA IULIANA,"Soseaua Berceni 22, Bloc 6, Apartament 3 Sector 4",021/334.6761,crisorhideea@yahoo.com
+A0340,CMI DRAGOSTIN MIHAELA C,DRAGOSTIN MIHAELA CARMEN,"Str.Sebastian nr.7, Bl.S33, Scara 1, Ap. 2 ,Sector 4",0748.22.54.10,dragostin_mihaela@yahoo.com
+A0342,CMI OPRESCU CRINA OANA,OPRESCU CRINA OANA,"Sos Berceni 104, Sect 4",021.319.43.32 ,dr.seby@yahoo.com
+A0343,CMI MIHAI FILOFTEIA,MIHAI FILOFTEIA,"Sos.Pantelimon nr.27,sect.2",0212532824    0721784508,filofteiamihai15@yahoo.com
+A0345,CMI FUEREA LILIANA,,"Soseaua Stefan Cel Mare nr.23,Sector 2",021/211.40.33/0744.82.15.36,liliana.fuerea@yahoo.com
+A0349,CMI VISINESCU LUMINITA,VIŞINESCU LUMINIŢA-IULIANA,"Aleea Lunguletu 6, Sector 2",0212524222,cmi.liv@gmail.com
+A0350,CMI ZOITANU DANA VICTORIA,ZOITANU DANA VICTORIA,"Cal. Giulesti Nr. 135, Sect. 6",0727.138.262,cmidrzoitanu@yahoo.com
+A0351,SCCGM PEDIATRIE DR.POPAZU SRL,POPAZU LILIANA,"Aleea Cricovul Dulce nr.11,sect.4",021.332.18.86/021.772.34.44,popazualexandru@yahoo.com
+A0352,CMI RADUT LUIZA,RĂDUŢ MARIA-LUIZA,"Strada Apusului 63, Sector 6",0214347343,dr.radut@yahoo.com
+A0355,CMI AVRAM EUGENIA,AVRAM EUGENIA,"Strada Baba Novac nr.2, Sector 3",021/324.60.71/0726.11.86.28,dr.avram_eugenia@yahoo.com
+A0359,CMI PETRISOR GABRIELA,PETRISOR GABRIELA,"Str.Nada Florilor nr.19, sect.2",031.426.04.93 cab/0723.336.067,petrisor.gabriela@gmail.com
+A0360,CMI VLADU VALENTIN,VLADU VALENTIN,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",0724.053.590,vv.vladu@yahoo.com
+A0361,CMI NICOLESCU SORIN,NICOLESCU SORIN,"Str.Piata Natiunile Unite nr.3-5,sect.4",021.335.78.45/0722.315.053,nicolescu.sorin@gmail.com
+A0362,CMI CURELEA LILIANA,CURELEA LILIANA,"Strada Apusului 63, Sector 6",0214348104,lcurelea2013@gmail.com
+A0363,CMI DRAGUT SCAPIN ANGELA GIOVANA,DRAGUT SCAPIN ANGELA GIOVANA,"Str. Ciurea Nr. 2, Bl. S41, Sc. 2, Ap. 28, Sect. 5",021.410.41.55,angicmi@yahoo.com
+A0364,CMI MOCANU MIHAELA,MOCANU MIHAELA,"Strada Avrig 9-19, Sector 2",0722528561,drmihaelamocanu@yahoo.com
+A0368,CMI NISTOR DOINA MARIA,NISTOR DOINA MARIA,"Str.Soldat Savu Marin nr.27,sect.2",021.255.49.30,dmnistor@gmail.com
+A0370,CMI EVANGHELIE GETA,EVANGHELIE GETA,"Soseaua Chitilei Nr.112,Parter,Ap.2,Sect 1",021.667.75.95/0723.15.70.73,geta_evanghelie@yahoo.com
+A0373,CMI SCHUSTER ALICE ATENA,SCHUSTER ALICE-ATENA,"Calea Dudesti 104-122, Sector 3",0744200165,anda_schuster@yahoo.com
+A0374,CMI GHEORGHITA MARE VERONICA,GHEORGHITA MARE VERONICA,"Bd.Timisoara nr.15,sect.6",021.413.03.96,gheorghitam_veronica@yahoo.com
+A0375,CMI OLARU CRISTIAN GEORGE,OLARU CRISTIAN GEORGE,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35 int. 201,crolaru.coco@yahoo.com
+A0377,CMI GRIGORESCU ELENA,GRIGORESCU ELENA,"Str. Nada Florilor Nr. 1A, Sect. 2",021.242.41.04,ella.grigorescu@yahoo.com
+A0379,CMI MIRON IRINA,MIRON IRINA,"Bd.Iuliu Maniu nr.144-146,bl.34,sc.1,ap.47,sect.6",021.760.24.03,irina.miron@mcs.ro
+A0383,CMI MOCANU MIHAELA ANCA,MOCANU MIHAELA ANCA,"Str. Prof. Grigore Cobalcescu Nr. 2, Sect. 1",021.316.22.70,adrianmocanu65@yahoo.com
+A0385,CMI ALECU ZERAFIA,ALECU ZERAFIA-VALENTINA,"Strada Dreptatii 2, Sector 6",0214303620,zerafia@yahoo.com
+A0386,CMI HUZLAU GABRIELA,HUZLĂU GABRIELA-CORNELIA,"Strada Apusului 63, Sector 6",0214340146,cmidrhuzlaugabriela@yahoo.com
+A0388,CMI CAPATINA SERBAN,CĂPĂŢÎNĂ ŞERBAN-ALEXANDRU-GHEORGHE,"Calea Plevnei 137C, Corp A, Bloc C23, Apartament 14, Sector 1",0212205324,serban57@gmail.com
+A0389,CMI OLARU MIHAELA RODICA,OLARU MIHAELA RODICA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35 int.202,olaruc@upcmail.ro
+A0390,SC CENTRU MEDICAL ROMAR SRL,HAGICALIL LILIANA,"Sos. Mihai Bravu Nr. 428, Sect. 3",0723.118.861,dristor@romar.ro
+A0392,CMI TRIFU OLTUTA ANGELA,TRIFU OLTUTA,"Sos Giurgiului 65, Et 2, Cabinet 2, Sect 4",031.438.16.85,trifu.oltuta@yahoo.com
+A0393,CMI IONESCU BIATRICE,IONESCU BIATRICE,"Bd.Timisoara nr.15,sect.6",021.746.49.46,ionescubiatrice@yahoo.com
+A0394,CMI GROSU ANCA,GROSU ANCA LUCIA,"Calea Dorobantilor 32A, Sector 1",0212100902,anca.grosu@yahoo.com
+A0398,CMI CIOCOIU FLORENTINA,CIOCOIU FLORENTINA,"Str Pictor Gheorghe Tattarascu 10, Sect 3",021.324.61.19,ciocoiu_florentina@yahoo.com
+A0399,CMI STERIADE MARIANA,STERIADE MARIANA VERONICA,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0213400335/int.108,mariana.steriade@yahoo.com
+A0400,CMI GHELBEREU SORIN,GHELBEREU SORIN,"Strada Dreptatii 2, Sector 6",0721543716,cmisorin1@yahoo.com
+A0401,CMI PARIS JANET,PARIS JANET-ADRIANA,"Soseaua Pantelimon 86, Bloc 409A, Scara 1, Apartament 4, Sector 2",0212502703,paris_janet@yahoo.com
+A0403,CMI TICU GEORGE COSTINEL,TICU GEORGE COSTINEL,"Str. Danubiu Nr. 21, Bl.31A, Sc. A, Ap. 2, Sect. 3",021.344.54.77 ,ticucristi@yahoo.com
+A0405,CMI CIOIU MARIANA,CIOIU MARIANA,"Cal. Dorobantilor Nr. 32A, Sect. 1",021.211.66.11,cmidrcioiu@yahoo.com
+A0408,CMI HERDEA VALERIA,HERDEA VALERIA,"Str. Pictor Gheorghe Tattarescu Nr. 10, Sect. 3",021.324.36.88,valeriaherdea@yahoo.com
+A0409,CMI FODOLICA MADALINA,FODOLICĂ MĂDĂLINA-ANDREEA,"Soseaua Iancului 39, Bloc 103A, Scara C, Apartament 85, Sector 2",0314289170,anda_fodolica@yahoo.com
+A0410,CMI FLORESCU CRISTIAN,FLORESCU CRISTIAN,"Bd.Ion Mihalache nr.106,sect.1",021.665.04.06,doccrisflo@yahoo.com
+A0415,CMI VALCU VALERICA,VÂLCU VALERICA,"Calea Grivitei 3-5, Sector 1",0723657326,valcuvalerica@gmail.com
+A0416,CMI TIRIPA MARIAN OCTAVIAN,TIRIPA MARIAN OCTAVIAN,"Str. Teius 3, Sector 5",744644208,marian.tiripa@yahoo.com
+A0417,CMI PAPAHAGI VIORICA,PAPAHAGI VIORICA,"Calea Dudesti 104-122, Sector 3",0213201768,viorica_papahagi@yahoo.com
+A0418,CMI LASCU MARIA,LASCU MARIA,"Bd. Pache Protopopescu Nr. 49, Sect. 2",031.430.19.99,lascumaria@ymail.com
+A0419,CMI DUMBRAVA ANCA DANIELA,DUMBRAVA ANCA DANIELA,"Al. Cricovul Dulce Nr.11, Sect. 4",021.332.18.86,carstoiu_anca@yahoo.com
+A0421,CMI GRASU MARILENA SILVANA,GRASU MARILENA SILVANA,"Strada Cricovul Dulce 11, Sector 4",0724.297.100 ; 021/332.1885,marilena.grasu@yahoo.com
+A0422,CMI TUDORA DANIELA,TUDORA DANIELA,"Sos Colentina 2D, Bl 5, Sc A, Ap 1, Sect 2","021.243.44.59, 0745.165.656",daniela.tudora13@yahoo.com
+A0424,CMI GRUIA MARIA LUMINIŢA,GRUIA MARIA LUMINIŢA,"Str. Giuseppe Garibaldi Nr. 20, Sect. 2",0723.292.086,gruia_maria2008@yahoo.com
+A0426,CMI SOSIN ANDORINA,SOSIN ANDORINA,"Calea 13 Septembrie nr.207,sect.5",021.317.37.23,andorinasosin@gmail.com
+A0427,CMI GRASU IOANA,GRASU IOANA,"Strada Irimicului nr. 2, sector  2",0212420206           0742330760,dr.ioana_grasu@yahoo.com
+A0431,CMI BALAN SMARANDITA,BALAN SMARANDITA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",0744.338.053,smaranditabalan1955@gmail.com
+A0436,CMI AGARICI EUGENIA ROZALIA,AGARICI EUGENIA ROZALIA,"Strada Cpt. Gheorghe Preotescu nr. 35, ap 2, sector 2",0722274654     0213361825,eugeniaagarici@yahoo.com
+A0440,CMI GHELBEREU LUMINITA,GHELBEREU LUMINIŢA-OCTAVIA,"Calea Giulesti 135, Sector 6",0751859014,cmiluminita1@yahoo.com
+A0441,CMI STANCIULESCU FLORENTINA,STANCIULESCU FLORENTINA,"Al. Compozitorilor Nr. 20, Sect. 6",021.413.09.25,inasta24@yahoo.com
+A0442,CMI IONDA  ADINA CARMEN,IONDA  ADINA CARMEN,"Str. Baba Novac Nr. 2, Sect.  3",021.325.26.06,adinaionda@yahoo.com
+A0443,CMI FRANCIUK TEREZA EUGENIA,FRANCIUK TEREZA EUGENIA,"Al. Cricovul Dulce Nr.11, Sect. 4",021.332.18.86,terezafranciuk@yahoo.com
+A0444,CMI ALEXANDRESCU MARINA RALUCA,ALEXANDRESCU MARINA RALUCA,"Str Avrig 9-19, Bl U1, Sect 2","021.252.92.60, 0744.868.815",gh_alexandrescu@yahoo.com
+A0449,CMI MOCANU CRISTINA,MOCANU CRISTINA,"Calea Grivitei nr.3-5,sect.1",0745.751.766,cristina.mocanu33@yahoo.com
+A0451,CMI BARAU MARINA,BARAU IULIA MARINA,"Strada Clăbucet 4-6, Parter, Camera 21, Sector 1",0216656921,marina_barau@yahoo.com
+A0454,CMI ILIE MIHAELA,ILIE MIHAELA,"Aleea Compozitorilor nr.20,sect.6",021.440.03.11/0722.796.692,ilie.mihaela.cmi@gmail.com
+A0455,CMI IONESCU FLORIAN,IONESCU FLORIAN,"Soseaua Oltenitei 388, Sector 4",0311060243,ionescugflorian@yahoo.com
+A0456,CMI DUMITRESCU SORINA,DUMITRESCU SORINA,"Bd.Bucurestii Noi nr.64,sect.1",021.31.31.303,cmidrdumitrescusorina@yahoo.com
+A0459,CMI RATIS RUXANDRA M,RATIŞ RUXANDRA MIRELA,"Strada Soldanului nr.3E, ap.8, Sect 4","0724.88.75.58,0723.55.07.78",cmi_dr_ratis@yahoo.com
+A0460,CMI MOSNEAGA LIGIA,MOŞNEAGA DANIELA-LIGIA,"Calea Dudesti 104-122, Sector 3",0213226035,ligiamos@yahoo.com
+A0461,CMI MINZARARU ANCA,MÎNZĂRARU ANCA-CLELIA,"Calea Dudesti 104-122, Sector 3",0721671495,ancaminzararu@yahoo.com
+A0462,CMI CRISTIAN MIRELA,CRISTIAN MIRELA,"Calea Dudesti104-122, Et 5, Cab 276, Sect 3",031.805.88.07,mirela2cri@yahoo.com
+A0469,CMI COMSA ECATERINA VALIA,COMSA ECATERINA VALIA,"Bd. Regiei Nr. 8, Sect. 6",021.316.24.37,comsa.ecaterina@yahoo.com
+A0471,CMI STANESCU ADRIAN,STĂNESCU ADRIAN-SORIN,"Strada Sold. Gheorghe Buciumat 27, Parter, Apartament 2, Cabinet 1, sector 1",0212320440,sasdr.1999@yahoo.com
+A0472,CMI IONESCU CRISTIAN GEORGE,IONESCU CRISTIAN GEORGE,"Str.Cricovul Dulce nr.11,sect.4",021.332.18.85/0721.022.752,ionescu.cristiang@gmail.com
+A0475,CMI DASCALESCU AURELIA,DASCALESCU AURELIA,"Bd.Timisoara nr.15,sect.6",021.746.49.46/0724.205.348,dascalescuaurelia@yahoo.com
+A0478,CMI PLISCA GEORGETA,CMI PLISCA GEORGETA,"Str. Dreptatii Nr.2, Sc. 1, Cab. 3, Et. 2, Sect. 6",021.430.09.80 ,pliscag@gmail.com
+A0479,CMI TITA VIORICA VIOLETA,TITA VIORICA VIOLETA,"Bd. Ion Mihalache Nr. 106, Sect. 1",021.665.15.15 ,dr.violeta.tita@gmail.com
+A0480,CMI TOPAN MIHAELA LIDIA,TOPAN MIHAELA-LIDIA,"Bulevard Regiei 6-8, Sector 6",0213162437,lidia_topan@yahoo.com
+A0481,CMI CANULESCU MIHAELA,CANULESCU MIHAELA,"Calea Dudesti nr.104-122,sect.3",0745.018.364,mihaelacanulescu@gmail.com
+A0482,CMI SELBINSCHI DIANA,SELBINSCHI DIANA,"Calea Dudesti nr.104-122,sect.3",0723.245.777,dselbinschi@yahoo.com
+A0485,CMI VASILE ALEXANDRINA,VASILE ALEXANDRINA,"Str.Pictor Gheorghe Tatarascu nr.10,sect.3",021.324.61.19/0720.528.555,cmivasile@yahoo.ro
+A0490,CMI MIHIOTIS SILVIA,MIHIOTIS SILVIA,"Bd.Nicolae Grigorescu nr.41,sect.3",021.340.03.35 int 225/0723.354.045,mihiotissilvia@yahoo.com
+A0492,SC REMYSAN MED SRL,COSTEA EMILIA,"Sos Mihai Bravu 67-73, Bl C18, Sc B, Ap 52, Sect 2",021.253.12.57,costea_rem@yahoo.com
+A0494,CMI ROTARU MIOARA,ROTARU MIOARA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.03.35 ,mioara.rotaru1257@gmail.com
+A0495,CMI MIHAI LEONARD,MIHAI LEONARD,"Strada Teius 3, Sector 5",0214212626,cmimihaileonard@yahoo.ro
+A0499,CMI AVRAM CONSTANTIN,AVRAM CONSTANTIN,"Cal. Giulesti Nr. 135, Sect. 6",0729.244.279,drcavram@gmail.com
+A0501,CMI DUMITRU DORINA,DUMITRU DORINA,"Str. Malcoci Nr. 4, Sect. 5",021.420.43.57,dumitrudorina@yahoo.com
+A0502,CMI MARINESCU IOANA,MARINESCU IOANA,"Bd Ion Mihalache  106, Sect 1",021.224.13.40,marinescu.ioanam@yahoo.com
+A0504,CMI VASILE NICOLETA,VASILE NICOLETA,"Sos.Stefan cel Mare nr.23,sect.2",021.211.56.33,"cab.med.dr.vasile@gmail.com, vasile.nicoleta@gmail.com"
+A0505,CMI DOBRE COSMINA,DOBRE COSMINA,"Bd.Ghencea nr.43B Et.1, Cabinet 107, sect.6",07722.338.300,cosminadobre@yahoo.com
+A0508,CMI APOSTOL FLORENTINA,APOSTOL FLORENTINA,"Aleea Cricovul Dulce nr.11,sect.4",021.332.18.86,cmi.apostolf@gmail.com
+A0516,CMI CHIRILA NICULAE,CHIRILA NICULAE,"Str. Ion Voda Viteazul Nr. 15, Sect. 4",021.460.45.94,cmi.dr.chirila@gmail.com
+A0518,SCM CABINETE MEDICALE DR POPA,POPA PENELOPIA,"Bulevard Basarabia nr. 19, Policlinica Gomoiu, parter,  sector 2",0722.507.387 ; 021/322.3037,popa_penelopia@yahoo.com
+A0520,CMI TOCILESCU MIHAELA,TOCILESCU MIHAELA,"Strada Povernei 42, Etaj 3, Cabinet 12, Sector 1",0213127909,mihtoc@gmail.com
+A0521,CMI MAGUREANU ELENA,MAGUREANU ELENA,"Sos Berceni 104, Sect 4",0744.567.228,elena_magureanu@yahoo.com
+A0524,CMI SERBANESCU THEODOR,ŞERBĂNESCU THEODOR-CRISTIAN,"Strada Teius 3, Sector 5",0214213598,cabserbanescutc@yahoo.ro
+A0528,CMI TEODORU STELA FLORENTINA,TEODORU STELA FLORENTINA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Ap. 608, Sect. 3",021.340.03.35 int.108,cmi.teodoru.stela@gmail.com
+A0532,CMI POPESCU MARIANA MARCELA,POPESCU MARIANA MARCELA,"Strada Ardeleni 3A, Sector 2",0212124681,mariana_marcela_popescu@yahoo.com
+A0534,CMI MARIN ELENA,MARIN ELENA,"Str.Trei Scaune nr.29,sect.2",021.242.19.04/0723.148.799,cmidrelenamarin@yahoo.com
+A0537,CMI GRECEANU SMARANDITA,GRECEANU SMARANDITA,"Str. Apusului Nr.63, Sect. 6",021.434.81.04,sm_greceanu2002@yahoo.com
+A0539,CMI BRUNNER DIANA,BRUNNER DIANA,"Aleea Cricovul Dulce nr.11,sect.4",0721.385.095,dianabrunner@mail.com
+A0540,CMI DUMITRESCU NOICA CORNELIA ANGELICA,DUMITRESCU NOICA CORNELIA ANGELICA,"Str. Nada Florilor Nr. 1A, Et 1, Lot 11, Incaperea 18, Sect 2",021.242.14.20,angelica_noica_dumitrescu@yahoo.com
+A0542,CMI POPESCU IULIANA,POPESCU IULIANA,"Sos.Pantelimon nr.292,sect.2",0723.230.977,iuliana.popescu@yahoo.com
+A0542,CMI POPESCU IULIANA - PUNCT DE LUCRU,POPESCU IULIANA,"Str.Drumea Radulescu nr.16-18,sect.4",0723.230.977,iuliana.popescu@yahoo.com
+A0543,CMI LOGHIN CARMEN,LOGHIN CARMEN,"Str Ardeleni 3A, Sect 2",021.211.77.45,loghin.carmen@gmail.com
+A0545,CMI BURDUJA MARIANA,BURDUJA MARIANA,"Bd Ion Mihalache 106, Sect 1",021.224.00.69,mariana_b3@yahoo.com
+A0551,CMI POPESCU FLORICA,POPESCU FLORICA,"Str. Mihai Eminescu Nr. 156, Sect.  2",0722.858.673,horia33@yahoo.com
+A0552,CMI CIRICA DANA IOANA,CIRICA DANA IOANA,"Str Soldanului 3E, Ap 2, Sect 4","021.528.05.50, 0745.074.765",dana.cirica@yahoo.com
+A0554,CMI GAVRILIU MIHAELA,GAVRILIU MIHAELA,"Str Giuseppe GaribaldiI 20, Sect 2","021.230.24.34, 0722.304.419",gavriliu_mihaela@yahoo.com
+A0557,CMI BUCHET NICOLETA,BUCHET NICOLETA,"Str Grigore Cobalcescu 2, Sect 1",314.38.14.47,buchetnicoleta@yahoo.com
+A0557,CMI BUCHET NICOLETA,CHIRITA FELICIA GENOVEVA,"Bd I. Gh. Duca 10-22, Parter, Cabinet 2, Sect 1",314.38.14.47,buchetnicoleta@yahoo.com
+A0559,CMI CATANA MARION,CATANA MARION,"Calea Dudesti 104-122, Sect 3",0726.690.290,medicatana@yahoo.fr
+A0562,CMI DUMITRU SABINA RUXANDRA,DUMITRU SABINA-RUXANDRA,"Splaiul Independentei 313, Sector 6",0214029911,sabina.stoica11@yahoo.com
+A0564,CMI DUMITRESCU NATASA,DUMITRESCU NATAŞA,"Bulevard Timisoara 15, Sector 6",0214130396,natasa_dumitrescu@yahoo.com
+A0565,SC CLAUET SRL,IVAN ANDA FLORENTA,"Str. Academiei Nr.2, Sect. 3",021.312.01.72,clauetcom@yahoo.com
+A0567,CMI MITROAICA ROMEO VIFOR,MITROAICA ROMEO VIFOR,Aleea Raul Sadului nr.1 sect.4,0722.796.622,vifor.mitroaica@gmail.com
+A0568,CMI SOCOSAN ANELIS LUCIA,SOCOSAN ANELIS LUCIA,"Bd. Pictor Nicolae Grigorescu Nr.41, Sect. 3",021.340.01.59,lucia_socosan@yahoo.com
+A0569,CMI POPESCU ANCA IOANA,POPESCU ANCA-IOANA,"Bld. Gheorghe Sincai nr.15, Bl 5A, sc1, parter,Ap 2, Sect 4",0723.16.68.08,savu_getuta@yahoo.com
+A0571,CMI LAZAR SLAVICI IULIAN MARTIAN,LAZAR SLAVICI IULIAN MARTIAN,"Str Polona 30, Sect 1",021.319.35.03,cmilazariulian@yahoo.com
+A0573,CMI IVANCIU IOANA,IVANCIU IOANA,"Str. Teius Nr. 3, Sect. 5",0723.166.236,iivanciu1953@gmail.com
+A0575,CMI PRECUP LIVIA ELISABETA,PRECUP LIVIA ELISABETA,"Bd Pictor Nicolae Grigorescu 41, Sect 3",021.340.03.35 INT 207,cmi.dr.precuplivia@gmail.com
+A0576,CMI NICULAE RODICA,NICULAE RODICA,"Str. Dr. Ion Nanu Muşcel Nr. 12, Sect. 5",021.96.07,rodica.niculae@gmail.com
+A0579,CMI VLAICU ANCA,VLAICU ANCA,"Calea Plevnei nr.44, sect.1",0756.020.925,anca.vlaicu29@gmail.com
+A0580,CMI NICOLESCU ILEANA,NICOLESCU ILEANA,"Str.Malcoci nr.4,sect.5",021.420.77.46,nicolescu.ileana@gmail.com
+A0581,CMI GRIGORESCU ELENA,GRIGORESCU ELENA,"Str Clabucet 4-6, Sect 1","021.224.14.44, 0745.180.176",elena_bortoi_grigorescu@yahoo.com
+A0586,CMI OCRAIN PAUL,OCRAIN PAUL,"Calea Vacaresti 203, Bloc 86, Apartament 20, Sector 4",0213307268,fleoscpe2@yahoo.com
+A0588,CMI GEORGESCU DORINA NELA,GEORGESCU DORINA NELA,"Str.Pictor Gheorghe Tatarascu nr.10,sect.3",021.324.69.80,cmidorinageorgescu@yahoo.com
+A0591,CMI ALEXANDRESCU GHEORGHE NICOLAE ULPIAN,ALEXANDRESCU GHEORGHE NICOLAE ULPIAN,"Str Avrig 9-19, Bl U1, Sect 2","0744.372.592, 021.252.92.60",gh_alexandrescu@yahoo.com
+A0592,CMI DUMITRESCU MARIEANA,DUMITRESCU MARIEANA,"Calea Plevnei nr.44, sect.1",0741.108.980,marieana_dumitrescu@yahoo.com
+A0596,CMI OSACI ADELA DANIELA,OSACI ADELA DANIELA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",0744.336.163,adela.osaci@gmail.com
+A0598,CMI TOMA MIRELA,TOMA MIRELA,"Strada Suzana nr. 7, sector 5",021.420.60.55,dr.tomamirela@gmail.com
+A0600,CMI FEJER RUXANDRA MIHAELA,FEJER RUXANDRA MIHAELA,"Bd Pictor Nicolae Grigorescu 4, Et 3, Sect 3",021.340.03.35 INT 138,rmfejer@yahoo.com
+A0601,CMI TAROPA DANIELA,TAROPA DANIELA-TEODORA,"Calea Dudesti 104-122, Sector 3",0732806160,taropadaniela@yahoo.com
+A0602,CMI SOTINGEANU ELENA,SOTINGEANU ELENA,"Str Apusului 63, Sect 6","021.434.32.97, 0745.059.401",elena.sotingeanu@yahoo.com
+A0604,CMI ANTONESCU ANA MARIA GABRIELA,ANTONESCU ANA MARIA GABRIELA,"Strada Dreptatii nr. 2, sector 6 ",021.430.09.80,anamaria.antonescu@gmail.com
+A0605,CMI GRAURE LUMINITA OLGA,GRAURE LUMINITA OLGA,"Strada Vicina nr. 8, bloc 37, scara 2, apartament 15, sector 5",021.425.11.03,luminita.graure@gmail.com
+A0607,CMI PANA MONICA ELENA,PANA MONICA ELENA,"Strada Ardeleni nr. 3A, sector 2",021/212.2913,sarmatus_41@yahoo.com
+A0608,CMI BACIU MARIA MIRELA,BACIU MARIA MIRELA,"Bd Ion Mihalache  106, Sect 1","0371.379.441, 0723.533.231",mirela.baciu55@yahoo.com
+A0613,CMI MIHAIL VALERIA,MIHAIL VALERIA,"Soseaua Pantelimon 292, Sector 2",0216277171,mihailvaleria@gmail.com
+A0614,CMI SOPON SILVIA M,SOPON SILVIA-MARGARETA-EDWINA,"Bld. Ing. Gheorghe Duca nr.10- 22, Sect 1",021/222.70.72/0745.13.85.50,dr.sopon@gmail.com
+A0615,CMI COMSA MIHAELA,COMSA MIHAELA,"Str.Drumea Radulescu nr.16-18,sect.4",021.330.71.15,mihaelaliacomsa@yahoo.com
+A0617,CMI MIHUTESCU MARIA,MIHUŢESCU MARIA,"Calea Dudesti 104-122, Sector 3",0213236366,mmihutescu@yahoo.com
+A0618,CMI TRICULESCU CONSTANTA,TRICULESCU CONSTANTA,"Cal. Dorobantilor Nr. 32A, Sect. 1",021.211.66.11,dr_taniatriculescu@yahoo.com
+A0621,CMI VLADIMIRESCU SUSANA,VLADIMIRESCU SUSANA,"Bd. Ion Mihalache Nr. 106, Sect. 1",021.745.25.99,susana.vladimirescu@gmail.com
+A0622,CMI GHIRITI MARIANA,GHIRITI MARIANA,"Calea Plevnei 44, Sector 1",0745023389,marianaghiriti@yahoo.com
+A0624,CMI CALIN CARMEN MIHAELA,CĂLIN CARMEN-MIHAELA,"Calea Plevnei 137C, Bloc C23, Apartament 14, Sector 1",0727894224 ,zi.frumoasa@yahoo.com
+A0628,CMI DAMIAN INA IOANA,DAMIAN INA IOANA,"Str. Pravat Nr. 12, Sect. 6  ","0722.610.629 , 0733.166.222",ioadami25@gmail.com
+A0629,CMI AXENTE MARIA,AXENTE MARIA,"Calea Giulesti nr. 135, sector 6",0724.71.10.31,cmi_mariaaxente@yahoo.com
+A0630,CMI NICULAE VASILICA,NICULAE VASILICA,"Strada Teius 3, Sector 5",0214210829,vasilicaniculae51@yahoo.com
+A0636,CMI SUBASU GABRIEL,SUBASU GABRIEL,"Calea Dudesti nr.104-122,sect.3",0770.434.911,gabriel.subasu@gmail.com
+A0638,CMI COMANICI FLORINA CRISTINA,COMANICI FLORINA CRISTINA,"Strada Apusului nr.63, sector 6",0745047283      021.243.26.60   0733.979.491,drcomanici@yahoo.com
+A0639,CMI HAHUI VALENTINA,HAHUI VALENTINA,"Aleea Raul Sadului 1, Sector 4",0722894275,dr_hahui_valentina@yahoo.com
+A0642,CMI CALIN ANCA ADRIANA,CĂLIN ANCA-ADRIANA,"Calea Dorobantilor nr.32A, Sect 1",0314.32.82.68/0723.35.02.95,ancaacalin@gmail.com
+A0643,CMI STEFAN ELENA,STEFAN ELENA,"Str.Dreptatii nr.2C,et.1,cam.12, sect.6",0722.769.633,doinaelenastefan@yahoo.com
+A0645,CMI GAVRILAS ELISABETA VIORICA,GAVRILAS ELISABETA VIORICA,"Aleea Lunguletu nr 6, sector 2",0723.349.927 ; 021/252.4222,viocos2003@yahoo.com
+A0647,CMI STOICESCU LUCRETIA,STOICESCU LUCREŢIA-MARIA,"Strada Apusului 63, Sector 6",0214340146,dr.lucretia.stoicescu@gmail.com
+A0648,CMI MIHAESCU TIT LIVIA C,MIHĂESCU TITLIVIA-CRENGUŢA,"Calea Giulesti nr.135, Sect 6",021.220.53.24/0745.69.41.24,crenguta.mihaescu@yahoo.com
+A0651,CMI BADEA MIHNEA ADRIAN,BADEA MIHNEA ADRIAN,"Intr. Deleni Nr. 7, Bl. T69, Sc. A, Ap. 5, Sect 2",021.211.58.67,dr.badea.andrew.1234@gmail.com
+A0654,CMI POPESCU GEORGE,POPESCU GEORGE,"Str Cricovul Dulce 11, Sect 4",021.332.18.85,florina.joita@yahoo.com
+A0655,CMI FLOREA RAZVAN,FLOREA RĂZVAN,"Intrarea Popa Nan nr.7, Ap. 1, Sector 2","021/642.28.87,0745.40.00.83",razvan_cabinet@yahoo.com
+A0656,CMI ALEXANDRESCU LUMINITA MIRELA,ALEXANDRESCU LUMINITA MIRELA,"Str. Pravăt Nr. 12, Sect. 6",021.745.25.99,cmi.dr.luminitaalexandrescu@gmail.com
+A0660,SC LOTUS MED SRL,PETRESCU MARILENA FILOMELA,"Strada Dornei 79-81, Sector 1",0219989,dornei@lotus-med.ro
+A0660,SC LOTUS MED SRL,BAICU MELANIA NAZICA,"Strada Dornei 79-81, Sector 1",0219989,dornei@lotus-med.ro
+A0661,CMI TUTA LUMINITA,TUTA LUMINITA,"Bd.Nicolae Grigorescu nr.41,sect.3",021.340.03.35 int 114/ 0755.07.07.12,lumit10@gmail.com
+A0662,CMI IONESCU PAULA,IONESCU PAULA,Aleea Raul Sadului nr.1 sect.4,0725.253.599/0723.506.897,cmi.ionescu.paula@gmail.com
+A0664,CMI NUTEANU ROXANA,NUTEANU ROXANA,"Cal. Dudeşti Nr. 104-122, Corp A (C1), Et.5, Cabinet 78, Sect 3",0723.213.720,r.nuteanu@xnet.ro
+A0665,SC ROM MED 2000 SRL ,IVAN LUMINITA,"Intrarea Baba Novac nr.4A,sect.3",021.320.60.87/0726.366.370,office@rommed2000.ro
+A0665,SC ROM MED 2000 SRL ,CIOBANU FLOAREA,"Intrarea Baba Novac nr.4A,sect.3",021.327.04.41/0788.307.370,office@rommed2000.ro
+A0665,SC ROM MED 2000 SRL ,PAUNA ALINA,"Intrarea Baba Novac nr.4A,sect.3",021.327.04.41/0788.307.370,office@rommed2000.ro
+A0665,SC ROM MED 2000 SRL ,RESIGA CONSTANTIN,"Intrarea Baba Novac nr.4A,sect.3",021.327.04.41/0788.307.370,office@rommed2000.ro
+A0667,CMI LICUDIS PAULINA,LICUDIS PAULINA,"Bd Pictor Nicolae Grigorescu 4, Sect 3",021.340.03.35 INT 225,paula.licudis@yahoo.com
+A0668,SC CORONIS MEDICAL SRL,GLAVAN CARMEN,"Str Bucur 12, Sect 4",021.330.43.82,office@coronis.ro
+A0669,CMI RADULESCU FLOAREA LUCIA,RADULESCU FLOAREA LUCIA,"Bulevard Bucurestii Noi nr. 64, sector 1",0723.35.61.28,tutiflorad@yahoo.com
+A0670,CMI RADULESCU DOINITA MARIANA,RĂDULESCU DOINIŢA-MARIANA,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0213400335,doinita.radulescu@yahoo.com
+A0672,CMI ALEXE MIHAELA,ALEXE MIHAELA,"Strada Izvorul Muresului nr. 2, bloc A9, scara C, apartament 35, sector 4",766506140,mihaela_alexe22@yahoo.com
+A0680,SC CENTRUL MEDICAL DAVA SRL,DIMIAN DANA,"Str. Dunavat Nr 18 Bl.58 Sc 3 Ap 36., Sect. 5",031.432.60.32,officedava@gmail.com
+A0682,CMI SERBANESCU IOANA ALEXANDRA,ŞERBĂNESCU IOANA-ALEXANDRA,"Strada Avrig 9-19, Sector 2",0212525336,ioanaserbanescu63@yahoo.com
+A0683,CMI MINCA MONICA,MINCĂ MONICA-VIRGINIA,"Strada Malcoci 4, Sector 5",0214232081/int.19,cmimonicaminca@yahoo.com
+A0684,CMI IONESCU LACRAMIOARA,IONESCU LĂCRĂMIOARA,"Strada Dumbrava Noua 15, Bloc M109A, Apartament 3,  Sector 5",0214213841,lacramioara.celestina@gmail.com
+A0685,CMI STREZA MARIA,STREZA MARIA,"Strada Plevnei Nr. 137C , Corp A+D , Parter , Camera 13,  Sector 6",0213138087,mariastreza@gmail.com
+A0690,CMI TOMA IOANA DACIANA,TOMA IOANA DACIANA,"Str Prof Grogore Cobalcescu 2, Sect 1",021.315.60.22,dacianatoma@yahoo.com
+A0692,SC ALFA MEDICAL SERVICES SRL,TĂNASE GHEORGHE,"Sos.Oltenitei Nr.220 Bl.8 Sc.2 P Ap.58 ,Sect.4","0319495,0729.99.12.60",alfamedicalservices@yahoo.com
+A0692,SC ALFA MEDICAL SERVICES SRL,"TĂNASE ZOIE, ","Str.Izvorul Rece Nr.18A,Sect.4","0319495,0729.99.12.60",alfamedicalservices@yahoo.com
+A0692,SC ALFA MEDICAL SERVICES SRL,ILIESCU VALERIU-MIHAI,"Str.Bailesti Nr.8,Sect.4","0319495,0729.99.12.60",alfamedicalservices@yahoo.com
+A0692,SC ALFA MEDICAL SERVICES SRL,BIZINICHE CARMEN SIMONA,"Str.Bailesti Nr.8,Sect.4","0319495,0729.99.12.60",alfamedicalservices@yahoo.com
+A0692,SC ALFA MEDICAL SERVICES SRL,CHELSOI THEODORA,"Str.Izvorul Rece nr.18A,Etaj 1, sect.4","0319495,0729.99.12.60",alfamedicalservices@yahoo.com
+A0693,CMI JITEA DELIA,JITEA DELIA,"Al. Cricovul Dulce Nr. 11, Sect. 4",0722.735.673,jitea.delia@yahoo.com
+A0696,CMI KAUNITZ BERTA,KAUNITZ BERTA,"Bd.  Ramnicu Sarat Nr.19,Bl. 20K, Sc.1, Et. Parter, Ap.2, Sect. 3",021.795.59.80,cmi_kaunitzberta@yahoo.com
+A0699,SC IOROVI MEDICA IMPEX SRL,VICOL AUREL,"Strada  Nicolae Oncescu nr. 6 , BL.114, sc.1, ap.1 sector 6",021.220.47.07,iorovimedica@yahoo.com
+A0701,CMI PISTOL MARIA,PISTOL MARIA,"Soseaua Iancului nr. 3, sector 2",0723.596.790,maria.pistol@yahoo.com
+A0703,CMI CRISTACHE MONICA,CRISTACHE MONICA,"Str Baba Novac 2, Sect 3",031.427.81.67,cristache.monica@yahoo.com
+A0705,CMI MATEIAS ANTONIA,MATEIAS ANTONIA,"Str. Sold. Savu Marin Nr. 27, Sect. 2",021.255.22.26,cabinetdr.mateias@gmail.com
+A0708,CMI TANASE COJOCARU ALEXANDRA,TANASE COJOCARU ALEXANDRA,"Strada  Prof. Dimitrie Pompeiu nr. 8, sector 2",0724.27.17.71,alexandra_tanase_cojocaru@yahoo.com
+A0712,CMI DUMITRU MIRELA LIVIA,DUMITRU MIRELA LIVIA,Calea Dorobantilor nr.32A sect.1,021.210.09.02,mirelalivia.dumitru@yahoo.com
+A0713,CMI CRACIUN OTILIA,CRACIUN OTILIA,"Bd Ion Mihalache 327, Bl 12, Ap 97, Sect 1",021.666.44.47,craciunotilia@yahoo.com
+A0715,CMI CEACANICA ANTIGONA,CEACANICA ANTIGONA,"Str. Ardeleni Nr. 3A, Sect. 2",021.212.38.60,aceacanica@yahoo.com
+A0717,SC CENTRUL MEDICAL UNIREA SRL,BEUCĂ FLORENTINA-ALINA,"Strada Hatmanul Arbore 15-19, Sector 1",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,GHERGHINA CRISTINA-CLAUDIA,Soseaua Cotroceni nr.20 Sector 6,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,BOLDESCU VALENTINA MĂDĂLINA,Soseaua Cotroceni nr.20 Sector 6,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,BUȚU LELIA,Soseaua Cotroceni nr.20 Sector 6,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,BOCIOACA ELENA VALENTINA,Strada Doamna Ghica 135 Sector 2,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,RĂDULESCU (ȚURȚULEA) DENISA CRISTINA,Strada Doamna Ghica 135 Sector 2,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,ANDRIESCU LYANA-MARIA,"Calea Dorobantilor 240, Sector 1",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,GHERGHESCU CRISTINA-BIANCA,"Bulevard Ion Ionescu de la Brad 5B Sector, 1",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,GIURGEANU ADINA-DANIELA,"Bulevard Ion Ionescu de la Brad 5B Sector, 1",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,PUŞCAŞU CĂTĂLINA-DANIELA,Soseaua Oltenitei nr.83C și Calea Vacaresti nr.391 sector 4,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,DIACONIUC RALUCA NINA,"Strada Dimitrie Pompei 9-9A, Sector 2",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,PASNICIUC LOREDANA-ANTOANELA,"Strada George Enescu 12, Sector 1",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,PREDA DANA,"Strada Dimitrie Pompei 9-9A, Sector 2",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,MELNIC CORINA-ELENA,Cal.Vacaresti nr.189 sector 4,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,PEREANU MARIOARA,Calea Vacaresti 189 Sector 4,0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,PRUNACHE ANDREEA,"Bulevard Iuliu Maniu 51 Bloc 22B, Sector 6",0212006800,office@reginamaria.ro
+A0717,SC CENTRUL MEDICAL UNIREA SRL,STANCU ANDREEA,"Bulevard Ion Ionescu de la Brad 5B Sector, 1",0212006800,office@reginamaria.ro
+A0718,SC MED-CONSEIL SRL,CODITA CARMEN ELENA,"Str Cetatea Histria 6, Bl A4, Sc 1, Ap 2, Sect 6",021.726.43.45,sc_med_conseil@yahoo.com
+A0718,SC MED-CONSEIL SRL,TRANDAFIR LUMINITA,"Str Cetatea Histria 6, Bl A4, Sc 1, Ap 2, Sect 6",021.726.43.45,sc_med_conseil@yahoo.com
+A0719,CMI COJOCARU VICTORIA,COJOCARU VICTORIA,"Sos.Stefan cel Mare nr.23,sect.2",021.210.56.80/0742.391.559,victoriacojocaru.mf@gmail.com
+A0722,CMI JUVERDEANU MARINA DOINA,JUVERDEANU MARINA DOINA,"Str. Prof. Grigore Cobalcescu Nr. 2, Cab. 3, Sect. 1",021.316.22.43,marinajuverdeanu@yahoo.com
+A0725,CMI BALTAGARU ANCA MIHAELA,BALTAGARU ANCA MIHAELA,"Str Jean Steriadi 16, Bloc J14, Sc.A, Ap.15, Sect 3",021.345.57.65,baltagaru@yahoo.com
+A0727,CMI CORCIU ANCA,CORCIU ANCA,"Al Raul Sadului 1, Sect 4",021.682.40.03,corciu_teo@yahoo.com
+A0735,SC MED LIFE SA,FRINCULESCU SIMONA FLORENTINA,"Soseaua Bucuresti-Ploiesti 10, Bloc XXII, Etaj 1, Sector 1",219646,office@medlife.ro
+A0735,SC MED LIFE SA,MANEA LIVIA REBECA,"Soseaua Bucuresti-Ploiesti 10, Bloc XXII, Etaj 1, Sector 1",219646,office@medlife.ro
+A0735,SC MED LIFE SA,ZARNESCU OANA,"Strada Liviu Rebreanu 8, Bloc XXII, Etaj 1, Sector 3",219646,office@medlife.ro
+A0735,SC MED LIFE SA,GAVRILESCU CRISTINA FLORENTINA,"Calea Grivitei 365, Sector 1",219646,office@medlife.ro
+A0735,SC MED LIFE SA,TATOMIR ADINA MARIA,"Calea Grivitei 365, Sector 1",219646,office@medlife.ro
+A0735,SC MED LIFE SA,POPESCU VALENTINA CLAUDIA,"Calea Grivitei 365, Sector 1",219646,office@medlife.ro
+A0735,SC MED LIFE SA,SURUGIU ELENA,"Strada Drumul Taberei 24, Sector 6",219646,office@medlife.ro
+A0735,SC MED LIFE SA,IORDACHI IULIA ELENA,"Strada Drumul Taberei 24, Sector 6",219646,office@medlife.ro
+A0735,SC MED LIFE SA,RADUTA DIANA IULIANA,"Strada Hans Christian Andersen 1, Sector 4",219646,office@medlife.ro
+A0736,CMI MELNIC GABRIEL,MELNIC GABRIEL,"Str Clabucet 4-6, Sect 1",0744.666.123,melnic66@yahoo.com
+A0737,CMI RADU ILEANA MARTA,RADU ILEANA MARTA,"Strada Ardeleni nr. 3A, sector 2",021.212.48.51,ileana_marta_radu@yahoo.com
+A0738,SCM SF.MINA,CHIRITI MARIOARA,"Str.C.F.Robescu nr.17,sect.3",021.315.40.09,scm.sfantulmina@yahoo.com
+A0738,SCM SF.MINA,MANEA VICTOR,"Str.C.F.Robescu nr.17,sect.3",021.315.40.09,scm.sfantulmina@yahoo.com
+A0738,SCM SF.MINA,CALINESCU RADU,"Str.C.F.Robescu nr.17,sect.3",021.315.40.09,scm.sfantulmina@yahoo.com
+A0739,CMI GRAJDEANU IOANA,GRĂJDEANU IOANA-VERONICA,"Bld. Timisoara nr.15,sect.6",0722.84.41.00,alexandrazotta@yahoo.com
+A0741,CMI LEU CRISTINA,LEU CRISTINA,"Sos Stefan Cel Mare 23, Sect 2",021.210.56.80,dr.cristina_leu@yahoo.com
+A0745,CMI POPESCU ADRIAN,POPESCU ADRIAN,"Soseaua Mihai Bravu 281, Sector 3",0723545888,adipopescu13@yahoo.com
+A0746,CMI NICOLESCU GABRIELA,NICOLESCU GABRIELA,"Splaiul Independentei 235, Sect 6",0745.364.240,cminicolescugabriela@yahoo.com
+A0752,CMI IANCU MIHAELA ADELA,IANCU MIHAELA ADELA,"Intrarea Cojesti nr.1,ap.2,sect.1",0745.031.387,adelaiancu@yahoo.com
+A0754,CMI VOICAN TEODOR,VOICAN TEODOR,"Str. Caraiman Nr. 65, Sect. 1",021.224.26.90,cmidrvoican@gmail.com
+A0757,CMI SERBAN DAIANA,SERBAN DAIANA,"Str. Malcoci Nr.4, Sect. 5",021.423.35.67,daiana.serban@gmail.com
+A0758,SC CARPIMED SRL,TĂBĂRAN TEODORA,"Str Cetatea Histria 12, Sect 6","021.746.15.03, 0723.373.773",carmenpaunescu48@gmail.com
+A0760,SC DIAMAR PROD SRL,ION MARIN,"Aleea Botorani nr.6 bl.V83,ap.3,sect.5",021.410.39.60,"cabinet.diamar@gmail.com, carmen_gratiela@yahoo.com"
+A0768,CMI BADEA I CARMEN,BADEA I CARMEN,"Str.Giuseppe Garibaldi nr.20,sect.2",0723.332.920,badea1954@yahoo.com
+A0771,CMI GHEORGHITANU ODETTA,GHEORGHITANU ODETTA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.05.35,dr.evgheniag@gmail.com
+A0772,CMI TEREC AURORA,TEREC AURORA,"Strada Plugarilor 18, Sector 4",0213303942,cmi.dr.terec@gmail.com
+A0773,CMI BRATU SMARANDITA,BRATU SMARANDITA,"Str Tudor Arghezi 28, Et 7, Sect 2","021.310.22.78, 0723.377.163",smarandabratu@gmail.com
+A0776,CMI CALINESCU MARIA,CALINESCU MARIA,"Str.Clabucet nr.4-6,et.1,sect.1",021.222.37.56,mariacalinescu10@yahoo.com
+A0778,SC PULS MEDICA SA,MATEI ANA MARIA,"Str.Teiul Doamnei nr.2,bl.10,ap.4,sect.2",0729.12.99.55,office@pulsmedica.ro
+A0778,SC PULS MEDICA SA,VLASOPOL IRINA,"Str.Teiul Doamnei nr.2,bl.10,ap.4,sect.2",0729.12.99.55,office@pulsmedica.ro
+A0778,SC PULS MEDICA SA,UTA MARIAN,"Str.Turda nr.127, bl.2, ap.196, sect.1",0729.12.99.55,office@pulsmedica.ro
+A0786,CMI RAHMIH MARWAN,RAHMIH MARWAN,"Strada  Petre Gîdescu 7, Parter, Sector 5",0214205122,marwanrahmih@yahoo.com
+A0787,CMI BARBOI CRISTIANA,BĂRBOI CRISTIANA,"Calea 13 Septembrie nr.126, Bl. P34, Sc.1, Etaj 1, Ap 2, Sector 5",0723.81.07.03,cristianabarboi@yahoo.ro
+A0789,SC ADNAN MEDICAL CENTER SRL,SAVU RUXANDRA DANIELA,"Str Mariuca 6, Bl 120, Ap 4, Sect 4","021.332.27.21, 0730.433.298",adnan_medical_center@yahoo.com
+A0789,SC ADNAN MEDICAL CENTER SRL,ALEXE CARMEN RUXANDRA,"Str Mariuca 6, Bl 120, Ap 4, Sect 4","021.332.27.21, 0730.433.298",adnan_medical_center@yahoo.com
+A0790,CMI TILICEA DORIN ,TILICEA DORIN ,"Sos.Berceni nr.8, et.1, cabinet 15, sector 4 , București",0722.547.009,dorin.tilicea@yahoo.com
+A0795,SC CDT VITALMED SRL,PÂSLARU AURA,"Strada Marasesti 90, Corp C, Etaj 1,  Sector 4",0723685805,cdt.vitalmed@yahoo.com
+A0796,CMI MARDALE POPA TINCA DORINA,MARDALE POPA TINCA DORINA,"Str. Spatar Preda Buzescu Nr. 34, Sect. 4",0723.588.526,mardaledorina@gmail.com
+A0798,CMI SEMEN IULIANA,SEMEN IULIANA,"Calea Dorobantilor nr.32, Sector 1","021/211.36.79,0745.08.45.59",uli_sem@yahoo.com
+A0802,CMI VASILESCU MARIANA,VASILESCU MARIANA,"Soseaua Berceni nr.8, Sector 4",0723.30.28.67,vasilescu.mariana@yahoo.com
+A0803,CMI CUCULICI MARIA,CUCULICI MARIA,"Strada Irimicului nr.2, Sector 2","021.242.02.21,0722.62.96.31",maria.cuculici@yahoo.com
+A0805,CMI GÎDEA ADRIANA,GÎDEA ADRIANA,"Str. Pictor Gheorghe Tattarescu Nr.2, Sect. 3",021.325.22.37,adrianagidea@yahoo.com
+A0807,CMI STERIE LUCIA,STERIE LUCIA,"Str.Apusului nr.63,sect.6",0733.962.923/0763.660.052,sterie.lucia@yahoo.ro
+A0808,SC VILLAGE MEDICAL CLINIC SRL,MATEESCU IOANA,"Str. Constantin Kiritescu nr.27,ap.1,Sector 2","021/232.35.80,0722.30.34.09",clinica@villagemedical.ro
+A0810,CMI DUMITRESCU LIVIU,DUMITRESCU LIVIU,"Str.Bucurestii Noi nr.64, sect.1",021.313.13.03,cmidrdumitresculiviu@yahoo.com
+A0812,CMI DOBOS MIHAELA,DOBOS MIHAELA,"Bd.Nicolae Grigorescu nr.41,sect.3",021.340.03.35,mihaeladobos@gmail.com
+A0820,CMI DINU DANA MIHAELA,DINU DANA MIHAELA,"Sos Virtutii 8, Bloc R13, Scara 1, parter, Ap.2, Sect 6",021.430.34.46,danamihaeladinu@yahoo.com
+A0822,CMI ELIESCU BOGDAN,ELIESCU BOGDAN,"Calea Dudeşti 104_122, et.5, cab.269,sector 3",0745.09.84.68,bogdan.eliescu@hotmail.com
+A0824,CMI DRAGAN CONSTANTA,DRAGAN CONSTANTA,"Str Apusului 63, Sect 6",0744.439.184,draganconstanta@yahoo.com
+A0826,CMI MAGDOIU ANCA MAGDALENA,MĂGDOIU ANCA-MAGDALENA,"Str. Dreptatii nr.2, Sector 6","021/430.53.39,0723.41.42.88",magda_magdoiu@yahoo.co.uk
+A0834,SC BINAFARM SRL,MACAVEI MĂDĂLINA-MINODORA,"Strada Teofil 3-5, Sector 2",0212422688,binafarm@yahoo.com
+A0834,SC BINAFARM SRL,MIRCEA GABRIELA,"Strada Teofil 3-5, Sector 2",0212422688,binafarm@yahoo.com
+A0836,CMI SOCOSAN DRAGOS,SOCOSAN DRAGOS,"Sos Oltenitei nr.105, Cabinet nr.8, Sect 4","0735.883.071, 021.332.31.41",dragos_socosan@yahoo.com
+A0839,CMI MOTEA CARMEN,MOTEA CARMEN,"Strada Dunavat nr.18, Bloc 58, Scara 3, Ap.36, Sect 5",031.432.60.32,officedava@gmail.com
+A0844,CMI CONSTANTIN ALINA PAULA,CONSTANTIN ALINA PAULA,"Str Dr Calistrat Grozovici 6, Sect 2",031.434.26.47,alinaconstantin27@yahoo.com
+A0845,CMI LANG DOINA,LANG DOINA,"Str Dr Calistrat Grozovici 6, Sect 2",021.318.34.10,doinalang@gmail.com
+A0847,CMI STANCU NICOLETA,STANCU NICOLETA,"Str Dr Calistrat Grozovici 6, Sect 2",021.318.34.10 INT 214,dr.nicoletastancu@gmail.com
+A0851,CMI TOFAN DIANA,TOFAN DIANA,"Str Dr Calistrat Grozovici 6, Sect 2",021.318.34.10 INT 212,diana.tofan58@yahoo.com
+A0854,CMI NEGREAN ALIN AURELIAN,NEGREAN ALIN AURELIAN,"Strada Dr. Calistrat Grozovici nr. 6, sector 2  ",021.318.34.10 int. 214,cmi.negrean@gmail.com
+A0856,CMI TINCU CARMEN,TINCU CARMEN,"Calea Dudesti nr. 104-122, Sect 3",0722.689.869,happyalcar@yahoo.com
+A0857,CMI MIRAUTA CARMEN,MIRĂUŢĂ CARMEN-CONSTANŢA,"Soseaua Berceni 8, Sector 4",0761129263,mirauta_carmen@yahoo.com
+A0858,CMI STEFAN MIRELA LACRAMIOARA,STEFAN MIRELA LACRAMIOARA,"Al. Compozitorilor Nr. 20, Et. Parter, Camera 13, Sect. 6",021.413.05.46,dr_stefanmirela@yahoo.com
+A0861,CMI ROPOTA ANGELICA,ROPOTA ANGELICA,"Calea Dudesti nr.104-122,sect.3",0745.152.197,roangi9@yahoo.com
+A0865,CMI MIHAIL MARIUS,MIHAIL MARIUS,"Soseaua Pantelimon 292, Sector 2",0216277171,dr.mihailmarius@gmail.com
+A0866,CMI GOICEANU DIANA MARIA,GOICEANU DIANA MARIA,"Bd. Tineretului 27, Bl 18, Sc 1, Ap 2, Sect 4",021.331.51.38,dianamaria.goiceanu@gmail.com
+A0869,SC CENTRUL MEDICAL DE DIAGNOSTIC SI TRATAMENT IULIAN SRL,PAVALUCA NINA,"Str Samuil Vulcan 67, Corp 1, Sect 5",021.411.64.48,pavaluca2003@yahoo.com
+A0871,CMI DINU IULIAN,DINU IULIAN,"Str.Laptari Tei nr.3A, sect.2",021.243.46.97/0740.033.286/0770.153.601,medfamdinuiulian@gmail.com
+A0872,SC ENDOCENTER SRL,GEORGESCU MARIANA,"Str. Arh. Gheorghe Sterian Nr. 8, Sect. 2",021.326.76.61,"office@endo-center.ro, office@endocenter.ro"
+A0875,CMI PANA DANIELA,PANA DANIELA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.340.21.46,daniela.pana06@gmail.com
+A0877,CMI CONSTANTIN ALINA MIHAELA,CONSTANTIN ALINA MIHAELA,"Str Pravat 12, Sect 6",021.499.11.51,cmi_drconstantinalina@yahoo.com
+A0878,CMI CIOC SIMONA MAGDALENA,CIOC SIMONA MAGDALENA                 ,"Strada Dreptatii nr. 2, sector 6 ",021.430.53.87,liviuc3@yahoo.com
+A0879,CMI GHIONARU CARMEN RALUCA,GHIONARU CARMEN RALUCA,"Aleea Lunguletu nr.6,sect.2",021.252.42.22,ralucaghionaru@gmail.com
+A0880,CMI PANDURU IRENE,PANDURU IRÉNE-TEODORA,"Aleea Lunguletu 6, Sector 2",0314250725,panduru.ireneteodora@yahoo.com
+A0881,CMI RADU LORETA,RADU LORETA,"Bd Nicolae Grigorescu 41, Sect 3","021.340.03.35 INT 139, 021.340.30.60",loretaradu@gmail.com
+A0883,CMI BORDUSELU MATILDA,BORDUSELU MATILDA,"Str Pictor Gheorghe Tăttărescu Nr. 2, Sect 3",021.324.19.59,doctor.borduselu@gmail.com
+A0886,CMI VASILESCU CRISTINA,VASILESCU CRISTINA,"Str Drumea Radulescu 16-18 , Sect 4",0786.377.572,cvasilescu07@gmail.com
+A0888,CMI GEORGESCU MONICA VIRGINIA,GEORGESCU MONICA VIRGINIA,"Strada C. F. Robescu nr. 17, sector 3",0722.43.31.88,"eomaria@yahoo.com, georgescumonicavirginia@yahoo.com"
+A0890,CMI JURCA DAN,JURCA DAN,"Calea Dorobantilor 32A, Corp A, Parter, Sect 1",021.210.10.68,jurca_dan2004@yahoo.com
+A0891,CMI TANASESCU OCTAVIAN CORNELIU,TANASESCU OCTAVIAN CORNELIU,"Al Lunguletu 6, Sect 2",0721.815.832,o_tanasescu@yahoo.com
+A0892,CMI MIRGORODSCHI SIMONA,MIRGORODSCHI SIMONA,"Bd.Nicolae Grigorescu nr.41,sect.3",021.340.22.66,simonamirgo@gmail.com
+A0893,CMI RĂDUCANU GETA ELENA,RADUCANU GETA ELENA,"Strada Irimicului nr.  2, sector 2",021.242.02.21,geta.raducanu@gmail.com
+A0894,CMI GRIGORESCU MARIANA,GRIGORESCU MARIANA,"Bd Ion Mihalache 106, Sect 1","021.224.09.07, 0724.240.453",mariana_grigorescu67@yahoo.com
+A0895,CMI BUCUREI ALINA CRISTINA,BUCUREI ALINA CRISTINA,"Str Irimicului 2, Sect 2","021.242.52.40, 0722.646.362",alina.bucurei@yahoo.com
+A0897,CMI SOARE ILONA,SOARE ILONA,"Strada Spatar Preda Buzescu nr. 34, sector 4",021.332.50.16,ilonasoare@yahoo.com
+A0898,CMI RISTACHE VERONICA MONICA,RISTACHE VERONICA MONICA,"Bd. Ion Mihalache 106, Sect 1",021.224.12.45,m_lateata@yahoo.com
+A0900,CMI MILEA VIORICA,MILEA VIORICA,"Strada Pravat 12, Sector 6",0217450199,ionelmilea@yahoo.com
+A0901,CMI VOICESCU SIMONA GABRIELA,VOICESCU GABRIELA-SIMONA,"Aleea Raul Sadului nr.1, Etaj 1, Sect 4","021.683.60.60,0740.16.12.54",dr.simona.voicescu@gmail.com
+A0902,CMI VLĂDESCU VIORICA STELUŢA,VLĂDESCU VIORICA STELUŢA,"Bd. Timisoara Nr. 15, Sect. 6",021.440.01.91,drvioricavladescu@gmail.com
+A0903,CMI CORNEA ANA DELIA,CORNEA ANA DELIA,"Str.Nada Florilor nr.19,sect.2",021.688.51.55/0724.207.003,cornea.delia@gmail.com
+A0904,SC AMEL- MED SRL,STOENESCU LILIANA,"Strada Alunisului nr.  180, bloc 1, apartament 161, sector 4",021.685.22.32,stoenesculiliana@yahoo.com
+A0906,SC SANMED 2001 SRL,DRAGUSIN IZABELA,"Str.General Petre Popovat nr.15, sect.6",021.223.92.58,"sanmed2001@yahoo.com, sanmed.contabilitate@yahoo.com"
+A0906,SC SANMED 2001 SRL,DIACONU ALINA NICOLETA,"Str.General Petre Popovat nr.15, sect.6",021.223.92.58,sanmed2001@yahoo.com
+A0906,SC SANMED 2001 SRL,TABARAS IULIANA,"Str.General Petre Popovat nr.15, sect.6",021.223.92.58,sanmed2001@yahoo.com
+A0909,CMI ZAMFIR LIVIA,ZAMFIR LIVIA,"Str.Pravat nr.12,sect.6",021.754.01.99,dr_livia_mihaela_zamfir@yahoo.com
+A0910,CMI DAMIAN MARICICA,DAMIAN MARICICA,"Soseaua Pantelimon nr.292, Sector 2, Bucuresti","0729.59.35.63,0723.61.03.72",damianmaricica@yahoo.com
+A0911,CMI ALBU SIMONA,ALBU SIMONA,"Strada Raul Sadului 1, Sect 4",0751.147.381,simonaa29@yahoo.com
+A0912,CMI FLORESCU ROXANA,FLORESCU ROXANA BEATRICE,"Bd Nicolae Grigorescu 41, Sect 3",021.341.11.01,cmiroxanaflorescu@gmail.com
+A0915,CMI ANGHEL MARINELA,ANGHEL MARINELA,"Bulevard Pictor Nicolae Grigorescu nr.41, cab.103,Sector 3","0314.37.96.63,0728.02.02.64",marinela.anghel@gmail.com
+A0919,CMI NITA RODICA,NITA RODICA,"Strada Profesor Grigore Cobalcescu 2, Sector 1",021/315.6022,nitarody@yahoo.com
+A0920,CMI LICA CLEOPATRA,LICĂ CLEOPATRA,"Strada Dreptatii nr.2, Sector 6","021/430.59.39,0722.221.36.54",cleopatra.lica@yahoo.com
+A0930,CMI SERB ELENA,SERB ELENA,"Bd. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",0723.752.550,adrian.gabriel.serb@gmail.com
+A0933,CMI BEJAN GABRIEL,BEJAN GABRIEL,"Cal. Dudeşti Nr. 104-122, Et. 1, Ap. 161, Sect 3",021.326.47.81,crrsty1@yahoo.com
+A0935,CMI LAZARESCU MARIANA,LAZARESCU MARIANA,"Al Botorani 13, Bl V44, Sc 1, Ap 2, Sect 5",0788.465.718,dr.lazarescu@yahoo.it
+A0938,SC RYTMOMED SRL,IVASCU CRISTINA,"Str Popa Tatu 35, Sect 1",021.233.40.40,rytmomedsrl@yahoo.com
+A0938,SC RYTMOMED SRL,APOSTOL RALUCA,"Str Popa Tatu 35, Sect 1",021.233.40.40,rytmomedsrl@yahoo.com
+A0946,CMI MATICA ADRIANA,MATICA ADRIANA,"Str Magura Vulturului 87, Parter, Cabinet 1, Sect 2",0720.764.287 031.711.15.17,adrian_dica@yahoo.com
+A0949,SC MEDCENTER SRL,SIMION MIHAELA,"Str.Col.Iosif Albu nr.62A,parter,sect.3","0314.25.36.00,0723.28.64.44",mihaela.simion@medcenter.ro
+A0950,SCM DR VOINOIU,VOINOIU LIDIA,"Bd Lacul Tei 77, Sc B, Ap 17, Sect 2",021.243.27.21,lidia_voinoiu@yahoo.com
+A0952,CM PRO FAMILIA SRL,PETRESCU LORENA CORNELIA,"Strada Serg. Ion Iriceanu 18, Bloc 160, Scara 1, Ap.4, Parter, Sect 4","0722.546.429, 021.334.85.75",cabinet.profamilia@yahoo.com
+A0952,CM PRO FAMILIA SRL,PETRE MARILENA LILIANA,"Bd Constantin Brancoveanu 18, Bloc B7, Scara 3, Ap.57, Parter, Sect 4","0722.546.429, 021.334.85.75",cabinet.profamilia@yahoo.com
+A0953,CMI SCORTA IULIAN,SCORŢA IULIAN,"Strada Secuilor nr.4, bl.22,sc. 2, ap.22 Sector 4","021/332.30.14,0723.94.94.52",cmi_scorta_iulian@yahoo.com
+A0954,CMI IORDACHE ROSCIUPCHIN ISABELLE LUMINITA,IORDACHE ROSCIUPCHIN ISABELLE LUMINITA,"Str Lunguletu 6, Tronson A, Bl D14, Cabinet 3, Sect 2",0723.337.384,isaiordache@yahoo.com
+A0955,CMI SEICHEA COZETTE,SEICHEA COZETTE,"Str Silvestru 37, Sect 2",021.210.01.24,seicheacozette@gmail.com
+A0957,CMI TOADER IRINA,TOADER IRINA,"Str Giuseppe Garibaldi 20, Sect 2",0729.079.553,irinat83@yahoo.com
+A0968,CMI AILENEI GABRIELA SILVA,AILENEI GABRIELA SILVA,"Sos. Alexandria Nr. 7A, Bl 12, Sc. C, Ap. 33, Sect. 5",0721.249.129,aileneigabriela@yahoo.com
+A0969,CMI GALAMIJ CAMELIA,GĂLĂMÎJ CAMELIA,"Str.Baltaretului nr.17-21,parter, sect.5","031.424.60.69,0788.22.62.69",cameliagalamij@yahoo.com
+A0971,SC SF.ALEXANDRU SRL,PREDA ELENA,"Str.Dreptatii nr.2C, sect.6",021.771.53.03/0726.190.756,"cmsfalexandru@yahoo.com, office@sfalexandru.ro"
+A0972,SC DELMAR MED SRL,MOREA DELIA,"Str Panselelor 6, Bl 142, Sc 2, Ap 56, Sect 4",021.636.47.55,delmarmed2003@gmail.com
+A0972,SC DELMAR MED SRL,MOREA MARIAN,"Str Panselelor 6, Bl 142, Sc 2, Ap 56, Sect 4",021.636.47.55,delmarmed2003@gmail.com
+A0973,CMI TALMACIU MIOARA,TALMACIU MIOARA,"Str. Tesatoarelor 33, Sector 2",0212424106   0729048846,talmaciumioara@yahoo.com
+A0975,SC PETRIMED SRL,PETRE FLOAREA,"Strada Sg. Gheorghe Donici nr.5, P, Sector 5","021/424.95.19,0742.20.32.72",dr.laurentiupetre@gmail.com
+A0975,SC PETRIMED SRL,PETRE IOAN-LAURENŢIU,"Strada Sg. Gheorghe Donici nr.5, P, Sector 5","021/424.95.19,0742.20.32.72",dr.laurentiupetre@gmail.com
+A0977,SC OCTAVIA MEDICAL SRL,SCUTUROIU RUXANDRA ISABELA,"Str Lainici 13, Sect 1",0733.246.246,daiaoctaviana@gmail.com
+A0977,SC OCTAVIA MEDICAL SRL,DAIA  OCTAVIANA,"StrLainici 13, Sect 1",0733.246.246,daiaoctaviana@gmail.com
+A0982,SC VITAL SANOMED SRL,SAVU DANA-CORNELIA,"Bulevard 1 Decembrie 1918 29C, Bloc PM80, Apartament 1, Sector 3",0735596567,danacornelia@yahoo.com
+A0983,CMI MIREA CONSTANTA,MIREA CONSTANŢA,"Str. Pictor Gheorghe Tattarescu nr.10, Sect. 3","021/324.35.48,0723.17.79.90",dr_mirea@yahoo.com
+A0984,CMI BUDICA GABRIELA LIANA,BUDICĂ GABRIELA-LIANA,"Bld. Pache Protopopescu nr.49,Sect 2","031/425.06.07,0788.37.16.30",glbudica@yahoo.com
+A0985,SC PRACTIMED 2013 SRL,PÎRCĂLABU ELENA-MARINA,"Str.Piata Natiunilor Unite nr.3-5,bl.Turn,sect.4","0374.98.61.20,0723.27.91.78",dr.pircalabu@yahoo.com
+A0986,SC FAMILY MED SRL,ANDREI MARIANA,"Str.Suzana nr.7, corp A, etaj1,cam.1-5 Sect 5","021.420.60.55,0723.68.07.08",famillymed@yahoo.com
+A0988,CMI RAPITEANU CARMEN,RAPITEANU CARMEN,"Str Apusului 63, Sect 6",0742.207.707,carmenrapit@yahoo.com
+A0995,CMI ELIESCU ADRIANA,ELIESCU ADRIANA,"Aleea Băiut nr.9A, bl. C36, sc. 5, ap. 178 ,Sector 6","0740.66.01.10,0311002100",adriana.eliescu@yahoo.com
+A0997,CMI STOICA MANUELA ANCA,STOICA MANUELA ANCA,"Str. Drumul Taberei 92, Bl C7,Sc C, Ap.81, Sector 6",0217780100    0727915158,ancas36@yahoo.com
+A1004,CMI MATEESCU MIRCEA,MATEESCU MIRCEA,"Strada Ardeleni nr. 3A, parter, cab. 2, sector 2",021.318.89.46,mircea.mateescu@yahoo.com
+A1007,SC MED COR PLUS SRL,SCHEPP AURA-CORINA,"Strada Arhitect Ion Berindei 7, Bloc Od21C, Scara H, Apartament 311, Sector 2",0216874392,corina_schepp@yahoo.com
+A1012,CMI MINA MADALINA,MINA MADALINA,"Sos. Ştefan cel Mare Nr. 23, Bl. 23, Parter, Sect. 2",021.211.40.33,mina3madi@yahoo.com
+A1013,CMI NEGRU NICOLETA,NEGRU NICOLETA,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0742955553,nicoleta_negru@yahoo.com
+A1015,SC CABINET DANAMED SRL,CĂŞĂRIU ELENA-DANIELA,"Strada Vicina nr.25A şi 25C,bl.1,sc.1, parter, ap.1 ,Sector 5","0743.630.035 , 021/424.04.94",elenadanielacasariu@yahoo.com
+A1015,SC CABINET DANAMED SRL,ANDREI IONELA ALINA,"Strada Vicina nr.25A şi 25C,bl.1,sc.1, parter, ap.1 ,Sector 5","0752.44.95.29 , 021/424.04.94",elenadanielacasariu@yahoo.com
+A1021,SC ALEXIS MEDICAL COMPLEX SRL,MUNTEANU GEANINA-MARIA,"Strada Jean Louis Calderon nr.45, Ap.1, Sector 2",0752.19.01.51 ; 021/310.04.58,cma@alexis-medical.ro
+A1023,CMI CADARU MIRCEA VICTOR,CADARU MIRCEA VICTOR,"Sos Berceni 22, Bl 6, Sc 1, Ap 3, Sect 4","0721.632.171, 021.334.67.61",cmicadaru@yahoo.com
+A1029,CMI CALINESCU MIHAELA,CALINESCU MIHAELA,"Calea 13 Septembrie nr.207,sect.5",021.317.46.98,m.calinescu@yahoo.com
+A1035,SC DELMED SAN SRL,GRIGORE ADRIANA PETRUTA,"Str Caraiman 65, Et 1,, Cab 3, Sect 1",021.224.74.00,grigoreadi@yahoo.com
+A1036,SC MEDICUL CASEI SRL,BUTNARIU ANCA,"Bd. Iuliu Maniu Nr. 7, Bl. G, Sc. 3, Ap. 20, Sect. 6",031.432.81.44,mediculcasei@yahoo.com
+A1040,SOC MEDICALA EU SRL,NICA EUGENIA,"Strada Păduroiu  nr. 2, bloc B23, sc.4, apt.100,  sector 4",021.636.76.26,eugenianica@ymail.com
+A1050,SCM ALEXANDRESCU CRISTIAN SI DANIELA,ALEXANDRESCU DANIELA,"Str Independentei Nr. 290, Bl P7, Et P, Sect 6",021.402.83.46,danalex61@yahoo.com
+A1054,SC PULSAB  CABINET MEDICINA DE FAMILIE SRL,SABAU LUCIAN,"Str. Brasov nr. 16, Bl. 3S14, Ap. 8, Sect. 6",021.413.34.07,colmedsab@yahoo.com
+A1069,SC GRAL MEDICAL SRL,UNGUREANU CONSTANŢA,"Strada Traian Popovici nr.79-91,sect 3","021/323.00.00,0723.11.88.80",office@gralmedical.ro
+A1069,SC GRAL MEDICAL SRL,SCARLAT RUXANDRA-LAURA,"Strada Traian Popovici nr.79-91,sect 3","021/323.00.00,0723.11.88.80",office@gralmedical.ro
+A1069,SC GRAL MEDICAL SRL,ORBAN SANDA,"Sos.Stefan cel Mare nr.230,bl.46,parter,sect.2","021/317.83.95, 0723.26.00.05",office@gralmedical.ro
+A1069,SC GRAL MEDICAL SRL,CHELĂRESCU DORINA,"Sos.Stefan cel Mare nr.230,bl.46,parter,sect.2","021/317.83.95, 0723.26.00.05",office@gralmedical.ro
+A1073,CMI DIAC DANA,DIAC DANA,"Bd.1 Decembrie 1918 nr.29C,bl.PM80,sc.A,ap.1,sect.3",021.345.36.39,cmidiacdana@yahoo.com
+A1074,CMI MARINESCU GEORGETA,MARINESCU GEORGETA,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0755104670,marinescugeorgeta2015@yahoo.com
+A1079,SC ROMEDICA LIFE SRL,MĂRGINEAN DANIELA-FLORINA,"Bulevard Iuliu Maniu 7, Sector 6",0215555433,dr_marginean@yahoo.com
+A1081,CMI ANDREESCU LUCIA CARMEN,ANDREESCU LUCIA-CARMEN,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0310050033,andreescu_68carmen@yahoo.com
+A1088,CMI CONSTANTINESCU MERI CLAUDIA,CONSTANTINESCU MERI-CLAUDIA,"Strada Dreptatii 2, Sector 6",0214300980,claudiaconstantinescu26@yahoo.com
+A1090,SC ALBU DUMITRU CONSULT SRL,ILIOIU GABRIELA-AUGUSTINA,"Str.Dumbrava Noua nr.9,bl.M16A,sc.1,ap.2,sect.5","021.420.53.23,0723.50.71.31",dumitru.albu@yahoo.com
+A1091,CMI FRUMOSU VIORICA,FRUMOSU VIORICA,"Str. Mihail Sebastian Nr. 17, Bl S21, Sc.1, Et. Parter, Ap. 2, Sect. 5",0721.670.227,viorica.frumosu@yandex.com
+A1108,CMI FRASIN RALUCA NICOLETA,FRASIN RALUCA NICOLETA,"Cal. Plevnei Nr. 137C, Bl. C23, Sc. CORP A D, Et. Parter, Ap. 14 Sect. 6",0735.781.181,raluca_frasin@yahoo.com
+A1113,CMI MATEICIUC GHEORGHE,MATEICIUC GHEORGHE,"Bd. Iuliu Maniu 7, Corp G, Et. 1, Cab.12, Sect. 6",0766.770.251,dr.mateiciucgheorghe@yahoo.com
+A1119,SC CLINICA DR ANTOHE SRL,ANTOHE ADRIANA,"Str. Amman 4, Bl. 4, Sc. A, Et. Parter, Ap 1, Sect. 1",021.233.85.47,adriana.antohe@gmail.com
+A1124,CMI VASILE SIMONA,VASILE SIMONA,"Str.Avrig nr.9-19,sect.2",0733.132.815,simona_maria44@yahoo.com
+A1144,CMI BELDESCU CRISTINA,BELDESCU CRISTINA,"Bd. Eroii Sanitari 35B, PARTER, Apartament CAB 2 Sector 5, Bucureşti",720152137; 0214109284,cribeldi@yahoo.com
+A1147,CMI MATEI AMALIA,MATEI AMALIA,"Cal. 13 Septembrie 197, Sect. 5",0721.352.550,amaliamatei9@gmail.com
+A1149,CMI DUMITRESCU RUXANDA,DUMITRESCU RUXANDA,"Bd. Iuliu Maniu Nr. 7, Corp G, Et. 1, Cab. 3, Sect. 6",031.426.04.77,ruxanda67@gmail.com
+A1155,CMI MANCA RUCSANDRA,MANCA RUCSANDRA MARINA,"Calea Dorobantilor 32A, Sector 1",0722569696,rucsandramarina@yahoo.com
+A1161,ANDREIAS & BUCICA GRUP SRL,BUCICA VIOLETA,"Strada Sold. Savu Marin nr. 27, sector 2",021.255.26.29,bucica.violeta@gmail.com
+A1161,ANDREIAS & BUCICA GRUP SRL,COVIC TEODOR EMIL,"Strada Sold. Savu Marin nr. 27, sector 2",021.255.26.29,bucica.violeta@gmail.com
+A1163,SCM DR.DANILA ADRIANA SI EUGEN,DĂNILĂ EUGEN,"Soseaua Chitilei nr.115,sect.1","021.667.60.87,0722.41.40.16",scmdanila@gmail.com
+A1166,SC MEDICOR INTERNATIONAL SRL,GHEORGHE ALINA-IULIANA,"Bld. Alexandru Obregia 20, Bloc 20Bis, Sect 4","021.460.98.48,021.460.98.88","nita_razvan@yahoo.com,nicu_costel@yahoo.com"
+A1169,CMI BARBU GABRIELA,BARBU GABRIELA,"Bd. Basarabia 73, Bl. A18, Ap. 2, Sect. 2",021.340.44.70,gabriela.barbu30@gmail.com
+A1171,CMI TARCIUC PETRUTA,TARCIUC PETRUTA,"Al. Cricovul Dulce Nr. 11, Sect. 4",0724.139.873,petrutatarciuc@yahoo.com
+A1172,SC KIRU CARE SRL,CHIRULESCU CĂTĂLINA,"Strada Sg. Cuibaru Ion nr.16-22, Sector 3","021/345.07.10,0723.28.84.72",kiru.care@gmail.com
+A1172,SC KIRU CARE SRL,STĂNESCU DANIEL,"Strada Sg. Cuibaru Ion nr.16-22, Sector 3","021/345.07.10,0723.28.84.72",kiru.care@gmail.com
+A1172,SC KIRU CARE SRL,MITRICĂ ALINA,"Strada Sg. Cuibaru Ion nr.16-22, Sector 3","021/345.07.10,0723.28.84.72",kiru.care@gmail.com
+A1189,CMI POP MARIA,POP MARIA,"Bld. Pache Protopopescu nr.49,Sect 2","0770.62.44.44,0723.62.44.44",mariapop74@yahoo.com
+A1190,CMI PETRESCU SILVIA,PETRESCU SILVIA,"Str.Aviator Protopopescu nr.1,bl.C6,ap.4,sect.1",021.230.05.23,sanorex@gmail.com
+A1191,SC SANADI FORTUNE SRL,URECHE VIOLETA,"Str.Pravat nr.12,sect.6",021.894.44.22,"sanadifortune@yahoo.com, violetaureche@yahoo.com"
+A1195,CMI PARFENE CATALIN,PARFENE CĂTĂLIN,"Strada Drumul Taberei 124-126, Sector 6",0753055525,parfene.doc@gmail.com
+A1200,CMI COJOC GABRIELA,COJOC GABRIELA,"Str. Sapientei 5, Sect. 5",021.313.27.47,gabriela.cojoc@yahoo.com
+A1201,SC GHENCEA MEDICAL SA,ŞTEFAN CRISTINA-MIRELA,"B-dul Ghencea nr.43B, Sector 6",0756.045.204 ; 021/440.3488,office@ghenceamedicalcenter.ro
+A1201,SC GHENCEA MEDICAL SA,PĂDEANU ANCA-EUGENIA,"B-dul Ghencea nr.43B, Sector 6",0756.045.204 ; 021/440.3488,office@ghenceamedicalcenter.ro
+A1201,SC GHENCEA MEDICAL SA,GAVRILĂ ANGELA-RALUCA,"B-dul Ghencea nr.43B, Sector 6",0756.045.204 ; 021/440.3488,office@ghenceamedicalcenter.ro
+A1201,SC GHENCEA MEDICAL SA,GAVRILĂ ILEANA-ROXANA,"B-dul Ghencea nr.43B, Sector 6",0756.045.204 ; 021/440.3488,office@ghenceamedicalcenter.ro
+A1203,CMI GIRCU ELENA,GIRCU ELENA,"Sos. Panduri Nr. 20B, Et. 1, CAM 20 si 22, Sect. 5",0723.371.656,li3ana@yahoo.com
+A1205 ,SC INTERNATIONAL MEDICAL CENTER SRL,PETRARU TEODORA,"Prelungirea Ghencea nr.65B, BL.C1,Sect.6",021.777.55.70,shahermohamed@yahoo.com
+A1205 ,SC INTERNATIONAL MEDICAL CENTER SRL,DINCULESCU GABRIELA,"Prelungirea Ghencea nr.65B, BL.E,sect.6","021.777.55.70,0722.70.01.22","shahermohamed@yahoo.com , dinculescu.gabriela@yahoo.com"
+A1205 ,SC INTERNATIONAL MEDICAL CENTER SRL,VASILIADE ALICE-MARIA,"Prelungirea Ghencea nr.65B, BL.E,sect.6","021.777.55.70,0726.78.37.94","shahermohamed@yahoo.com, vasiliade.alice@yahoo.com"
+A1218,CMI RUXANDRA MIHAELA LAVINIA,RUXANDRA MIHAELA-LAVINIA,"Calea Victoriei nr.14,Lipscani 19, Parter, Sector 3","021/314.89.67,0740.67.78.08",laviniaruxandra@yahoo.com
+A1221,CMI FERESTEANU MONICA DANIELA,FEREŞTEANU DANIELA-MONICA,"Str. Clabucet nr.4-6, Sect 1","021/224.09.03,0721.26.64.75",monica_feresteanu@yahoo.com
+A1222,CMI MARCU DOINA,MARCU DOINA,"Calea Vacaresti nr.  280, bloc 67, sc.A,  Ap. Cab. 3, etaj parter,  sector 4",0755.74.23.52,cmimarcudoina@yahoo.com
+A1225,SC MEDCLINIC FAMILY SRL,NITU CLAUDIA,"Str Dreptatii 5, Bl M22A, Sc 2, Et 7, Ap 68, Sect 6",021.433.01.45,claudiacascarade@yahoo.com
+A1229,CMI LAZARESCU MARIA ROXANA,LAZARESCU MARIA ROXANA,"Str Iancu Jianu 9, Bl M180, Sc 1, Ap 3, Sect 5",021.423.44.75,olteanu_doc@yahoo.com
+A1231,CMI DAN SANDA MARIA,DAN SANDA-MARIA,"Calea Vitan nr.225, Bl.2, sc.1,Ap.1, Sector 3","021/340.02.22,  0721.27.74.89",dan_sanda1966@yahoo.com
+A1235,SC LABORETICA SRL,TRASCU IOAN RAZVAN,"Str. Ziduri Intre Vii nr.19, Corp B, Parter, spatiile nr.2, nr.3, nr 4 nr.5., Sect. 2",021.252.04.43,laboretica@gmail.com
+A1236,SC SANIFORT SRL,STROE MIHNEA VALENTIN,"Bd Al. Obregia 10-14, Bl 10-14, Sc 3, Ap 91, Sect 4",021.460.09.20,mihnea_stroe@yahoo.com
+A1239,SC MEDFAM CONSULTING SRL,PATRU BOGDAN,"Soseaua Giurgiului nr. 46, sector 4",0723.64.57.01,drpatrub@gmail.com
+A1241,CMI CIOLOMPEA DANUT FLORIN,CIOLOMPEA DANUT FLORIN,"Bd.1 Decembrie 1918, nr.35, Bl.L14, Sc.6,Ap.224, Sector 3",371046867    0722290209,dan.ciolompea@gmail.com
+A1247,CMI PISLARU MARIUS,PÎSLARU MARIUS-AUGUSTIN,"Bulevard 1 Decembrie 1918 35, Bloc L14, Scara 6, Apartament 224, Sector 3",0314326729,mariuspislaru74@gmail.com
+A1251,CMI NEDEF MONICA VALERIA,NEDEF MONICA-VALERIA,"Strada Trei Scaune nr.29, Sector 2",0745.58.42.94,nedefmonica@yahoo.com
+A1253,CMI DUMITRESCU ANA MARIA,DUMITRESCU ANA MARIA,"Str. Trei Scaune Nr. 29, Sect. 2",021.243.15.84,anamaria.dumitrescu@hotmail.com
+A1264,CMI POPESCU CLAVINIA ELENA,POPESCU CLAVINIA ELENA,"Str. Sebastian nr.17, Bloc S21, Scara 1, Etaj PARTER, Ap.1, Sector 5",0766.64.65.23,clavinia_popescu@yahoo.com
+A1272,CMI SIPOS MAGDA,SIPOS MAGDA,"Sos.Pantelimon nr.292,corp C, et.1,sect.2",021.255.07.07,magda.sipos@yahoo.com
+A1280,CMI APETROAE MONICA,APETROAE MONICA,"Intrarea Capelei 1A, Sector 6",0721204558,monica_apetroae@yahoo.com
+A1282,CMI POPESCU ANA PATRICIA,POPESCU ANA PATRICIA,"Sos. Salaj Nr. 249, Sect. 5",021.423.31.81,cmipopescuana@gmail.com
+A1283,CMI JUGRAVU MONICA,JUGRAVU MONICA-ROXANA,"Sos Pipera 48, Sect 2",0723.397.457,monicajugravu@yahoo.com
+A1284,CMI SAMOSCHI IULIANA,SAMOSCHI IULIANA,"Drumul Drumul Intre Tarlale 130, Sector 3",0748483246,iuliana.samoschi@gmail.com
+A1285,CMI OPRISAN ANCA CRISTINA,OPRISAN ANCA CRISTINA,"Sos. Giurgiului Nr. 65, Et. 2, Cab. 3, Sect. 4",0749.114.046,acoprisan@yahoo.com
+A1286,CMI DRAGHICI MIHAELA LUCIA,DRAGHICI MIHAELA LUCIA,"Calea Serban Voda nr.  232-234,  sector 4",0723.78.28.75,dr.draghici.mihaela@gmail.com
+A1289,CMI POPOVICI SMARANDA,POPOVICI SMARANDA,"Strada Nada Florilor 5, Bloc 5, Scara 2, Apartament 48, Sector 2",0216874562,smarapopovici@gmail.com
+A1290,CMI CRISTINA CARMEN VIRGINIA,CRISTINA CARMEN-VIRGINIA,"Bd. Iuliu Maniu nr.7, Corp Cladire G, Ap. 18B ,Sector 6",0722.12.16.59,carmencristina18@yahoo.com
+A1300,CMI MARICA OANA ROXANA,MARICA OANA-ROXANA,"Str. Giuseppe Garibaldi nr.20, Sect 2",0722.27.70.53,ioana_roxana2002@yahoo.com
+A1301,CMI DRAGOMIR AMALIA MARILENA,DRAGOMIR AMALIA MARILENA,"Str. Clăbucet Nr. 4 - 6, Ap. 3, Sect. 1",0744.302.061,amalia_0109@yahoo.com
+A1302,CMI BELU VICTORIA VIORICA,BELU VICTORIA VIORICA,"Strada Trei Scaune nr. 29, sector 2",021.242.17.70,beluvictoria@yahoo.com
+A1305,CMI CRACIUN VALENTIN,CRĂCIUN VALENTIN,"Soseaua Pantelimon 292, Sector 2",0372796781,dr.craciunvalentin@yahoo.com
+A1309,CMI VOICU RĂZVAN PETRE,VOICU RĂZVAN PETRE,"Sos Giurgiului Nr. 46, Sect 4",0723.012.261,razvan_voicu78@yahoo.com
+A1312,CMI RUSU ANDREI MIHAI,RUSU ANDREI MIHAI,"Bd.Primaverii nr.9,parter,cab.2 si 3,sect.1",0219607,totirusii@gmail.com
+A1318,CMI PATRICHE CAMELIA,PATRICHE CAMELIA,"Str. Râmnicu Vâlcea Nr. 14-16, Bl. 33-34 A, Et. Parter,  Sect. 3",0723.330.794,camy.leu@gmail.com
+A1320,CMI GOLIA DORINA,GOLIA DORINA,"Str.Trei Scaune nr.29,sect.2",021.24.24.111,dorinagolia@yahoo.com
+A1321,SCM MEDICIS,MARTON CAMELIA,"Strada Subcetate nr.45, Sector 1","0722.29.54.09,021.668.24.44",macadoc@hotmail.com
+A1322,FUNDATIA GERON,NITULESCU ZORA ALICE,"Cal. Ferentari Nr. 17, Et. Parter, Sect. 5",021.423.23.40,fundatiageron@gmail.com
+A1322,FUNDATIA GERON,GRECU SADINA,"Cal. Ferentari Nr. 17, Et. Parter, Sect. 5",021.423.23.40,fundatiageron@gmail.com
+A1323,CMI UDRESCU MIHAELA,UDRESCU MIHAELA,"Str. Maior Vasile Bacila Nr. 39, Bl. 34A, Sc. 1, Ap. 3, Sect. 2",021.240.47.81,cabinet@drudrescu.ro
+A1325 ,SC AVESTA MEDICAL SRL,NEACŞU NICOLETA-LUMINIŢA,"Strada Pietei nr.83,cam 1-6,8-11,sect.1","021/668.58.86,0723.61.08.76",avestamedical@yahoo.com
+A1328,SC CAH SF.PANTELIMON SRL,SANDU RĂZVAN-THEODOR,"Bulevard Pictor Nicolae Grigorescu 41, Sector 3",0213400335/int.192,ddraganesc@yahoo.com
+A1329,SC AIS CLINICS&HOSPITAL SRL,PANAITE RODICA-LUMINIŢA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,PĂTRU ALICE-MARIA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,BRAŞOVEANU NICOLAE,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,BAJDU FLORINA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,RĂDUCEA CORINA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,VOICU ELIZA-CRISTINA,"Str.9 MAI nr.2,bl.20A, parter,sector 6","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,MARGINEANU GABRIELA ANA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,ARAMĂ DANIELA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,ZAMFIR DANIELA-IONELA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,COSTACHE MIHAELA,"Calea Rahovei nr.323, bl.26 , parter, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,RADU CRISTIAN-GABRIEL,"Str.9 MAI nr.2,bl.20A, parter,sector 6","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,PARAIANU VICTORIA,"Șos.Alexandriei nr.144 , sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,TĂTARU RODICA,"Calea Rahovei nr.323, bl.26 , parter, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,ZARJITCHI NATALIA,"Calea Rahovei nr.323, bl.26 , parter, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,FARCAU MIHAELA GABRIELA ,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1329,SC AIS CLINICS&HOSPITAL SRL,CORNIA RAZVAN,"Str.9 Mai nr.2, bl.20A,Parter,sect.6","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1330,CMI TUCA DAN OVIDIU,ŢUCĂ DAN-OVIDIU,"Strada Sold. Marin Savu nr.27, Sect 2","021.653.01.26,0723.26.50.74",tuca_ovidiu@yahoo.com
+A1332,CMI NEAGU MARIA CRISTINA ROXANA,NEAGU MARIA CRISTINA ROXANA,"Bd. Pache Protopopescu Nr. 49, Sect. 2",021.252.32.50,doc.neagucristina@yahoo.com
+A1333,CMI SAVOIU IRINA MAGDALENA LAVINIA,SAVOIU IRINA MAGDALENA LAVINIA,"Str. Avrig Nr. 9-19, Bl. U1, Sc. 2, Sect. 2",021.252.55.52,irina_savoiu@yahoo.com
+A1337,CMI SC SANICOL SERV SRL,COLGIU IOANA,"Al. Dealul Macinului Nr. 2, Bl. A41, Sc. F, Et. Parter, Ap. 76, Cabinet 1, Sect. 6",021.778.53.73,ioana_colgiu@yahoo.com
+A1338,CMI MANOLE ANGELA,MANOLE ANGELA,"Bulevard Iuliu Maniu 7, Sector 6",0730963730,angela.manole@yahoo.com
+A1340,SC CAVISANO SRL,SAVA RODICA MIHAELA,"Str General Berthelot 60-64, Sect 1","021.303.11.64, 0735.536.400",drrodicadin@yahoo.com
+A1348,CMI CAPSA NATALIA,CAPŞA NATALIA,"B-dul Natiunile Unite nr.3-5,bloc Turn,parter,sect.4","021/335.72.97,0723.11.32.63",capsha_natalia@yahoo.com
+A1353,CMI CINARU LILIANA,CINARU LILIANA,"Str Baba Novac 2, Sect 3","021.325.25.57, 0722.386.974",liliana_cinaru@yahoo.com
+A1358,SC ASTON CLINIC SRL,COSNEANU GEORGIANA STEFANA,"Strada Ramnicu Valcea 18, Bloc 33, Parter, Ap. 54, Sector 3",0723.517.707 ; 031/420.2603,clinic@astonclinic.com
+A1362,SC CLINICA PRIVATA DR.FILIP SRL,ARABU TRAIAN,"Str. Cpt. Eremia Popescu nr.21, Sect 4","0741.95.83.87,0741.78.80.89",clinicaprivatadrfilip@yahoo.com
+A1367,SC ROSANA MEDICAL SRL,ENACHE NICOLETA-PETRONELA,"Strada Valea Oltului 77-79, Etaj 1, Sector 6","0372.73.44.99,0726.77.92.56",contact@rosanamedical.ro
+A1367,SC ROSANA MEDICAL SRL,DRĂGHICI ROBERT-DANIEL,"Strada Valea Oltului 77-79, Etaj 1, Sector 6","0372.73.44.99,0726.77.92.56",contact@rosanamedical.ro
+A1373,SC SANADOR SRL,STEFANESCU DARCLEE,"Str Dimitrie Sergiu 26-28, Sect 1",021.96.99,frontdesk@sanador.ro
+A1373,SC SANADOR SRL,TRANCĂ ELENA RALUCA,"Bd. Decebal nr. 1, bl. H2, parter,  sector 3",021.96.99,frontdesk@sanador.ro
+A1375,CMI TURCU LILIANA NARCISA,TURCU LILIANA NARCISA,"Str. Dimitrie Cantemir Nr. 21, Bl. 4, Sc. G, Ap. 196,  Sect. 4",021.330.01.81,mihaelturcu@yahoo.co.uk
+A1379,CMI NAICU IULIAN AGRIPA,NAICU IULIAN AGRIPA,"Str. Clabucet Nr. 4-6, Sect. 1",021.666.53.67,cmi.iuliannaicu@yahoo.com
+A1380,SC STOMA PLUS SRL,DIDA ALINA IOANA,"Strada Iarba Campului 2, Etaj 1, Sector 4",0786.51.57.07,office@qmed.ro
+A1382,SC CLINICA MEDICALA HIPOCRAT 2000 SRL,PARVAN MIHAELA,"Bd Chisinau 16, Bl M7, Et P, Ap 1 si 41, Sect 2","021.255.51.78, 0721.287.310",hipocrat_2000@yahoo.com
+A1382,SC CLINICA MEDICALA HIPOCRAT 2000 SRL,ZAHARIA MIHAELA,"Bd Chisinau 16, Bl M7, Et P, Ap 1 si 41, Sect 2","021.255.51.78, 0721,287,310",hipocrat_2000@yahoo.com
+A1382,SC CLINICA MEDICALA HIPOCRAT 2000 SRL,BUSUIOCESCU IOANA MARIA,"Cal Rahovei 259, Sect 5","021.456.50.00, 021.255.51.78",hipocrat_2000@yahoo.com
+A1382,SC CLINICA MEDICALA HIPOCRAT 2000 SRL,PEPTEA ADRIANA,"Cal Rahovei 259, Sect 5","021.456.50.00, 021.255.51.78",hipocrat_2000@yahoo.com
+A1382,SC CLINICA MEDICALA HIPOCRAT 2000 SRL,CROITORU CRISTINELA,"Str Fantanica 22A-24, Sect 2","021.250.55.55, 021, 255.51.78",hipocrat_2000@yahoo.com
+A1382,SC CLINICA MEDICALA HIPOCRAT 2000 SRL,LĂZĂRICĂ VETA,"Cal Rahovei 259, Sect 5","021.456.50.00, 021.255.51.78",hipocrat_2000@yahoo.com
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,VELICEASA STEFAN,"Str Buzesti 75-77, Sect 1",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,BOCIOROAGA FLORINELA,"Str Buzesti 75-77, Sect 1",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,MUNTEAN RALUCA IOANA,"Sos Pipera 42, Bl Nucso Tower, Et 1, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,LUPEI IOANA RALUCA,"Str Buzesti 75-77, Sect 1",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,TELEIANU IOAN COLIN,"Str Buzesti 75-77, Sect 1",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,BUJOR ALINA EMILIA,"Str Buzesti 75-77, Sect 1",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,LUPASCU OANA CRISTINA,"Bd Iuliu Maniu 92D, Et 1 si 2, Sect 6",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,IONEL IOSIF,"Bd Iuliu Maniu 92D, Et 1 si 2, Sect 6",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,STEFANESCU MEREI LIVIU ALEXANDRU NICOLAE,"Bd Iuliu Maniu 92D, Et 1 si 2, Sect 6",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,BOZDOC RAMONA ELENA,"Bd Iuliu Maniu 92D, Et 1 si 2, Sect 6",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,CHIOTAN DANA IULIA,"Sos Pantelimon 245, Bl 51, Sc 2, Et  Mezanin, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,LUNGU GABRIELA,"Sos Pantelimon 245, Bl 51, Sc 2, Et  Mezanin, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,TOADER  ALEXANDRA OANA,"Sos Pantelimon 245, Bl 51, Sc 2, Et  Mezanin, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,TUDOR CARMEN,"Sos Pipera 42, Bl Nucso Tower, Et 1, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,ILIES CARMEN LILIANA,"Sos Pipera 42, Bl Nucso Tower, Et 1, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,DIMA ELENA CRISTINA,"Sos Pipera 42, Bl Nucso Tower, Et 1, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,ISTRATOIU LILIANA,"Sos Pipera 42, Bl Nucso Tower, Et 1, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,CIOCHINA CONSTANTIN EMANUEL,"Sos Pipera 42, Bl Nucso Tower, Et 1, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,STEFANESCU ALEXANDRA RODICA,"Sos Pipera 42, Bl Nucso Tower, Et 1, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,ANITEI VALENTINA,"Sos Pantelimon 245, Bl 51, Sc 2, Et  Mezanin, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,COMISELU DOINA,"Sos Pantelimon 245, Bl 51, Sc 2, Et  Mezanin, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,SIMIONESCU ELENA AMALIA,"Sos Giurgiului 94, Et 1, Sect 4",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,OANCEA MARIA MIRELA,"Sos Giurgiului 94, Et 1, Sect 4",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,PANA ELENA,"Sos Pantelimon 245, Bl 51, Sc 2, Et  Mezanin, Sect 2",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,MITROFAN ALINA ELENA,"Bd Iuliu Maniu 92D, Et 1 si 2, Sect 6",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,TOADER NICOLAE,"Bd. Timisoara nr. 26Z, sector 6",021.201.10.90,office@clinica-anima.ro
+A1386,SC ANIMA SPECIALTY MEDICAR SERVICES SRL,GHEORGHIU MIHAELA,"Str Buzesti 75-77, Sect 1",021.201.10.90,office@clinica-anima.ro
+A1391,CMI CIORICI CAMELIA,CIORICI CAMELIA,"Sos. Pantelimon Nr. 292, Bl. Corp C, Et. 1, Cabinet 16, Sect. 2",021.255.07.07,cioricicamelia@yahoo.com
+A1392,CMI NEACSU VICTORIA,NEACŞU VICTORIA,"Piata Natiunile Unite nr.5-7, Corp D,cam 2 ,Sector 4",0726.15.88.52,dr_neacsu@yahoo.com
+A1394,CMI BOICEA ADINA ZORITA,BOICEA ADINA-ZORIŢA,"Bulevard Ing. Gheorghe Duca nr.10-22,  cab.11,Sector 1","021/260.06.11,0728.20.97.05",adinaispas@yahoo.com
+A1395,CMI RADU BIANCA LOREDANA,RADU BIANCA LOREDANA,"Strada Apusului nr.  63, sector 6",0723.58.07.64,biancaradu2007@yahoo.com
+A1395,CMI RADU BIANCA LOREDANA,RADU BIANCA LOREDANA,"Strada Apusului nr.  63, sector 6",0723.58.07.64,biancaradu2007@yahoo.com
+A1396,SCM MASINA DE PAINE ,BERBECEL COSMINA DANIELA,"Strada Masina de Paine nr. 47, sector 2",021.242.66.84,scm_masinadepaine@dr.com
+A1396,SCM MASINA DE PAINE ,BERBECEL COSMINA DANIELA,"Strada Masina de Paine nr. 47, sector 2",021.242.66.84/ 0745.981.562 (personal),scm_masinadepaine@dr.com
+A1398,CMI DIACONU IOANA ILINCA,DIACONU IOANA-ILINCA,"Strada Mihail Sebastian 137, Bloc V79, Scara 2, Apartament 38, Sector 5",0214101170,ioanaanghel7@gmail.com
+A1402,CMI BRATU NICOLAE,BRATU NICOLAE,"Strada Uranus 95, Sector 5",0214114737,nicu.bratu@yahoo.com
+A1403,CMI FULOP LAURA MARIA,FÜLÖP LAURA-MARIA,"Strada Focsani 5, Bloc M181, Scara 1, Parter, Ap.4, Sector 5",0722.93.88.93 ; 031/102.25.51,m26laura@yahoo.com
+A1404,CMI MACAROV BURNICHI FLORENTA,MACAROV BURNICHI FLORENTA,"Sos. Mihai Bravu Nr. 85-93, Bl. C16, Sc. D, Et. P, Ap. 3, Sect. 2",021.344.06.56,f_burnichi@yahoo.com
+A1405,CMI SAIDEL MIHNEA VICTOR,SAIDEL MIHNEA VICTOR,"Sos. Mihai Bravu Nr. 85-93, Bl. C16, Sc. D, Et. P, Ap. 3, Sect. 2",021.344.06.56,mihnea.saidel@yahoo.com
+A1406,S.C.MEDICOVER SRL,COSTACHE RUXANDRA,"Str.Grigore Alexandrescu nr.16-20,sect.1",021.310.16.88,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,GORONESCU MARIAN,"Str.Grigore Alexandrescu nr.16-20,sect.1",021.310.16.88,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,DOBRE ANCA LAVINIA,"Str. Sg. Constantin Ghercu nr.1A parter, sect.6",021.335.39.00,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,GORONESCU MADALINA,"Str.Grigore Alexandrescu nr.16-20,sect.1",021.310.16.88,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,APOSTOL RODICA,"Str.Grigore Alexandrescu nr.16-20,sect.1",021.310.16.88,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,VOIA GEORGETA,"Str.Grigore Alexandrescu nr.16-20,sect.1",021.310.16.88,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,ROSU MIHAELA RAMONA,"Bd.Preciziei nr.24, parter, cladire H5, sect.6",021.335.39.44,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,STAFIE IRINA CRISTINA,"Str.Grigore Alexandrescu nr.16-20,sect.1",021.310.15.99,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,FODOR DANIELA,"Str.Grigore Alexandrescu nr.16-20,sect.1",021.310.15.99 / 0724.299.323,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,PAUNESCU ALEXANDRU,"Str.George Constantinescu nr.2C, parter si et.1, sect.2",021.310.15.99 / 0724.299.323,office@medicover.ro
+A1406,S.C.MEDICOVER SRL,TRUSCA TEODORA,"Sos. Pipera nr.46D-46-48, cladirea de birouri B, sect.2",021.310.16..99,office@medicover.ro
+A1407,CMI PETRU GABRIEL,PETRU GABRIEL,"Str. Fainari 35, Etaj 2,Sect 2",0732.40.83.75,gabrielpetru1981@yahoo.com
+A1412,SC SKY A&A MEDICAL CENTER SRL,BĂRCĂNESCU MIHAELA,"Strada Baba Novac 11, Bloc G17, Scara 2, Etaj P, Ap 48 Sector 3","0758.88.75.67,0374.03.24.96",aamedicalcenter@gmail.com
+A1414,SC HIPERDIA SRL,NICOLESCU MADALINA STELIANA,"Str Ritmului 24, Sect 2",021.302.11.60,bucuresti.ritmului@hiperdia.ro
+A1416,CMI VLAD ELENA,VLAD ELENA,"Bld. Pictor Nicolae Grigorescu 41, cab.320,Sect 3",0723.18.65.39,elena_matinciu@yahoo.com
+A1417 ,CMI TAUTU CRISTIAN,TĂUTU CRISTIAN,"Str. Trei Scaune nr.29-31, Etaj 1,Sect 2","021/242.17.70, 0744.39.74.73",dr.tautu01@yahoo.com
+A1418,CMI ROMAN TARCINIU GEORGE COSMIN,ROMAN TARCINIU GEORGE COSMIN,"Calea Dudesti nr.104-122,sect.3",0731.364.306,cosmin.rt@gmail.com
+A1419,CMI GEORGESCU ADRIANA,GEORGESCU ADRIANA,"Strada Valea Doftanei 113, Etaj 1, Parter,  Sector 6",0722.70.22.74 ; 031/432.65.55,adrianageorgescu15@yahoo.com
+A1420,SC CM DOCTOR BUCUR ELENA SRL,BUCUR ELENA,"Strada Soldat Marin Savu 27, Sector 2",0314252172,lilbucur@gmail.com
+A1421,CMI  NEACSU ADELA SIMONA,NEACSU ADELA SIMONA,"Aleea Compozitorilor nr. 20, sector  6, ",0726.18.84.04,adelasimona72@yahoo.com
+A1421,CMI  NEACSU ADELA SIMONA,NEACSU ADELA SIMONA,"Aleea Compozitorilor nr. 20, sector  6, ",0726.18.84.04,adelasimona72@yahoo.com
+A1422,CMI PECEC RADU,PECEC RADU,"Sos.Stefan cel Mare nr.23,sect.2",021.210.52.35,cabinetdrpecec@gmail.com
+A1424,CMI IONESCU ION,IONESCU ION,Calea Dorobantilor nr.32A sect.1,0723.271.394,cmi.ionescu.ion@gmail.com
+A1425,SC CIUCHI & NICOLAU SRL,CIUCHI IUNIA,"Aleea Compozitorilor nr.20,Parter - cam.12, Et1 - cam.8  sect.6",021.746.05.74/0722.362.496,lilinicolau99@yahoo.com
+A1426,CMI PAVEL ROXANA,PAVEL ROXANA,"Str. Măgura Vulturului nr.87, et.1, cab.nr.7, Sect 2","0743.06.08.49, 0788.60.20.20",dr.roxana.pavel@gmail.com
+A1428,CMI ENESCU CRISTINA,ENESCU CRISTIANA,"Str. C.F.Robescu nr. 17, sector 3",021.313.17.00,dr.kitty1976@yahoo.com
+A1429,CMI STOIAN ALINA,STOIAN ALINA,"Str.Avrig nr.9-19,sect.2",0726.209.250,dr.trifualina@yahoo.com
+A1434,FUNDATIA SF.SPIRIDON -VECHI,POP ILEANA ANDA ,"Piata Natiunile Unite nr.5-7,sect.4",021.335.13.78/021.335.13.79,"clinica.sf.spiridonvechi@gmail.com, office@clinicasfspiridon.ro"
+A1434,FUNDATIA SF.SPIRIDON -VECHI,CHITICA DANA,"Piata Natiunile Unite nr.5-7,sect.4",021.335.13.78/021.335.13.79,"clinica.sf.spiridonvechi@gmail.com, office@clinicasfspiridon.ro"
+A1458,CMI ELISEI ADRIAN MIHAIL,ELISEI ADRIAN MIHAIL,"Bulevard Unirii 57, Bloc E4, Tronson 1, Mezanin, Camera 2,Sector 3",0723.188.713 ; 021/232.9400,adrian.elisei@premierclinic.ro
+A1459,CMI ACOSTACHIOAIE CORINA,ACOSTACHIOAIE CORINA,"Bulevard Basarabia 19, Etaj 2, in incinta Policlinicii Gomoiu, Etaj 2, Sector 2",0722.193.136 ; 021/684.7855,dr.corina50@yahoo.com
+A1460,CMI BERBECEL CRISTINA CATINCA,BERBECEL CRISTINA CATINCA,"Str. Trei Scaune Nr. 29-31, Et. 1, Sect. 2",021.795.06.82,catinca_frusina@yahoo.com
+A1461,CMI STELESCU MIHAI,STELESCU MIHAI-MIRCEA,"Strada Avrig 9-19, Bloc U1, Etaj P, Cab.9, Sector 2","0760.46.03.47,0744.40.44.33",mstelescu@yahoo.com
+A1462,CMI SORA MIHAELA CARMEN,SORA MIHAELA CARMEN,"Str.Drumea Radulescu nr.16-18,sect.4",0727.779.531,sora.mihaelacarmen@yahoo.com
+A1465,CMI ANDREESCU MARIA STEFANIA,ANDREESCU MARIA STEFANIA,"Str.Baba Novac nr.2,sector 3",0722.571.067,mariavladut@yahoo.com
+A1466,CMI KRENEK VERDET ANDREEA,KRENEK VERDET ANDREEA,"Str. Pictor Gheorghe Tattarescu Nr. 10, Et. 1, Cab. 1, Sect. 3",021.324.69.80,cmi_krenek@yahoo.ro
+A1467,CMI MARIN DORIANA ROSE MARIE,MARIN DORIANA ROSE MARIE,"Cal. Dudesti Nr. 104-122, Corp B, Et. P, Camera 43, Sect. 3",0745.146.264,marindoriana@yahoo.com
+A1470,CMI POPESCU ELENA,POPESCU ELENA,"Cal. Dudesti Nr. 104-122, Corp A (C1), Et 5, Cab. 98, Sect. 3",0724.397.597,lilize_med@yahoo.com
+A1473,CMI PURCARU OANA NATALIA,PURCARU OANA NATALIA,"Aleea Râul Sadului 1, Etaj 1, Apartament 4 SECTOR 4",021.460.35.18 / 0740.055.651,oanapurcaru_medical@yahoo.com
+A1475,CMI CHIRILA DANIELA,CHIRILA DANIELA,"Strada Ion Voda Viteazul nr. 15, sector 4",021.460.45.94,cmi.dr.chirila@gmail.com
+A1476,CMI MUNTEANU ANGELA,MUNTEANU ANGELA,"Str Calistrat Grozovici 6, Corp B, Et 1, Cam 146, Sect 2",0724.724.454,amunteanu20@yahoo.com
+A1477,CMI MÂRZA ANA MARIA,MARZA ANA MARIA,"Strada Dr. Râureanu 3-5, Parter, Sector 5",0727.671.008,anamaria_marza@yahoo.com
+A1480,CMI SANDU ANCA GABRIELA,SANDU ANCA GABRIELA,"Strada Jiului nr.169, parter, Ap.1, Sector 1",021/667.0170,cmi.gabrielasandu@yahoo.com
+A1485,SC CENTRUL MEDICAL DELFINULUI SRL,NITESCU COSTIN,"Str. Pictor D. Harlescu Nr. 6, Sect. 2",021.627.41.45,office@centrulmedicaldelfinului.ro
+A1486,CMI PANAITESCU CATALINA,PANAITESCU CATALINA,"Strada Titus nr.8, Parter si Demisol,camera 4, Sector 4",0723.564.322,catalina_panaitescu@yahoo.com
+A1487,CMI BOGDAN DANIELA,BOGDAN DANIELA,"Strada Matei Basarab 45, Etaj 1, Camera 4, Sector 3",0767995935,angelescudaniela@yahoo.com
+A1488,CMI TOFAN VALERIU RAZVAN,TOFAN  VALERIU RAZVAN,"Strada Dr. Calistrat Grozovici 6, Bloc Policlinica RATB, Etaj 2, Cabinet 61 si 62, Sect 2",021/318.3410 int.212,dr.tofan.vrt@gmail.com
+A1489,CMI DUMITRIU MARIANA,DUMITRIU MARIANA,"Strada Nada Florilor 1A, sector 2",0722.27.22.83,cmidumitriu@gmail.com
+A1492,SC LOXAN MAGNUS SRL,PETRICU MARIA JANA,"Str.Speranței nr.27, parter, et.1, ap.1, sect.2",0318.056.733,m.petricu@loxan.ro
+A1492,SC LOXAN MAGNUS SRL,COSTACHE OANA,"Str.Speranței nr.27, parter, et.1, ap.1, sect.2",0318.056.733,m.petricu@loxan.ro
+A1510,CMI GRUIA VALENTINA,GRUIA   VALENTINA,"Str.Drumul Taberei nr.38, Bloc OD4, Sc. B, Parter, Ap. 39, Sector 6",0785.339.083 ; 0751.839.234,valgruia@yahoo.com
+A1511,CMI ANA MIHAELA,ANA MIHAELA,"Strada Brebu 5, Bloc T5, Scara A, Apartament 3, Sector 2",0722443626,dr.ana_mihaela@yahoo.com
+A1512,CMI IDOMIR ANA MARIA,IDOMIR ANA MARIA,"Splaiul Independentei 64, Sector 5",0213126968    0752836968,anamariaidomir@yahoo.com
+A1515,CMI ANASTASIU TITU ANDREI,ANASTASIU TITU ANDREI,"Str Baba Novac 2, Et 1, Cab 1, Sect 3",021.325.15.88,teddyandrei@yahoo.com
+A1520,CMI BOBOSEA PAULA ALINA,BOBOSEA PAULA ALINA,"Str. Teius nr. 3, sector 5",0727.03.35.80,alinabobosea@yahoo.com
+A1522,CMI CONSTANTINESCU MIHNEA CRISTIAN,CONSTANTINESCU MIHNEA-CRISTIAN,"Str.Sura Mare nr.1,bl.1B,sc.D, parter,ap.98,sect.4",0770.23.39.76,mihcris_const@yahoo.com
+A1528,SC CM DR FURTUNA DAN SRL,POPESCU TATIANA,"Str.Teiuş 3, Et. 1, Sect. 5",021.420.92.41,bogdan_furtuna2006@yahoo.com
+A1528,SC CM DR FURTUNA DAN SRL,POCIOVĂLIŞTEANU FLORENTINA-ALINA,"Str.Teiuş 3, Et. 1, Sect. 5",021.420.92.41,bogdan_furtuna2006@yahoo.com
+A1528,SC CM DR FURTUNA DAN SRL,DEMETER ANDA-IOANA,"Str.Teiuş 3, Et. 1, Sect. 5",021.420.92.41,bogdan_furtuna2006@yahoo.com
+A1532,CMI DUMITRESCU LAURA MARIA,DUMITRESCU LAURA MARIA,"Strada Pictor Gheorghe Tattarescu 2, Parter, Camerele 5,6,7, Sector 3",0314370630,cmi.dr.dumitrescu@gmail.com
+A1534,SC RUSU MEDICAL FAMILY SRL,RUSU SORINA-ADRIANA,"Strada Ardeleni 3A, Sector 2",0212124788,rusu.medical@yahoo.ro
+A1541,CMI BENTAN NATALIA ELEONORA MARIA,BENTAN NATALIA ELEONORA MARIA,"Strada Spatar Preda Buzescu nr. 34, sector 4",021.332.50.16,drbentannatalia@yahoo.com
+A1544,CMI TICARAU ADRIANA,TICARAU ADRIANA,"Strada Spatar Preda Buzescu nr. 34, sector 4",021.332.50.16,andraticarau@gmail.com
+A1545,CMI ZAMFIR ADRIANA,ZAMFIR ADRIANA,"Strada Spatar Preda Buzescu nr. 34, sector 4",021.332.50.16,zamfir_1957@yahoo.com
+A1547,SC CABINET MEDICAL ERIDAN SRL,MINCULESCU CORA,"Str.Soldat Buciumat Gheorghe nr.27,parter,ap.2,sect.1","021.232.77.26,0722.89.45.26",daniela@ersch.ro
+A1547,SC CABINET MEDICAL ERIDAN SRL,ERSCH DANIELA,"Str.Soldat Buciumat Gheorghe nr.27,parter,ap.2,sect.1","021.232.77.26,0722.89.45.26",daniela@ersch.ro
+A1549,SC MEDICAL TERRA POINT SRL,DEDU LOREDANA,"Str. Vatra Luminoasa nr.2-24, Bloc D6, Sc.B, Parter, Ap.51,Sect.2","0314.05.52.00,0724.37.96.19",medicalterrapoint@yahoo.com
+A1559,CMI MIHAILESCU CRISTIAN,MIHAILESCU CRISTIAN,"Strada Plugarilor 18, Etaj 1, Apartament Cabinet 12.2, Sector 4",0744.308.751,cristianmihaile@yahoo.com
+A1560,CMI KINN ANIELA ,KINN ANIELA ,"Calea Dudesti - Pantelimon nr.44,sect.3",0741.41.25.30,anielakinn@yahoo.com
+A1561,CMI MIHUTOIU AURORA MILENA,MIHUŢOIU MILENA-AURORA,"Strada Plugarilor 18, Etaj 1, Sector 4",0213303942,aurora.mihutoiu@gmail.com
+A1564,CMI VASILE FLAVIA CRISTINA,VASILE FLAVIA CRISTINA,Calea Dorobantilor nr.32A sect.1,021.211.00.62/0722.392.945,fla.mihaila@gmail.com
+A1568,SC MEDIPLUS GENERAL SRL,MAZILU ANDA,"Calea Dudesti 104-122, Sector 3",0743043841,anda.mazilu@ymail.com
+A1570,CMI GALATANU BOGDAN,GALATANU BOGDAN,"Str. Dreptătii Nr. 2, Et. 2, Ap. 1, Sect. 6",021.430.09.80,bogdan.galatanu@gmail.com
+A1572,CMI DIANESCU CARMINA,DIANESCU CARMINA-GABRIELA,"Strada Brasoveni 4, Bloc 17, Scara 1, Apartament 6, Sector 2",0212429584,opris.carmina@yahoo.com
+A1579,CMI STANCIU LILIANA,STANCIU LILIANA,"Calea Dudeşti 104-122, Corp A, Etaj 3, Camera 204 si 207, Sector 3",021/323.6366,lilisorc@yahoo.com
+A1580,CMI FEHER ELENA RALUCA,FÉHÉR ELENA-RALUCA,"Sos. Berceni nr.8, Etaj 1, Ap.18,sect.4","0746.60.77.25,0744.48.28.29",raluca_feher@hotmail.com
+A1581,CMI IORDAN ALINA-MADALINA,IORDAN  ALINA MADALINA,"Bd. Constructorilor 20A, Tronson B, Parter, Camera PB02, Sector 6",0729.453.225 ; 031/434.7292,cmi.alina@gmail.com
+A1582,CMI SANDU MIHAELA,SANDU MIHAELA,"Strada Mihail Sebastian 137, Bloc V79, Scara 2, Parter, Ap.38, Camera 2 si 4, Sector 5",021/411.5808,sandumihaela72@gmail.com
+A1583,CMI BOJESCU ALEXANDRA ANDRADA,BOJESCU ALEXANDRA ANDRADA,Calea Dorobantilor nr.32A sect.1,021.211.00.81,alexandraionica@yahoo.com
+A1584,CMI IORDACHE CHRISTIANA,IORDACHE CHRISTIANA,"Calea Grivitei nr.224, bl.6, sc.C, parter,ap.1, Sect.1","021.224.64.36,0722.33.77.24",christiana.iordache@gmail.com
+A1585,CMI ZAVERA ANCA IUSTINA,ZAVERA ANCA-IUSTINA,"Strada Magura Vulturului 58, Sector 2",0212502520,drancazavera@yahoo.com
+A1586,CMI CHIRIAC GEORGE-MARIAN,CHIRIAC GEORGE MARIAN,"Piaţa Gării de Nord 3, Parter, Sector 1",0721.303.203 ; 031/438.0348,georgechiriac1974@yahoo.com
+A1587,CMI DUMITRESCU MIHAELA CRISTIANA,DUMITRESCU MIHAELA CRISTIANA,"Strada Dornei 79-81, Etaj 2, Cabinet 15, Sector 1",0212242373,crisdumitrescu1@gmail.com
+A1588,CMI BARBILIAN MIHAELA,BARBILIAN MIHAELA,"Str Dornei 79-81, etaj 2, Sect 1","021.224.23.73, 0723.313.330",barbilianmihaela@yahoo.com
+A1589,CMI MARIN CRISTINA,MARIN CRISTINA,"Calea Dorobantilor 32A, Corp A, Parter, Cabinet 25, Sect 1",021.210.10.68,cmidrmarin@gmail.com
+A1591,CMI SBURLAN CRISTINA ASTRID,SBURLAN CRISTINA ASTRID,"Bd.Dinicu Golescu nr.38,sect.1",0730.859.733,cabinetmedicalmt@yahoo.com
+A1592,CMI SARAROIU CARMEN,SARAROIU CARMEN,"Bd Octavian Goga 14, Bl M61, Tronson 2, Sc 2, Magazin 3+5, Cabinetele 1 si 32, Parter, Sect 3",0722.962.247,sararoiucarmen@yahoo.com
+A1593,CMI IONESCU MIHAELA RODICA ,IONESCU MIHAELA RODICA,"Bd.Unirii nr.1,sect.4",0742.219.468,dr.mf.metrou@gmail.com
+A1595,CMI NEACŞU ANE MARI ŞTEFANIA,NEACŞU ANE MARI ŞTEFANIA,"Sos. Berceni nr. 8, sector 4",0723.38.08.79,stef_neacsu@yahoo.com
+A1596,CMI CRISTEA ALEXANDRA VIORELA,CRISTEA ALEXANDRA VIORELA,"Bd.Marasti nr.63,sect.1",0723.32.98.22,viorela_cristea@yahoo.com
+A1597,CMI TUTA MINODORA,TUTA MINODORA,"Str.Dornei nr.79-81, parter, cabinet 5, sect.1",0761.60.19.42/0722.968.840,minodora.tuta@yahoo.com
+A1598,SC ALFO MEDICA SERV SRL,UJENIUC ALINA-ECATERINA,"Soseaua Virtutii nr.11, bl.R5A, sc.2, ap.30,sect.6","021/430.42.12,0745.54.54.29",alfomedica_serv2005@yahoo.com
+A1600,CMI POPESCU LIDIA,POPESCU LIDIA,"Strada Magura Vulturului 58, Sector 2",0212502520,drlidiapopescu@yahoo.com
+A1602,CMI ALEXE ADRIANA,ALEXE ADRIANA,"Piata Garii De Nord 3, Sector 1",0740079436,dr.alexeadriana@gmail.com
+A1603,CMI LUNCA MIHAITA ILIE,LUNCA MIHĂIŢĂ-ILIE,"Strada Dornei 79-81, Etaj 3, Cabinet 20, Sector 1",0724539860,mihai.lunca@yahoo.com
+A1605,CMI CONSTANTIN FLORENTINA,CONSTANTIN FLORENTINA,"Calea Giuleşti 18,    Sector 6",0727.548.944 ; 021.220.0732,florentina_const@yahoo.com
+A1607,CMI NITA ANCA IRINA,NITA ANCA IRINA,"Strada Mărăşti 63, Sectorul 1",0722.556.395,nitaancairina@yahoo.com
+A1608,CMI SCUTELNICU ANA STEFANIA,SCUTELNICU ANA STEFANIA,"Str.Piata Garii de Nord nr.3,sect.1",0723.627.301,anastefania.scutelnicu@gmail.com
+A1611,CMI MITRESCU ILEANA SIMONA,MITRESCU ILEANA SIMONA,"Calea Plevnei nr.137C, Corp A, Corp C, et.1, Cam.49,sect.6",0746.295.078,dr.mitrescu_simona@yahoo.com
+A1612,SC MIZUMSCHI SRL,MIZUMSCHI DANA MONICA,"Str. Cricovul Dulce Nr. 11, Et. P, Cab. 3, Sect. 4",0756.046.385,moniquemizumschi@yahoo.com
+A1613,CMI GHITA VASILESCU IULIA,GHITA VASILESCU IULIA,"Calea Dudesti nr.104-122,sect.3",0725.349.312,ghitavasilescuiulia@yahoo.com
+A1614,CMI DIMITRIU LARISSA,DIMITRIU LARISSA,"Strada Mihail Sebastian 137, Bloc V79, Scara 2, Apartament 38 SECTOR 5",021.410.31.55,lardimitriu@gmail.com
+A1615,CMI FORT CRISTIAN,FORT CRISTIAN,Aleea Raul Sadului nr.1 sect.4,021.460.06.64,drfortcristian@gmail.com
+A1617,SC MED LIFE SA - SUCURSALA BUCURESTI,MARIN FLORIN,"Strada Zagazului 7, Sector 1",021/9646,office@medlife.ro
+A1621,SC CLINICA OPUS MED SRL,GRAMA CIOBANU DANA MIHAELA,"Bd.Basarabia nr.19., cam.35-36., Sector 2",0216106844 / 0722729320,mixtum2004@yahoo.com
+A1623,SC SIKA ALUL MEDICAL SRL,STANESCU VIVIANA MAGDALENA,"Str Novaci nr 8 Bl.p57., sc 3., ap 65, Sector 5",0217803038   0723151514   0766369633,sikamedical@yahoo.com
+A1624,CMI GEORGESCU NICOLAE,GEORGESCU NICOLAE,"Strada Valea Doftanei 113, Parter, Sector 6",031.432.65.55/0722.839.207,nicolae_georgescu@yahoo.com
+A1625,SC AKH MEDICAL KLINIC & HOSPITAL SRL,CĂZĂCEANU MIRCEA-BOGDAN,"Strada Agricultori 115, Bloc 79, Scara 1, Parter, Ap.4, Sector 3",0721.50.66.17 ; 031/425.08.05,akhmedical@gmail.com 
+A1625,SC AKH MEDICAL KLINIC & HOSPITAL SRL,CERNITSCHI GABRIELA,"Strada Agricultori 115, Bloc 79, Scara 1, Parter, Ap.4, Sector 3",0721.506.617 ; 031/425.0805,akhmedical@gmail.com ; adrianycons@gmail.com
+A1626,CMI OANA SEVER CRISTIAN,OANA SEVER,"Str.Matei Basarab nr.47,sect.3",021.302.94.34/0723.242.339,oanacristian@yahoo.com
+A1627,SC BOVIC MEDICAL SRL,BOTOAGA VICTORITA,"Al. Campul cu Flori Nr. 5, Bl  M48, Sc. 1, Et. P, Ap. 5, Sect. 6",021.444.88.84,victoritabotoaga@yahoo.ro
+A1628,SC PRETOMEDFAM SRL,KOHL ANA-MĂRIUŢA,"Bd. Aerogării nr. 32, sector 1",212328873,pretomedfam@gmail.com  
+A1631,CMI MIRONESCU OCTAVIA CORNELIA,MIRONESCU OCTAVIA CORNELIA,"Str. Pescarusului Nr. 13, Et. P, Cabinet 4, Sect 2",021.255.65.29,octavia.mironescu@gmail.com
+A1634,CMI ULMEANU ALINA URANIA,ULMEANU ALINA URANIA,"Strada Albac nr. 7-9, sector 1",031.436.26.67 / 0747.14.04.09,alina.ulmeanu@yahoo.com
+A1636,CMI URSULEANU TEODORA LAURA IOANA,URSULEANU TEODORA LAURA IOANA,"Cal. Grivitei Nr. 3-5, Sect. 1",0722.977.345,teodora.ursuleanu@gmail.com
+A1637,CMI DUMITRESCU DRAGOS,DUMITRESCU DRAGOS,"Al. Valea Florilor Nr. 2, Bl. P11, Sc. 1, Ap.2, Sect. 6",021.413.21.57,dumitrescudragos10@yahoo.ro
+A1638,SC DORO PROMEDICAL SRL,DOROJAN CRISTINA SORINA,"Bd.Nicolae Grigorescu nr.41,sect.3",021.340.31.58,inadorojan1@gmail.com
+A1639,CMI ALEXE ALEXANDRU,ALEXE ALEXANDRU,"Bd Pictor Nicolae Grigorescu 41, Sect 3","021.341.30.67, 0727.262.698",ajbrother83@yahoo.com
+A1643,SC MEDVERDI SRL,LEPĂDAT MIRCEA-LUCIAN,"Strada Floare De Crang 1, Sector 1",0213124529,iuliamarialungu@yahoo.com
+A1645,CMI CONSTANTIN BIRSAN NUTI,CONSTANTIN BIRSAN NUTI,"Bd. Ing. Gheorghe Duca 10-22, Et. P, Cam. 1, 2, 3 4, 5, 6, Ap. 1, Sect. 1",0734.299.190,cbn_cbn78@yahoo.com
+A1647,CMI DOLANESCU CRAINICEANU MIHAELA,DOLANESCU CRAINICEANU MIHAELA,"Drumul Valea Doftanei Nr. 113, Et. P, Cab. 2, Sect. 6",0722.399.902,crainiceanumihaela@yahoo.com
+A1648,CMI COSTACHE LUMINIŢA LENUŢA,COSTACHE LUMINIŢA LENUŢA,"Strada General Dimitrie Salmen nr. 3 bl. B1, sc.A, ap. 2, sector 2",0721.72.60.58,lumi_cos@yahoo.com
+A1649,CMI ENACHESCU DIANA MADALINA,ENACHESCU DIANA MADALINA,"Bd. Iuliu Maniu 7, Corp Cladire G, Et. 1, Cam. 16, Sect. 6",0748.246.642,dr_enachescu@yahoo.com
+A1650,CMI FILIP DANA,FILIP DANA,"B-UL Nicolae Grigorescu, nr. 41, corp A, etj. 3, cab.312, sectorul 3",0745.092.973,dr_danafilip@yahoo.com
+A1654,CMI SITARU DORINA RAMONA,SITARU DORINA RAMONA,"Cal. Plevnei, nr.44, p, cab.21, sectorul 1",0751.094.092 / 0765.406.744,ramona_sitaru@yahoo.com
+A1655,CMI MATEI RODICA STELUŢA,MATEI RODICA STELUŢA,"Bulevard I.G.Duca nr. 10-22, parter, sector 1",021.222.56.58,cmidrmateiro@yahoo.com
+A1656,CMI ANDRONACHE RAMONA ELENA,ANDRONACHE RAMONA ELENA,"Cal. Vacaresti Nr. 280, Bl. 67, Et. P, Cab. 3, Sect. 4",021.313.95.61,ramona.andronache78@gmail.com
+A1656,CMI ANDRONACHE RAMONA ELENA,ANDRONACHE RAMONA ELENA,"Str. Povernei Nr. 40-42, Et 1, Sect. 1",021.313.95.61,ramona.andronache78@gmail.com
+A1658,CMI COMNEA LAURA,COMNEA LAURA,"Strada Pictor Gheorghe Tăttărescu 2, Etaj PARTER, SECTOR 3,",0723.23.39.08,lauraherdea@yahoo.com
+A1661,CMI CONSTANTINESCU MARIANTI ADRIANA,CONSTANTINESCU MARIANTI-ADRIANA,"Bulevard Ferdinand I 154, Etaj 1, Apartament 1,  Sector 2",0752518725,cmi.dr.constantinescu@gmail.com
+A1663,CMI ENACHE HORIA EMERALD,ENACHE HORIA EMERALD,"Str Grigore Ionescu 61, Bl T75, Sc 1, Et P, Ap 1, Sect 2",021.211.39.21,horiae@gmail.com 
+A1664,CMI STEFAN IONUT SEPTIMIU,ŞTEFAN IONUŢ-SEPTIMIU,"Strada Soldat Marin Savu 27, Sector 2",0752174418,ionutstefan2004@gmail.com
+A1667,CMI TIANU CORNELIA,TIANU CORNELIA,"Strada Baba Novac 2, Sector 3",0213245880,cmi_tianu@yahoo.com
+A1676,SC GENERAL FAMILY SRL,IVAŞCU MIHAELA-LILIANA,"Strada Nada Florilor 1A, et.1, cam.14, Sector 2",0723512052,dr.ivascumihaela@yahoo.com
+A1677,CMI SOROHAN IULIA MINERVA,SOROHAN IULIA-MINERVA,"B-ul Octavian Goga nr.14,bl.M61,tronson 2,sc.2,sect.3",0746.05.62.39,iulia_sorohan@yahoo.com
+A1679,CMI GRINDEI RADU,GRINDEI RADU,"Bd Pictor Nicolae Grigorescu 41, Et 1, CabinetT 113, Sect 3",0744.311.444,grindei.radu@gmail.com
+A1680,CMI IOSUP MARANA ANDA,IOSUP MARANA ANDA,"Str. Pictor Nicolae Grigorescu Nr. 41, Sect. 3",021.341.30.14,marana.iosup@yahoo.com
+A1681,CMI VASSI MARILENA,VASSI MARILENA,"Calea Giulesti 135, Sector 6",0212217571,vassimarilena@gmail.com
+A1682,CMI DECA ROXANA,DECA ROXANA,"Soseaua Oltenitei 105, Sector 4",0213313141,roxanadeca10@yahoo.com
+A1683,CMI CEPARU VALENTINA,CEPARU VALENTINA,"Strada Tudor Arghezi, nr.28, sect. 2",0742.624.708 / 0731.215.601,ceparuv@yahoo.fr
+A1684,CMI ANDRASESCU SCRIECIU ADRIANA CAMELIA,ANDRĂŞESCU-SCRIECIU ADRIANA-CAMELIA,"Strada Apusului 63, Sector 6",0727892575,andrasescu.camelia@gmail.com
+A1688,CMI TARARA MIHAELA SIMONA,TARARA MIHAELA SIMONA,"Strada Avrig nr. 9-19, bl.U1, cabinet 7, sector 2",021.252.38.68,mihaela.tarara@gmail.com
+A1689,SC CLINICA MEDICALA ILDA SRL,BRANCOVEANU POPA DANIELA GRATIELA,"Str Clejani nr. 9, etaj 1, Sector 5",021.420.48.64   0724441974   ,clinica.ilda@yahoo.ro
+A1690,CMI SAVASTRE ALICE CATALINA,SAVASTRE ALICE-CĂTĂLINA,"Strada Trei Scaune 29-31, Sector 2",0212403215,alicesavastre@yahoo.com
+A1697,CMI SALCUDEAN CIUCIU DANIELA ELENA,SALCUDEAN CIUCIU DANIELA,"Str.Soldanului nr.3E,et.2,cab.6,sect.4",0754.755.115/0761.333.178,cmisalcudean@gmail.com
+A1699,CMI TRIFU CAMELIA ALINA,TRIFU CAMELIA ALINA,"Strada Spatar Preda Buzescu nr. 34, sector 4",021.332.50.16,trifu_alina@hotmail.com
+A1700,SC CLINICA PAJURA SRL,PANTELIMONESCU VIORICA-ANIŞOARA,"Bulevard Bucurestii Noi 50A, Sector 1",0311008999,valipantel@yahoo.com
+A1701,CMI MANTEA STEFAN,MANTEA ŞTEFAN,"Strada Londra nr.5,parter, cam.5,sect.1","0771.36.90.63,0773.35.41.59",contact@drmantea.ro
+A1703,CMI FRÂNCU ANA MARIA,FRÎNCU ANA MARIA,Aleea Raul Sadului nr.1 sect.4,021.684.57.57/0724.345.734,ana.maria.francu@gmail.com
+A1704,SC DAVIUS CLINICMED SRL,DUMITRAŞCU CEZAR-ANTONIO,"Aleea Lunguletu nr.6, bl.D14,cab.9,Sect 2",0766.30.14.19,cezar.dumitrascu@gmail.com
+A1705,SC BIONIC COM SRL,PETRE NICOLAE,"Bd.constructorilor nr.20A, tronson B, parter, cam.PB.04,sect.6",0722.142.032,nikpetre38@yahoo.com
+A1707,CMI STOLNICU IOAN CATALIN,STOLNICU IOAN CATALIN,"Str.Drumul Taberei 75, Bl TS39, Parter, ap3, Sector 6",0770880805     0217780809,catalin.stolnicu@yahoo.com
+A1708,CMI BĂLAN RODICA CAMELIA,BALAN RODICA CAMELIA,"Strada Spatar Preda Buzescu nr. 34, sector 4",021.332.50.16,cmi_balan_camelia@yahoo.com
+A1716,SC FORTUNA MEDICAL CENTER,MUNTEANU GEANINA,"Strada Drumul Taberei 124-126, Sector 6",0217462121,geanimun@gmail.com
+A1716,SC FORTUNA MEDICAL CENTER,MÎNDRUŢ LIGIA-MIHAELA,"Strada Drumul Taberei 124-126, Sector 6",0217462121,geanimun@gmail.com
+A1719,SC DOCTOR 4U2 SRL,IONESCU LUMINITA,"Strada Drumul Taberei nr. 124-126, sector 6",0726.223.060,doctor4u2@gmail.com
+A1720,SC CM BRINCUSI SRL,STOCHIŢĂ ELENA-GABRIELA,"Str.Valea Doftanei nr.113, sector 6","031.432.65.55,0741.04.47.29",centrulmedicalbrancusi@yahoo.com
+A1723,CMI ARSENE MARIA  GIANINA ,ARSENE MARIA GIANINA,"Str.Vasile Toneanu nr.20, et.1, sect.3",0745.066.412,gi_arsene@yahoo.com
+A1724,CMI MANU MARIUS COSMIN,MANU MARIUS-COSTIN,"Aleea Baiut nr.9,bl.M30,sc.B,ap.68,sect.6",0735.56.35.55,manu.c.marius@gmail.com
+A1726,CMI MOGOS MIREL ANDREI,MOGOS MIREL ANDREI,"Str Magnoliei 29, Et 1, Camera 5, Sect 2 ","021.240.30.50, 0757.069.204",valcripr@gmail.com
+A1726,CMI MOGOS MIREL ANDREI,MOGOS MIREL ANDREI,"Str Drumea Radulescu 16-18, Parter, Cab 1, Sect 4","021.240.30.50, 0757.069.204",valcripr@gmail.com
+A1728,SC MEDALIS LIFE MEDICAL SRL ,STANCIU MARINA IOANA ALICE,"Str.Matei Basarab 47, Parter, Camera P16, Sector 3",0724.464.496,aliceghinescu@yahoo.com
+A1729,CMI GRIGORE PAUN CAMELIA ALINA,GRIGORE PAUN CAMELIA ALINA,"Sos. Giurgiului Nr. 65, Et. 2, Cab. 2, Sect. 4",0730.583.873,grigorepauncamelia@gmail.com
+A1734,SC LARRY MEDICAL CLINIQUE SRL,LĂZĂROAIE ANCA,"Calea Plevnei nr.44,sect 1","021.796.96.71,0746.53.33.01",bicescu.catalin@yahoo.com
+A1737,CMI ROTARU CRISTIANA GEORGIANA,ROTARU CRISTIANA GEORGIANA,"Bd. Natiunile Unite nr. 3-5, bl. Turn, cab. 1, sector 4",021.335.72.97,cmirotarucristiana@yahoo.com
+A1738,SC STELLA MARIS SRL,MARINCAS DANIELA,"Bd Timisoara 15, Parter, Cab 30, Sect 6",0772.098.353,marincasro67@gmail.com
+A1739,CMI BACIU FLORENTINA,BACIU FLORENTINA,"Str. Dreptătii Nr. 2, Et. 2,  Cabinet 2, Pozitia 19, Sect. 6",021.430.09.80,baciu_flory@yahoo.com
+A1740,SC KIRAMED FAMILY CENTER SRL,BADULESCU CHIRANA GEORGETA,"Str. Scaune nr. 1, parter, sector 3",021.206.62.60/172,geobadd@yahoo.com
+A1741,SC DR.B.D.MEDFAM SRL,BABOI ANTOANETA DENISA,"Str. Lacul Bucura nr. 9-13, sector 5",021.450.03.96,denisa.baboi@gmail.com
+A1743,CMI SANDU GEORGETA,SANDU GEORGETA,"Str.Şoldanului nr.3E, et.1, cab.1, sect.4",021.528.05.50,dr.sandugeorgeta@gmail.com
+A1744,CMI DRAGNE CRISTINA,DRAGNE CRISTINA,"Bd. Basarabiei nr. 62A, sector 2",021.325.24.54,cmi.dr.dragne@gmail.com
+A1747,SC SCHITEANU MEDICAL CARE SRL,SCHITEANU ADRIANA-MĂDĂLINA,Strada Teiul Doamnei 110 Bloc 16 Scara 1 Parter Apartament 5 Sector 2,0212422068,adrianaschiteanu@yahoo.com
+A1748,SC MEDICAL CITY BLUE,APOSTOIU CORNELIU,"Str. Alexandrina nr.20-22, sect.1",021.94.32,opalea@centrul-provita.ro
+A1749,SCM TEODORESCU & BARBULESCU,TEODORESCU ANA-MARIA,"Calea Plevnei 16, Sc 1, Parter, Ap 2, Sect 1",021.316.21.11,ane_teo@yahoo.com
+A1750,SC OLIVIA MEDICAL CENTER SRL,BLEBEA ANCA,"Str Cricovul Dulce 11, Cab 2, Sect 4",0730.352.300,oliviamedicalcenter@gmail.com
+A1751,CMI MIU ROXANA,MIU ROXANA,"Aleea Cricovul Dulce nr. 11, Etaj 1, Cabinet 1, Sector  4",0773.336.437,cmi_drmiuroxana@yahoo.com
+A1752,SC DENTA-BABY SRL,BUGA CORBU ION,"Bd. Octavian Goga nr. 14 bl. M61Tronson 2, sc. 2, parter, Mezanin 3+5",0744.56.84.53,olga_constantin@yahoo.com
+A1753,SC MEDFORTE SRL,MEDFORTE SRL,"Str. Matei Basarab Nr. 47, Et. P, Camera P16, Sect. 3",0721.024.573,dr.manudaniela@yahoo.com
+A1755,SC BRATU MED SRL,IVAN MONA IZABELA,"Bd.Iuliu Maniu nr.73, bl.3, parter, ap.245, sect.6 ",031.436.35.85 / 0756.431.988,office@bratumed.ro
+A1759,SC CERNESCU MEDICINA DE FAMILIE SRL,MITREA NICOLETA,"Str Dr Constantin Caracas 9, Parter, Ap 1, Sect 1",021.223.01.65,cernescu.dan.florian@gmail.com
+A1761,CMI STAN GABRIEL ,STAN GABRIEL,"Bulevard Iuliu Maniu 7, Corp G, Etaj 1, Cabinet 14 Sector 6",0213176612,stangabriel_med@yahoo.com
+A1763,SC ANGMEDFAM SRL,BITICA VALI ANGELICA,"Bd. Energeticienilor nr. 9E, bl.M1, parter, cam.1006, sector 3",0724.511.011,angbit2006@yahoo.com
+A1764,SC CLEVER HEALTHCARE SRL,IORDAN GABRIEL,"Str. Dreptatii Nr. 8, Bl. O10, Sc. 4, Ap. 167, Et. P, Sect. 6 ",031.426.86.82,gimed2012@gmail.com
+A1766,SC MEDFAM EXPERT SRL,BIBIRI ELENA ISABELA,"Valea lui Mihai 4, Bloc A4, Scara 1, Ap.1, Sector 6",031/432.2175,isabelabibiri@yahoo.com
+A1769,SC ANDROMEDIST SRL,ANDRONACHE ILEANA DANIELA,"Str.Giuseppe Garibaldi nr.20, parter, cabinet 1, Cam.3,4,5,sect.2",0732.169.211,ileana.andronache@gmail.com
+A1770,SC CABINET DR.TONOIU GABRIELA SRL ,TONOIU GABRIELA,"Bulevard Iuliu Maniu 7, Corp G, Etaj 1, Cabinet 10 Sector 6",0724514575,gabrielatonoiu@gmail.com
+A1770,SC CABINET DR.TONOIU GABRIELA SRL - PUNCT DE LUCRU,TONOIU GABRIELA,"Strada Lunca Bradului 6, Bloc M31, Scara B1, Apartament 64, Camera 2, Sector 3",0724514575,gabrielatonoiu@gmail.com
+A1772,CMI BACIU ALINA,BACIU ALINA,"Str.Secuilor nr.4,bl.22,sc.2,parter,ap.22,sect 4",0755.14.08.53/021.332.30.14,alinadd25@yahoo.com
+A1773,SC ANDARIAMED SRL,ILIE GEORGIANA-LAURA,"Str.Apusului nr.63, cab.11,parter ,sect 6","0314.38.25.81,0727.80.33.43",mihaelafulga2003@yahoo.com
+A1775,VAIDA MEDCARE SRL,CIUCĂ LIVIA CORINA,"Calea Grivitei 3, parter, Sector 1",021/319.8575,danivlad2003@yahoo.com
+A1777,SC CENTRUL MEDICAL MEDICUM SRL,MANU CRINU-SORIN,Bulevard Mircea Eliade 18 Sector 1,0753818181,office@clinicamedicum.ro
+A1778,SC CARA CRIS COSMED SRL,TUDOR VEGA STEFANIA CRISTINA,"Al Raul Sadului 1, Cab 3, Sect 4",0766.634.492,programari@caracriscosmed.ro
+A1780,SC MEDFAM SCARLAT,CHIRU RAZVAN CIPRIAN,"Bd.Ghencea nr.43B,parter, cam.17, sect.6",021.746.31.65,chiru.medfam@gmail.com
+A1782,CMI DIMA FLORENTINA EUGENIA ,DIMA FLORENTINA-EUGENIA,"Calea Dorobantilor 58, Cladirea A, Parter, Cabinet 2  Sector 1",02112100389,florentina_cioarec@yahoo.com
+A1783,CMI POPESCU ALINA NICOLETA,POPESCU ALINA NICOLETA,"Str. Olanesti Nr. 4, Bl. 43A, Ap. 2, Sect. 6",021.220.84.64,cmipopescualinanicoleta@yahoo.com
+A1784,SC FORTHSAN SRL,MARINESCU TEODORA EMANUELA,"Bld.Timisoara nr.15,cab.med.nr.6 ,sector 6","021/778.53.73,0744.16.82.18",magda_vlad06@yahoo.fr
+A1785,CMI VLAD ELENA MAGDALENA,VLAD ELENA-MAGDALENA,"Aleea Dealul Măcinului nr.2, bl.A41,sc.F,parter,ap.76,sector 6","021/778.53.73,0744.16.82.18",magda_vlad06@yahoo.fr
+A1786,DIETETICA-PIRAMIDA PRINCIPIILOR ALIMENTARE PERSONALIZATR(PPAP) SRL,POPIEL PAULA ANA,Bld.Ion Mihalache nr.106 sect.1,"0734.22.27.61,0725.93.35.63",paulapopiel@yahoo.com
+A1787,SC FAMILYMED-COMPLEXCARE SRL,STANCIU LIXANDRU IOANA,"Str Trei Scaune 29-31, Et 1, Cabinet 1 si 4, Sect 2",0745.020.182,drioana@gmail.com
+A1793,CABINET MEDICAL ROSAMED SRL,SANDU RODICA,"Str.Drumea Radulescu nr.16-18,sect.4",021.330.40.95,rosamed@yahoo.com
+A1794,SC MIDAMED CONSULT SRL,DUMITRASCU MIRELA AURELIA,"Str. Eforie Nr. 4, Pozitia 47, Et. 1, Sect. 5",021.367.31.81,dumitrascu_mirela74@yahoo.com
+A1795,CMI IGNATENCO LILIANA,IGNATENCO LILIANA,"Str. Prof Dr. Ioan Athanasiu 34, Et. Mansarda, Sect 5","021.410.25.44, 0726.409.927",lilianamd75@gmail.com
+A1797,SC ANDALEX MEDICAL SRL,MACOVEI ANDA,"Str.Trei Scaune nr.29,sect.2",021.242.13.13,andamacovei@yahoo.com
+A1798,SC ANDRAASLANMED SRL,BULUCEA MARIA ALEXANDRA,"Bd.Octavian Goga nr.14, bl.M61, tronson 2, parter,mag.3+5,sect.3",0723.230.284,a_bulucea@yahoo.com
+A1799,CMI BALUTEL IRINA,BALUTEL IRINA,"Str. Baba Novac nr. 2, sector 3",021.32.25.06,dr.irinabalutel@yahoo.com
+A1800,CMI BOJICA GABRIELA,BOJICA ELENA-GABRIELA,"Str.Dr.Leonte Anastasievici nr.34,parter, cam.2,sect.5",0734.14.32.19,gabriela.bojica@yahoo.com
+A1801,SC GORAN-MED SRL,NIȚĂ VALENTINA LIGIA,"Sos. Virtutii 1B, Et 1, Sect 6","0741.053.449, 0730.292.065",goranmed2017@gmail.com
+A1802,SC SANAMED PROFESIONAL CLINIC SRL,ENESCU ELENA-ALICE,"Str.Drumul Taberii nr.20,bl.C2, sc.4, parter,ap.109,sect 6","021.745.79.87,0722.19.34.73",alice_birca@yahoo.com
+A1803,SC CAB-MED GABRIELA PĂTRĂNESCU SRL,POPESCU VLADIMIR,"Str. Teius nr. 3, sector 5",021.421.15.91,monicapatranescu@yahoo.com
+A1804,SC GLORIA MED SRL,BUBULAC LUCIA,"Str. Eroii Sanitari 35B, Parter, Cab 3, Sect 5",021.410.92.84,luciabubulacmed@yahoo.com
+A1805,SC LUM MED FAMILY SRL,NICOLAE LUMINIŢA,"Str.Pictor Nicolae Grigorescu nr.41, corp A, et.1,cab.47,sect .3",0744.23.66.06,lummedlife@gmail.com
+A1806,SC MEDICINA DE FAMILIE DR ANDONE SRL,ANDONE GEORGETA,"Str Cricovul Dulce 11, Sect 4",021.332.18.86,andone_georgeta@yahoo.com
+A1807,CMI BADEA ROXANA PATRICIA,BADEA ROXANA PATRICIA,"Str Pictor Nicolae Grigorescu 41, Bloc Corp A, Et 1, Ap 91 si 92, Sect 3",0742.610.291,dr.patricia.badea@gmail.com
+A1808,CMI MATEI CRISTINA,MATEI CRISTINA,"Strada Paul Greceanu 13, Bloc 21, Scara B, Parter, Apartament 56 Sector 2",0722264038,cmi_cristina@yahoo.ro
+A1809,CMI ZODIANU ANDREEA ANAMARIA,ZODIANU ANDREEA ANA MARIA,"Str Dr Calistrat Grozovici 6, Corp B, Et 2, Pozițiile 43 și 44, Sect 2",021.318.34.10 INT 217,andreeazodianu@gmail.com
+A1810,CMI ȚÂRĂ MARIA RODICA,ȚÂRĂ MARIA RODICA,"Bulevard Schitul Măgureanu 27-33, Camera 16, sector 1",0217961263,mariarodica2000@yahoo.com
+A1810,CMI ȚÂRĂ MARIA RODICA- PUNCT DE LUCRU,ȚÂRĂ MARIA RODICA,"Strada Sold.Savu Marin 27, etaj 2, apartament 12, camera 5, sector 2",0217961263,mariarodica2000@yahoo.com
+A1811,SC DR.CAMELIA SLOBOZEANU CLINIQUE SRL,SLOBOZEANU CAMELIA,"Strada Dreptatii 2, Cabinet 5, Eraj 2, Sector 6",0722433457,camelia.slobozeanu@gmail.com
+A1812,CMI ILINA NICOLAE NARCIS,ILINA NICOLAE NARCIS,"Str. Turturelelor Nr. 11A, Et. 1, Camera 5C, Sect. 3",0720.027.154,ilinanicolae@gmail.com
+A1813,SC MEDICINA DE FAMILIE DANIELA DRAGAN SRL,DRĂGAN IOANA-DANIELA,"Aleea Cricovul Dulce 11, Cabinet 7, Sector 4",0213321885; 0765441778,mihaidr47@yahoo.com
+A1815,SC CABINET MEDICAL DR. DUNCA MOISIN MARIA SRL,DUNCA-MOISIN MARIA-ELISABETA-LUCIA,"Calea Dudeşti 104-122, Etaj 1, Cabinet 160, Sector 3",0213277037,cmdrdme@yahoo.com
+A1816,CMI BAICU CARMEN,BAICU CARMEN,Str.Sandulesti nr.9 bl.Z14 sc.1 Parter ap.6 sector 6,0723.616.999,baicu_carmen@yahoo.com
+A1816,CMI BAICU CARMEN,BAICU CARMEN,Str.Drumul Gazarului nr.28 bl.29 sc.1 Parter ap.4 sector 4,0723.616.999,baicu_carmen@yahoo.com
+A1817,SC BAU M.A.N CONSTRUCT SRL,OPRIȘ GABRIELA MIRELA,"Str Valea Doftanei 113, Sect 6",031.432.65.55,centrulmedicalbrancusi@yahoo.com
+A1817,SC BAU M.A.N CONSTRUCT SRL,VASILE LILIANA,"Str Valea Doftanei 113, Sect 6",031.432.65.55,centrulmedicalbrancusi@yahoo.com
+A1818,SC MEDICINA DE FAMILIE DR PAPUC EUGENIA SRL,PAPUC EUGENIA,"Calea Dudesti 104-122, Corp A, Cabinet 158, Et 1, Sect 3",0727.379.536,eugeniapapuc@gmail.com
+A1819,SC CM DR.MIHAELA SANDU SRL,SANDU MIHAELA-NICOLETTA,"Bld.Mircea Eliade nr.18,et.1,ap.4,sector 1",0722.21.00.99,mihaelanicoleta.sandu@gmail.com
+A1820,CMI SANDULESCU FLORINA LIDONA,SANDULESCU FLORINA LIDONA,"Sos .Oltenitei Nr. 291, Sect. 4",0745.892.825,didonasandulescu@yahoo.com
+A1821,CMI NEACSA ECATERINA,NEACSA ECATERINA,"Str Porumbacu 40, Sect 6",0770.476.629,neacsacd@yahoo.com
+A1824,SC NICO MED FAMILY SRL,PADIU MANUELA ELENA,"Str. Mihai Eminescu nr.19-21, Corp C2, parter, Sector 1",021/211.4998,nicomedfamily@yahoo.com
+A1825,SC EURO CLINIC CONSULTING SRL,MIHAI MARIA,"Str Covasna 1, Bl F6, Sc 1, Ap 3, Sect 4",031.412.06.18,mivi_polic@yahoo.com
+A1826,SC MEDIC LINE BUSINESS HEALTH SRL,SÂRB RAUL,"Calea 13 Septembrie 221-223-225, COMPLEX PROSPER, Etaj 3, Sector 5","0213128282, 0769077700",office@medic-line.ro
+A1826,SC MEDIC LINE BUSINESS HEALTH SRL,TUDOSE ELENA LARISA,"Calea 13 Septembrie 221-223-225, COMPLEX PROSPER, Etaj 3, Sector 5","0213128282, 0769077700",office@medic-line.ro
+A1827,SC UPMED & PERFECT CARE SRL,DEGERATU MARIA SVETLANA,"Bd Nicolae Ggrigorescu 41, Sect 3",0727.732.774,mircealupusoru@yahoo.com
+A1828,SC SILVASANU GEORGETA MEDICAL SRL,DINCĂ NICOLETA DANIELA,"Str Nada Florilor 1A, Sect 2",021.242.51.79,dr.dinca10@gmail.com
+A1829,SC CODREANU MEDICAL SRL,CODREANU EMILIA,"Str.Nada Florilor nr.1A, sect.2",0722.539.876,bebecodreanu@yahoo.com
+A1830,CMI STAN ELENA ANDREEA,STAN ELENA ANDREEA,"Str Dreptatii 2, Sect 6",021.730.53.87 ,elenaandreeastan78@gmail.com
+A1831,SC BRILL MEDICA SRL,MLADINESCU GIORGIANA,"Bulevard Nicolae Grigorescu nr. 41, et.3, cab. 321, sector 3",021.340.0335,giorgiana.mladinescu@yahoo.com
+A1832,SC CUNCEA MEDICAL SRL,CUNCEA ELISABETA-LILIANA,"Str. Nada Florilor nr.1A, Sect 2","021/242.11.75,0723.25.88.05",dr.cuncea2011@yahoo.com
+A1833,SC CABINET DR. POALELUNGI SRL,POALELUNGI MARIANA,"Strada Trei Scaune 29, sector 2",021.242.02.49,poalelungi_mariana@yahoo.com
+A1834,SC TGS MEDIFAM SRL,TOMA GHIULDAN,"Str. Serg.Ion Iriceanu nr.18, bl.160, sc.1,parter, ap.4,sect.4","021.334.85.74,0726.11.44.90",ghiuldan_toma@yahoo.com
+A1835,SC POPESCU LUCIA MED SRL,POPESCU LUCIA,"Str.Trei Scaune nr.29,sect.2",021.242.37.90/0722.882.754,drlucia_popescu@yahoo.com
+A1839,SC CABINET MARPOPLIFE SRL,HORVAT BIANCA ADINA,"Str. Pache Protopopescu nr. 49, sector 2",0770.624.444,mariapop74@yahoo.com
+A1847,SC SFARAIALA LUCULESCU MED SRL,LUCULESCU MARINA,"Calea Dudesti 104-122, Et 5, Cab 267, Sect 3",021.320.11.52,drluculescumarina@yahoo.com
+A1848,SC CENTRUL MEDICAL BANEASA B SRL,STAICU MARIANA,"Str.Neagoe Vodă nr.3-5, parter, cab.5, sect.1",0724.09.88.55 / 031.421.92.41,centrulmedicalbaneasa2017@yahoo.com
+A1848,SC CENTRUL MEDICAL BANEASA B SRL,LUNGANA VIORICA MINODORA,"Str.Amman nr.4, bl.4, parter, sc.A, ap.1, sector 1",0724.09.88.55 / 031.421.92.41,centrulmedicalbaneasa2017@yahoo.com
+A1851,SC DISCOVERY CLINIC SRL ,GEOGESCU FELICIA ELENA,"Sos Oltenitei nr.38A, sector 4",021.335.12.48/0724.508.648/ 0735.160.919,clinic@discoveryclinic.ro
+A1861,SC MNT HEALTHCARE EUROPE SRL,MATEI GENOVEVA IULIA,"Str Ficusului 40,  Sect 1",021.9230,cberteanu@gmail.ro
+A1866,SC CABINET DR.GHELT DOINA ADRIANA SRL,GHELT DOINA,"Str.Preda Buzescu nr.34,sect.4",0756.665.508,doinailiescu86@gmail.com
+A1867,SC CMI DOCTOR BEJAN LUMINITA & MEDICINA DE FAMILIE SRL,CORLĂŢEANU LIANA,"Strada Spatar Preda Buzescu nr. 34, sector 4",021.332.50.16,drbejanluminita@yahoo.com
+A1868,SC TOTAL MEDICAL CENTER SRL,NĂSTASE EMIL,"Aleea Raul Sadului nr. 1, sector 4  ",0767.428.284/ 021.460.21.85,emilnastase@ymail.com
+A1870,ANDREEA MEDICAL CENTER SRL,ONEL OANA ELENA,"Aleea Cricovul Dulce 11, Parter, Apartament 3, Sector 4",0213321886,lobdamadalina@yahoo.com
+A1872,SC CLINICA DOCTOR NICOLAE DOINA & MEDICINA DE FAMILIE SRL,NICOLAE DOINA,"Strada Dreptatii nr. 2, sector 6 ",0744.48.56.83,doinanicolaecmi@yahoo.com
+A1873,SC MUNTEANU CAB.MED SRL,VLADUTU MIHAELA LUMINITA,Calea Dorobantilor nr.32A sector 1,0722.808.015,munteanumia@yahoo.com
+A1875,HELENA MEDICAL CARE SRL,STANA ANDREI,"Str Malcoci 4, Corp A, Et. 1, Sect 5","021.456.85.99, 0724.822.890",pavelescu.mihaela@gmail.com
+A1877,CABINET MEDICAL DR. OPREA ANA MARIA SRL,ILIE ALINA LORENA,"Str Dr Calistrat Grozovici 6, Corp B, Et 2, Pozițiile 49 și 50, Sect 2",031.434.26.47,lorenaalina2005@yahoo.com
+A1878,MARSAN SERVICII MEDICALE SRL,CRACIUN NICODIN MARIA MARCELA,"Soseaua Chitilei 115, clădirea C1, etaj 1, Sector 1",021/667.2375,cmidrcraciun@gmail.com
+A1879,SC CM DR TUFA SRL,TUFA IOAN DANUT,"Str. Giuseppe Garibaldi Nr. 20, Et. P, Cab. 4, Camera 17, Sect. 2",0311.711.15.15,dantufa@yahoo.fr
+A1880,M.F. VIORICA DOGARU SRL,DOGARU VIORICA,"Str Cricovul Dulce 11, Parter, Ap. 1, Sect 4",021.332.18.86,dogaru.v@gmail.com
+A1881,EREPED SRL,EREMIA MARIA,"Strada Iancu Jianu nr. 9, Bloc M180, sc.1, cab.3, sector 5",021.423.44.75,eremia2@yahoo.com
+A1882,AVA SMILE CLINIQUE SRL,VICOL MARIANA,"Strada Pajurei nr. 7, Cam 2 si 3 Sect 1,",021.668.56.42,avaclinique@yahoo.com
+A1883,CRISTINA PICA MF SRL,PICA CRISTINA MARIANA,"Calea Dudesti 104-122, Corp A(C1), Etaj 5, Cabinet 84 Sector 3",031/805.8807,drcristinapica@gmail.com
+A1884,CMI SOROCEANU ALINA LILIANA,SOROCEANU ALINA LILIANA,"Str. Dr. Calistrat Grozovici Nr. 6, Et 1, Corp B, Cab 45, Sect. 2",0374.905.453,alinadumitru27@yahoo.com
+A1885,CMI DELEANU MARIA,DELEANU MARIA,"Soseaua Giurgiului nr. 46, sector 4",0726.219.440,deleanumaria@yahoo.com
+A1886,CABINET MEDICINA GENERALA DR MILITARU SRL,MERGHISESCU OANA,"Sos. Stefan cel Mare Nr. 23, Cabinet 1-Ped, Et. P, Sect. 2",0722.694.878,militaruluminita49@yahoo.com
+A1887,MEDICUL TAU VIOLETA MANTA SRL,MANTA VIOLETA,"Str.Nada Florilor nr.1A, Partel, Cabinet 6, sector 2",0766.433.122,violeta.manta@yahoo.com
+A1888,RIEDEL MONICA MEDICAL SRL,RIEDEL MONICA,"Strada Nada Florilor 1A, sector 2",021.242.41.04,riedelmonica@yahoo.com
+A1889,GELU NEAMTU FAMILY MED SRL,NEAMTU GELU,"Strada Focsani nr. 5 bl. M181, sc.1, parter, sector 5",0723.39.24.76,drneluneamtu@yahoo.com
+A1890,RODICA MARCEAN MEDICAL SRL,MARCEAN RODICA AURORA,"Strada Nada Florilor nr.1A, Sector 2","021/242.51.79,0722.78.22.20",rodica.marcean@yahoo.com
+A1891,CLINICA DOCTOR JIGAU IRINA & MEDICINA DE FAMILIE SRL,JIGĂU IRINA,"Strada Pravat 12, Parter, Cabinet 8, Lot 8 și 9, Etaj 1 și 2, Lot 47,40 și 31, Sector 6",0214137152,cabinetdrjigau@gmail.com
+A1892,CMI POPESCU VIORICA,POPESCU VIORICA,"Cal. Dudesti Nr. 104-122, Et. 4, Poz. 237, Sect. 3",0720.299.607,dr.viorica.popescu@gmail.com
+A1894,MEDICINA DE FAMILIE DR.PARASCHIV FERNANDA SRL,PARASCHIV CARMEN ,"Str.Pravat nr.12,sect.6",021.413.51.55,fernandacarmen54@gmail.com
+A1895,SC LUMI MEDICAL FAM SRL,GHEORGHITA LUMINITA,"Str.Focsani nr.5, bl.M181, sc.2, ap.55-56,cabinet 3, sect.5",0722.314.152/021.423.40.64,luminitagheorghita@ymail.com
+A1896,MEDFAMNUTRIDIA SRL,PRUNA ROXANA MADALINA,"Str. Pictor Gheorghe Tattarescu nr. 2, etaj 1, cam 11-13, sector 3",021.647.68.85,alexp8926@gmail.com
+A1897,SC SOREMED  CABINET MEDICAL SRL ,SORESCU VICTORIA AURELIA,"Calea Griviței nr. 234, bl. 1, scara B, parter, apt. 34, sector 1",021.224.01.89,cmisorescu@yahoo.com
+A1898,CABINET MEDICAL CARPIUC MARIUCA SRL,CARPIUC MĂRIUCA,"Str. Drumea Radulescu nr.16-18, Sector 4 ","021/330.83.52,0721.22.67.57",mcarpiuc@yahoo.com
+A1899,CABINET DR.ANDREESCU CODRU SRL,ANDREESCU IULIUS-CODRU,"Bld.Pictor Nicolae Grigorescu nr.41, ap.609,Sect 3","0721.28.20.24,021/340.03.35 interior 153",iuliuscodru@yahoo.fr
+A1900,SC DOM VISTA MEDICAL SRL,BARTHA ILEANA,"Calea Dudesti 104-122, Sector 3",0730093228,spiridon_stefan@yahoo.com
+CA1901,CENTRUL DE DIAGNOSTIC SI TRATAMENT DR.BULBUC AURORA 168 SRL,ALEXANDRU DIANA-ALINA,"Sos.Stefan cel Mare nr.23, Parter, Cab.4 ,sector 2",0212111161/ 0722476464,dr.bulbuc@gmail.com
+CA1902,SC AVESTA MEDICAL SRL,AVRAMESCU CRISTIANA,"Strada Pietei nr.83,cam 1-6,8-11,sect.1","021/668.58.86,0723.61.08.76",avestamedical@yahoo.com
+CA1903,SC CENTRUL MEDICAL MATEI BASARAB,CARAGUI ION,"Str.Matei Basarab nr.45,sect.3",021.302.94.34/0744.312.591,ion.caragui@cmmb.ro
+CA1904,"SC CM""PRAIN""PTR REDAREA AUZULUI SI INFATISARII NORMALE SRL",GORPIN ANCA MIRONA,"Calea Dorobantilor nr.32A,Corp A,Sc.1,Et.1,Ap.47,sector 1",021.211.34.30/0723.23.74.30,office@prain.ro
+CA1905,SC AIS CLINICS&HOSPITAL SRL,MIU OANA ADRIANA,"Soseaua Alexandria nr.144, sector 5","021.9909, 0735.15.97.43",raportare@aisclinic.ro
+A1906,CMI PETROVICI CRISTINA OANA,PETROVICI CRISTINA OANA,"Cal. Floreasca Nr. 60, Et. 1, Cab. 25, sect. 1",0723.352.222,crinaefrim@yahoo.com
+CA1907,SC PREMIER CLINIC SRL,IATCO CORNELIA,"Bd. Unirii nr.57, Bl.E4,tronson 1, Et.P+M+1, sector 3",021.232.94.00 / 0723.188.713,office@premierclinic.ro
+A1908,SERVICII MEDICALE DE FAMILIE SRL,MIHAI DOINA,"Str. Patulului nr..2A, Bl. 27, Sector 3","031/436.30.72,0787.73.14.94",doina.buse@gmail.com
+CA1909,SC SANTE CONSULT SRL,RAMADAN SAMIR,"Calea Călărașilor nr. 175, bl. 44, sc. 3, parter, apt. 68, sector 2",021.326.10.11,santeeconsult@yahoo.com
+CA1910,SC SANADOR SRL,CRISTACHE NICOLETA,"Str. Dr. Felix nr. 32, sector 1",021.9699,cristache@sanador.ro
+CA1911,PULS MEDICA SA,SHABAN MOHAMAD ISSAM,"Str.Ion Calin nr.37A, sector 2",0219290,office@pulsmedica.ro
+CA1912,EMAMED CLINICAL SERVICES ARL,BUCUR EMILIA CAMELIA,"Str.Lucian Blaga nr.4, bl.M110, parter, sector 3",031.438.12.07/0711.73.96.33,secretariat@emamed.ro
+CA1913,SC ROSANA MEDICAL SRL,STOICA NATALIA,"Strada Valea Oltului 77-79, Etaj 1, Sector 6","0372.73.44.99,0726.77.92.56",contact@rosanamedical.ro
+A1915,CABINET MEDICAL TURCULET ADRIANA SRL,TURCULET ADRIANA,"Strada Drumea Rădulescu 16-18, Parter, Cabinet 2, Sector 4",0745071899/ 0787525424,adrianaturculet@yahoo.com
+A1916,CENTRUL DE DIAGNOSTIC SI TRATAMENT DR.BULBUC AURORA 168 SRL,BULBUC AURORA MELANIA,"Sos.Stefan cel Mare nr.23, Parter, Cab.4 ,sector 2",0212111161/ 0722476464,dr.bulbuc@gmail.com
+A1917,PREVENTMED SRL,STANCU MARIANA,"Str. Teius Nr. 3, et. P, Cam. P19, Sect. 5",0753.070.850,stancu_mariana@yahoo.com
+A1918,DIET ZONE DR. G SRL,ANCATEU GABRIELA,"Str. Padurea Neagra Nr. 56, Bl. 04, Corp A si B, Et. P, Ap. 1-3, Sect. 1",021.794.16.30,gabiancateu@gmail.com
+CA1919,DMI2 MEDICAL SISTEM SRL,IONESCU DELIA MARINA,"Str. Henri Coandă nr. 33, et. 1, apt. 1, cam.3, sector1",021.212.00.33,deliaionescu@gmail.com
+A1920,ALEMED PREVENTIV&CURATIV CENTER SRL,GHERGHE SANDA MIMI,"Str.Povernei nr.40-42, parter, cabinet pozitiile nr.1 si 12,sector 1",0728.18.03.67,gherghe_mimi@yahoo.com
+A1921,SPERANȚA SANTE SRL,CATALINA VERONICA LUIZA,"Str. Muzelor nr. 5B, et. 1, apt. 1, sector 4",0770.426.784,speranta.sante@gmail.com
