@@ -1,0 +1,537 @@
+[
+    {
+      "address": "B-dul Marasti nr. 63, Sector 1",
+      "name": "SPITALUL CLINIC CF NR. 2",
+      "phone": "021-3164208",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.474126,
+      "lng": 26.070201
+    },
+    {
+      "address": "Str. Sergiu Dumitru nr. 3, Sector 1",
+      "name": "CM SANA SRL",
+      "phone": "212128222",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4496204,
+      "lng": 26.0824911
+    },
+    {
+      "address": "Str. Pechea nr. 8, Sector 1",
+      "name": "S.C. MEDICOVER HOSPITAL S.R.L.",
+      "phone": "219896",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4899275,
+      "lng": 26.0916351
+    },
+    {
+      "address": "Str. Buzeşti nr. 75-77, sector 1",
+      "name": "ANIMA SPECIALITY SERVICES SRL",
+      "phone": "219838",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4504919,
+      "lng": 26.083615
+    },
+    {
+      "address": "Floreasca nr. 111- 113,Sector 1",
+      "name": "BIO MEDICA INTERNATIONAL SRL",
+      "phone": "021.311.77.93",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4548918,
+      "lng": 26.1005768
+    },
+    {
+      "address": "Sos. Pitar Mos nr. 20, et. 1, Sector 1",
+      "name": "MEDICAL PRESTIGE SRL",
+      "phone": "212021202",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4432758,
+      "lng": 26.1009838
+    },
+    {
+      "address": "Str. Povernei nr. 40- 42, Sector 1",
+      "name": "CMDTA DR. CHIRIAC OVIDIU",
+      "phone": "213127609",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.45079500000001,
+      "lng": 26.091065
+    },
+    {
+      "address": "Calea Plevnei nr. 17-21, Sector 1",
+      "name": "SC GRAL MEDICAL SRL",
+      "phone": "213230000",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4355647,
+      "lng": 26.0855266
+    },
+    {
+      "address": "Ion Ionescu de la Brad nr. 5B, Sector 1",
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "phone": "219268",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.49713999999999,
+      "lng": 26.0742185
+    },
+    {
+      "address": "George Enescu nr. 12, Sector 1",
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "phone": "219268",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4427663,
+      "lng": 26.0967539
+    },
+    {
+      "address": "Sos. Bucuresti – Ploiesti nr. 42-44, sector 1",
+      "name": "S.C. SANADOR S.R.L.",
+      "phone": "021.96.99",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.51315719999999,
+      "lng": 26.0820178
+    },
+    {
+      "address": "Dr. Dimitrie Sergiu nr. 26- 28, Sector 1",
+      "name": "SC SANADOR SRL",
+      "phone": "021.310.20.09",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4501385,
+      "lng": 26.0823411
+    },
+    {
+      "address": "Str. Dr. Iacob Felix nr. 32, Sector 1",
+      "name": "SC SANADOR SRL",
+      "phone": "21.9699",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.45014459999999,
+      "lng": 26.0815886
+    },
+    {
+      "address": "Str. Av. Teodor Iliescu nr. 50, Sector 1",
+      "name": "IDS LABORATORIES SRL",
+      "phone": "021.211.58.64",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4600174,
+      "lng": 26.097941
+    },
+    {
+      "address": "Calea Grivitei nr. 365, Sector 1",
+      "name": "SC MED LIFE SA",
+      "phone": "21.9646",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.464949,
+      "lng": 26.0544731
+    },
+    {
+      "address": "Str. Maior Coravu nr. 20, Sector 2",
+      "name": "MATE-FIN MEDICAL SRL",
+      "phone": "021.310 16 52",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4359335,
+      "lng": 26.1405207
+    },
+    {
+      "address": "Str. Grozovici nr. 1, Sector 2",
+      "name": "CDT PROVITA SRL",
+      "phone": "021.94.32",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4531849,
+      "lng": 26.1152856
+    },
+    {
+      "address": "Str. Tony Bulandra nr. 27, Sector 2",
+      "name": "CM POLICLINICO DI MONZA SRL",
+      "phone": "031 225 25 00",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.43891199999999,
+      "lng": 26.149141
+    },
+    {
+      "address": "Str. Thomas Masaric nr. 5, Sectror 2",
+      "name": "S.C. PHOENIX IMAGISTIC CENTER S.R.L.",
+      "phone": "0732.660.173, 0372.920.318",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.440902,
+      "lng": 26.105442
+    },
+    {
+      "address": "Şoseaua Pipera nr. 42, mezanin, Nusco Tower",
+      "name": "ANIMA SPECIALITY SERVICES SRL",
+      "phone": "219838",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4802738,
+      "lng": 26.1036714
+    },
+    {
+      "address": "SOS. Pantelimon nr. 340- 342, Sector 2",
+      "name": "S.C. MED EXPERT S.R.L.",
+      "phone": "213275070",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4420251,
+      "lng": 26.1720494
+    },
+    {
+      "address": "Dimitrie Pompei nr. 9- 9A, Sector 2",
+      "name": "SC CENTRUL MEDICAL UNIREA SRL",
+      "phone": "219268",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4844876,
+      "lng": 26.1178676
+    },
+    {
+      "address": "Fundeni nr. 258, Sector 2",
+      "name": "SC EUROMEDIC ROMANIA SRL",
+      "phone": "021.316.73.90 / 91 / 92",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.464132,
+      "lng": 26.151778
+    },
+    {
+      "address": "Sos Stefan cel Mare nr. 19-21, Sector 2",
+      "name": "SPITALUL CLINIC COLENTINA",
+      "phone": "021.317.32.45",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4529349,
+      "lng": 26.11167
+    },
+    {
+      "address": "Str. Decebal nr. 1, bl. H 2, Sector 2",
+      "name": "S.C. SANADOR S.R.L.",
+      "phone": "21.9699",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4273815,
+      "lng": 26.1303609
+    },
+    {
+      "address": "B-dul Ferdinand nr. 98- 100, Sector 2",
+      "name": "POL.MED-LIFE SRL",
+      "phone": "21.9646",
+      "specialty": "radiologie, CT",
+      "lat": 44.443176,
+      "lng": 26.127882
+    },
+    {
+      "address": "Str. Basarabia nr. 49- 51, Sector 2",
+      "name": "CL.MED. HIPOCRAT 2000 SRL",
+      "phone": "021.311.38.10",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4326358,
+      "lng": 26.1447113
+    },
+    {
+      "address": "Str. Tudor Arghezi nr. 28, Sector 2",
+      "name": "C.M.I. DR. MOROIANU SILVIA",
+      "phone": "021.312.74.39",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.43908,
+      "lng": 26.10387
+    },
+    {
+      "address": "Masina de Paine nr. 47, Sector 2",
+      "name": "C.M.I. OLTEANU BOGDAN",
+      "phone": "021.243.07.82",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4542338,
+      "lng": 26.12546
+    },
+    {
+      "address": "Intr. Spatarului nr. 3, Ap. 10, Sector 2",
+      "name": "SC PULS MEDICA SRL",
+      "phone": "021.211.17.55",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4382224,
+      "lng": 26.1127685
+    },
+    {
+      "address": "B-dul Chisinau nr. 16, Sector 2",
+      "name": "SC HIPOCRAT 2000 SRL",
+      "phone": "021.9695, 021.255.18.75, 031.8153530",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4378602,
+      "lng": 26.1582933
+    },
+    {
+      "address": "STR NAE CARANFIL NR 85 A",
+      "name": "DELTA HEALTH CARE SRL.",
+      "phone": "219886",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4834097,
+      "lng": 26.0914359
+    },
+    {
+      "address": "Str. Mihai Bravu nr. 281, Sector 3",
+      "name": "S.C. MEDICAL IMAGING CONCEPT SRL",
+      "phone": "731423703",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.42788909999999,
+      "lng": 26.1391233
+    },
+    {
+      "address": "Fundeni nr. 252, Sector 2",
+      "name": "ODELGA OPERATOR SRL",
+      "phone": "021.318.32.52/ interior 1061",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4633361,
+      "lng": 26.1566328
+    },
+    {
+      "address": "Dudesti nr. 104- 123, Sector 3",
+      "name": "TOTAL RADIOLOGY S.R.L.",
+      "phone": "021.322.38.00",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4238069,
+      "lng": 26.125175
+    },
+    {
+      "address": "B-dul Nicolae Grigorescu nr. 41, Sector 3",
+      "name": "CMI DR. COSTACHE CRISTIANA",
+      "phone": "213404477",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4206258,
+      "lng": 26.1651401
+    },
+    {
+      "address": "B-dul Nicolae Grigorescu nr. 41, Sector 3",
+      "name": "CMI DR. ISTRATESCU HORIA",
+      "phone": "213404477",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4206258,
+      "lng": 26.1651401
+    },
+    {
+      "address": "B-dul Nicolae Grigorescu nr. 41, Sector 3",
+      "name": "CMI DR. ISTRATESCU HORIA",
+      "phone": "213404477",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4206258,
+      "lng": 26.1651401
+    },
+    {
+      "address": "Str. Traian Popovici nr. 79 - 91, Sector3",
+      "name": "S.C. GRAL MEDICAL S.R.L.",
+      "phone": "213230000",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4228271,
+      "lng": 26.133499
+    },
+    {
+      "address": "Str. Vitan Barzesti nr. 13, Sector 4",
+      "name": "S.C. EUREKA S.R.L.",
+      "phone": "0727.476.370",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.3908712,
+      "lng": 26.1440155
+    },
+    {
+      "address": "B-dul Constantin Brancoveanu nr. 20, Sector 4",
+      "name": "Spitalul de copii M.S. CURIE",
+      "phone": "021.460.30.26 021.460.42.60",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.3898656,
+      "lng": 26.1092286
+    },
+    {
+      "address": "Sos Berceni 10-12, Sector 4",
+      "name": "MEDINST SRL",
+      "phone": "021.334.71.94",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.387377,
+      "lng": 26.127184
+    },
+    {
+      "address": "Sos. Alexandriei nr. 144, Sector 5",
+      "name": "S.C. EGO TEST LAB S.R.L.",
+      "phone": "217760075",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.3996179,
+      "lng": 26.0481349
+    },
+    {
+      "address": "Str. Izvor nr. 92-96, Sector 5",
+      "name": "S.C. MEDICALES SERVICII DE SANATATE PREMIUM SRL",
+      "phone": "031.432.99.75 / 031.432.99.76",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4294637,
+      "lng": 26.0810149
+    },
+    {
+      "address": "Str. Dr. Nanu Muscel nr.12, Sector 5",
+      "name": "MEDSANA BUCHAREST MEDICAL CENTER SRL",
+      "phone": "219607",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4333204,
+      "lng": 26.0726206
+    },
+    {
+      "address": "Sos. Panduri nr. 20, Sector 5",
+      "name": "CMI DR. STANESCU GEORGETA",
+      "phone": "214100942",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4256739,
+      "lng": 26.0735688
+    },
+    {
+      "address": "Str. Malcoci nr. 4, Sector 5",
+      "name": "CMI DR.MOCANU ELENA",
+      "phone": "021.423.20.80/ 31",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4093104,
+      "lng": 26.0709625
+    },
+    {
+      "address": "Str. Spatarului nr. 15, Sector 5",
+      "name": "Institutul National de Geriatrie ?i Gerontologie Ana Aslan",
+      "phone": "736397895",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4387214,
+      "lng": 26.112698
+    },
+    {
+      "address": "Str. Eforie nr. 4",
+      "name": "CMI DR. BALTOI SANDA",
+      "phone": "742921177",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.43383679999999,
+      "lng": 26.096406
+    },
+    {
+      "address": "Str. Spartachiadei nr. 13, Sector 6",
+      "name": "CENTRUL MEDICAL HUMANITAS S.R.L.",
+      "phone": "021.7713.253",
+      "specialty": "radiologie, explorari functionale",
+      "lat": 44.4365648,
+      "lng": 26.0156895
+    },
+    {
+      "address": "B-dul Timisoara nr. 262, Sector 6",
+      "name": "S.C. CLINICA POLISANO S.R.L.",
+      "phone": "219267",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4271046,
+      "lng": 26.0176447
+    },
+    {
+      "address": "Pravat nr. 12, et.1, Sector 6",
+      "name": "MEDIRA SRL",
+      "phone": "214133068",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4244952,
+      "lng": 26.0412621
+    },
+    {
+      "address": "B-dul Regina Maria nr 41, sector 6",
+      "name": "SC CENTRUL MEDICAL MED AS 2003 SRL",
+      "phone": "219232",
+      "specialty": "CT, radiologie, RMN",
+      "lat": 44.4220044,
+      "lng": 26.0915286
+    },
+    {
+      "address": "Str. Cetatea Histria nr. 12, Sector 6",
+      "name": "IDS LABORATORIES SRL",
+      "phone": "021.211.58.64",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4200647,
+      "lng": 26.0224245
+    },
+    {
+      "address": "Drumul Taberii nr. 24, Sector 6",
+      "name": "POL.MED-LIFE SRL",
+      "phone": "219646",
+      "specialty": "radiologie, CT,",
+      "lat": 44.4247729,
+      "lng": 26.0464176
+    },
+    {
+      "address": "B-dul Regiei nr. 8, Sector 6",
+      "name": "C.M.I. VIZITEU SANDA",
+      "phone": "721228291",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4462331,
+      "lng": 26.0573261
+    },
+    {
+      "address": "Str. Dezrobirii nr. 13, Sector 6",
+      "name": "SCM POLIMED APACA",
+      "phone": "021.311.38.10",
+      "specialty": "RADIOLOGIE",
+      "lat": 44.4356825,
+      "lng": 26.020873
+    },{
+        "address": "ALBA IULIA, STR.B-DUL REPUBLICII, NR 5",
+        "name": "PHOENIX IMAGISTIC SA",
+        "phone": "799744833",
+        "specialty": "RADIOLOGIE SI IMAGISTICA MEDICALA",
+        "lat": 46.0674675,
+        "lng": 23.5824569
+    },
+    {
+        "address": "ALBA IULIA, STR. B-DUL REVOLUTIEI 1989, NR.15, BL.2AB, AP.2",
+        "name": "TERRA ASTER",
+        "phone": "258833408",
+        "specialty": "ECOGRAFII",
+        "lat": 46.0691652,
+        "lng": 23.5565107
+    },
+    {
+        "address": "ALBA IULIA, STR.SEPTIMIUS SEVERUS, NR.43, BL. TOR 1, AP. 4",
+        "name": "CMF PETRUTA MARCELA",
+        "phone": "258810319",
+        "specialty": "ECOGRAFII",
+        "lat": 46.07774,
+        "lng": 23.5694224
+    },
+    {
+        "address": "ALBA IULIA, STR. MOTILOR, NR. 17A",
+        "name": "TERRA ASTER",
+        "phone": "258833408",
+        "specialty": "RADIOLOGIE SI IMAGISTICA MEDICALA",
+        "lat": 46.07312899999999,
+        "lng": 23.576209
+    },
+    {
+        "address": "ALBA IULIA, STR B-DUL REVOLUTIEI,NR.23",
+        "name": "SPITALUL JUDETEAN DE URGENTA ALBA",
+        "phone": "258835729",
+        "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+        "lat": 46.07088599999999,
+        "lng": 23.557142
+    },
+    {
+        "address": "AIUD, STR.SPITALULUI, NR.2",
+        "name": "SPITALUL MUNICIPAL AIUD",
+        "phone": "258861817",
+        "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+        "lat": 46.30765,
+        "lng": 23.723221
+    },
+    {
+        "address": "BLAJ, STR. ANDREI MURESANU, NR.16",
+        "name": "SPITALUL MUNICIPAL BLAJ",
+        "phone": "258710941",
+        "specialty": "ECOGRAFII",
+        "lat": 46.1802331,
+        "lng": 23.9279175
+    },
+    {
+        "address": "BLAJ, STR. ANDREI MURESANU, NR.16",
+        "name": "SPITALUL MUNICIPAL BLAJ",
+        "phone": "258710941",
+        "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+        "lat": 46.1802331,
+        "lng": 23.9279175
+    },
+    {
+        "address": "SEBEȘ, STR. ANDREI MURESANU, NR.16",
+        "name": "SPITALUL MUNICIPAL BLAJ",
+        "phone": "258710941",
+        "specialty": "ECOGRAFII",
+        "lat": 45.9595588,
+        "lng": 23.5663758
+    },
+    {
+        "address": "SEBEȘ, STR. ANDREI MURESANU, NR.16",
+        "name": "SPITALUL MUNICIPAL BLAJ",
+        "phone": "258710941",
+        "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+        "lat": 45.9595588,
+        "lng": 23.5663758
+    }
+  ]
