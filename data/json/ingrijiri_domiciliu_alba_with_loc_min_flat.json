@@ -1,0 +1,68 @@
+{
+    "list": [
+        {
+            "address": "CIUGUD, STRADA PRIMAVERII, NR 12",
+            "name": "SC ALBAMED PLUS SRL",
+            "phone": "0746/793045",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 46.0469649,
+            "lng": 23.6127549
+        },
+        {
+            "address": "ALBA IULIA, STRADA BUCURESTI, NR 16",
+            "name": "CRUCEA ROSIE DIN ROMANIA - FILIALA ALBA",
+            "phone": "0258/812257",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 46.0676683,
+            "lng": 23.5841517
+        },
+        {
+            "address": "ALBA IULIA, STRADA REPUBLICII, NR 34",
+            "name": "SC MEDICAL PEGASUS SRL",
+            "phone": "0757/243217",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 46.08128199999999,
+            "lng": 23.575648
+        },
+        {
+            "address": "BLAJ, MITROP. IOAN VANCEA, NR 18",
+            "name": "SC CENTRUL MEDICAL PROVITA SRL",
+            "phone": "0752/075542",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 46.1802331,
+            "lng": 23.9279175
+        },
+        {
+            "address": "METES, SAT POIANA AMPOIULUI, NR 1A",
+            "name": "SC REALMED ALBA SRL",
+            "phone": "0769/112211",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 46.0908271,
+            "lng": 23.3847593
+        },
+        {
+            "address": "ALBA-IULIA, STRADA STEFAN CEL MARE, NR 5, BL 11, AP 29, SC. B",
+            "name": "SC RALLUMEDICA SRL",
+            "phone": "0722/258999",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 46.07327249999999,
+            "lng": 23.5804886
+        },
+        {
+            "address": "CUGIR, STRADA 21 DECEMBRIE 1989, NR 47",
+            "name": "SERVICIUL PUBLIC DE ASISTENTA SOCIALA CUGIR",
+            "phone": "0258/750764",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 45.8426844,
+            "lng": 23.3675701
+        },
+        {
+            "address": "AIUD, STRADA OSTASILOR, NR 55",
+            "name": "ASOCIATIA UN PAS INAINTE ALEXANDRA",
+            "phone": "0740/342648",
+            "specialty": "Ingrijiri medicale la domiciliu",
+            "lat": 46.306168,
+            "lng": 23.7255349
+        }
+    ]
+}

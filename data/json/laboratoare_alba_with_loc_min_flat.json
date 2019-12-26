@@ -1,0 +1,116 @@
+{
+    "list": [
+        {
+            "address": "AIUD, STR.SPITALULUI, NR.2",
+            "name": "SPITALUL MUNICIPAL AIUD",
+            "phone": "258861339",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.30765,
+            "lng": 23.723221
+        },
+        {
+            "address": "BLAJ, STR. ANDREI MURESANU, NR.16",
+            "name": "SPITALUL MUNICIPAL BLAJ",
+            "phone": "258710941",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.1802331,
+            "lng": 23.9279175
+        },
+        {
+            "address": "BLAJ, STR. TIMOTEI CIPARIU, NR. 13",
+            "name": "SC ANALIMED SRL",
+            "phone": "258713131",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.175641,
+            "lng": 23.922298
+        },
+        {
+            "address": "ALBA IULIA, STR. HOREA, NR. 52",
+            "name": "SC ITAL MEDICAL SRL",
+            "phone": "258772974",
+            "specialty": "LABORATOR INVESTIGATII PARACLINICE- ANALIZE DE LABORATOR",
+            "lat": 46.07327249999999,
+            "lng": 23.5804886
+        },
+        {
+            "address": "ALBA IULIA, STR B-DUL REVOLUTIEI,NR.23",
+            "name": "SPITALUL JUDETEAN DE URGENTA ALBA",
+            "phone": "258820825",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR, ANATOMIE PATOLOGICA",
+            "lat": 46.07088599999999,
+            "lng": 23.557142
+        },
+        {
+            "address": "ALBA IULIA, STR.MARASESTI ,NR.22A",
+            "name": "SC SAGA SRL",
+            "phone": "258811603",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.0745359,
+            "lng": 23.5889568
+        },
+        {
+            "address": "ALBA IULIA, STR. B-DUL REVOLUTIEI 1989, NR.15, BL.2AB, AP.2",
+            "name": "SC TERRA MED LABORATOR SRL",
+            "phone": "258833925",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.0691652,
+            "lng": 23.5565107
+        },
+        {
+            "address": "ALBA IULIA, STR. CALEA MOTILOR, NR. 17A",
+            "name": "SC TERRA ASTER SRL",
+            "phone": "258833408",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.07312899999999,
+            "lng": 23.576209
+        },
+        {
+            "address": "ALBA IULIA, STR.ARIESULUI, NR.66, BL.256, AP.3",
+            "name": "SC MEDISOL SRL",
+            "phone": "358104546",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.085964,
+            "lng": 23.584663
+        },
+        {
+            "address": "ALBA IULIA, STR.FERDINAND , NR.14",
+            "name": "SC ITAL MED SRL",
+            "phone": "358111361",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 44.4394538,
+            "lng": 26.1197305
+        },
+        {
+            "address": "SEBEȘ, STR.SURIANU, NR.41",
+            "name": "SPITALUL MUNICIPAL SEBES",
+            "phone": "258731712",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 45.9514021,
+            "lng": 23.5676841
+        },
+        {
+            "address": "SEBEȘ, STR.SURIANU,NR.6",
+            "name": "SC CDT SEBES SRL",
+            "phone": "258733673",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 45.9547663,
+            "lng": 23.568691
+        },
+        {
+            "address": "SEBEȘ, STR VIILOR,NR.61",
+            "name": "SC ROMGER DIAGNOSTICA SRL",
+            "phone": "258730680",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 45.9531334,
+            "lng": 23.5853264
+        },
+        {
+            "address": "OCNA MUREȘ, STR.AXENTE SEVER, NR.43A",
+            "name": "MEDISOL(PCT.DE LUCRU)",
+            "phone": "358401130",
+            "specialty": "INVESTIGATII PARACLINICE-ANALIZE DE LABORATOR",
+            "lat": 46.3791105,
+            "lng": 23.8604881
+        }
+    ]
+}

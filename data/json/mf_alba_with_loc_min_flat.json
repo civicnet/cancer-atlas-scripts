@@ -1,0 +1,2102 @@
+{"list": [
+    {
+      "address": "0258860860",
+      "contractNo": "24.04.2018",
+      "email": "",
+      "medicName": "MF 284",
+      "phone": "dr.aalbu@yahoo.com",
+      "supplierName": "ALBU RODICA MARIA NELA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "ALBA IULIA, CRISANEI, NR.1D",
+      "contractNo": "MF 285",
+      "email": "flaviu.anghel@yahoo.com",
+      "medicName": "ANGHEL FLAVIU IOAN",
+      "phone": "0258813829",
+      "supplierName": "CMF DR. ANGHEL FLAVIU",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "OCNA MURES,STR.NICOLAE IORGA NR.35-36",
+      "contractNo": "MF 286",
+      "email": "cmf_anghel.gheorghe@yahoo.com",
+      "medicName": "ANGHEL GHEORGHE",
+      "phone": "0258870333",
+      "supplierName": "CAB.MED.FAM.ANGHEL GHEORGHE",
+      "lat": 46.38208090000001,
+      "lng": 23.8520705
+    },
+    {
+      "address": "IGHIU, PRINCIPALA NR: 44",
+      "contractNo": "MF 287",
+      "email": "ludovica.anghel@yahoo.com",
+      "medicName": "ANGHEL LUDOVICA",
+      "phone": "0258844178",
+      "supplierName": "CMF. ANGHEL LUDOVICA",
+      "lat": 46.1438947,
+      "lng": 23.5121564
+    },
+    {
+      "address": "DAIA ROMANA NR. 727",
+      "contractNo": "MF 288",
+      "email": "amalia.ardelean@yahoo.com",
+      "medicName": "ARDELEAN PERSIDA AMALIA",
+      "phone": "0258763450",
+      "supplierName": "CAB.MED.DR.ARDELEAN AMALIA PERSIDA",
+      "lat": 46.006639,
+      "lng": 23.6675773
+    },
+    {
+      "address": "ALBA IULIA,STR.CALEA MOTILOR,NR.27A",
+      "contractNo": "MF 289",
+      "email": "mircea.arsenoiu@yahoo.com",
+      "medicName": "ARSENOIU MIRCEA STEFAN",
+      "phone": "0788529939",
+      "supplierName": "SC AMVES MED S.R.L.",
+      "lat": 46.0732607,
+      "lng": 23.5747245
+    },
+    {
+      "address": "SARD, STR. POPII, NR. 77",
+      "contractNo": "MF 289",
+      "email": "mircea.arsenoiu@yahoo.com",
+      "medicName": "ARSENOIU MIRCEA STEFAN",
+      "phone": "0788529939",
+      "supplierName": "SC AMVES MED S.R.L.",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "OCNA MURES, GARII,NR.149",
+      "contractNo": "MF 290",
+      "email": "razvanbaciu2003@yahoo.com",
+      "medicName": "BACIU RAZVAN IERONIM",
+      "phone": "0258877112",
+      "supplierName": "CABINET MED. FAM DR. BACIU RAZVAN",
+      "lat": 44.4923986,
+      "lng": 26.0310464
+    },
+    {
+      "address": "VINEREA, STR.PRINCIPALA,NR.198",
+      "contractNo": "MF 291",
+      "email": "vasilebaciu35@yahoo.com",
+      "medicName": "BACIU VASILE",
+      "phone": "0258759025",
+      "supplierName": "CAB DR. BACIU VASILE",
+      "lat": 44.4366134,
+      "lng": 26.0143077
+    },
+    {
+      "address": "DAIA ROMANA NR: 727,",
+      "contractNo": "MF 292",
+      "email": "balasa.gina@yahoo.com",
+      "medicName": "BALASA GHEORGHITA",
+      "phone": "0258763103",
+      "supplierName": "CAB.MED.DR.BALASA GHEORGHITA",
+      "lat": 46.006639,
+      "lng": 23.6675773
+    },
+    {
+      "address": "ALBA IULIA, MUSETELULUI,NR.2",
+      "contractNo": "MF 293",
+      "email": "ana.barbat@yahoo.com",
+      "medicName": "BARBAT ANA",
+      "phone": "0723518608",
+      "supplierName": "CABINET MEDIC FAM DR BARBAT",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "TEIUS, CLUJULUI NR. 95",
+      "contractNo": "MF 294",
+      "email": "barlutiugrigore@yahoo.com",
+      "medicName": "BARLUTIU GREGORIU",
+      "phone": "0258851107",
+      "supplierName": "CAB MF. BARLUTIU GREGORIU",
+      "lat": 46.207409,
+      "lng": 23.674301
+    },
+    {
+      "address": "ALBA IULIA, MUSETELULUI 2",
+      "contractNo": "MF 295",
+      "email": "bereacamelia@yahoo.com",
+      "medicName": "BEREA CAMELIA LENUTA",
+      "phone": "0745584462",
+      "supplierName": "CAB MED FAM BEREA CAMELIA LENUTA",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "JIDVEI, UNIRII NR. 43",
+      "contractNo": "MF 296",
+      "email": "zoltan_bernat@yahoo.com",
+      "medicName": "BERNAT ZOLTAN",
+      "phone": "0258881551",
+      "supplierName": "CMA DR BERNAT ZOLTAN SI DR SIMONETTI DELIA",
+      "lat": 46.2226645,
+      "lng": 24.1098947
+    },
+    {
+      "address": "ALBA IULIA, MUSETELULUI,NR.2",
+      "contractNo": "MF 297",
+      "email": "rodica.besoiu@yahoo.com",
+      "medicName": "BESOIU RODICA",
+      "phone": "0723382406",
+      "supplierName": "CABINET MF BESOIU RODICA",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "CUGIR, STR. 21.DEC.1989,NR.158",
+      "contractNo": "MF 298",
+      "email": "beudeanr@yahoo.com",
+      "medicName": "BEUDEAN LIDIA RODICA",
+      "phone": "0258755300",
+      "supplierName": "CABINET MEDICAL DR. BEUDEAN RODICA",
+      "lat": 45.8370606,
+      "lng": 23.3675078
+    },
+    {
+      "address": "SINTIMBRU, BLAJULUI 57",
+      "contractNo": "MF 299",
+      "email": "viki_bian@yahoo.com",
+      "medicName": "BIAN VICTORIA",
+      "phone": "0741103058",
+      "supplierName": "CMABINET MEDIC FAMILIE BIAN VICTORIA",
+      "lat": 46.1363765,
+      "lng": 23.6511006
+    },
+    {
+      "address": "CENADE,  NR.250",
+      "contractNo": "MF 300",
+      "email": "bodea1956@yahoo.com",
+      "medicName": "BODEA IOAN",
+      "phone": "0749081912",
+      "supplierName": "CABINET MEDICAL INDIVIDUAL DR.BODEA IOAN",
+      "lat": 46.0582046,
+      "lng": 24.0050622
+    },
+    {
+      "address": "SEBES-PETRESTI, STR.1 MAI , NR.23",
+      "contractNo": "MF 301",
+      "email": "bran.lucia@yahoo.com",
+      "medicName": "BRAN LUCIA",
+      "phone": "0258743104",
+      "supplierName": "CABINET MEDICAL DR. BRAN LUCIA",
+      "lat": 45.9213536,
+      "lng": 23.5617189
+    },
+    {
+      "address": "ALBA IULIA, CRISANEI, NR.1",
+      "contractNo": "MF 302",
+      "email": "bunea.elena@yahoo.com",
+      "medicName": "BUNEA ELENA",
+      "phone": "0258817203",
+      "supplierName": "CABINET MED. FAM. DR. BUNEA ELENA",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "CUGIR, STR. DOINEI NR. 11",
+      "contractNo": "MF 303",
+      "email": "butnaru_a@yahoo.com",
+      "medicName": "BUTNARU ANTON STEFAN",
+      "phone": "0258750227",
+      "supplierName": "CAB MED DR. BUTNARU ANTON",
+      "lat": 45.8370606,
+      "lng": 23.3675078
+    },
+    {
+      "address": "POIANA VADULUI ,NR.27A",
+      "contractNo": "MF 304",
+      "email": "calatean.corneliu@yahoo.com",
+      "medicName": "CALATEAN CORNELIU IOAN",
+      "phone": "0763657717",
+      "supplierName": "CAB MED FAM CALATEAN CORNELIU IOAN",
+      "lat": 44.4274936,
+      "lng": 26.042485
+    },
+    {
+      "address": "ALBA IULIA, STR. CRISANEI, NR. 1",
+      "contractNo": "MF 305",
+      "email": "roxana_hirean@yahoo.com",
+      "medicName": "CALIMAN IOAN",
+      "phone": "0749893288",
+      "supplierName": "CMF. DR. CALIMAN IOAN",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "SEBES, STR. MIHAIL KOGALNICEANU NR. 128",
+      "contractNo": "MF 306",
+      "email": "campeani@yahoo.com",
+      "medicName": "CAMPEAN ANA ILEANA",
+      "phone": "0258735261",
+      "supplierName": "CM.DR.CAMPEAN ANA ILEANA",
+      "lat": 45.96559569999999,
+      "lng": 23.5575484
+    },
+    {
+      "address": "TEIUS, STR. CLUJULUI, NR. 95",
+      "contractNo": "MF 307",
+      "email": "cabinetmfcampeang@yahoo.com",
+      "medicName": "CAMPEAN GRATIELA LUCIA",
+      "phone": "0258852415",
+      "supplierName": "CAB. MF.CAMPEAN GRATIELA",
+      "lat": 46.207409,
+      "lng": 23.674301
+    },
+    {
+      "address": "BISTRA,STR. TURZII NR. 100",
+      "contractNo": "MF 309",
+      "email": "aurora_cristina66@yahoo.com",
+      "medicName": "CENUSA AURORA CRISTINA",
+      "phone": "0744760426",
+      "supplierName": "CMF.DR.CENUSA AURORA",
+      "lat": 46.3787007,
+      "lng": 23.1021078
+    },
+    {
+      "address": "SEBES, STR.SPITALULUI, NR.32A",
+      "contractNo": "MF 310",
+      "email": "drchicea.office@yahoo.com",
+      "medicName": "CHICEA LUCIAN",
+      "phone": "0763054455",
+      "supplierName": "SC. LUCAS MEDICAL S.R.L.",
+      "lat": 45.95068999999999,
+      "lng": 23.570503
+    },
+    {
+      "address": "SALISTEA STR. JOSENI, NR. 448",
+      "contractNo": "MF 310",
+      "email": "drchicea.office@yahoo.com",
+      "medicName": "CHICEA LUCIAN",
+      "phone": "0763054455",
+      "supplierName": "SC. LUCAS MEDICAL S.R.L.",
+      "lat": 45.9074384,
+      "lng": 23.3957206
+    },
+    {
+      "address": "IGHIU, NR. 44",
+      "contractNo": "MF 311",
+      "email": "chirica_mircea@yahoo.com",
+      "medicName": "CHIRICA MARIA",
+      "phone": "0258844094",
+      "supplierName": "CAB. MED. DE FAM. DR. CHIRICA MARIA",
+      "lat": 46.1438947,
+      "lng": 23.5121564
+    },
+    {
+      "address": "MIHALT, NR. 699",
+      "contractNo": "MF 312",
+      "email": "flochirila@yahoo.com",
+      "medicName": "CHIRILA CARMEN",
+      "phone": "0258718148",
+      "supplierName": "CMF DR CHIRILA CARMEN",
+      "lat": 46.1612206,
+      "lng": 23.7275736
+    },
+    {
+      "address": "ZLATNA, STR. HOREA NR. 3",
+      "contractNo": "MF 313",
+      "email": "lciocodeica@yahoo.com",
+      "medicName": "CIOCODEICA LIVIU",
+      "phone": "0741189333",
+      "supplierName": "SC. MED CIOCODEICA S.R.L.",
+      "lat": 46.11175,
+      "lng": 23.2247
+    },
+    {
+      "address": "GIRDA DE SUS, NR. 46A",
+      "contractNo": "MF 315",
+      "email": "cristigarda@yahoo.com",
+      "medicName": "CIUBOTARESCU CRISTIAN AURELIAN",
+      "phone": "0725437466",
+      "supplierName": "CAB MED. DR. CIUBOTARESCU CRISTIAN",
+      "lat": 46.45433999999999,
+      "lng": 22.8133414
+    },
+    {
+      "address": "CUGIR,STR.MIHAIL SADOVEANU,NR.1B 4",
+      "contractNo": "MF 316",
+      "email": "dr.cocian@yahoo.com",
+      "medicName": "COCIAN GABRIELA",
+      "phone": "0727870070",
+      "supplierName": "CMI. DR. COCIAN GABRIELA",
+      "lat": 45.83645,
+      "lng": 23.36235
+    },
+    {
+      "address": "ALBA IULIA, STR.  MUSETELULUI, NR.2",
+      "contractNo": "MF 317",
+      "email": "codarcea_ana_angela@yahoo.com",
+      "medicName": "CODARCEA ANA ANGELA",
+      "phone": "0753741255",
+      "supplierName": "CAB MED MF CODARCEA ANA ANGELA",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "AIUD, STR.PROTOPOP IOSIF POP, NR.7",
+      "contractNo": "MF 318",
+      "email": "coltorrodica@yahoo.com",
+      "medicName": "COLTOR RODICA MARIA",
+      "phone": "0258865589",
+      "supplierName": "CMF.DR.COLTOR RODICA",
+      "lat": 46.3099139,
+      "lng": 23.7257783
+    },
+    {
+      "address": "ARIESENI, NR.7",
+      "contractNo": "MF 319",
+      "email": "costea.carmen@yahoo.com",
+      "medicName": "COSTEA CARMEN ELENA",
+      "phone": "0258778739",
+      "supplierName": "CABINET MED.IND.COSTEA CARMEN ELENA",
+      "lat": 46.4767119,
+      "lng": 22.7549531
+    },
+    {
+      "address": "ALBA IULIA, STR.CRISANEI, NR. 1",
+      "contractNo": "MF 320",
+      "email": "elenacotarlea@gmail.com",
+      "medicName": "COTARLEA ELENA",
+      "phone": "0258813030",
+      "supplierName": "CMF. DR. COTARLEA ELENA",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "ALBA IULIA, STR. HENRI COANDA, NR.2A",
+      "contractNo": "MF 321",
+      "email": "cotarleavalentin@yahoo.com",
+      "medicName": "COTARLEA VALENTIN",
+      "phone": "0747095444",
+      "supplierName": "SC OPUSMEDICI S.R.L.",
+      "lat": 44.5707306,
+      "lng": 26.0844123
+    },
+    {
+      "address": "BLAJ, STR. PRIMAVERII NR. 5",
+      "contractNo": "MF 321",
+      "email": "cotarleavalentin@yahoo.com",
+      "medicName": "COTARLEA VALENTIN",
+      "phone": "0747095444",
+      "supplierName": "SC OPUSMEDICI S.R.L.",
+      "lat": 46.1802331,
+      "lng": 23.9279175
+    },
+    {
+      "address": "SEBES, STR. MIHAI VITEAZU, NR. 28",
+      "contractNo": "MF 321",
+      "email": "cotarleavalentin@yahoo.com",
+      "medicName": "COTARLEA VALENTIN",
+      "phone": "0747095444",
+      "supplierName": "SC OPUSMEDICI S.R.L.",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "MICESTI, STR. SCARISOARA, NR. 16",
+      "contractNo": "MF 323",
+      "email": "lucia_craciun_cml@yahoo.com",
+      "medicName": "CRACIUN MARIOARA LUCIA",
+      "phone": "0258833371",
+      "supplierName": "CAB.MEDICAL IND.CRACIUN MARIOARA LUCIA",
+      "lat": 46.1020222,
+      "lng": 23.5563288
+    },
+    {
+      "address": "SEBES, STR. CANTARULUI, NR. 1",
+      "contractNo": "MF 323",
+      "email": "lucia_craciun_cml@yahoo.com",
+      "medicName": "CRACIUN MARIOARA LUCIA",
+      "phone": "0258833371",
+      "supplierName": "CAB.MEDICAL IND.CRACIUN MARIOARA LUCIA",
+      "lat": 45.9545055,
+      "lng": 23.577935
+    },
+    {
+      "address": "SUGAG, nr. 231",
+      "contractNo": "MF 324",
+      "email": "medicalexandru@yahoo.com",
+      "medicName": "CRAIOVAN ALEXANDRU",
+      "phone": "0258746493",
+      "supplierName": "CABINET MEDICAL DR.CRAIOVAN ALEXANDRU",
+      "lat": 45.7776871,
+      "lng": 23.6206131
+    },
+    {
+      "address": "ALBAC, STR. CRISAN NR.30",
+      "contractNo": "MF 325",
+      "email": "cristea54albac@yahoo.com",
+      "medicName": "CRISTEA IONEL",
+      "phone": "0751839945",
+      "supplierName": "CMF DR. CRISTEA IONEL",
+      "lat": 46.4488841,
+      "lng": 22.9653161
+    },
+    {
+      "address": "CIMPENI, STR. HOREA, NR. 63",
+      "contractNo": "MF 326",
+      "email": "ladislau40@yahoo.com",
+      "medicName": "CSERNATONI LADISLAU",
+      "phone": "0744762570",
+      "supplierName": "CAB. MF CSERNATONI LADISLAU",
+      "lat": 46.36244199999999,
+      "lng": 23.040029
+    },
+    {
+      "address": "UNIREA, STR. MURESULUI nr. 596",
+      "contractNo": "MF 327",
+      "email": "csiki.gabriela@gmail.com",
+      "medicName": "CSIKI GABRIELA",
+      "phone": "0258876105",
+      "supplierName": "CAB. MED. DR .CSIKI GABRIELA",
+      "lat": 44.4688616,
+      "lng": 26.0486457
+    },
+    {
+      "address": "IGHIU, nr. 44",
+      "contractNo": "MF 328",
+      "email": "drdanciuelena@yahoo.com",
+      "medicName": "DANCIU ELENA LACRAMIOARA",
+      "phone": "0258844193",
+      "supplierName": "CMF. DR. DANCIU ELENA",
+      "lat": 46.1438947,
+      "lng": 23.5121564
+    },
+    {
+      "address": "AIUD, STR. UNIRII, BL.57, AP. 2",
+      "contractNo": "MF 329",
+      "email": "drdemeterb@yahoo.com",
+      "medicName": "DEMETER BÉLA",
+      "phone": "0258864749",
+      "supplierName": "CMA.DR.DEMETER",
+      "lat": 46.3086633,
+      "lng": 23.724558
+    },
+    {
+      "address": "ALBA IULIA, STR. STEFAN CEL MARE, NR. 5, BL. 11, ET. 2, AP. 29",
+      "contractNo": "MF 330",
+      "email": "rallumed@yahoo.com",
+      "medicName": "DEVIAN MARIA",
+      "phone": "0745653497",
+      "supplierName": "SC. RALLUMEDICA S.R.L",
+      "lat": 46.073054,
+      "lng": 23.56148
+    },
+    {
+      "address": "ALBA IULIA, STR. REVOLUTIEI,NR.47B",
+      "contractNo": "MF 330",
+      "email": "rallumed@yahoo.com",
+      "medicName": "DEVIAN MARIA",
+      "phone": "0745653497",
+      "supplierName": "SC. RALLUMEDICA S.R.L",
+      "lat": 46.07327249999999,
+      "lng": 23.5804886
+    },
+    {
+      "address": "FENES, NR.3",
+      "contractNo": "MF 331",
+      "email": "ileanadicu@yahoo.com",
+      "medicName": "DICU ILEANA",
+      "phone": "0258859131",
+      "supplierName": "CABINET MEDIC DE FAMILIE DICU ILEANA",
+      "lat": 44.4309492,
+      "lng": 26.1014091
+    },
+    {
+      "address": "CUGIR, STR. 21.DECEMBRIE 1989, NR.158",
+      "contractNo": "MF 332",
+      "email": "drcristiandima@yahoo.com",
+      "medicName": "DIMA CRISTIAN",
+      "phone": "0258755300",
+      "supplierName": "CAB MED DE FAMILIE DR. DIMA CRISTIAN",
+      "lat": 45.828885,
+      "lng": 23.372437
+    },
+    {
+      "address": "SEBES, STR. MIHAI VITEAZU, NR. 28",
+      "contractNo": "MF 333",
+      "email": "adina.dimitrovici@yahoo.com",
+      "medicName": "DIMITROVICI ADINA LIVIA",
+      "phone": "0258735002",
+      "supplierName": "CAB. MED. FAM. DIMITROVICI ADINA",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "ALBA IULIA, STR. CRISANEI, NR. 1",
+      "contractNo": "MF 334",
+      "email": "angeladraghiciu@yahoo.com",
+      "medicName": "DRAGHICIU ANGELA",
+      "phone": "0744544033",
+      "supplierName": "SC. ADMEDICA DRAGHICIU SRL",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "ALBA IULIA, STR. CRISANEI, NR. 1",
+      "contractNo": "MF 335",
+      "email": "madalina.vesa@yahoo.com",
+      "medicName": "DRAGOLEA GEORGETA",
+      "phone": "0740256225",
+      "supplierName": "SC VESA TOPMED SRL -D",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "AIUD, STR. GHEORGHE DOJA, NR. 21",
+      "contractNo": "MF 336",
+      "email": "mirelduda@gmail.com",
+      "medicName": "DUDA MIREL VASILE",
+      "phone": "0721208347",
+      "supplierName": "SC. MEDICAL DUDA PLUS S.R.L.",
+      "lat": 46.3086633,
+      "lng": 23.724558
+    },
+    {
+      "address": "AIUD, STR.BETHLEN GABOR, NR.2",
+      "contractNo": "MF 336",
+      "email": "mirelduda@gmail.com",
+      "medicName": "DUDA MIREL VASILE",
+      "phone": "0721208347",
+      "supplierName": "SC. MEDICAL DUDA PLUS S.R.L.",
+      "lat": 46.3105224,
+      "lng": 23.7170293
+    },
+    {
+      "address": "ALBA IULIA, MUSETELULUI,NR.2",
+      "contractNo": "MF 337",
+      "email": "dudas.doina@yahoo.com",
+      "medicName": "DUDAS  DIANA CRISTINA",
+      "phone": "0745372923",
+      "supplierName": "SC.DUDAS MED SRL",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "VALEA LUNGA, STR. VICTORIEI NR. 315",
+      "contractNo": "MF 338",
+      "email": "elena_gorea_dulau@yahoo.com",
+      "medicName": "DULAU ELENA",
+      "phone": "0745323627",
+      "supplierName": "CAB. MED. ASOC.DR.DULAU",
+      "lat": 44.430905,
+      "lng": 26.0134216
+    },
+    {
+      "address": "SONA/BIIA, NR. 237",
+      "contractNo": "MF 338",
+      "email": "elena_gorea_dulau@yahoo.com",
+      "medicName": "DULAU ELENA",
+      "phone": "0745323627",
+      "supplierName": "CAB. MED. ASOC.DR.DULAU",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "ALBA IULIA, STR. REVOLUTIEI 1989, NR. 39, BL. M10, AP. 35",
+      "contractNo": "MF 339",
+      "email": "popsa_milena@yahoo.com",
+      "medicName": "DULIPOVICI MILENA",
+      "phone": "0722579906",
+      "supplierName": "MILENA MED SRL.- D",
+      "lat": 46.07316,
+      "lng": 23.558379
+    },
+    {
+      "address": "SEBES, STR. SAVA HENTIA, NR.17",
+      "contractNo": "MF 340",
+      "email": "dumitriuliana@yahoo.com",
+      "medicName": "DUMITRIU FLORIANU LIANA CARMEN",
+      "phone": "0258730415",
+      "supplierName": "CAB. MED. DR. DUMITRIU LIANA",
+      "lat": 45.9595588,
+      "lng": 23.5663758
+    },
+    {
+      "address": "HOREA,STR.FERICETULUI, NR. 8",
+      "contractNo": "MF 343",
+      "email": "enculescugeorgeta14@gmail.com",
+      "medicName": "ENCULESCU GEORGETA LILIANA",
+      "phone": "0769984644",
+      "supplierName": "CMF DR.ENCULESCU GEORGETA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "SARD, NR. 77",
+      "contractNo": "MF 344",
+      "email": "liviafaur@yahoo.com",
+      "medicName": "FAUR BELDEAN LIVIA",
+      "phone": "0258833088",
+      "supplierName": "CAB. MED. DR. FAUR BELDEAN LIVIA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "ALBA IULIA, STR. TOPORASILOR, NR. 15B",
+      "contractNo": "MF 344",
+      "email": "liviafaur@yahoo.com",
+      "medicName": "FAUR BELDEAN LIVIA",
+      "phone": "0258833088",
+      "supplierName": "CAB. MED. DR. FAUR BELDEAN LIVIA",
+      "lat": 46.075291,
+      "lng": 23.558736
+    },
+    {
+      "address": "CALNIC, NR.12",
+      "contractNo": "MF 345",
+      "email": "faur_mari_viorica@yahoo.com",
+      "medicName": "FAUR MARIA VIORICA",
+      "phone": "0740083640",
+      "supplierName": "CAB. MED. FAM. FAUR MARIA",
+      "lat": 44.4370144,
+      "lng": 26.0176883
+    },
+    {
+      "address": "CIMPENI, STR.MOTILOR, NR.23",
+      "contractNo": "MF 346",
+      "email": "hermina_ferendino@yahoo.com",
+      "medicName": "FERENDINO HERMINA",
+      "phone": "0258771401",
+      "supplierName": "CMF. DR. FERENDINO HERMINA",
+      "lat": 46.3595155,
+      "lng": 23.0369151
+    },
+    {
+      "address": "SEBES, STR.  MIHAI VITEAZU, NR. 28",
+      "contractNo": "MF 347",
+      "email": "filipovici_adriana@yahoo.com",
+      "medicName": "FILIPOVICI DUMITREASA ADRIANA",
+      "phone": "0258732537",
+      "supplierName": "CMF. DR.FILIPOVICI ADRIANA",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "BISTRA, NR. 100",
+      "contractNo": "MF 348",
+      "email": "floca.eugenia@yahoo.com",
+      "medicName": "FLOCA EUGENIA EMILIA",
+      "phone": "0258773102",
+      "supplierName": "CMF. DR.FLOCA EUGENIA EMILIA",
+      "lat": 44.4267198,
+      "lng": 26.048324
+    },
+    {
+      "address": "VIDRA, NR,2",
+      "contractNo": "MF 349",
+      "email": "cmf_floreamaria@yahoo.com",
+      "medicName": "FLOREA MARIA",
+      "phone": "0258786576",
+      "supplierName": "CMF.FLOREA MARIA",
+      "lat": 44.266667,
+      "lng": 26.15
+    },
+    {
+      "address": "OCNA MURES, STR. NICOLAE IORGA, NR.40",
+      "contractNo": "MF 350",
+      "email": "franc_antonia@yahoo.com",
+      "medicName": "FRANC ANTONIA ONORIA",
+      "phone": "0258872728",
+      "supplierName": "CMF. DR. FRANC ANTONIA",
+      "lat": 46.3809286,
+      "lng": 23.8569105
+    },
+    {
+      "address": "AIUD, STR.PROTOPOP IOSIF POP, NR.7",
+      "contractNo": "MF 351",
+      "email": "dana1954@yahoo.com",
+      "medicName": "GARLEA DANIELA CAROLINA",
+      "phone": "0258864995",
+      "supplierName": "CAB MEDIC FAM GARLEA DANIELA",
+      "lat": 46.3099139,
+      "lng": 23.7257783
+    },
+    {
+      "address": "ALBA IULIA,STR. VASILE GOLDIS, NR.10A",
+      "contractNo": "MF 352",
+      "email": "gheberta_nicoleta@yahoo.com",
+      "medicName": "GHEBERTA MARIA NICOLETA",
+      "phone": "0744979295",
+      "supplierName": "CABINET MED. FAM. GHEBERTA MARIA NICOLETA",
+      "lat": 46.06803,
+      "lng": 23.561273
+    },
+    {
+      "address": "ALBA IULIA, STR.TOPORASILOR, NR.15B, BL. CT20, AP 4",
+      "contractNo": "MF 353",
+      "email": "geta_le@yahoo.com",
+      "medicName": "GHEORGHE GEORGETA LENICA",
+      "phone": "0258833088",
+      "supplierName": "CM.GHEORGHE GEORGETA",
+      "lat": 46.075291,
+      "lng": 23.558736
+    },
+    {
+      "address": "JIDVEI - BALCACIU, STR, PIATA TINERETULUI, NR. 1A",
+      "contractNo": "MF 354",
+      "email": "gheorghiu_eva@yahoo.com",
+      "medicName": "GHEORGHIU EVA",
+      "phone": "0258881133",
+      "supplierName": "CAB.MED.DR.GHEORGHIU EVA",
+      "lat": 46.1879628,
+      "lng": 24.0582285
+    },
+    {
+      "address": "JIDVEI, STR.UNIRII, NR.43",
+      "contractNo": "MF 355",
+      "email": "gheorghiu_marius54@yahoo.com",
+      "medicName": "GHEORGHIU MARIUS VASILE",
+      "phone": "0258881120",
+      "supplierName": "CAB.MED.DR.GHEORGHIU MARIUS",
+      "lat": 46.2226645,
+      "lng": 24.1098947
+    },
+    {
+      "address": "ALBA IULIA, STR. MUSETELULUI, NR. 2",
+      "contractNo": "MF 356",
+      "email": "viorica.ghete@yahoo.com",
+      "medicName": "GHETE VIORICA",
+      "phone": "0258830401",
+      "supplierName": "CAB.MED.FAM.GHETE VIORICA",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "ABRUD, STR. IOAN BUTEANU, NR. 4",
+      "contractNo": "MF 357",
+      "email": "cmi_dr.gligor@yahoo.com",
+      "medicName": "GLIGOR MARIUS VIRGILIU NERVA",
+      "phone": "0744531025",
+      "supplierName": "CMF.DR. GLIGOR MARIUS",
+      "lat": 46.2726882,
+      "lng": 23.0657906
+    },
+    {
+      "address": "LUNCA MURES, NR. 419",
+      "contractNo": "MF 358",
+      "email": "groza.carmen@yahoo.com",
+      "medicName": "GROZA CARMEN ADELA",
+      "phone": "0258878123",
+      "supplierName": "CMF. DR. GROZA CARMEN",
+      "lat": 46.95,
+      "lng": 25.1
+    },
+    {
+      "address": "SEBES, STR. MIHAIL KOGALNICEANU, NR.128",
+      "contractNo": "MF 359",
+      "email": "vioricagruian@yahoo.com",
+      "medicName": "GRUIAN ANGHEL VIORICA",
+      "phone": "0748115826",
+      "supplierName": "CMF.GRUIAN ANGHEL VIORICA",
+      "lat": 45.96559569999999,
+      "lng": 23.5575484
+    },
+    {
+      "address": "CERGAU, NR. 166",
+      "contractNo": "MF 360",
+      "email": "cristina_habean@yahoo.ro",
+      "medicName": "HABEAN CRISTINA",
+      "phone": "0744520260",
+      "supplierName": "CAB.MED.DR.HABEAN CRISTINA",
+      "lat": 46.1,
+      "lng": 23.916667
+    },
+    {
+      "address": "SEBES, STR.  MIHAI VITEAZU, NR. 28",
+      "contractNo": "MF 361",
+      "email": "haber1939@hotmail.com",
+      "medicName": "HABER GHEORGHE",
+      "phone": "0258734128",
+      "supplierName": "CAB. MED. FAM. HABER GHEORGHE",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "BLANDIANA, NR.15A",
+      "contractNo": "MF 362",
+      "email": "dan.halalae@yahoo.com",
+      "medicName": "HALALAE DAN ALEXANDRU",
+      "phone": "0733017864",
+      "supplierName": "CMF HALALAE DAN ALEXANDRU",
+      "lat": 44.437953,
+      "lng": 26.016637
+    },
+    {
+      "address": "TEIUS, STR. CLUJULUI, NR. 95",
+      "contractNo": "MF 363",
+      "email": "nelumitruh@yahoo.com",
+      "medicName": "HATEGAN NELU MITRU",
+      "phone": "0258852329",
+      "supplierName": "CAB MF HATEGAN NELU  MITRU",
+      "lat": 46.207409,
+      "lng": 23.674301
+    },
+    {
+      "address": "GALDA DE JOS, NR. 495",
+      "contractNo": "MF 364",
+      "email": "daniela_henegar@yahoo.com",
+      "medicName": "HENEGAR DANIELA",
+      "phone": "0258846105",
+      "supplierName": "CMF HENEGAR DANIELA",
+      "lat": 46.1805779,
+      "lng": 23.621897
+    },
+    {
+      "address": "BENIC, NR. 57",
+      "contractNo": "MF 365",
+      "email": "mihaihenegaru@yahoo.com",
+      "medicName": "HENEGARU MIHAI",
+      "phone": "0744504323",
+      "supplierName": "HENEGARU G MIHAI -CABINET MEDICINA DE FAMILIE",
+      "lat": 46.2124985,
+      "lng": 23.5914445
+    },
+    {
+      "address": "GALDA DE JOS NR. 66",
+      "contractNo": "MF 365",
+      "email": "mihaihenegaru@yahoo.com",
+      "medicName": "HENEGARU MIHAI",
+      "phone": "0744504323",
+      "supplierName": "HENEGARU G MIHAI -CABINET MEDICINA DE FAMILIE",
+      "lat": 46.1805779,
+      "lng": 23.621897
+    },
+    {
+      "address": "SASCIORI, NR. 381",
+      "contractNo": "MF 366",
+      "email": "hermanioanstefan@yahoo.com",
+      "medicName": "HERMAN IOAN STEFAN",
+      "phone": "0258741191",
+      "supplierName": "CM DR. HERMAN IOAN STEFAN",
+      "lat": 45.8789306,
+      "lng": 23.5761176
+    },
+    {
+      "address": "VINTU DE JOS, STR. LUCIAN BLAGA, NR.73",
+      "contractNo": "MF 367",
+      "email": "simona_indreica@yahoo.com",
+      "medicName": "INDREICA SIMONA NICOLETA",
+      "phone": "0258739107",
+      "supplierName": "CMF INDREICA SIMONA",
+      "lat": 45.9920306,
+      "lng": 23.4864679
+    },
+    {
+      "address": "SEBES-PETRESTI, STR.1 MAI , NR.23",
+      "contractNo": "MF 368",
+      "email": "irimie.viorica@yahoo.com",
+      "medicName": "IRIMIE VIORICA",
+      "phone": "0258743104",
+      "supplierName": "CAB. MF. DR. IRIMIE VIORICA",
+      "lat": 45.9213536,
+      "lng": 23.5617189
+    },
+    {
+      "address": "CUGIR, STR. CONSTRUCTORULUI, NR. 10C",
+      "contractNo": "MF 369",
+      "email": "isarie_julieta@yahoo.com",
+      "medicName": "ISARIE JULIETA MARIA",
+      "phone": "0258755755",
+      "supplierName": "CABINET MEDICAL DR.ISARIE",
+      "lat": 45.8419272,
+      "lng": 23.3600163
+    },
+    {
+      "address": "BLAJ, STR. REPUBLICII, NR. 40, AP. 15",
+      "contractNo": "MF 370",
+      "email": "cabdrivansilviu@yahoo.com",
+      "medicName": "IVAN SILVIU FLORIN IOSIF",
+      "phone": "0745358435",
+      "supplierName": "SC. CABINET MEDICAL DOCTOR IVAN SILVIU S.R.L.",
+      "lat": 46.1768828,
+      "lng": 23.9193343
+    },
+    {
+      "address": "LUNCA MURESULUI, NR.282",
+      "contractNo": "MF 371",
+      "email": "praxissanatate@yahoo.ro",
+      "medicName": "IVANOF PAUL BARBU",
+      "phone": "0755169071",
+      "supplierName": "SC. PRAXIS SANATATE S.R.L.",
+      "lat": 44.4210666,
+      "lng": 26.1602882
+    },
+    {
+      "address": "OCNA MURES, STR. AXENTE SEVER, NR. 43A",
+      "contractNo": "MF 371",
+      "email": "praxissanatate@yahoo.ro",
+      "medicName": "IVANOF PAUL BARBU",
+      "phone": "0755169071",
+      "supplierName": "SC. PRAXIS SANATATE S.R.L.",
+      "lat": 46.3791105,
+      "lng": 23.8604881
+    },
+    {
+      "address": "ABRUD STR. IOAN BUTEANU, NR. 4",
+      "contractNo": "MF 372",
+      "email": "marcela.jurca@yahoo.com",
+      "medicName": "JURCA MARCELA",
+      "phone": "0746196138",
+      "supplierName": "CABINET MEDICAL INDIVIDUAL DR JURCA MARCELA",
+      "lat": 46.2726882,
+      "lng": 23.0657906
+    },
+    {
+      "address": "OHABA, NR. 320",
+      "contractNo": "MF 373",
+      "email": "corina.kadar@yahoo.com",
+      "medicName": "KADAR CORINA MARIA",
+      "phone": "0258854509",
+      "supplierName": "CAB. MF. KADAR CORINA MARIA",
+      "lat": 44.5063707,
+      "lng": 26.0176173
+    },
+    {
+      "address": "AIUD, STR. TRANSILVANIEI , BL.C5, AP.3",
+      "contractNo": "MF 374",
+      "email": "karsaigitta@yahoo.com",
+      "medicName": "KARSAI IDA GHITA",
+      "phone": "0258864912",
+      "supplierName": "CMF DR KARSAI IDA GITTA",
+      "lat": 46.3123549,
+      "lng": 23.7204544
+    },
+    {
+      "address": "AIUD, STR. TRANSILVANIEI, NR 9",
+      "contractNo": "MF 375",
+      "email": "martakerekes@yahoo.com",
+      "medicName": "KEREKES MARTA",
+      "phone": "0726379010",
+      "supplierName": "SC DIPLO-MED S.R.L.",
+      "lat": 46.3120062,
+      "lng": 23.7221539
+    },
+    {
+      "address": "RAMETEA , NR. 34",
+      "contractNo": "MF 375",
+      "email": "martakerekes@yahoo.com",
+      "medicName": "KEREKES MARTA",
+      "phone": "0726379010",
+      "supplierName": "SC DIPLO-MED S.R.L.",
+      "lat": 44.4368782,
+      "lng": 26.144115
+    },
+    {
+      "address": "BUCERDEA GRINOASA, NR. 411",
+      "contractNo": "MF 376",
+      "email": "komargit@yahoo.com",
+      "medicName": "KOMIVES MORGHIT",
+      "phone": "0728321426",
+      "supplierName": "CAB. MED.DR.KOMIVES MORGHIT",
+      "lat": 46.1912715,
+      "lng": 23.8379835
+    },
+    {
+      "address": "CETATEA DE BALTA, STR. OITUZ, NR.25",
+      "contractNo": "MF 377",
+      "email": "koangi@gmail.com",
+      "medicName": "KOVACS ANGELA MARIA",
+      "phone": "0258886110",
+      "supplierName": "CMA. KOVACS ANGELA",
+      "lat": 44.4397714,
+      "lng": 26.0271585
+    },
+    {
+      "address": "ALBA IULIA, STR. MARASTI, NR. 22",
+      "contractNo": "MF 378",
+      "email": "mircealamurean@yahoo.com",
+      "medicName": "LAMUREAN MIRCEA DANIEL",
+      "phone": "0258811603",
+      "supplierName": "CABINET MED LAMUREAN MIRCEA",
+      "lat": 44.42641039999999,
+      "lng": 26.1234582
+    },
+    {
+      "address": "BERGHIN NR. 168A",
+      "contractNo": "MF 379",
+      "email": "lapadusileana@yahoo.com",
+      "medicName": "LAPADUS ILEANA",
+      "phone": "0258854118",
+      "supplierName": "CMF.DR.LAPADUS ILEANA",
+      "lat": 46.0721085,
+      "lng": 23.7367482
+    },
+    {
+      "address": "RADESTI, NR. 188",
+      "contractNo": "MF 380",
+      "email": "cmf_lazar_aurel@yahoo.com",
+      "medicName": "LAZAR AUREL",
+      "phone": "0258879303",
+      "supplierName": "CABINET MEDICAL DR. LAZAR AUREL",
+      "lat": 44.39576779999999,
+      "lng": 26.0925135
+    },
+    {
+      "address": "SARD, NR. 77",
+      "contractNo": "MF 381",
+      "email": "cornelia_lazarescu@yahoo.com",
+      "medicName": "LAZARESCU CORNELIA VALERIA",
+      "phone": "0744568735",
+      "supplierName": "CMF LAZARESCU CORNELIA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "SEBES, STR. MIHAI VITEAZU, NR.28",
+      "contractNo": "MF 382",
+      "email": "lup_sorina@yahoo.com",
+      "medicName": "LUP SORINA",
+      "phone": "0258732752",
+      "supplierName": "CAB. MF. DR. LUP SORINA",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "PIANU DE SUS, NR.90",
+      "contractNo": "MF 383",
+      "email": "lupsan_cornel@yahoo.com",
+      "medicName": "LUPSAN IZIDOR CORNEL",
+      "phone": "0258761029",
+      "supplierName": "CAB. MED. FAM. LUPSAN IZIDOR",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "ALBA IULIA, STR. MUSETELULUI, NR.2",
+      "contractNo": "MF 384",
+      "email": "macariemihaela@gmail.com",
+      "medicName": "MACARIE MIHAIELA MARIA",
+      "phone": "0258826234",
+      "supplierName": "CAB MEDIC FAM DR MACARIE MIHAELA",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "SANCEL, STR. MIHAIL EMINESCU, NR.70",
+      "contractNo": "MF 385",
+      "email": "mirela_doctor@yahoo.com",
+      "medicName": "MAIER MIRELA ELENA",
+      "phone": "0769670157",
+      "supplierName": "CABINET MEDICAL DR MAIER MIRELA",
+      "lat": 46.1999564,
+      "lng": 23.9474014
+    },
+    {
+      "address": "CIMPENI, STR .HOREA, NR. 63",
+      "contractNo": "MF 386",
+      "email": "danielamalinescu@yahoo.de",
+      "medicName": "MALINESCU DANIELA",
+      "phone": "0745302915",
+      "supplierName": "CMF. DR. MALINESCU DANIELA",
+      "lat": 46.36244199999999,
+      "lng": 23.040029
+    },
+    {
+      "address": "OCNA MURES, STR.AXENTE SEVER, NR.43A",
+      "contractNo": "MF 387",
+      "email": "cmf_man_rodica@yahoo.com",
+      "medicName": "MAN RODICA",
+      "phone": "0729949685",
+      "supplierName": "MAN RODICA",
+      "lat": 46.3791105,
+      "lng": 23.8604881
+    },
+    {
+      "address": "CUGIR, STR. MIHAIL SADOVEANU, NR.1B, AP.3",
+      "contractNo": "MF 388",
+      "email": "mandrutiu_mihaela@yahoo.com",
+      "medicName": "MANDRUTIU MIHAELA ELENA",
+      "phone": "0723227392",
+      "supplierName": "CAB MANDRUTIU MIHAELA",
+      "lat": 45.83645,
+      "lng": 23.36235
+    },
+    {
+      "address": "MIHALT, NR. 699",
+      "contractNo": "MF 389",
+      "email": "marginean.adrian@yahoo.com",
+      "medicName": "MARGINEAN CORALIA IOANA",
+      "phone": "0258718148",
+      "supplierName": "CMF DR MARGINEAN CORALIA IOANA",
+      "lat": 46.1612206,
+      "lng": 23.7275736
+    },
+    {
+      "address": "AIUD, STR. TRANSILVANIEI, BLOC C5, AP.3",
+      "contractNo": "MF 390",
+      "email": "valeriamartis@yahoo.com",
+      "medicName": "MARTIS VALERIA",
+      "phone": "0258860096",
+      "supplierName": "CABINET FAMILIE DR. MARTIS VALERIA",
+      "lat": 46.3123549,
+      "lng": 23.7204544
+    },
+    {
+      "address": "AIUD, STR. ION CREANGA , NR.16",
+      "contractNo": "MF 391",
+      "email": "gabrielamatei@yahoo.com",
+      "medicName": "MATEI GABRIELA",
+      "phone": "0258860560",
+      "supplierName": "CABINET MEDICAL DR. MATEI GABRIELA",
+      "lat": 46.3079164,
+      "lng": 23.7193899
+    },
+    {
+      "address": "CIURULEASA, NR.1",
+      "contractNo": "MF 392",
+      "email": "merac2000@yahoo.com",
+      "medicName": "MERA CRISTIAN AVRAM",
+      "phone": "0745357729",
+      "supplierName": "CAB.MED.DR.MERA CRISTIAN",
+      "lat": 44.370894,
+      "lng": 26.0976492
+    },
+    {
+      "address": "LIVEZILE, NR. 92A",
+      "contractNo": "MF 393",
+      "email": "adimihaila@yahoo.com",
+      "medicName": "MIHAILA ADRIAN DUMITRU",
+      "phone": "0745353991",
+      "supplierName": "MIHAILA ADRIAN",
+      "lat": 47.1864923,
+      "lng": 24.5830613
+    },
+    {
+      "address": "SONA, STR.NOUA, NR.24A",
+      "contractNo": "MF 394",
+      "email": "mariamiklos@gmail.com",
+      "medicName": "MIKLOS MARIA",
+      "phone": "0258884109",
+      "supplierName": "CMI. MIKLOS MARIA",
+      "lat": 44.438456,
+      "lng": 26.1233021
+    },
+    {
+      "address": "SCARISOARA, NR.291A",
+      "contractNo": "MF 395",
+      "email": "cmf_mandru_ciprian@yahoo.ro",
+      "medicName": "MINDRU CIPRIAN CONSTANTIN",
+      "phone": "0731316278",
+      "supplierName": "CAB.MED.IND.MINDRU CIPRIAN",
+      "lat": 44.4753181,
+      "lng": 26.0482167
+    },
+    {
+      "address": "OCNA MURES, STR. 9 MAI, NR.3",
+      "contractNo": "MF 396",
+      "email": "mirestean_delia@yahoo.com",
+      "medicName": "MIRESTEAN DELIA ELENA",
+      "phone": "0258870020",
+      "supplierName": "CABINET MEDICAL DR.MIRESTEAN DELIA",
+      "lat": 44.4921432,
+      "lng": 26.0311478
+    },
+    {
+      "address": "SEBES, STR. MIHAIL KOGALNICEANU, NR. 128",
+      "contractNo": "MF 397",
+      "email": "adinamodoeanu@yahoo.com",
+      "medicName": "MODOEANU NICOLETA ADINA",
+      "phone": "0742594497",
+      "supplierName": "CMG. DR MODOEANU ADINA",
+      "lat": 45.96559569999999,
+      "lng": 23.5575484
+    },
+    {
+      "address": "SEBES, STR. MIORITA, NR.2",
+      "contractNo": "MF 398",
+      "email": "emsodent@yahoo.com",
+      "medicName": "MODOEANU SORIN MARIUS",
+      "phone": "0744150405",
+      "supplierName": "SC. EMSODENT S.R.L.",
+      "lat": 45.9595588,
+      "lng": 23.5663758
+    },
+    {
+      "address": "SEBES, STR. MIHAI VITEAZU, NR. 28",
+      "contractNo": "MF 398",
+      "email": "emsodent@yahoo.com",
+      "medicName": "MODOEANU SORIN MARIUS",
+      "phone": "0744150405",
+      "supplierName": "SC. EMSODENT S.R.L.",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "ABRUD, STR. FLORILOR, BL. U, SC. 1, AP. 6",
+      "contractNo": "MF 399",
+      "email": "dr_mogoigeorgeta@yahoo.com",
+      "medicName": "MOGOI GEORGETA",
+      "phone": "0258780386",
+      "supplierName": "CMI.DR.MOGOI GEORGETA",
+      "lat": 46.2726882,
+      "lng": 23.0657906
+    },
+    {
+      "address": "RAMET, FN",
+      "contractNo": "MF 400",
+      "email": "molnargheza@yahoo.com",
+      "medicName": "MOLNÁR GHEZA",
+      "phone": "0742070460",
+      "supplierName": "CAB. MED. FAM. DR. MOLNAR GHEZA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "CUGIR, STR. CONSTRUCTORULUI, NR.10C, AP.2",
+      "contractNo": "MF 401",
+      "email": "morariu_nc@yahoo.com",
+      "medicName": "MORARIU NICOLAE MIRCEA",
+      "phone": "0258755755",
+      "supplierName": "CAB MED DR MORARIU",
+      "lat": 45.8419272,
+      "lng": 23.3600163
+    },
+    {
+      "address": "ALBA IULIA, STR.GHEORGHE SINCAI, NR.8",
+      "contractNo": "MF 402",
+      "email": "cma_2014@yahoo.com",
+      "medicName": "MUNTEAN GHEORGHE",
+      "phone": "0741156506",
+      "supplierName": "CABINETE MEDICALE ASOCIATE DR MUNTEAN",
+      "lat": 46.0792965,
+      "lng": 23.5736994
+    },
+    {
+      "address": "METES, NR: 35",
+      "contractNo": "MF 402",
+      "email": "cma_2014@yahoo.com",
+      "medicName": "MUNTEAN GHEORGHE",
+      "phone": "0741156506",
+      "supplierName": "CABINETE MEDICALE ASOCIATE DR MUNTEAN",
+      "lat": 44.4055651,
+      "lng": 26.0559332
+    },
+    {
+      "address": "ALBA IULIA, STR.REGIMENTUL 5 VANATORI, NR.116",
+      "contractNo": "MF 403",
+      "email": "muntiugheorghe@yahoo.ro",
+      "medicName": "MUNTIU GHEORGHE DANUT",
+      "phone": "0258810485",
+      "supplierName": "CMI. DR. MUNTIU GHEORGHE DANUT",
+      "lat": 46.0419245,
+      "lng": 23.5625806
+    },
+    {
+      "address": "SEBES, STR. MIHAIL KOGALNICEANU, NR. 46",
+      "contractNo": "MF 404",
+      "email": "muresan@mail.com",
+      "medicName": "MURESAN BENIAMIN",
+      "phone": "0258735077",
+      "supplierName": "CAB. MED. FAM. MURESAN BENIAMIN",
+      "lat": 45.970138,
+      "lng": 23.557932
+    },
+    {
+      "address": "MIRASLAU, NR. 283",
+      "contractNo": "MF 406",
+      "email": "nagymaria1951@yahoo.ro",
+      "medicName": "NAGY MARIA",
+      "phone": "0258879112",
+      "supplierName": "CABINET FAMILIAL DR. NAGY MARIA",
+      "lat": 46.3619891,
+      "lng": 23.7068884
+    },
+    {
+      "address": "SALCIUA, NR.72",
+      "contractNo": "MF 407",
+      "email": "cmfdrnasca@yahoo.com",
+      "medicName": "NASCA CORINA ADRIANA",
+      "phone": "0762273284",
+      "supplierName": "CMF.DR.NASCA CORINA",
+      "lat": 46.4,
+      "lng": 23.416667
+    },
+    {
+      "address": "PIANU DE SUS, NR. 90",
+      "contractNo": "MF 408",
+      "email": "dr_neghiu_chisu@yahoo.com",
+      "medicName": "NEGHIU CHISU VIRGINIA TANIA",
+      "phone": "0258761050",
+      "supplierName": "CAB.MED.DR.NEGHIU CHISU VIRGINIA TANIA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "CUGIR, STR. MIHAIL SADOVEANU,NR. 1A",
+      "contractNo": "MF 409",
+      "email": "lia.neghiu@yahoo.com",
+      "medicName": "NEGHIU MARIA",
+      "phone": "0766691944",
+      "supplierName": "CAB. MED. DR. NEGHIU MARIA",
+      "lat": 45.83645,
+      "lng": 23.36235
+    },
+    {
+      "address": "BLAJ, STR. REPUBLICII,  NR.40",
+      "contractNo": "MF 410",
+      "email": "dr_nistor@yahoo.com",
+      "medicName": "NISTOR LUCIA",
+      "phone": "0745235032",
+      "supplierName": "CAB. MED. DR. NISTOR  LUCIA",
+      "lat": 46.1768828,
+      "lng": 23.9193343
+    },
+    {
+      "address": "SEBES, STR. MIHAI VITEAZU, NR. 28",
+      "contractNo": "MF 411",
+      "email": "doctor_nistor@yahoo.com",
+      "medicName": "NISTOR MARIA",
+      "phone": "0258735106",
+      "supplierName": "CAB. MED. FAM. NISTOR MARIA",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "ALBA IULIA, STR. MUSETELULUI, NR.2",
+      "contractNo": "MF 412",
+      "email": "oancea_marioara@yahoo.com",
+      "medicName": "OANCEA MARIOARA",
+      "phone": "0744765025",
+      "supplierName": "SC ADI MED CENTER SRL -D",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "CETATEA DE BALTA, STR.OITUZ, NR.25",
+      "contractNo": "MF 413",
+      "email": "cabmedolteanudoina@yahoo.com",
+      "medicName": "OLTEAN MARIA DOINA",
+      "phone": "0745122698",
+      "supplierName": "OLTEAN MARIA DOINA",
+      "lat": 44.4397714,
+      "lng": 26.0271585
+    },
+    {
+      "address": "SPRING, NR. 335",
+      "contractNo": "MF 414",
+      "email": "robiolt@yahoo.com",
+      "medicName": "OLTEAN VIRGILIU",
+      "phone": "0258765143",
+      "supplierName": "CABINET MEDIC FAMILIE DR.OLTEAN VIRGILIU",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "ALBA IULIA, STR.VASILE GOLDIS NR.8B",
+      "contractNo": "MF 415",
+      "email": "mioara.olteanu@yahoo.com",
+      "medicName": "OLTEANU MARIA",
+      "phone": "0748292280",
+      "supplierName": "MF OLTEANU MARIA",
+      "lat": 46.068575,
+      "lng": 23.561573
+    },
+    {
+      "address": "GALDA DE JOS, NR. 376",
+      "contractNo": "MF 415",
+      "email": "mioara.olteanu@yahoo.com",
+      "medicName": "OLTEANU MARIA",
+      "phone": "0748292280",
+      "supplierName": "MF OLTEANU MARIA",
+      "lat": 46.1805779,
+      "lng": 23.621897
+    },
+    {
+      "address": "ALBA IULIA, STR. CRISANEI, NR.1D",
+      "contractNo": "MF 416",
+      "email": "dropreamonica@yahoo.com",
+      "medicName": "OPREA MARIA MONICA",
+      "phone": "0258819863",
+      "supplierName": "CMF OPREA MARIA MONICA",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "ALBA IULIA, STR.ARIESULUI, NR. 11, BL.213, AP. 2",
+      "contractNo": "MF 417",
+      "email": "oprean_georgeta@yahoo.com",
+      "medicName": "OPREAN GEORGETA MARIA",
+      "phone": "0745372853",
+      "supplierName": "M.F. OPREAN GEORGETA",
+      "lat": 46.084157,
+      "lng": 23.581778
+    },
+    {
+      "address": "TEIUS, STR. CLUJULUI, NR. 95",
+      "contractNo": "MF 418",
+      "email": "auroraopris@yahoo.com",
+      "medicName": "OPRIS AURORA",
+      "phone": "0258852414",
+      "supplierName": "CAB MF OPRIS  AURORA",
+      "lat": 46.207409,
+      "lng": 23.674301
+    },
+    {
+      "address": "SINTIMBRU, NR. 57",
+      "contractNo": "MF 419",
+      "email": "orosanandreea@yahoo.com",
+      "medicName": "OROSAN ANDREEA DRAGA",
+      "phone": "0258848109",
+      "supplierName": "CMF OROSAN",
+      "lat": 44.3772099,
+      "lng": 26.0495022
+    },
+    {
+      "address": "CIMPENI, STR. HOREA, NR. 63",
+      "contractNo": "MF 420",
+      "email": "pensiuneavrajamuntelui@yahoo.com",
+      "medicName": "PASCA MARIANA",
+      "phone": "0761787800",
+      "supplierName": "CAB. M.F. DR. PASCA MARIANA",
+      "lat": 46.36244199999999,
+      "lng": 23.040029
+    },
+    {
+      "address": "BLAJ, STR.MITROPOLIT ANDREI SAGUNA, NR. 5",
+      "contractNo": "MF 421",
+      "email": "pascu_angela_bj@yahoo.com",
+      "medicName": "PASCU ANGELA",
+      "phone": "0741043499",
+      "supplierName": "CAB. MED. DR. PASCU ANGELA",
+      "lat": 46.1802331,
+      "lng": 23.9279175
+    },
+    {
+      "address": "FARAU, NR. 69",
+      "contractNo": "MF 422",
+      "email": "dani_pastiu@yahoo.com",
+      "medicName": "PASTIU DANIELA",
+      "phone": "0258867110",
+      "supplierName": "CABINET MEDICAL DR.PASTIU DANIELA",
+      "lat": 46.33865549999999,
+      "lng": 24.0021866
+    },
+    {
+      "address": "AVRAM IANCU, NR.270",
+      "contractNo": "MF 423",
+      "email": "zeppelin_v12@yahoo.com",
+      "medicName": "PAVELESCU MIRCEA",
+      "phone": "0258786064",
+      "supplierName": "CMI. DR.PAVELESCU MIRCEA",
+      "lat": 44.3769795,
+      "lng": 26.1143575
+    },
+    {
+      "address": "BLAJ, STR.IULIU MANIU, NR.8A",
+      "contractNo": "MF 424",
+      "email": "sorinapepelea@yahoo.com",
+      "medicName": "PEPELEA SORINA VIORICA",
+      "phone": "0723398342",
+      "supplierName": "CAB. MED. PEPELEA SORINA",
+      "lat": 46.1714803,
+      "lng": 23.9306018
+    },
+    {
+      "address": "VINTU DE JOS, STR. LUCIAN BLAGA, NR.73",
+      "contractNo": "MF 425",
+      "email": "liviapetruta@yahoo.com",
+      "medicName": "PETRUTA LIVIA",
+      "phone": "0258739777",
+      "supplierName": "CAB MED FAM PETRUTA LIVIA",
+      "lat": 45.9920306,
+      "lng": 23.4864679
+    },
+    {
+      "address": "ALBA IULIA, SEPTIMUS SEVERUS, NR. 43, BL.TOR 1, AP. 4",
+      "contractNo": "MF 426",
+      "email": "mar_pet_dr@yahoo.com",
+      "medicName": "PETRUTA MARCELA",
+      "phone": "0258810319",
+      "supplierName": "CAB MED FAM PETRUTA MARCELA",
+      "lat": 46.0781699,
+      "lng": 23.568028
+    },
+    {
+      "address": "ALBA IULIA, STR. 1 DECEMBRIE 1918, BL.M7-M8",
+      "contractNo": "MF 427",
+      "email": "mariapinter@yahoo.com",
+      "medicName": "PINTER MARIA",
+      "phone": "0258825839",
+      "supplierName": "CABINET MEDICAL PINTER MARIA",
+      "lat": 46.06927109999999,
+      "lng": 23.5724944
+    },
+    {
+      "address": "ALBA IULIA,STR. LIVEZII, NR.15",
+      "contractNo": "MF 428",
+      "email": "pintermed@yahoo.com",
+      "medicName": "PINTER TRAIAN",
+      "phone": "0258816496",
+      "supplierName": "CABINET MEDICAL PINTER TRAIAN",
+      "lat": 46.0785061,
+      "lng": 23.5861414
+    },
+    {
+      "address": "ALBA IULIA,STR.1 DECEMBRIE 1918,NR.8",
+      "contractNo": "MF 429",
+      "email": "despina.pitu@yahoo.com",
+      "medicName": "PITU DESPINA PUSA",
+      "phone": "0744478540",
+      "supplierName": "SC.PITU MED S.R.L.",
+      "lat": 46.06927109999999,
+      "lng": 23.5724944
+    },
+    {
+      "address": "ALBA IULIA, STR. GHEORGHE  SINCAI, NR. 13",
+      "contractNo": "MF 429",
+      "email": "despina.pitu@yahoo.com",
+      "medicName": "PITU DESPINA PUSA",
+      "phone": "0744478540",
+      "supplierName": "SC.PITU MED S.R.L.",
+      "lat": 46.080059,
+      "lng": 23.573054
+    },
+    {
+      "address": "ALBA IULIA, STR. CRISANEI, NR. 1",
+      "contractNo": "MF 430",
+      "email": "cmfplesa@yahoo.com",
+      "medicName": "PLESA MARIANA",
+      "phone": "0720004676",
+      "supplierName": "CMF PLESA MARIANA",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "ALBA IULIA, ARIESULUI 66, BL.256, AP. 3",
+      "contractNo": "MF 431",
+      "email": "medisollab@yahoo.com",
+      "medicName": "PODAR GHEORGHE",
+      "phone": "0358104546",
+      "supplierName": "SC MEDISOL SRL",
+      "lat": 46.085964,
+      "lng": 23.584663
+    },
+    {
+      "address": "AIUD, STR. ION CREANGA, NR.16",
+      "contractNo": "MF 432",
+      "email": "mariapojan@yahoo.com",
+      "medicName": "POJAN MARIA",
+      "phone": "0258861940",
+      "supplierName": "CABINET MEDIC DR. POJAN MARIA",
+      "lat": 46.3079164,
+      "lng": 23.7193899
+    },
+    {
+      "address": "CUGIR, STR.LALELELOR, NR. 4, AP. 2",
+      "contractNo": "MF 433",
+      "email": "yvonnepop@yahoo.com",
+      "medicName": "POP YVONNE SILVIA CAMELIA",
+      "phone": "0723273510",
+      "supplierName": "SC. CABINET MEDICAL DR.POP S.R.L",
+      "lat": 45.8370606,
+      "lng": 23.3675078
+    },
+    {
+      "address": "ALBA IULIA, STR. MUSETELULUI, NR.2",
+      "contractNo": "MF 218",
+      "email": "deniza_popa@yahoo.com",
+      "medicName": "POPA DANA DENIZA",
+      "phone": "0744760106",
+      "supplierName": "SC DANA MEDFAM SRL",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "VADU MOTILOR, NR.2",
+      "contractNo": "MF 435",
+      "email": "lilipopa00@yahoo.ro",
+      "medicName": "POPA MARIANA LILIANA",
+      "phone": "0744182206",
+      "supplierName": "CMF DR.POPA LILIANA",
+      "lat": 44.446012,
+      "lng": 26.1644705
+    },
+    {
+      "address": "CIUGUD, NR.161",
+      "contractNo": "MF 436",
+      "email": "popescu_stefan1956@yahoo.com",
+      "medicName": "POPESCU ILEANA",
+      "phone": "0258841105",
+      "supplierName": "CAB. MF POPESCU ILEANA",
+      "lat": 46.0469649,
+      "lng": 23.6127549
+    },
+    {
+      "address": "OCNA MURES, STR. NICOLAE IORGA, NR.35A",
+      "contractNo": "MF 437",
+      "email": "tiberiuprocopciuc@yahoo.com",
+      "medicName": "PROCOPCIUC TIBERIU SEXTIL",
+      "phone": "0722852314",
+      "supplierName": "CAB. MED.DR.PROCOPCIUC TIBERIU SEXTIL",
+      "lat": 46.3830433,
+      "lng": 23.8602297
+    },
+    {
+      "address": "ALBA IULIA, STR. MUSETELULUI, NR 2",
+      "contractNo": "MF 438",
+      "email": "carmen.purcariu@yahoo.com",
+      "medicName": "PURCARIU CARMEN MARIA",
+      "phone": "0258826259",
+      "supplierName": "MF PURCARIU CARMEN",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "TARTARIA, STR.PRINCIPALA, NR. 34",
+      "contractNo": "MF 439",
+      "email": "dg.heros@yahoo.com",
+      "medicName": "RADU GABRIELA ELENA",
+      "phone": "0745397831",
+      "supplierName": "CABINET MEDICAL INDIVIDUAL MEDICINA DE FAMILIE DR RADU GABRIELA ELENA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "ALBA IULIA, STR. 1 DECEMBRIE 1918, BL.M7-M8",
+      "contractNo": "MF 440",
+      "email": "radumariaileana@yahoo.com",
+      "medicName": "RADU MARIA ILIANA",
+      "phone": "0258825839",
+      "supplierName": "RADU MARIA",
+      "lat": 46.06927109999999,
+      "lng": 23.5724944
+    },
+    {
+      "address": "AIUD, STR. TRANSILVANIEI, BL.A4, AP. 3",
+      "contractNo": "MF 441",
+      "email": "radu_tita_64@yahoo.com",
+      "medicName": "RADU MARIA TEODORA",
+      "phone": "0728278192",
+      "supplierName": "CMF DR. RADU MARIA TEODORA",
+      "lat": 46.3119354,
+      "lng": 23.7203994
+    },
+    {
+      "address": "OCNA MURES, STR.NICOLAE IORGA, NR. 34, BL.34P",
+      "contractNo": "MF 442",
+      "email": "radu.nicu@yahoo.com",
+      "medicName": "RADU NICOLAE AUREL",
+      "phone": "0722112400",
+      "supplierName": "CAB.MED.FAM.RADU NICOLAE AUREL",
+      "lat": 46.384543,
+      "lng": 23.8614068
+    },
+    {
+      "address": "AIUD,STR.SG. HATEGAN, NR.13 1",
+      "contractNo": "MF 443",
+      "email": "myoararosca@yahoo.fr",
+      "medicName": "ROSCA MARIA",
+      "phone": "0745621542",
+      "supplierName": "CAB.MED.FAM. DR.ROSCA MARIA",
+      "lat": 46.3064265,
+      "lng": 23.7197439
+    },
+    {
+      "address": "ALBA IULIA, STR. MUSETELULUI, NR.2",
+      "contractNo": "MF 444",
+      "email": "olimpia.rosca@yahoo.com",
+      "medicName": "ROSCA OLIMPIA",
+      "phone": "0258826274",
+      "supplierName": "CABINET MEDICAL ROSCA OLIMPIA",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "CUGIR, STR. MIHAIL SADOVEANU, NR. 1A",
+      "contractNo": "MF 445",
+      "email": "rusu.valentin@yahoo.com",
+      "medicName": "RUSU VALENTIN ADRIAN",
+      "phone": "0752627090",
+      "supplierName": "C.M.F. DR. RUSU VALENTIN",
+      "lat": 45.83645,
+      "lng": 23.36235
+    },
+    {
+      "address": "GIRBOVA, NR. 257",
+      "contractNo": "MF 446",
+      "email": "dr_mihaela_sabau@yahoo.com",
+      "medicName": "SABAU MIHAELA",
+      "phone": "0745661812",
+      "supplierName": "CMF DR SABAU MIHAELA",
+      "lat": 48.372001,
+      "lng": 27.6171565
+    },
+    {
+      "address": "ALBA IULIA, STR. MUSETELULUI, NR.2",
+      "contractNo": "MF 216",
+      "email": "medicdefamilieciugud161@yahoo.ro",
+      "medicName": "SANDOIU AURELIA CERASELA",
+      "phone": "0755044897",
+      "supplierName": "SC CERASAN SRL",
+      "lat": 46.0675132,
+      "lng": 23.5573594
+    },
+    {
+      "address": "DOSTAT, NR. 250",
+      "contractNo": "MF 448",
+      "email": "sandu_family@yahoo.com",
+      "medicName": "SANDU MIHAIELA",
+      "phone": "0258764649",
+      "supplierName": "CAB. MED. FAM. DR. SANDU MIHAIELA",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "PIANU DE JOS, NR.236",
+      "contractNo": "MF 449",
+      "email": "smona60@hotmail.com",
+      "medicName": "SARBU MONA OLIMPIA",
+      "phone": "0258761706",
+      "supplierName": "CABINET MED DR SARBU MONA OLIMPIA",
+      "lat": 45.93494159999999,
+      "lng": 23.4889365
+    },
+    {
+      "address": "LANCRAM, STR. ULITA DE MIJLOC, NR. 27",
+      "contractNo": "MF 449",
+      "email": "smona60@hotmail.com",
+      "medicName": "SARBU MONA OLIMPIA",
+      "phone": "0258761706",
+      "supplierName": "CABINET MED DR SARBU MONA OLIMPIA",
+      "lat": 45.9915969,
+      "lng": 23.555979
+    },
+    {
+      "address": "ALBA IULIA, STR. VIILOR, NR. 128",
+      "contractNo": "MF 450",
+      "email": "sasaran_jean@yahoo.com",
+      "medicName": "SASARAN JEAN DORU",
+      "phone": "0258813296",
+      "supplierName": "CAB MED FAM SASARAN JEAN DORU",
+      "lat": 46.0537721,
+      "lng": 23.563394
+    },
+    {
+      "address": "STR. MUSETELULUI, NR. 2",
+      "contractNo": "MF 450",
+      "email": "sasaran_jean@yahoo.com",
+      "medicName": "SASARAN JEAN DORU",
+      "phone": "0258813296",
+      "supplierName": "CAB MED FAM SASARAN JEAN DORU",
+      "lat": 44.211464,
+      "lng": 27.313044
+    },
+    {
+      "address": "SASCIORI, NR. 390",
+      "contractNo": "MF 451",
+      "email": "savuligiaestella@yahoo.com",
+      "medicName": "SAVU LIGIA ESTELLA",
+      "phone": "0258741094",
+      "supplierName": "CAB. MED. FAM. SAVU LIGIA",
+      "lat": 45.8789306,
+      "lng": 23.5761176
+    },
+    {
+      "address": "LOPADEA NOUA",
+      "contractNo": "MF 452",
+      "email": "senesanvasile@yahoo.com",
+      "medicName": "SENESAN VASILE",
+      "phone": "0258875103",
+      "supplierName": "CAB.MED.FAM.DR.SENESAN VASILE",
+      "lat": 46.29201579999999,
+      "lng": 23.8175113
+    },
+    {
+      "address": "AIUD, STR. POPA SAPCA, NR. 10",
+      "contractNo": "MF 452",
+      "email": "senesanvasile@yahoo.com",
+      "medicName": "SENESAN VASILE",
+      "phone": "0258875103",
+      "supplierName": "CAB.MED.FAM.DR.SENESAN VASILE",
+      "lat": 46.3102609,
+      "lng": 23.704438
+    },
+    {
+      "address": "PETRESTI, STR. GRADINILOR NR.3",
+      "contractNo": "MF 453",
+      "email": "smiha72@gmail.com",
+      "medicName": "SERBANESCU MIHAELA",
+      "phone": "0258743555",
+      "supplierName": "SERBANESCU MED S.R.L - D",
+      "lat": 45.9211197,
+      "lng": 23.5638256
+    },
+    {
+      "address": "OCOLIS, NR.152",
+      "contractNo": "MF 454",
+      "email": "siposileana@gmail.com",
+      "medicName": "SIPOS ILEANA",
+      "phone": "0358505204",
+      "supplierName": "CABINET MEDICAL INDIVIDUAL DR. SIPOS ILEANA",
+      "lat": 46.4776337,
+      "lng": 23.46759
+    },
+    {
+      "address": "SEBES, STR. LUCIAN BLAGA,NR.30",
+      "contractNo": "MF 455",
+      "email": "kimstarlifecare@yahoo.com",
+      "medicName": "STANCIU GHEORGHE CALIN",
+      "phone": "0741550230",
+      "supplierName": "SC KIMSTAR LIFE CARE SRL",
+      "lat": 45.9569961,
+      "lng": 23.5684425
+    },
+    {
+      "address": "SEBES, STR. MIHAI VITEAZU, NR. 28",
+      "contractNo": "MF 455",
+      "email": "kimstarlifecare@yahoo.com",
+      "medicName": "STANCIU GHEORGHE CALIN",
+      "phone": "0741550230",
+      "supplierName": "SC KIMSTAR LIFE CARE SRL",
+      "lat": 45.9577711,
+      "lng": 23.572826
+    },
+    {
+      "address": "OCNA MURES, STR. NICOLAE IORGA NR.35-36",
+      "contractNo": "MF 457",
+      "email": "maria.stoean@yahoo.com",
+      "medicName": "STOEAN MARIA",
+      "phone": "0258870087",
+      "supplierName": "CMF DR. STOEAN MARIA",
+      "lat": 46.38208090000001,
+      "lng": 23.8520705
+    },
+    {
+      "address": "ALBA IULIA, STR.ORIZONTULUI, NR.2, BL.A3, AP,2",
+      "contractNo": "MF 458",
+      "email": "cmfssroffice@yahoo.com",
+      "medicName": "STRAJAN RADU SIMONA MARIONE",
+      "phone": "0258814461",
+      "supplierName": "S.C. STRAJAN MEDICAL S.R.L.",
+      "lat": 46.0876234,
+      "lng": 23.587541
+    },
+    {
+      "address": "ALBA IULIA, STR.ARIESULUI, NR. 11, BL.213, ET. PARTER, AP. 2",
+      "contractNo": "MF 459",
+      "email": "suciu_daniela@yahoo.com",
+      "medicName": "SUCIU DANIELA OTILIA",
+      "phone": "0744698993",
+      "supplierName": "CMF.DR. SUCIU DANIELA OTILIA",
+      "lat": 46.0848654,
+      "lng": 23.583817
+    },
+    {
+      "address": "UNIREA, STR.MURESULUI, NR. 597",
+      "contractNo": "MF 460",
+      "email": "monica.suciu56@gmail.com",
+      "medicName": "SUCIU MONICA IOANA",
+      "phone": "0258876338",
+      "supplierName": "CAB.MED.DR.SUCIU MONICA IOANA",
+      "lat": 46.402835,
+      "lng": 23.8213327
+    },
+    {
+      "address": "ALBA IULIA,STR.CRISANEI,NR.1",
+      "contractNo": "MF 461",
+      "email": "sulutiu_monica@yahoo.com",
+      "medicName": "SULUTIU MONICA",
+      "phone": "0741038378",
+      "supplierName": "CMF.DR.SULUTIU MONICA",
+      "lat": 46.06479700000001,
+      "lng": 23.580062
+    },
+    {
+      "address": "OARDA, STR BIRUINTEI,NR 46",
+      "contractNo": "MF 462",
+      "email": "simona.susman@yahoo.com",
+      "medicName": "SUSMAN  SIMONA",
+      "phone": "0745317758",
+      "supplierName": "CMI. DR SUSMAN SIMONA",
+      "lat": 46.03314690000001,
+      "lng": 23.5627355
+    },
+    {
+      "address": "SEBES, STR. 1848 NR.3",
+      "contractNo": "MF 463",
+      "email": "doru.tataru@yahoo.com",
+      "medicName": "TATARU MIHAI DORU",
+      "phone": "0744618051",
+      "supplierName": "CAB. MED. FAM. DR. TATARU MIHAI",
+      "lat": 45.96046459999999,
+      "lng": 23.5710315
+    },
+    {
+      "address": "GALDA DE JOS, NR. 495",
+      "contractNo": "MF 464",
+      "email": "anatodea@yahoo.com",
+      "medicName": "TODEA ANA",
+      "phone": "0258846105",
+      "supplierName": "CMF. DR. TODEA ANA",
+      "lat": 46.1805779,
+      "lng": 23.621897
+    },
+    {
+      "address": "BAIA DE ARIES, STR. 22 DECEMBRIE, NR. 32",
+      "contractNo": "MF 465",
+      "email": "todeatraian@ymail.com",
+      "medicName": "TODEA TRAIAN",
+      "phone": "0763687664",
+      "supplierName": "CABINET MEDICAL INDIVIDUAL DR. TODEA TRAIAN",
+      "lat": 46.3804524,
+      "lng": 23.2763787
+    },
+    {
+      "address": "CRACIUNELUL DE JOS, STR.6 MARTIE, NR. 131",
+      "contractNo": "MF 466",
+      "email": "tothsilvia@yahoo.com",
+      "medicName": "TOTH SILVIA",
+      "phone": "0258883512",
+      "supplierName": "CAB.MED.DR.TOTH SILVIA",
+      "lat": 46.1726938,
+      "lng": 23.8356917
+    },
+    {
+      "address": "BLAJ, STR.REPUBLICII, NR.2",
+      "contractNo": "MF 467",
+      "email": "drturcu@yahoo.com",
+      "medicName": "TURCU FLAVIU TARSICIU",
+      "phone": "0723512126",
+      "supplierName": "CAB. MED DR. TURCU FLAVIU",
+      "lat": 46.1802331,
+      "lng": 23.9279175
+    },
+    {
+      "address": "ROSIA MONTANA, NR. 791",
+      "contractNo": "MF 468",
+      "email": "FLAVIU.TURDEAN@YAHOO.COM",
+      "medicName": "TURDEAN FLAVIU MIHAI",
+      "phone": "0740315345",
+      "supplierName": "CABINET MEDICAL INDIVIDUAL DR TURDEAN FLAVIU",
+      "lat": 44.4369713,
+      "lng": 26.0246641
+    },
+    {
+      "address": "BUCIUM, NR. 25",
+      "contractNo": "MF 468",
+      "email": "FLAVIU.TURDEAN@YAHOO.COM",
+      "medicName": "TURDEAN FLAVIU MIHAI",
+      "phone": "0740315345",
+      "supplierName": "CABINET MEDICAL INDIVIDUAL DR TURDEAN FLAVIU",
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    },
+    {
+      "address": "CILNIC, NR. 12",
+      "contractNo": "MF 469",
+      "email": "lenutavana@hotmail.com",
+      "medicName": "VANA LENUTA AURELIA",
+      "phone": "0745617677",
+      "supplierName": "CAB MED DR VANA LENUTA",
+      "lat": 44.4370144,
+      "lng": 26.0176883
+    },
+    {
+      "address": "ZLATNA, STR.DECEBAL, NR.25, BL.25, AP.1",
+      "contractNo": "MF 471",
+      "email": "voichitavarmaga@yahoo.com",
+      "medicName": "VARMAGA VOICHITA",
+      "phone": "0258856686",
+      "supplierName": "CAB. MED. DE FAM. DR.VARMAGA VOICHITA",
+      "lat": 46.10751279999999,
+      "lng": 23.2311962
+    },
+    {
+      "address": "ZLATNA, STR. HOREA, NR.3, BL. 3, AP. 1",
+      "contractNo": "MF 472",
+      "email": "igvintila@yahoo.com",
+      "medicName": "VINTILA IOAN GABRIEL",
+      "phone": "0743078017",
+      "supplierName": "CMF.DR. VINTILA IOAN GABRIEL",
+      "lat": 46.10751279999999,
+      "lng": 23.2311962
+    },
+    {
+      "address": "SEBES, STR. SURIANU, NR. 45",
+      "contractNo": "MF 473",
+      "email": "marinelavintila@yahoo.fr",
+      "medicName": "VINTILA MARINELA",
+      "phone": "0745324601",
+      "supplierName": "CMF DR. VINTILA MARINELA",
+      "lat": 45.950513,
+      "lng": 23.567159
+    },
+    {
+      "address": "STREMT, NR.99A",
+      "contractNo": "MF 474",
+      "email": "sandacomsa@yahoo.com",
+      "medicName": "VLAD SANDA MARIA",
+      "phone": "0743071096",
+      "supplierName": "CMF. DR. VLAD SANDA MARIA",
+      "lat": 46.2265952,
+      "lng": 23.6368859
+    },
+    {
+      "address": "SEBES, STR. MIHAIL KOGALNICEANU,NR.128",
+      "contractNo": "MF 475",
+      "email": "voinaangela@yahoo.com",
+      "medicName": "VOINA MARIANA ANGELA",
+      "phone": "0258732919",
+      "supplierName": "CMF DR.VOINA MARIANA ANGELA",
+      "lat": 45.96559569999999,
+      "lng": 23.5575484
+    },
+    {
+      "address": "ZLATNA,STR. HOREA, NR.3",
+      "contractNo": "MF 476",
+      "email": "dr_adler_cmf@yahoo.com",
+      "medicName": "VULTUR CLAUDIA STELIANA",
+      "phone": "0258856408",
+      "supplierName": "CMF DR.CLAUDIA VULTUR",
+      "lat": 46.11175,
+      "lng": 23.2247
+    },
+    {
+      "address": "CUGIR, STR. LALELELOR, NR. 4, AP. 2",
+      "contractNo": "MF 477",
+      "email": "zaharia_romeo@yahoo.com",
+      "medicName": "ZAHARIA DELIA",
+      "phone": "0258753002",
+      "supplierName": "CAB.MED.DR.ZAHARIA DELIA",
+      "lat": 45.8370606,
+      "lng": 23.3675078
+    },
+    {
+      "address": "SASCIORI, NR.381",
+      "contractNo": "MF 478",
+      "email": "zdrengheaveturia@yahoo.com",
+      "medicName": "ZDRENGHEA VETURIA",
+      "phone": "0258741134",
+      "supplierName": "C.M.F.DR.ZDRENGHEA VETURIA",
+      "lat": 45.8789306,
+      "lng": 23.5761176
+    },
+    {
+      "address": "SEBES, STR. 24 IANUARIE ,NR 4",
+      "contractNo": "MF 479",
+      "email": "luciaelenia@yahoo.com",
+      "medicName": "ZSIROS ELENA LUCIA",
+      "phone": "0258730103",
+      "supplierName": "CABINET MEDIC DE FAMILIE DR.ZSIROS LUCIA",
+      "lat": 45.95806899999999,
+      "lng": 23.5670323
+    },
+    {
+      "address": "CRICAU, NR. 383",
+      "contractNo": "MF  411",
+      "email": "monisuciubia@yahoo.com",
+      "medicName": "SUCIU LEONTINA",
+      "phone": "0748226763",
+      "supplierName": "CABINET MEDICINA DE FAMILIE DR SUCIU LEONTINA",
+      "lat": 46.1742809,
+      "lng": 23.5697217
+    }
+  ]}

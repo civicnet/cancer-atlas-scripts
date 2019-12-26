@@ -1,0 +1,84 @@
+{
+    "list": [
+        {
+            "address": "ALBA IULIA, STR.B-DUL REPUBLICII, NR 5",
+            "name": "PHOENIX IMAGISTIC SA",
+            "phone": "799744833",
+            "specialty": "RADIOLOGIE SI IMAGISTICA MEDICALA",
+            "lat": 46.0674675,
+            "lng": 23.5824569
+        },
+        {
+            "address": "ALBA IULIA, STR. B-DUL REVOLUTIEI 1989, NR.15, BL.2AB, AP.2",
+            "name": "TERRA ASTER",
+            "phone": "258833408",
+            "specialty": "ECOGRAFII",
+            "lat": 46.0691652,
+            "lng": 23.5565107
+        },
+        {
+            "address": "ALBA IULIA, STR.SEPTIMIUS SEVERUS, NR.43, BL. TOR 1, AP. 4",
+            "name": "CMF PETRUTA MARCELA",
+            "phone": "258810319",
+            "specialty": "ECOGRAFII",
+            "lat": 46.07774,
+            "lng": 23.5694224
+        },
+        {
+            "address": "ALBA IULIA, STR. MOTILOR, NR. 17A",
+            "name": "TERRA ASTER",
+            "phone": "258833408",
+            "specialty": "RADIOLOGIE SI IMAGISTICA MEDICALA",
+            "lat": 46.07312899999999,
+            "lng": 23.576209
+        },
+        {
+            "address": "ALBA IULIA, STR B-DUL REVOLUTIEI,NR.23",
+            "name": "SPITALUL JUDETEAN DE URGENTA ALBA",
+            "phone": "258835729",
+            "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+            "lat": 46.07088599999999,
+            "lng": 23.557142
+        },
+        {
+            "address": "AIUD, STR.SPITALULUI, NR.2",
+            "name": "SPITALUL MUNICIPAL AIUD",
+            "phone": "258861817",
+            "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+            "lat": 46.30765,
+            "lng": 23.723221
+        },
+        {
+            "address": "BLAJ, STR. ANDREI MURESANU, NR.16",
+            "name": "SPITALUL MUNICIPAL BLAJ",
+            "phone": "258710941",
+            "specialty": "ECOGRAFII",
+            "lat": 46.1802331,
+            "lng": 23.9279175
+        },
+        {
+            "address": "BLAJ, STR. ANDREI MURESANU, NR.16",
+            "name": "SPITALUL MUNICIPAL BLAJ",
+            "phone": "258710941",
+            "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+            "lat": 46.1802331,
+            "lng": 23.9279175
+        },
+        {
+            "address": "SEBEȘ, STR. ANDREI MURESANU, NR.16",
+            "name": "SPITALUL MUNICIPAL BLAJ",
+            "phone": "258710941",
+            "specialty": "ECOGRAFII",
+            "lat": 45.9595588,
+            "lng": 23.5663758
+        },
+        {
+            "address": "SEBEȘ, STR. ANDREI MURESANU, NR.16",
+            "name": "SPITALUL MUNICIPAL BLAJ",
+            "phone": "258710941",
+            "specialty": "INVESTIGATII PARACLINICE-RADIOLOGIE SI IMAGISTICA MEDICALA",
+            "lat": 45.9595588,
+            "lng": 23.5663758
+        }
+    ]
+}
