@@ -9,7 +9,7 @@ let read_path =
   | Some(dirname) =>
     Node.Path.resolve(
       dirname,
-      "../data/json/laboratoare_alba.json",
+      "../data/json/mf_timis.json",
     )
   | None => fileError("Dirname missing")
   };
@@ -19,18 +19,18 @@ let write_path =
   | Some(dirname) =>
     Node.Path.resolve(
       dirname,
-      "../data/json/laboratoare_alba_with_loc.json",
+      "../data/json/mf_timis_with_loc.json",
     )
   | None => fileError("Dirname missing")
   };
 
 type medical_service_with_location = {
-  supplier: MedicalService.supplier,
+  supplier: FamilyMedic.supplier,
   location: GoogleGeocodeResult.geocode_results,
 };
 
 let data = Node.Fs.readFileSync(read_path, `utf8);
-let suppliers = data |> Json.parseOrRaise |> MedicalService.Decode.suppliers;
+let suppliers = data |> Json.parseOrRaise |> FamilyMedic.Decode.suppliers;
 
 let decodeGeometry = data =>
   data |> Json.parseOrRaise |> GoogleGeocodeResult.Decode.geocode_results;
@@ -48,19 +48,19 @@ let geocode = address =>
   );
 
 [@bs.val] external encodeURIComponent: string => string = "encodeURIComponent";
-let rec suppliersWithAddress = (supps: list(MedicalService.supplier), acc) =>
+let rec suppliersWithAddress = (supps: list(FamilyMedic.supplier), acc) =>
   switch (supps) {
   | [hd, ...tl] =>
     geocode(encodeURIComponent(hd.address))
     |> Js.Promise.then_(value => {
-         let name = hd.name;
+         let name = hd.medicName;
          Js.log({j| Looking at $name |j});
 
          let supp = {supplier: hd, location: value};
          suppliersWithAddress(tl, List.append(acc, [supp]));
        })
     |> Js.Promise.catch(err => {
-         let name = hd.name;
+         let name = hd.medicName;
          let address = hd.address;
          Js.log2({j|Geocoding fail for $name @ $address!|j}, err);
          suppliersWithAddress(tl, acc);
