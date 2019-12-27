@@ -1,0 +1,1504 @@
+{
+    "list": [
+        {
+            "address": "Toplet",
+            "contractNo": "210",
+            "email": "",
+            "medicName": "Alexandru Adelaida",
+            "phone": "0255/522051",
+            "supplierName": "CABINET MED. MEDICINA GENERALA - DR.ALEXANDRU",
+            "lat": 44.3776557,
+            "lng": 26.0496404
+        },
+        {
+            "address": "Bocsa, 1 MAI,NR.23",
+            "contractNo": "527",
+            "email": "",
+            "medicName": "SOSDEANU MARIUS",
+            "phone": "727840055; 0255525413",
+            "supplierName": "CABINET MED. MED.GEN. DR.SOSDEANU",
+            "lat": 44.44021499999999,
+            "lng": 26.110897
+        },
+        {
+            "address": "Coronini,361",
+            "contractNo": "28",
+            "email": "",
+            "medicName": "Apostolovici Adina",
+            "phone": "766513450",
+            "supplierName": "CABINET MED.MED.GEN.-DR.APOSTOLOVICI ADINA",
+            "lat": 44.73333299999999,
+            "lng": 21.683333
+        },
+        {
+            "address": "Caransebes, 1 Dec.1918",
+            "contractNo": "280",
+            "email": "",
+            "medicName": "Armas-Cioflec Adriana",
+            "phone": "744520266",
+            "supplierName": "CAB.MED.MED.GEN.-DR.ARMAS-CIOFLEC",
+            "lat": 45.413619,
+            "lng": 22.2218641
+        },
+        {
+            "address": "Prigor, 402",
+            "contractNo": "4",
+            "email": "",
+            "medicName": "Baczoni Eugenia",
+            "phone": "760271147",
+            "supplierName": "CABINET MED.MEDICINA GENERALA-DR.BACZONI",
+            "lat": 44.933333,
+            "lng": 22.116667
+        },
+        {
+            "address": "Poiana Marului",
+            "contractNo": "190",
+            "email": "",
+            "medicName": "Badescu Liliana",
+            "phone": "749312664",
+            "supplierName": "CMI dr. Badescu L.",
+            "lat": 44.3716357,
+            "lng": 26.0956621
+        },
+        {
+            "address": "Resita, Caminelor,7",
+            "contractNo": "533",
+            "email": "",
+            "medicName": "Badescu Simona",
+            "phone": "0355/404609",
+            "supplierName": "S.C. BABY -MED- SRL - SIMONA BADESCU",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Lapusnicu Mare, 188",
+            "contractNo": "268",
+            "email": "",
+            "medicName": "Bihoi Viorel",
+            "phone": "244097",
+            "supplierName": "S.C.,, BIHOI MED. S.R.L.,,",
+            "lat": 44.8989224,
+            "lng": 21.9433289
+        },
+        {
+            "address": "Resita",
+            "contractNo": "211",
+            "email": "",
+            "medicName": "Blaj Petru",
+            "phone": "744762018",
+            "supplierName": "CMI dr. Blaj",
+            "lat": 44.3836903,
+            "lng": 26.0999053
+        },
+        {
+            "address": "Bolvasnita",
+            "contractNo": "119",
+            "email": "",
+            "medicName": "Trusca Paraschiva",
+            "phone": "728332946",
+            "supplierName": "CAB.MED.MEDICINA GENERALA-DR.TRUSCA",
+            "lat": 45.3451887,
+            "lng": 22.3089851
+        },
+        {
+            "address": "Sacu,57",
+            "contractNo": "263",
+            "email": "",
+            "medicName": "Boran Ligia",
+            "phone": "723381803",
+            "supplierName": "CAB.MED.MED.GEN.DR.BORAN",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Resita, P-ta 1 Decembrie ,nr.36",
+            "contractNo": "196",
+            "email": "",
+            "medicName": "Iovicin Vladimir",
+            "phone": "215042",
+            "supplierName": "SC Medical Prest SRL",
+            "lat": 45.288387,
+            "lng": 21.8907685
+        },
+        {
+            "address": "Otelu Rosu,Garii,15",
+            "contractNo": "209",
+            "email": "",
+            "medicName": "Bosneac Valentin - Samuel",
+            "phone": "0255/531348",
+            "supplierName": "SC Cab.dr. Bosneac SRL",
+            "lat": 45.51567,
+            "lng": 22.355066
+        },
+        {
+            "address": "Resita, Golului,1",
+            "contractNo": "540",
+            "email": "",
+            "medicName": "Fileri Emanuel",
+            "phone": "217111/int.1383",
+            "supplierName": "CMI dr. Fileri",
+            "lat": 45.3342816,
+            "lng": 21.8678583
+        },
+        {
+            "address": "Bozovici, 947",
+            "contractNo": "269",
+            "email": "",
+            "medicName": "Bratosin Nicu",
+            "phone": "242212",
+            "supplierName": "SC ,,BRATOSIN MED.,, S.R.L.",
+            "lat": 44.92610620000001,
+            "lng": 21.9990649
+        },
+        {
+            "address": "Rusca Montana,174",
+            "contractNo": "325",
+            "email": "",
+            "medicName": "Bratescu Sorin",
+            "phone": "355401883",
+            "supplierName": "SC Cab.dr.Bratescu SRL",
+            "lat": 45.5657946,
+            "lng": 22.4599176
+        },
+        {
+            "address": "Baile Herculane, Abatorului,4",
+            "contractNo": "108",
+            "email": "",
+            "medicName": "Brebu Iosif",
+            "phone": "561829",
+            "supplierName": "CAB.MED.MED.GENERALA DR.BREBU",
+            "lat": 44.8681802,
+            "lng": 22.4085128
+        },
+        {
+            "address": "Cornea,129",
+            "contractNo": "75",
+            "email": "",
+            "medicName": "Sabaila Olimpia",
+            "phone": "261398; 0751091889",
+            "supplierName": "CABINET INDIV.MED.GEN.-DR.SABAILA O.",
+            "lat": 44.4006525,
+            "lng": 26.088301
+        },
+        {
+            "address": "Lupac, 1",
+            "contractNo": "192",
+            "email": "",
+            "medicName": "Budugan Daniela",
+            "phone": "233626",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.BUDUGAN",
+            "lat": 45.2796058,
+            "lng": 21.809303
+        },
+        {
+            "address": "Caransebes, 1 Dec.1918,NR.21A",
+            "contractNo": "136",
+            "email": "",
+            "medicName": "Bugariu Mihaela",
+            "phone": "371041200",
+            "supplierName": "CAB.MED.MED.GEN-PEDIATRIE-DR.BUGARIU",
+            "lat": 45.413619,
+            "lng": 22.2218641
+        },
+        {
+            "address": "Resita,Caminelor,7",
+            "contractNo": "191",
+            "email": "",
+            "medicName": "Buna Gheorghe",
+            "phone": "355404207",
+            "supplierName": "SC Buna Med SRL",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Resita,Caminelor,7",
+            "contractNo": "191",
+            "email": "",
+            "medicName": "Buna Maria",
+            "phone": "355404207",
+            "supplierName": "SC Buna Med SRL",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Paltinis, 5",
+            "contractNo": "526",
+            "email": "",
+            "medicName": "Capotescu Carmen",
+            "phone": "0255/522805",
+            "supplierName": "S.C,. CABINET -DR.CAPOTESCU SRL",
+            "lat": 45.6550977,
+            "lng": 23.9300174
+        },
+        {
+            "address": "Resita, Lalelelor,1",
+            "contractNo": "37",
+            "email": "",
+            "medicName": "Calin Soran Marinela",
+            "phone": "355417051",
+            "supplierName": "CMI dr. Calin Soran",
+            "lat": 45.296557,
+            "lng": 21.880911
+        },
+        {
+            "address": "Bocsa, 1 Decembrie 1918,NR.3",
+            "contractNo": "568",
+            "email": "",
+            "medicName": "Ciublea Elena",
+            "phone": "555124",
+            "supplierName": "S.C. CABINET MEDICAL DR.CIUBLEA SRL",
+            "lat": 45.3770122,
+            "lng": 21.7187518
+        },
+        {
+            "address": "Resita, Petru Maior, 22",
+            "contractNo": "242",
+            "email": "",
+            "medicName": "Corobceanu Steliana",
+            "phone": "213390",
+            "supplierName": "CMI dr. Corobceanu",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Resita, Spitalului,36",
+            "contractNo": "39",
+            "email": "",
+            "medicName": "Costescu Ana",
+            "phone": "211630/int.165",
+            "supplierName": "SC Policlinica SMF SRL",
+            "lat": 45.290218,
+            "lng": 21.88463
+        },
+        {
+            "address": "Resita, Pinilor,5",
+            "contractNo": "283",
+            "email": "",
+            "medicName": "Cozma Georgeta",
+            "phone": "0255/211311",
+            "supplierName": "SC Cozma Med SRL",
+            "lat": 45.3025533,
+            "lng": 21.8770644
+        },
+        {
+            "address": "Resita, Petru Maior, 22",
+            "contractNo": "202",
+            "email": "",
+            "medicName": "Dalea Daniela Monica",
+            "phone": "220759",
+            "supplierName": "CABINET MEDICAL ,,MEDICINA GENERALA DR.DALEA,,",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Resita, Spitalului,36",
+            "contractNo": "26",
+            "email": "",
+            "medicName": "Dan Doina",
+            "phone": "744577484",
+            "supplierName": "SC Sanadan SRL",
+            "lat": 45.290218,
+            "lng": 21.88463
+        },
+        {
+            "address": "Otelu Rosu,str.Garii,15",
+            "contractNo": "458",
+            "email": "",
+            "medicName": "Ularu Lia-Loredana",
+            "phone": "0255/531348",
+            "supplierName": "S.C. CABINET DR.ULARU SRL",
+            "lat": 45.51567,
+            "lng": 22.355066
+        },
+        {
+            "address": "Bocsa,str.Tudor Vladimirescu,nr.82",
+            "contractNo": "501",
+            "email": "",
+            "medicName": "Chivu Radu-Ionut",
+            "phone": "0761144097; 0355566047",
+            "supplierName": "CABINET DR.CHIVU RADU-MEDICINA DE FAMILIE",
+            "lat": 45.3799171,
+            "lng": 21.7632314
+        },
+        {
+            "address": "Pojejena,98",
+            "contractNo": "143",
+            "email": "",
+            "medicName": "Drebot Lucian",
+            "phone": "0355/081073",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.DREBOT",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Dalboset,nr.270",
+            "contractNo": "513",
+            "email": "",
+            "medicName": "Imbrea Crenguta",
+            "phone": "748191437",
+            "supplierName": "SC MEDFAM IMBREA SRL",
+            "lat": 44.8653803,
+            "lng": 21.9555305
+        },
+        {
+            "address": "Moldova Noua",
+            "contractNo": "532",
+            "email": "",
+            "medicName": "Dumitru Ion",
+            "phone": "721132310",
+            "supplierName": "S.C. CABINET DR.DUMITRU ION SRL",
+            "lat": 44.735184,
+            "lng": 21.6642348
+        },
+        {
+            "address": "Resita, str.Oituzului, nr.7",
+            "contractNo": "487",
+            "email": "",
+            "medicName": "Pavel Vasilica",
+            "phone": "255/215066",
+            "supplierName": "SC DR.GRUBISICI SRL",
+            "lat": 45.2935861,
+            "lng": 21.913689
+        },
+        {
+            "address": "Gradinari,NR.110",
+            "contractNo": "430",
+            "email": "",
+            "medicName": "Firca Rodica",
+            "phone": "764400235",
+            "supplierName": "CABINET MED.MED.GEN.DR.FIRCA",
+            "lat": 44.3904867,
+            "lng": 25.8122723
+        },
+        {
+            "address": "Anina, Policlinicii,1",
+            "contractNo": "282",
+            "email": "",
+            "medicName": "Gajevsky Virginica",
+            "phone": "241532",
+            "supplierName": "CAB.MED.,,MEDIFAM,,-MEDICINA GENERALA",
+            "lat": 45.0878758,
+            "lng": 21.8511317
+        },
+        {
+            "address": "Moldova Noua, str. Nicolae Balcescu, nr. 8",
+            "contractNo": "484",
+            "email": "",
+            "medicName": "Vizitiu Cristian-Aurelian",
+            "phone": "541962",
+            "supplierName": "CMI DR.VIZITIU CRISTIAN-AURELIAN",
+            "lat": 44.734144,
+            "lng": 21.670011
+        },
+        {
+            "address": "Firliug,317",
+            "contractNo": "15",
+            "email": "",
+            "medicName": "Ghelesian Caius",
+            "phone": "235416",
+            "supplierName": "CABINET MED.MED.GENERALA – DR.GHELESIAN",
+            "lat": 45.48333299999999,
+            "lng": 21.85
+        },
+        {
+            "address": "Resita, Bd.Republicii,8",
+            "contractNo": "203",
+            "email": "",
+            "medicName": "Gherman Mihoc Berta",
+            "phone": "221425",
+            "supplierName": "CMI dr. Gherman",
+            "lat": 45.323066,
+            "lng": 21.878782
+        },
+        {
+            "address": "Mehadica,72",
+            "contractNo": "180",
+            "email": "",
+            "medicName": "Ghimboasa Lenuta",
+            "phone": "563300",
+            "supplierName": "CABINET MED.MEDICINA GENERALA-DR.GHIMBOASA",
+            "lat": 44.4559396,
+            "lng": 26.0420731
+        },
+        {
+            "address": "Otelu Rosu,Republicii,14",
+            "contractNo": "18",
+            "email": "",
+            "medicName": "Ghindoc Carmen",
+            "phone": "533761",
+            "supplierName": "CMI dr.Ghindoc",
+            "lat": 45.5158698,
+            "lng": 22.3504257
+        },
+        {
+            "address": "Bocsa, Stefan cel Mare,3",
+            "contractNo": "99",
+            "email": "",
+            "medicName": "Ghitu Mihaela",
+            "phone": "744553759",
+            "supplierName": "SC MAGENTA SRL",
+            "lat": 45.3770122,
+            "lng": 21.7187518
+        },
+        {
+            "address": "Oravita, Zona Garii,bl.C10",
+            "contractNo": "86",
+            "email": "",
+            "medicName": "Giam Daniela",
+            "phone": "573573",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.GIAM",
+            "lat": 45.041773,
+            "lng": 21.681917
+        },
+        {
+            "address": "Racasdia,361B",
+            "contractNo": "78",
+            "email": "",
+            "medicName": "Goian Camelia",
+            "phone": "575417",
+            "supplierName": "CABINET MED.MED.GENERALA – DR.GOIAN",
+            "lat": 45,
+            "lng": 21.616667
+        },
+        {
+            "address": "Resita, str.Oituz,nr.7",
+            "contractNo": "76",
+            "email": "",
+            "medicName": "Stubna Andreas",
+            "phone": "215066",
+            "supplierName": "SC Med As SRL",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Oravita, 1 Decembrie 1918,nr.24",
+            "contractNo": "95",
+            "email": "",
+            "medicName": "Guga Corina",
+            "phone": "573537",
+            "supplierName": "CABINET MED.MEDICINA GENERALA DR.GUGA",
+            "lat": 45.036189,
+            "lng": 21.6874189
+        },
+        {
+            "address": "Paltinis,5",
+            "contractNo": "184",
+            "email": "",
+            "medicName": "Hamat Viorica",
+            "phone": "255/522813",
+            "supplierName": "CABINET MED.MEDICINA GENERALA-DR.RADUTI",
+            "lat": 45.6550977,
+            "lng": 23.9300174
+        },
+        {
+            "address": "RESITA,NICOLAE BALCESCU,NR.6",
+            "contractNo": "365",
+            "email": "",
+            "medicName": "Haragos Gladiola",
+            "phone": "210420",
+            "supplierName": "CABINET MED.MED.GEN.-DR.HARAGOS G.",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Caransebes, Gen.M.Trapsa,NR.2",
+            "contractNo": "121",
+            "email": "",
+            "medicName": "Herascu Corina",
+            "phone": "514105",
+            "supplierName": "CABINET MEDICAL MEDICINA GENERALA DR.HERASCU",
+            "lat": 45.410852,
+            "lng": 22.2196364
+        },
+        {
+            "address": "Bucosnita,15",
+            "contractNo": "120",
+            "email": "",
+            "medicName": "Herascu Ion",
+            "phone": "519415",
+            "supplierName": "CABINET MED.MEDICINA GENERALA -DR.HERASCU",
+            "lat": 45.3011498,
+            "lng": 22.2682368
+        },
+        {
+            "address": "Teregova,359",
+            "contractNo": "36",
+            "email": "",
+            "medicName": "Hogea Ecaterina",
+            "phone": "260298",
+            "supplierName": "CABINET MED.MEDICINA GENERALA-DR.HOGEA",
+            "lat": 45.14810000000001,
+            "lng": 22.2819
+        },
+        {
+            "address": "Resita,Lalelelor, 1",
+            "contractNo": "212",
+            "email": "",
+            "medicName": "Hritcu Doina",
+            "phone": "0355/417055",
+            "supplierName": "CMI dr. Hritcu",
+            "lat": 45.296557,
+            "lng": 21.880911
+        },
+        {
+            "address": "Anina, Policlinicii,2",
+            "contractNo": "284",
+            "email": "",
+            "medicName": "Imbrescu Ilie",
+            "phone": "240303",
+            "supplierName": "CABINET MED.MED.GEN.DR.IMBRESCU",
+            "lat": 45.0963332,
+            "lng": 21.8546786
+        },
+        {
+            "address": "Varadia,338",
+            "contractNo": "3",
+            "email": "",
+            "medicName": "Iovanovici Cristian",
+            "phone": "576705",
+            "supplierName": "CABINET MEDICAL MEDICINA GENERALA DR.IOVANOVICI",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Turnu Ruieni",
+            "contractNo": "103",
+            "email": "",
+            "medicName": "Ispas Stela",
+            "phone": "510201",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.ISPAS",
+            "lat": 45.39008339999999,
+            "lng": 22.333759
+        },
+        {
+            "address": "Resita, AL.I.Cuza,5",
+            "contractNo": "19",
+            "email": "",
+            "medicName": "Jenar Gheorghe",
+            "phone": "727741677",
+            "supplierName": "SC Sanamed 2000 SRL",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Bocsa, Funicularului,316",
+            "contractNo": "176",
+            "email": "",
+            "medicName": "Jurca Diana",
+            "phone": "748993005",
+            "supplierName": "CABINET MED.MED.MED.FAM.DR.JURCA",
+            "lat": 45.379476,
+            "lng": 21.7287427
+        },
+        {
+            "address": "Caransebes, Gen. M.Trapsa, 2",
+            "contractNo": "221",
+            "email": "",
+            "medicName": "Jurca Sofia",
+            "phone": "511803",
+            "supplierName": "CABINET SALD MED-DR.JURCA",
+            "lat": 45.410852,
+            "lng": 22.2196364
+        },
+        {
+            "address": "Baile Herculane, Trandafirilor,60",
+            "contractNo": "361",
+            "email": "",
+            "medicName": "Lalescu Ionut",
+            "phone": "560703",
+            "supplierName": "CABINET MED.INDIV.M.G.DR.LALESCU",
+            "lat": 44.8639676,
+            "lng": 22.4049944
+        },
+        {
+            "address": "Caransebes, Cazarmii,4",
+            "contractNo": "11",
+            "email": "",
+            "medicName": "Lazar Daniela",
+            "phone": "514484; 0735525577",
+            "supplierName": "CABINET MED.DR.LAZAR DANIELA",
+            "lat": 45.4145095,
+            "lng": 22.2130647
+        },
+        {
+            "address": "Bocsa, Victoriei,7",
+            "contractNo": "161",
+            "email": "",
+            "medicName": "Lelcu Daniela",
+            "phone": "525013",
+            "supplierName": "CABINET MED.MED.GEN.-DR.LELCU",
+            "lat": 45.3770122,
+            "lng": 21.7187518
+        },
+        {
+            "address": "Glimboca, 342",
+            "contractNo": "68",
+            "email": "",
+            "medicName": "Lichiardopol Denise",
+            "phone": "744531471",
+            "supplierName": "CMI dr. Lichiardopol",
+            "lat": 45.4938089,
+            "lng": 22.3192226
+        },
+        {
+            "address": "Resita, Progresului",
+            "contractNo": "163",
+            "email": "",
+            "medicName": "Luca Liliana",
+            "phone": "740016613",
+            "supplierName": "SC MedLuca Fam SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Buchin",
+            "contractNo": "132",
+            "email": "",
+            "medicName": "Lungu Dorina",
+            "phone": "516021",
+            "supplierName": "CABINET MEDICAL MEDICINA GENERALA DR.LUNGU",
+            "lat": 45.3658271,
+            "lng": 22.2413365
+        },
+        {
+            "address": "Moldova Noua, Vasile Alecsandri",
+            "contractNo": "92",
+            "email": "",
+            "medicName": "Mageriu Emilia",
+            "phone": "740186552",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.MAGERIU",
+            "lat": 44.735184,
+            "lng": 21.6642348
+        },
+        {
+            "address": "Resita, Fagarasului,22",
+            "contractNo": "173",
+            "email": "",
+            "medicName": "Mangea Rita",
+            "phone": "228228",
+            "supplierName": "SC Echomed Praxis SRL",
+            "lat": 45.327911,
+            "lng": 21.8781399
+        },
+        {
+            "address": "Caransebes, Gen. M.Trapsa, 2",
+            "contractNo": "220",
+            "email": "",
+            "medicName": "Maran Lucia",
+            "phone": "511803",
+            "supplierName": "CABINET MEDICAL SALD MED DR.MARAN LUCIA",
+            "lat": 45.410852,
+            "lng": 22.2196364
+        },
+        {
+            "address": "Resita, Bd.Republicii,1",
+            "contractNo": "338",
+            "email": "",
+            "medicName": "Marcu Ioan",
+            "phone": "355404496",
+            "supplierName": "SC Marmara Tour SRL",
+            "lat": 45.3182044,
+            "lng": 21.8787607
+        },
+        {
+            "address": "Bautari,348",
+            "contractNo": "274",
+            "email": "",
+            "medicName": "Marin Bancila Mihai",
+            "phone": "521606",
+            "supplierName": "CMI dr. Marin Bancila",
+            "lat": 45.5194881,
+            "lng": 22.5368679
+        },
+        {
+            "address": "Oravita, Zona Garii,NR.1",
+            "contractNo": "106",
+            "email": "",
+            "medicName": "Marincu Grigore",
+            "phone": "571198",
+            "supplierName": "CABINET MED.MEDICINA GENERALA-DR.MARINCU",
+            "lat": 45.0403724,
+            "lng": 21.6841977
+        },
+        {
+            "address": "Otelu Rosu, Republicii,nr.14-16",
+            "contractNo": "525",
+            "email": "",
+            "medicName": "Matei Cristian",
+            "phone": "0355/404504",
+            "supplierName": "SC CAB.DR.MATEI SRL",
+            "lat": 45.5158698,
+            "lng": 22.3504257
+        },
+        {
+            "address": "Resita,str.Spitalului,nr.36",
+            "contractNo": "558",
+            "email": "",
+            "medicName": "Naidin Ancuta",
+            "phone": "736383732",
+            "supplierName": "CABINET MED.INDIV. DR. IMBREA ANCUTA",
+            "lat": 45.290218,
+            "lng": 21.88463
+        },
+        {
+            "address": "Iablanita,89",
+            "contractNo": "396",
+            "email": "",
+            "medicName": "Martuica Aneta",
+            "phone": "748109871",
+            "supplierName": "CAB.MED.MED.GEN.-DR.MARTUICA ANETA",
+            "lat": 44.4487257,
+            "lng": 26.1502622
+        },
+        {
+            "address": "Resita, Gradiste,71",
+            "contractNo": "57",
+            "email": "",
+            "medicName": "Milos Marioara",
+            "phone": "233136",
+            "supplierName": "CMI dr. Milos",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Ciclova Romana; dmislea@yahoo.com",
+            "contractNo": "141",
+            "email": "",
+            "medicName": "Mislea Danut",
+            "phone": "575190",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.MISLEA",
+            "lat": 45.0067299,
+            "lng": 21.7004373
+        },
+        {
+            "address": "Resita, Castanilor, 125",
+            "contractNo": "219",
+            "email": "",
+            "medicName": "Moldoveanu Rodica",
+            "phone": "744604043",
+            "supplierName": "CMI dr. Moldoveanu",
+            "lat": 45.2918523,
+            "lng": 21.9238289
+        },
+        {
+            "address": "Sasca Montana, 531",
+            "contractNo": "225",
+            "email": "",
+            "medicName": "Munteanu Ionel",
+            "phone": "727240859",
+            "supplierName": "CABINET MED.MED.GEN.DR.MUNTEANU IONEL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Slatina Timis,189 A",
+            "contractNo": "41",
+            "email": "",
+            "medicName": "Harambasa Lenuta",
+            "phone": "260807",
+            "supplierName": "CAB. MED.MED.GEN.-DR.NEAGU -ASOC.DE AJUTOR MUTUAL SLATINA TIMIS",
+            "lat": 45.25,
+            "lng": 22.2833
+        },
+        {
+            "address": "Berzasca",
+            "contractNo": "32",
+            "email": "",
+            "medicName": "Nicolici Alex",
+            "phone": "724015504",
+            "supplierName": "CABINET MED.MEDICINA DE FAMILIE-DR.NICOLICI",
+            "lat": 44.6475117,
+            "lng": 21.9508946
+        },
+        {
+            "address": "Moldova Noua, Vasile Alecsandri, nr.23",
+            "contractNo": "94",
+            "email": "",
+            "medicName": "Nistoran Maria",
+            "phone": "740089546",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.NISTORAN M.",
+            "lat": 44.735184,
+            "lng": 21.6642348
+        },
+        {
+            "address": "Carasova",
+            "contractNo": "534",
+            "email": "",
+            "medicName": "Gusca Anda",
+            "phone": "732507646",
+            "supplierName": "CMI DR.GUSCA",
+            "lat": 45.1996772,
+            "lng": 21.8619564
+        },
+        {
+            "address": "Berliste,nr.83",
+            "contractNo": "455",
+            "email": "",
+            "medicName": "Nicolae Claudia-Nadia",
+            "phone": "723617326",
+            "supplierName": "CABINET MED.IND.DR.NICOLAE",
+            "lat": 44.99017629999999,
+            "lng": 21.4664432
+        },
+        {
+            "address": "Resita, Trandafirilor,1",
+            "contractNo": "172",
+            "email": "",
+            "medicName": "Ogasan Maria",
+            "phone": "355417010",
+            "supplierName": "CMI dr. Ogasan",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Resita, Lalelelor,1",
+            "contractNo": "551",
+            "email": "",
+            "medicName": "Onea Emil",
+            "phone": "722315803",
+            "supplierName": "SC DR.ONEA SRL",
+            "lat": 45.296557,
+            "lng": 21.880911
+        },
+        {
+            "address": "Resita, Spitalului,36",
+            "contractNo": "166",
+            "email": "",
+            "medicName": "Oprea Liliana",
+            "phone": "218824",
+            "supplierName": "CMI dr. Oprea Liliana",
+            "lat": 45.290218,
+            "lng": 21.88463
+        },
+        {
+            "address": "Caransebes, Gen. M.Trapsa,nr.2",
+            "contractNo": "64",
+            "email": "",
+            "medicName": "Oprea Liviu",
+            "phone": "744293473",
+            "supplierName": "CABINET OPAL MED - ,, MEDICINA GENERALA,,",
+            "lat": 45.410852,
+            "lng": 22.2196364
+        },
+        {
+            "address": "Lapusnicel, 132",
+            "contractNo": "97",
+            "email": "",
+            "medicName": "Paidola Mariana",
+            "phone": "765236696",
+            "supplierName": "CABINET MED.MEDICINA GEN.-DR.PAIDOLA",
+            "lat": 44.98333299999999,
+            "lng": 22.233333
+        },
+        {
+            "address": "Resita, N.Balcescu, 6",
+            "contractNo": "265",
+            "email": "",
+            "medicName": "Pasare Violeta",
+            "phone": "213018",
+            "supplierName": "CMI dr. Pasare",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Baile Herculane",
+            "contractNo": "512",
+            "email": "",
+            "medicName": "Ionescu Sorin",
+            "phone": "766340423",
+            "supplierName": "CABINET MED.MEDICINA DE FAM.DR.IONESCU NICOLAE SORIN",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Caransebes, str.Gen.M.Trapsa,nr.11",
+            "contractNo": "155",
+            "email": "",
+            "medicName": "Pogani Rodica",
+            "phone": "723594746",
+            "supplierName": "CABINET MED.MED.GENERALA SI ECHOGRAFIE PRAXIS MED – DR.POGANI",
+            "lat": 45.4111539,
+            "lng": 22.2208974
+        },
+        {
+            "address": "Resita, Lalelelor,1",
+            "contractNo": "542",
+            "email": "",
+            "medicName": "Popovici Daniel",
+            "phone": "217232",
+            "supplierName": "SC Policlinica  Popovici Praxis SRL",
+            "lat": 45.296557,
+            "lng": 21.880911
+        },
+        {
+            "address": "Resita,Lalelelor, 1",
+            "contractNo": "542",
+            "email": "",
+            "medicName": "Popovici Ileana",
+            "phone": "217232",
+            "supplierName": "SC Policlinica  Popovici Praxis SRL",
+            "lat": 45.296557,
+            "lng": 21.880911
+        },
+        {
+            "address": "Resita, Spitalului.,36",
+            "contractNo": "158",
+            "email": "",
+            "medicName": "Preda Maria",
+            "phone": "213269",
+            "supplierName": "SC Preda Med San SRL",
+            "lat": 45.290218,
+            "lng": 21.88463
+        },
+        {
+            "address": "Moldova Noua, Sf.Varvara,2,bl.2,ap.2",
+            "contractNo": "531",
+            "email": "",
+            "medicName": "Radosavlevici Slavita",
+            "phone": "748238772",
+            "supplierName": "S.C. CABINET DR.RADOSAVLEVICI SRL",
+            "lat": 44.735184,
+            "lng": 21.6642348
+        },
+        {
+            "address": "Brebu, 110",
+            "contractNo": "189",
+            "email": "",
+            "medicName": "Radu Lidia",
+            "phone": "745841721",
+            "supplierName": "CMI dr. Radu",
+            "lat": 44.4587844,
+            "lng": 26.1250748
+        },
+        {
+            "address": "Naidas, 163",
+            "contractNo": "147",
+            "email": "",
+            "medicName": "Rata Ioan C-tin",
+            "phone": "576407",
+            "supplierName": "CABINET MEDICINA GENERALA-Dr.RATA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Caransebes, Ardealului,55",
+            "contractNo": "157",
+            "email": "",
+            "medicName": "Radoi Nicoleta",
+            "phone": "767949518",
+            "supplierName": "CABINET MED.M.F. DR.RADOI",
+            "lat": 45.4169357,
+            "lng": 22.2200777
+        },
+        {
+            "address": "Otelu Rosu, Rebublicii, 14-16",
+            "contractNo": "112",
+            "email": "",
+            "medicName": "Reitmayer Alina",
+            "phone": "531099",
+            "supplierName": "S.C. Cabinet Dr. Reitmayer SRL",
+            "lat": 45.5158698,
+            "lng": 22.3504257
+        },
+        {
+            "address": "Oravita, Zona Garii,C10",
+            "contractNo": "87",
+            "email": "",
+            "medicName": "Robciuc Camelia",
+            "phone": "572462; 0748630661",
+            "supplierName": "CABINET MED.MED.GEN.DR.ROBCIUC",
+            "lat": 45.041773,
+            "lng": 21.681917
+        },
+        {
+            "address": "Oravita, Zona Garii, E 11",
+            "contractNo": "20",
+            "email": "",
+            "medicName": "Rotariu Luminita",
+            "phone": "757377137",
+            "supplierName": "CAB.MED.-DR.ROTARIU LUMINITA",
+            "lat": 45.036189,
+            "lng": 21.6874189
+        },
+        {
+            "address": "Maureni, 453",
+            "contractNo": "258",
+            "email": "",
+            "medicName": "Sandici Georgeta",
+            "phone": "526005",
+            "supplierName": "CABINET MED.IND.MEDICINA DE FAMILIE DR.SANDICI",
+            "lat": 45.4,
+            "lng": 21.5
+        },
+        {
+            "address": "Tirnova,Resita",
+            "contractNo": "54",
+            "email": "",
+            "medicName": "Schmelas Loredana",
+            "phone": "745802902",
+            "supplierName": "S.C. DR.SCHMELAS SRL",
+            "lat": 44.85,
+            "lng": 21.866667
+        },
+        {
+            "address": "Moldova Noua, N.Titulescu,bl.22,sc.2,ap.4",
+            "contractNo": "145",
+            "email": "",
+            "medicName": "Scrum Adrian",
+            "phone": "741157050",
+            "supplierName": "CABINET MED.MED.GENERALA – DR.SCRUM",
+            "lat": 44.735184,
+            "lng": 21.6642348
+        },
+        {
+            "address": "Luncavita, Verendin",
+            "contractNo": "337",
+            "email": "",
+            "medicName": "Primicheru Ana Gabriela",
+            "phone": "721841091",
+            "supplierName": "CABINET MEDICAL SIMED SRL",
+            "lat": 45.0770332,
+            "lng": 22.2374323
+        },
+        {
+            "address": "Resita, Lalelelor, 1",
+            "contractNo": "485",
+            "email": "",
+            "medicName": "Covianici Maria",
+            "phone": "355417055",
+            "supplierName": "CMI dr. Covianici Maria",
+            "lat": 45.296557,
+            "lng": 21.880911
+        },
+        {
+            "address": "Caransebes, 1 Decembrie 1918, nr.21A",
+            "contractNo": "133",
+            "email": "",
+            "medicName": "Soare Ana",
+            "phone": "371041200",
+            "supplierName": "CAB.MED.MED.GEN.-PEDIATRIE DR.SOARE",
+            "lat": 45.413619,
+            "lng": 22.2218641
+        },
+        {
+            "address": "Dognecea",
+            "contractNo": "1",
+            "email": "",
+            "medicName": "Stanescu Dumitru",
+            "phone": "236307",
+            "supplierName": "CABINET MEDICINA GENERALA-DR.STANESCU",
+            "lat": 45.266667,
+            "lng": 21.75
+        },
+        {
+            "address": "Caransebes, Gen.M.Trapsa",
+            "contractNo": "116",
+            "email": "",
+            "medicName": "Stanescu Mirela",
+            "phone": "511592",
+            "supplierName": "CABINET MEDICAL MEDICINA GENERALA ,, ALMED,,",
+            "lat": 45.4114551,
+            "lng": 22.2227964
+        },
+        {
+            "address": "Resita, Al.Buzias,nr.2",
+            "contractNo": "375",
+            "email": "",
+            "medicName": "Stingu Florentina",
+            "phone": "355809334",
+            "supplierName": "SC Pur Medica SRL",
+            "lat": 45.321454,
+            "lng": 21.880133
+        },
+        {
+            "address": "Resita, Trandafirilor,1",
+            "contractNo": "160",
+            "email": "",
+            "medicName": "Stoianovici Dorina",
+            "phone": "355417008",
+            "supplierName": "CMI dr. Stoianovici",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Caransebes, Gen. M.Trapsa, 2",
+            "contractNo": "456",
+            "email": "",
+            "medicName": "Popovici Ion Iustinian",
+            "phone": "511592",
+            "supplierName": "CABINET MEDICAL MED.INDIV.MED.DE FAM.DR.POPOVICI ION",
+            "lat": 45.410852,
+            "lng": 22.2196364
+        },
+        {
+            "address": "Anina, Policlinicii,2",
+            "contractNo": "502",
+            "email": "",
+            "medicName": "Radu Laura",
+            "phone": "241477",
+            "supplierName": "CABINET MED.MEDICINA GENERALA -DR.Radu",
+            "lat": 45.0963332,
+            "lng": 21.8546786
+        },
+        {
+            "address": "Obreja, 165",
+            "contractNo": "109",
+            "email": "",
+            "medicName": "Suciu Emilia",
+            "phone": "355404570",
+            "supplierName": "CMI dr. Suciu",
+            "lat": 45.4790164,
+            "lng": 22.2586001
+        },
+        {
+            "address": "Turnu Ruieni",
+            "contractNo": "149",
+            "email": "",
+            "medicName": "Serbescu Ion",
+            "phone": "723180137",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.SERBESCU",
+            "lat": 45.39008339999999,
+            "lng": 22.333759
+        },
+        {
+            "address": "Zagujeni",
+            "contractNo": "142",
+            "email": "",
+            "medicName": "Serbescu Mariana",
+            "phone": "723607255",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.SERBESCU M.",
+            "lat": 45.4821392,
+            "lng": 22.1615247
+        },
+        {
+            "address": "Socol",
+            "contractNo": "318",
+            "email": "",
+            "medicName": "Stefanovici Voislava",
+            "phone": "544831",
+            "supplierName": "CABINET MED.MED.GENERALA – DR.STEFANOVICI",
+            "lat": 44.3864809,
+            "lng": 26.0926467
+        },
+        {
+            "address": "Resita,Trandafirilor,1",
+            "contractNo": "495",
+            "email": "",
+            "medicName": "Popa Iulian",
+            "phone": "723196777",
+            "supplierName": "CMI DR.POPA IULIAN",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Zavoi,160",
+            "contractNo": "110",
+            "email": "",
+            "medicName": "Stirban Maria",
+            "phone": "355417570",
+            "supplierName": "S.C. Cabinet  dr.Stirban SRL",
+            "lat": 44.5040742,
+            "lng": 26.0924138
+        },
+        {
+            "address": "Caransebes, Gen.M.Trapsa, 2",
+            "contractNo": "234",
+            "email": "",
+            "medicName": "Susailu Carmen",
+            "phone": "514105",
+            "supplierName": "CABINET MEDICAL MEDICINA GENERALA DR.SUSAILU",
+            "lat": 45.410852,
+            "lng": 22.2196364
+        },
+        {
+            "address": "Caransebes, E.Popeea, 1",
+            "contractNo": "107",
+            "email": "",
+            "medicName": "Susoi Viviana",
+            "phone": "517700",
+            "supplierName": "CABINET MED.MEDICINA GENERALA BETANIA PRO MEDICAL DR.SUSOI",
+            "lat": 45.413619,
+            "lng": 22.2218641
+        },
+        {
+            "address": "Resita, Crisan 1",
+            "contractNo": "218",
+            "email": "",
+            "medicName": "Tataru Marius",
+            "phone": "224332",
+            "supplierName": "CMI DR. TATARU MARIUS",
+            "lat": 45.3049703,
+            "lng": 21.8821033
+        },
+        {
+            "address": "Oravita, Zona Garii, Bl.30, sc.B",
+            "contractNo": "96",
+            "email": "",
+            "medicName": "Tatomir Liliana",
+            "phone": "573555",
+            "supplierName": "CABINET MED.MED.GEN.-DR.TATOMIR",
+            "lat": 45.0413994,
+            "lng": 21.6804604
+        },
+        {
+            "address": "Caransebes, Gen.M.Trapsa, 29",
+            "contractNo": "117",
+            "email": "",
+            "medicName": "Tatucu Cristian",
+            "phone": "511135; 0723851866",
+            "supplierName": "CAB.MED.MED.INDIV.M.G.-DR.TATUCU C. CLINIC PRAXIS",
+            "lat": 45.4114551,
+            "lng": 22.2227964
+        },
+        {
+            "address": "Mehadia, str.Principala,110",
+            "contractNo": "287",
+            "email": "",
+            "medicName": "Tatucu Mariana",
+            "phone": "523205",
+            "supplierName": "CAB.MED.INDIV. ,,HUMANA,,  DR.TATUCU MARIANA",
+            "lat": 44.90282,
+            "lng": 22.3682301
+        },
+        {
+            "address": "Forotic,151 B",
+            "contractNo": "248",
+            "email": "",
+            "medicName": "Teodorescu Ioan",
+            "phone": "745592202",
+            "supplierName": "CAB.MED.MED.GEN.-DR.TEODORESCU",
+            "lat": 45.2329312,
+            "lng": 21.5841719
+        },
+        {
+            "address": "Bocsa, Funicularului,77A",
+            "contractNo": "88",
+            "email": "",
+            "medicName": "Tofan Dan",
+            "phone": "525403",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.TOFAN DAN",
+            "lat": 45.3776687,
+            "lng": 21.723459
+        },
+        {
+            "address": "Binis, 1",
+            "contractNo": "89",
+            "email": "",
+            "medicName": "Tofan Rodica",
+            "phone": "236203",
+            "supplierName": "CAB.MED.MED.GENERALA DR.TOFAN RODICA",
+            "lat": 45.3360204,
+            "lng": 21.689795
+        },
+        {
+            "address": "Zorlentu Mare,nr.585",
+            "contractNo": "42",
+            "email": "",
+            "medicName": "Trandafirescu Ileana",
+            "phone": "723191226",
+            "supplierName": "SC Trand-medica SRL",
+            "lat": 45.45,
+            "lng": 21.95
+        },
+        {
+            "address": "Resita, Fagarasului, 11/C/2",
+            "contractNo": "65",
+            "email": "",
+            "medicName": "Tulbure Catuta",
+            "phone": "355423521",
+            "supplierName": "CMI Pres Medical",
+            "lat": 45.323594,
+            "lng": 21.8812089
+        },
+        {
+            "address": "Bocsa, 1 Decembrie 1918",
+            "contractNo": "399",
+            "email": "",
+            "medicName": "Brosteanu Camelia",
+            "phone": "555146",
+            "supplierName": "CABINET MED.INDIV.MED.GEN.DR.BROSTEANU",
+            "lat": 45.3770122,
+            "lng": 21.7187518
+        },
+        {
+            "address": "Moldova Noua, str. Nicolae Balcescu, nr. 8",
+            "contractNo": "13",
+            "email": "",
+            "medicName": "Vizitiu Viorel",
+            "phone": "745610526",
+            "supplierName": "CABINET MED.MED.GENERALA-DR.VIZITIU",
+            "lat": 44.734144,
+            "lng": 21.670011
+        },
+        {
+            "address": "Mehadia,110",
+            "contractNo": "187",
+            "email": "",
+            "medicName": "Zeicu Corneliu",
+            "phone": "523117",
+            "supplierName": "CABINET MEDICAL MEDICINA GENERALA DR.ZEICU",
+            "lat": 44.4559396,
+            "lng": 26.0420731
+        },
+        {
+            "address": "Oravita, 1 Decembrie 1918,nr.24",
+            "contractNo": "403",
+            "email": "",
+            "medicName": "Pirici Nicolae",
+            "phone": "769220945;0732115596",
+            "supplierName": "CABINET MED.M.G.DR.PIRICI NICOLAE",
+            "lat": 45.036189,
+            "lng": 21.6874189
+        },
+        {
+            "address": "BANIA",
+            "contractNo": "548",
+            "email": "",
+            "medicName": "Bogdan Dorina",
+            "phone": "727701270",
+            "supplierName": "SC  DR.BOGDAN MED SRL",
+            "lat": 44.8765284,
+            "lng": 22.042148
+        },
+        {
+            "address": "Toplet,NR.155",
+            "contractNo": "101",
+            "email": "",
+            "medicName": "Stolojescu Stela",
+            "phone": "740205754",
+            "supplierName": "CABINET MED.INDIVIDUAL DR.STOLOJESCU STELA",
+            "lat": 44.8,
+            "lng": 22.4
+        },
+        {
+            "address": "Ticvaniu Mare, Principala, 372",
+            "contractNo": "434",
+            "email": "",
+            "medicName": "Tincu Serghei",
+            "phone": "0355/081413",
+            "supplierName": "CAB.MED.MED.GEN.DR.TINCU SERGHEI",
+            "lat": 45.133333,
+            "lng": 21.633333
+        },
+        {
+            "address": "Caransebes, M.KOGALNICEANU,10A",
+            "contractNo": "454",
+            "email": "",
+            "medicName": "Pestenaru Maria",
+            "phone": "745230593; 07456171102",
+            "supplierName": "CABINET MED.INDIV.MED.DE FAM.DR.PESTENARU",
+            "lat": 45.413619,
+            "lng": 22.2218641
+        },
+        {
+            "address": "OTELU ROSU, REPUBLICII.14-16",
+            "contractNo": "494",
+            "email": "",
+            "medicName": "Balan Anca",
+            "phone": "355401298",
+            "supplierName": "S.C. DR.BALAN SRL",
+            "lat": 45.5158698,
+            "lng": 22.3504257
+        },
+        {
+            "address": "Cornereva",
+            "contractNo": "500",
+            "email": "",
+            "medicName": "Ardelean - Bocancea",
+            "phone": "744664391",
+            "supplierName": "CMI DR. ARDELEAN-BOCANCEA",
+            "lat": 45.0621736,
+            "lng": 22.4172749
+        },
+        {
+            "address": "Sichevita",
+            "contractNo": "481",
+            "email": "",
+            "medicName": "Dulama Septimius",
+            "phone": "725084843",
+            "supplierName": "SC ,, MEDICUS VIATRIX SRL,,",
+            "lat": 44.73333299999999,
+            "lng": 21.8500001
+        },
+        {
+            "address": "Resita",
+            "contractNo": "483",
+            "email": "",
+            "medicName": "Blaj Costica",
+            "phone": "723718788",
+            "supplierName": "CMI DR.BLAJ COSTICA",
+            "lat": 44.3836903,
+            "lng": 26.0999053
+        },
+        {
+            "address": "Valiug,nr.12",
+            "contractNo": "518",
+            "email": "",
+            "medicName": "Zuiac Silvia Sorina",
+            "phone": "743992941",
+            "supplierName": "SC CAB.MED.DR.SILVIA SORINA ZUIAC SRL",
+            "lat": 44.490222,
+            "lng": 26.093813
+        },
+        {
+            "address": "Otelu Rosu,B-dul Libertatii,nr.3,sc.4,ap.3",
+            "contractNo": "519",
+            "email": "",
+            "medicName": "Barbu Petru",
+            "phone": "0255/531035",
+            "supplierName": "SC CABINET MEDICAL DR.BARBU PETRU SRL",
+            "lat": 45.5158698,
+            "lng": 22.3504257
+        },
+        {
+            "address": "Ramna",
+            "contractNo": "560",
+            "email": "",
+            "medicName": "Nicolaescu Simona",
+            "phone": "744828786",
+            "supplierName": "SC CABINET DR.NICOLAESCU SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Vermes",
+            "contractNo": "517",
+            "email": "",
+            "medicName": "Nescovici Sorina Vasilica",
+            "phone": "744792877",
+            "supplierName": "CABINET DR.NESCOVICI VASILICA-MED.FAM.",
+            "lat": 44.5124119,
+            "lng": 26.0799035
+        },
+        {
+            "address": "Berzovia, nr.128",
+            "contractNo": "549",
+            "email": "",
+            "medicName": "Kovacs Ana",
+            "phone": "744549768",
+            "supplierName": "CABINET MEDICAL INDIVIDUAL DR.KOVACS ANA",
+            "lat": 44.3981742,
+            "lng": 26.0559486
+        },
+        {
+            "address": "Ezeris,nr.4",
+            "contractNo": "562",
+            "email": "",
+            "medicName": "Moldoveanu Silvia",
+            "phone": "255235358",
+            "supplierName": "S.C.CABINET MEDICAL DR.MOLDOVEANU SILVIA SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Eftimie Murgu, nr. 285",
+            "contractNo": "564",
+            "email": "",
+            "medicName": "Fisteag Alina",
+            "phone": "769612988",
+            "supplierName": "S.C. AMERICAN MEDICAL HOME SERVICES SRL",
+            "lat": 44.8787703,
+            "lng": 22.0942569
+        }
+    ]
+}
