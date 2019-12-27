@@ -9,7 +9,7 @@ let read_path =
   | Some(dirname) =>
     Node.Path.resolve(
       dirname,
-      "../data/json/mf_arad.json",
+      "../data/json/mf_galati.json",
     )
   | None => fileError("Dirname missing")
   };
@@ -19,7 +19,7 @@ let write_path =
   | Some(dirname) =>
     Node.Path.resolve(
       dirname,
-      "../data/json/mf_arad_with_loc.json",
+      "../data/json/mf_galati_with_loc.json",
     )
   | None => fileError("Dirname missing")
   };

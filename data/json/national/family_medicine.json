@@ -27118,5 +27118,2455 @@
     "supplierName": "DR.STEOP MARIA-SIMONA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
     "lat": 46.2815966,
     "lng": 21.3959958
+  },
+  {
+    "address": "GALATI,  Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "142",
+    "email": "casu.dana@gmail.com",
+    "medicName": "CASU DANA",
+    "phone": "0236/312289",
+    "supplierName": "C.M.G. DR. CASU DANA",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI,  Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "142",
+    "email": "ionutzcom2006@yahoo.com",
+    "medicName": "COMANICI IONUT EMANUEL",
+    "phone": "0236/433744",
+    "supplierName": "C.M.G. DR. CASU DANA",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI,  Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "142",
+    "email": "lipsa_g@yahoo.com",
+    "medicName": "LIPSA GABRIEL IOAN",
+    "phone": "0236432522",
+    "supplierName": "C.M.G. DR. CASU DANA",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI,  Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "142",
+    "email": "paraschivescu_l@yahoo.com",
+    "medicName": "PARASCHIVESCU LILIANA",
+    "phone": "0236413118",
+    "supplierName": "C.M.G. DR. CASU DANA",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI, Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "142",
+    "email": "doccivernet@gmail.com",
+    "medicName": "VERENCA CIPRIAN",
+    "phone": "0236434828",
+    "supplierName": "C.M.G. DR. CASU DANA",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI, Str. Macedona, nr. 16, Complex Comercial \"Continental",
+    "contractNo": "403",
+    "email": "curteanu_steluta@yahoo.com",
+    "medicName": "CURTEANU STELUTA",
+    "phone": "0236328657",
+    "supplierName": "C.M.I. DR. CURTEANU STELUTA",
+    "lat": 45.4276741,
+    "lng": 28.0167734
+  },
+  {
+    "address": "GALATI, Str. Traian, nr. 136, Corp adiacent, bl. A3, sc.2",
+    "contractNo": "401",
+    "email": "d.c.geambasu@gmail.com",
+    "medicName": "GEAMBASU  DELIA  CARMEN",
+    "phone": "0236328954",
+    "supplierName": "C.M.I. DR. GEAMBASU DELIA CARMEN",
+    "lat": 45.4412423,
+    "lng": 28.048298
+  },
+  {
+    "address": "GALATI, Str. Macedona, nr. 16, Complex Comercial \"Continental",
+    "contractNo": "402",
+    "email": "camelia.hodorogea@gmail.com",
+    "medicName": "HODOROGEA CAMELIA",
+    "phone": "0236433636",
+    "supplierName": "C.M.I. DR. HODOROGEA CAMELIA",
+    "lat": 45.4276741,
+    "lng": 28.0167734
+  },
+  {
+    "address": "GALATI, Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "346",
+    "email": "anamaria2081@yahoo.com",
+    "medicName": "ANASTASIU ANA-MARIA",
+    "phone": "0236/322584",
+    "supplierName": "C.M.I. DR. ANASTASIU ANA-MARIA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI, Ion Luca Cargiale, Nr. 13",
+    "contractNo": "197",
+    "email": "dr_anghelescu@yahoo.com",
+    "medicName": "ANGHELESCU MIHAELA",
+    "phone": "0236/462868",
+    "supplierName": "C.M.I. DR. ANGHELESCU MIHAELA",
+    "lat": 44.4367792,
+    "lng": 26.1039534
+  },
+  {
+    "address": "GALATI, Str. Ionel Fernic, Nr. 4A",
+    "contractNo": "279",
+    "email": "geanina_med@yahoo.com",
+    "medicName": "ANGHELUTA GEANINA LOREDANA",
+    "phone": "0727846019",
+    "supplierName": "C.M.I. DR. ANGHELUTA GEANINA LOREDANA",
+    "lat": 45.451955,
+    "lng": 28.0201529
+  },
+  {
+    "address": "GALATI, Str. Pinului, Micro 40 ( Av. Mircea Zorileanu, Nr. 4A)",
+    "contractNo": "170",
+    "email": "dodomarius@yahoo.com",
+    "medicName": "APAVALOAIEI LIZICA",
+    "phone": "0236/321536",
+    "supplierName": "C.M.I. DR. APAVALOAIEI LIZICA",
+    "lat": 45.4529155,
+    "lng": 28.0252379
+  },
+  {
+    "address": "GALATI, Str. Pinului, Micro 40 ( Av. Mircea Zorileanu, Nr. 4A)",
+    "contractNo": "171",
+    "email": "dodomarius@yahoo.com",
+    "medicName": "APAVALOAIEI MARIUS",
+    "phone": "0236/420014",
+    "supplierName": "C.M.I. DR. APAVALOAIEI MARIUS",
+    "lat": 45.4529155,
+    "lng": 28.0252379
+  },
+  {
+    "address": "GALATI, Str. Regiment 11 Siret, Nr. 1",
+    "contractNo": "368",
+    "email": "drbalmus_elena@yahoo.com",
+    "medicName": "BALMUS ELENA",
+    "phone": "0236/326025",
+    "supplierName": "SC MEDFAM BALMUS SRL",
+    "lat": 45.426558,
+    "lng": 28.033062
+  },
+  {
+    "address": "GALATI, Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "345",
+    "email": "betcuolga@gmail.com",
+    "medicName": "BETCU OLGA",
+    "phone": "236411098",
+    "supplierName": "C.M.I. DR. BETCU OLGA",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI, Str. Ionel Fernic, Nr. 4A",
+    "contractNo": "86",
+    "email": "nicoleboldea@yahoo.com",
+    "medicName": "BOLDEA NICOLETA",
+    "phone": "0336/101067",
+    "supplierName": "C.M.I. DR. BOLDEA NICOLETA",
+    "lat": 45.451955,
+    "lng": 28.0201529
+  },
+  {
+    "address": "GALATI, Str. Otelarilor, Nr. 17, bl. D11A",
+    "contractNo": "185",
+    "email": "brailal@yahoo.com",
+    "medicName": "BRAILA CARMEN LUCIANA",
+    "phone": "0236/475504",
+    "supplierName": "C.M.I. DR. BRAILA CARMEN LUCIANA",
+    "lat": 45.414953,
+    "lng": 28.0101684
+  },
+  {
+    "address": "GALATI, Str. Eroilor, Nr.5",
+    "contractNo": "376",
+    "email": "drbujoreanuvictor@yahoo.com",
+    "medicName": "BUJOREANU VICTOR",
+    "phone": "0236/460361",
+    "supplierName": "SC MEDFAM PRIVAT BV SRL",
+    "lat": 45.4402713,
+    "lng": 28.0554198
+  },
+  {
+    "address": "GALATI, B-dul. Dunarea, nr. 23, Bl. D8, Ap. 39",
+    "contractNo": "90",
+    "email": "pachi.serban@yahoo.com",
+    "medicName": "BUTURE GRIGORE ALEXANDRU",
+    "phone": "0236/434787",
+    "supplierName": "SC BUTURE PROMEDICAL SRL",
+    "lat": 45.4098733,
+    "lng": 28.016727
+  },
+  {
+    "address": "GALATI, Str. Regiment 11 Siret, Nr. 1",
+    "contractNo": "364",
+    "email": "marianabuture@yahoo.com",
+    "medicName": "BUTURE MARIANA",
+    "phone": "0236/310336",
+    "supplierName": "SC BUTURE EXPERT MED SRL",
+    "lat": 45.426558,
+    "lng": 28.033062
+  },
+  {
+    "address": "GALATI, Str. Brasov, Nr. 3, Bl. E8, Sc. 1, Ap. 3",
+    "contractNo": "188",
+    "email": "gabrielacambir@yahoo.com",
+    "medicName": "CAMBIR GABRIELA",
+    "phone": "0336/808161",
+    "supplierName": "C.M.I. DR. CAMBIR GABRIELA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Aleea Gorunului, Nr. 4, Bl. S2",
+    "contractNo": "186",
+    "email": "dr_carageadan@yahoo.com",
+    "medicName": "CARAGEA DAN",
+    "phone": "0236/498563",
+    "supplierName": "C.M.I. DR. CARAGEA DAN",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Brailei, nr. 17, Complex Comercial Potcoava de Aur",
+    "contractNo": "19",
+    "email": "dr_iulia_carlan@yahoo.com",
+    "medicName": "CARLAN  IULIA",
+    "phone": "0236/311013",
+    "supplierName": "C.M.I. DR. CARLAN  IULIA",
+    "lat": 45.4327981,
+    "lng": 28.050435
+  },
+  {
+    "address": "GALATI, Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "4",
+    "email": "cavaloti_jana@yahoo.com",
+    "medicName": "CAVALIOTI JANA",
+    "phone": "0751249996      0724147725",
+    "supplierName": "C.M.I. DR. CAVALIOTI JANA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 18",
+    "contractNo": "88",
+    "email": "chinan.anton@yahoo.com",
+    "medicName": "CHINAN ANTON",
+    "phone": "0236/411301",
+    "supplierName": "C.M.I. DR. CHINAN ANTON",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI, Str.Rosiori,nr 10,bl D1,ap 25",
+    "contractNo": "367",
+    "email": "cerasela_1967@yahoo.com",
+    "medicName": "CIUBOTARU CERASELA",
+    "phone": "0236463443",
+    "supplierName": "SC CABINET MEDICAL CRISTIAN MED SRL",
+    "lat": 45.4282742,
+    "lng": 28.0487582
+  },
+  {
+    "address": "GALATI,  Str. Gorunului, Nr. 2, bl. T, sc.1, parter",
+    "contractNo": "408",
+    "email": "adriana_cocu@yahoo.com",
+    "medicName": "COCU GRATIELA",
+    "phone": "0236/418816",
+    "supplierName": "C.M.I. DR. COCU GRATIELA",
+    "lat": 45.4249224,
+    "lng": 28.0171313
+  },
+  {
+    "address": "GALATI, Str. Ghe. Doja, Nr. 9, Bl. C2, Ap. 146",
+    "contractNo": "233",
+    "email": "vcocu@email.ro",
+    "medicName": "COCU VALENTIN",
+    "phone": "0236/317677",
+    "supplierName": "C.M.I. DR. COCU VALENTIN",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. I.L. Caragiale, Nr. 13",
+    "contractNo": "100",
+    "email": "drcomanescumioara@yahoo.com",
+    "medicName": "COMANESCU MIOARA",
+    "phone": "0236/411611",
+    "supplierName": "C.M.I. DR. COMANESCU MIOARA",
+    "lat": 45.40990720000001,
+    "lng": 28.018424
+  },
+  {
+    "address": "GALATI, Str. Eroilor, Nr. 5",
+    "contractNo": "227",
+    "email": "narcisacom2005@yahoo.com",
+    "medicName": "COMANICI NARCISA CORNELIA",
+    "phone": "0236/320248",
+    "supplierName": "C.M.I. DR. COMANICI NARCISA CORNELIA",
+    "lat": 45.4402713,
+    "lng": 28.0554198
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 18",
+    "contractNo": "391",
+    "email": "mfalexcostin@yahoo.com",
+    "medicName": "COSTIN ALEXANDRA",
+    "phone": "0236/480995",
+    "supplierName": "SC AMETHIST MEDCONS SRL",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI, Str. Textilistilor, Nr. 2, Bl. B1, Ap. 84",
+    "contractNo": "225",
+    "email": "cozamarika@yahoo.com",
+    "medicName": "COZA MARIA",
+    "phone": "0236/473300     0336/433908",
+    "supplierName": "C.M.I. DR. COZA MARIA",
+    "lat": 45.4180521,
+    "lng": 28.0165238
+  },
+  {
+    "address": "GALATI, Str. 1 Decembrie 1918, nr. 12, Bl. S9D",
+    "contractNo": "222",
+    "email": "romy_cretu@yahoo.com",
+    "medicName": "CRETU DORINA STELUTA",
+    "phone": "0236/319554",
+    "supplierName": "C.M.I. DR. CRETU DORINA STELUTA",
+    "lat": 45.4467219,
+    "lng": 28.0243541
+  },
+  {
+    "address": "GALATI, Str. Eroilor, Nr.5",
+    "contractNo": "136",
+    "email": "draganlidia@yahoo.com",
+    "medicName": "DRAGAN LIDIA",
+    "phone": "0236/412719",
+    "supplierName": "C.M.I. DR. DR.AGAN LIDIA",
+    "lat": 45.4402713,
+    "lng": 28.0554198
+  },
+  {
+    "address": "GALATI, Str. Brailei, nr. 17, Complex Comercial Potcoava de Aur",
+    "contractNo": "394",
+    "email": "dragomir.gabriela14@yahoo.com",
+    "medicName": "DRAGOMIR GABRIELA",
+    "phone": "0236419058",
+    "supplierName": "C.M.I. DR. DRAGOMIR GABRIELA",
+    "lat": 45.4327981,
+    "lng": 28.050435
+  },
+  {
+    "address": "GALATI, Str. Regiment 11 Siret, Nr. 1",
+    "contractNo": "155",
+    "email": "vdugan@ugal.ro",
+    "medicName": "DUGAN OPAIT ELENA",
+    "phone": "0236/437733",
+    "supplierName": "C.M.I. DR. DUGAN OPAIT ELENA",
+    "lat": 45.426558,
+    "lng": 28.033062
+  },
+  {
+    "address": "GALATI, PCT. LUCRU Sat Blanzi, Com. Corod, Str. Brailei, nr.136C, Galati",
+    "contractNo": "328",
+    "email": "drcristina_gheonea@yahoo.com",
+    "medicName": "GHEONEA CRISTINA",
+    "phone": "0236835015",
+    "supplierName": "C.M.I. DR. GHEONEA CRISTINA",
+    "lat": 45.4290112,
+    "lng": 28.0285173
+  },
+  {
+    "address": "GALATI, Str. Ghe. Asachi, Nr. 44",
+    "contractNo": "240",
+    "email": "griuliana@yahoo.com",
+    "medicName": "GRIGORAS IULIANA",
+    "phone": "0236498807",
+    "supplierName": "C.M.I. DR. GRIGORAS IULIANA",
+    "lat": 45.4304779,
+    "lng": 28.0197415
+  },
+  {
+    "address": "GALATI, Str. Strungarilor, nr.5, bl. U1, ap.42",
+    "contractNo": "319",
+    "email": "emilia_31eml@yahoo.com",
+    "medicName": "HANTA EMILIA",
+    "phone": "0236/310135",
+    "supplierName": "C.M.I. DR. HANTA EMILIA",
+    "lat": 45.415211,
+    "lng": 28.015307
+  },
+  {
+    "address": "GALATI,  Str. Rosiori, Nr. 33",
+    "contractNo": "388",
+    "email": "",
+    "medicName": "IERIMA CLAUDIA",
+    "phone": "0236432000",
+    "supplierName": "C.M.I. DR. IERIMA CLAUDIA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Rosiori, Nr. 33",
+    "contractNo": "201",
+    "email": "renataioan@yahoo.com",
+    "medicName": "IOAN RENATA",
+    "phone": "0236438980",
+    "supplierName": "C.M.I. DR. IOAN RENATA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI,  Str. Rosiori, Nr. 33",
+    "contractNo": "205",
+    "email": "ionelaurelia@yahoo.com",
+    "medicName": "IONEL AURELIA",
+    "phone": "0236433499",
+    "supplierName": "C.M.I. DR. IONEL AURELIA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI,  Str. Aviator M. Zorileanu, Nr. 4A, Micro 40",
+    "contractNo": "379",
+    "email": "iemari@yahoo.com",
+    "medicName": "ION ENE MARILENA",
+    "phone": "0745651296",
+    "supplierName": "SC VIR SALUS SRL",
+    "lat": 45.4514345,
+    "lng": 28.0246854
+  },
+  {
+    "address": "GALATI, Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "12",
+    "email": "juladana@yahoo.com",
+    "medicName": "JULA LILIANA",
+    "phone": "0336114256",
+    "supplierName": "C.M.I. DR. JULA LILIANA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI,  Str. Eroilor, Nr. 5",
+    "contractNo": "291",
+    "email": "brindusalovin@yahoo.com",
+    "medicName": "LOVIN BRINDUSA",
+    "phone": "0236463514",
+    "supplierName": "C.M.I. DR. LOVIN BRINDUSA",
+    "lat": 45.4402713,
+    "lng": 28.0554198
+  },
+  {
+    "address": "GALATI,  Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "31",
+    "email": "manolelau@yahoo.com",
+    "medicName": "MANOLE LAURA",
+    "phone": "0336104432",
+    "supplierName": "C.M.I. DR. MANOLE LAURA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI,  Str. Ionel Fernic, Nr. 8",
+    "contractNo": "248",
+    "email": "marasescu_d@yahoo.com",
+    "medicName": "MARASESCU DUMITRU",
+    "phone": "0236328112",
+    "supplierName": "C.M.I. DR. MARASESCU DUMITRU",
+    "lat": 45.452396,
+    "lng": 28.01947
+  },
+  {
+    "address": "GALATI,  Str. Nicolae Balcescu, Nr. 32,BL B,ap1",
+    "contractNo": "249",
+    "email": "marasescu_maricica@yahoo.com",
+    "medicName": "MARASESCU MARICICA",
+    "phone": "0236413461",
+    "supplierName": "C.M.I. DR. MARASESCU MARICICA",
+    "lat": 45.4359151,
+    "lng": 28.0534246
+  },
+  {
+    "address": "GALATI, Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "64",
+    "email": "dr.rodicamardare@yahoocom",
+    "medicName": "MARDARE RODICA MARLENA",
+    "phone": "0236492551",
+    "supplierName": "C.M.I. DR. MARDARE RODICA MARLENA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI,  Str. Gheorghe Asachi, Nr. 44",
+    "contractNo": "267",
+    "email": "carmenmarian2000@yahoo.com",
+    "medicName": "MARIAN CARMEN MIRELA",
+    "phone": "0236490402",
+    "supplierName": "C.M.I. DR. MARIAN CARMEN MIRELA",
+    "lat": 45.44920399999999,
+    "lng": 28.0285006
+  },
+  {
+    "address": "GALATI, Str. Regiment 11 Siret, Nr. 1",
+    "contractNo": "339",
+    "email": "cosmin.marian1981@yahoo.com",
+    "medicName": "MARIAN COSMIN FLAVIUS",
+    "phone": "0236310336",
+    "supplierName": "C.M.I. DR. MARIAN COSMIN FLAVIUS",
+    "lat": 45.426558,
+    "lng": 28.033062
+  },
+  {
+    "address": "GALATI, Str. Rosiori, Nr. 33",
+    "contractNo": "204",
+    "email": "dr_monica_matei@yahoo.com",
+    "medicName": "MATEI MONICA",
+    "phone": "0236437342",
+    "supplierName": "C.M.I. DR. MATEI MONICA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Av. Mircea Zorileanu, Nr. 4A",
+    "contractNo": "383",
+    "email": "beatricecristian@yahoo.com",
+    "medicName": "CRISTIAN BEATRICE",
+    "phone": "0754778766",
+    "supplierName": "SC CARLETA MERLAN MED SRL",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI,  Str. Domneasca, Nr. 69, bl. A, parter",
+    "contractNo": "315",
+    "email": "dr.mihaelamesesan@gmail.com",
+    "medicName": "MESESAN MIHAELA",
+    "phone": "0729103095",
+    "supplierName": "C.M.I. DR. MESESAN MIHAELA",
+    "lat": 45.4424416,
+    "lng": 28.0551399
+  },
+  {
+    "address": "GALATI,  Str.Oltului,nr 25,bl B20,AP3",
+    "contractNo": "301",
+    "email": "minerva.mihailescu@yahoo.com",
+    "medicName": "MIHAILESCU MIHAELA MINERVA",
+    "phone": "0236432457",
+    "supplierName": "C.M.I. DR. MIHAILESCU MIHAELA MINERVA",
+    "lat": 45.4203517,
+    "lng": 28.0154638
+  },
+  {
+    "address": "GALATI, Str. Gorunului, Nr. 4, Bl. S2",
+    "contractNo": "184",
+    "email": "cabmed_dr_mihalache_maria@yahoo.com",
+    "medicName": "MIHALACHE MARIA",
+    "phone": "0336802383",
+    "supplierName": "C.M.I. DR. MIHALACHE MARIA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI,  Str. NAE Leonard ,nr.30, bl S9, sc. 1-2, parter",
+    "contractNo": "389",
+    "email": "panghecarmenrodica@yahoo.com",
+    "medicName": "PANGHE CARMEN RODICA",
+    "phone": "0236420017",
+    "supplierName": "SC OPTIM LIFE FAMILY SRL",
+    "lat": 45.4462289,
+    "lng": 28.0294945
+  },
+  {
+    "address": "GALATI,  Str. NAE Leonard ,nr.30, bl S9, sc. 1-2, parter",
+    "contractNo": "409",
+    "email": "diana.savin@gmail.com",
+    "medicName": "SAVIN DIANA ALEXANDRA",
+    "phone": "0236325010",
+    "supplierName": "SC FAMILY PRACTICE 101 SRL",
+    "lat": 45.4462289,
+    "lng": 28.0294945
+  },
+  {
+    "address": "GALATI,  Str. Gorunului, Nr. 2, bl T, Micro 17",
+    "contractNo": "244",
+    "email": "ps_teodor@yahoo.com",
+    "medicName": "MOCANU AURSULESEI ECATERINA",
+    "phone": "0236416178",
+    "supplierName": "C.M.I. DR. MOCANU AURSULESEI ECATERINA",
+    "lat": 45.4249224,
+    "lng": 28.0171313
+  },
+  {
+    "address": "GALATI, Str. Brailei, nr.17, Complex Comercial Potcoava de Aur",
+    "contractNo": "243",
+    "email": "ps_teodor@yahoo.com",
+    "medicName": "MOCANU AURSULESEI TEODOR",
+    "phone": "0236327720",
+    "supplierName": "C.M.I. DR. MOCANU AURSULESEI TEODOR",
+    "lat": 45.4327981,
+    "lng": 28.050435
+  },
+  {
+    "address": "GALATI,  Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "106",
+    "email": "munteanumariana@yahoo.com",
+    "medicName": "MUNTEANU MARIANA",
+    "phone": "0336401196",
+    "supplierName": "C.M.I. DR. MUNTEANU MARIANA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI,  Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "323",
+    "email": "doina_muntenita@yahoo.com",
+    "medicName": "MUNTENITA DOINA",
+    "phone": "0236322584",
+    "supplierName": "C.M.I. DR. MUNTENITA DOINA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI, Str. Oltului, Nr. 28, Bl. I1B, Ap. 22",
+    "contractNo": "21",
+    "email": "nicolauecaterina@yahoo.com",
+    "medicName": "NICOLAU  ECATERINA",
+    "phone": "0236464645",
+    "supplierName": "C.M.I. DR. NICOLAU ECATERINA",
+    "lat": 45.4217129,
+    "lng": 28.017754
+  },
+  {
+    "address": "GALATI, Str. Rosiori, Nr. 33",
+    "contractNo": "281",
+    "email": "mara_oq@yahoo.com",
+    "medicName": "OCHIU MARIANA IRINA",
+    "phone": "0236319533",
+    "supplierName": "C.M.I. DR. OCHIU MARIANA IRINA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Gorunului, Nr. 4, Bl. S2",
+    "contractNo": "151",
+    "email": "gabriela_paduraru@yahoo.com",
+    "medicName": "PADURARU GABRIELA LARISA",
+    "phone": "0236481360",
+    "supplierName": "C.M.I. DR. PADURARU GABRIELA LARISA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Domneasca, nr.77",
+    "contractNo": "112",
+    "email": "padurarumarianamonica@yahoo.com",
+    "medicName": "PADURARU MARIANA",
+    "phone": "0236424548",
+    "supplierName": "C.M.I. DR. PADURARU MARIANA",
+    "lat": 45.44316509999999,
+    "lng": 28.0556784
+  },
+  {
+    "address": "GALATI, Str. Aviator M. Zorileanu, Nr. 4, Micro 40",
+    "contractNo": "165",
+    "email": "parnutarodica@yahoo.com",
+    "medicName": "PARNUTA MARIANA RODICA",
+    "phone": "0236321536",
+    "supplierName": "C.M.I. DR. PARNUTA MARIANA RODICA",
+    "lat": 45.4514345,
+    "lng": 28.0246854
+  },
+  {
+    "address": "GALATI, Str. Ion Luca Caragiale, Nr.13",
+    "contractNo": "310",
+    "email": "denisapatriche@yahoo.com",
+    "medicName": "PATRICHE MAGDALENA DENISA",
+    "phone": "0236/842093",
+    "supplierName": "C.M.I. DR. PATRICHE MAGDALENA DENISA",
+    "lat": 45.4319007,
+    "lng": 28.0468778
+  },
+  {
+    "address": "GALATI,  Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "37",
+    "email": "doctorpavel2012@yahoo.com",
+    "medicName": "PAVEL LILIANA",
+    "phone": "0236473800",
+    "supplierName": "C.M.I. DR. PAVEL LILIANA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 18",
+    "contractNo": "270",
+    "email": "anapelin@gmail.com",
+    "medicName": "PELIN ANA-MARIA",
+    "phone": "0236431136",
+    "supplierName": "C.M.I. DR. PELIN ANA MARIA",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI, Str. 1 Decembrie 1918, Nr. 10, Bl. S9D",
+    "contractNo": "293",
+    "email": "Petrea_Camil2000@yahoo.com",
+    "medicName": "PETRE GEORGE CAMIL",
+    "phone": "0771046648",
+    "supplierName": "C.M.I. DR. PETREA GEORGE CAMIL",
+    "lat": 45.4437607,
+    "lng": 28.0226885
+  },
+  {
+    "address": "GALATI,  Str. Eroilor, Nr.5",
+    "contractNo": "52",
+    "email": "petreaargentina@yahoo.com",
+    "medicName": "PETREA RODICA ARGENTINA",
+    "phone": "0236492788",
+    "supplierName": "C.M.I. DR. PETREA RODICA ARGENTINA",
+    "lat": 45.4402713,
+    "lng": 28.0554198
+  },
+  {
+    "address": "GALATI,  Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "33",
+    "email": "carmen_piti2001@yahoo.com",
+    "medicName": "PITIC CARMEN MINODORA",
+    "phone": "0236314457",
+    "supplierName": "C.M.I. DR. PITIC CARMEN MINODORA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI,  Str. Eroilor, Nr.5",
+    "contractNo": "311",
+    "email": "nutionofrei@yahoocom",
+    "medicName": "PLESA-ONOFREI NICULITA",
+    "phone": "0236417030",
+    "supplierName": "C.M.I. DR. PLESA-ONOFREI NICULITA",
+    "lat": 45.4402713,
+    "lng": 28.0554198
+  },
+  {
+    "address": "GALATI,  Str. Ionel Fernic, Nr. 8",
+    "contractNo": "258",
+    "email": "aliaplesea@yahoo.com",
+    "medicName": "PLESEA CONDRATOVICI ALINA",
+    "phone": "0336881293",
+    "supplierName": "C.M.I. DR. PLESEA CONDR.ATOVICI ALINA",
+    "lat": 45.452396,
+    "lng": 28.01947
+  },
+  {
+    "address": "GALATI, Str. Aviator M. Zorileanu, Nr. 4, Micro 40",
+    "contractNo": "76",
+    "email": "zinicapopescu@gmail.com",
+    "medicName": "POPESCU ZINICA",
+    "phone": "0236316635",
+    "supplierName": "C.M.I. DR. POPESCU ZINICA",
+    "lat": 45.4514345,
+    "lng": 28.0246854
+  },
+  {
+    "address": "GALATI, Str. Ion Luca Caragiale, Nr.13",
+    "contractNo": "75",
+    "email": "preda_valerica@yahoo.com",
+    "medicName": "PREDA VALERICA",
+    "phone": "0236465280",
+    "supplierName": "C.M.I. DR. PREDA VALERICA",
+    "lat": 45.4319007,
+    "lng": 28.0468778
+  },
+  {
+    "address": "GALATI,  Str. Aviator M. Zorileanu, Nr. 4, Micro 40",
+    "contractNo": "276",
+    "email": "cris2oana@yahoo.com",
+    "medicName": "PRICOP SCINTEI OANA",
+    "phone": "0236488277",
+    "supplierName": "C.M.I. DR. PRICOP SCINTEI OANA",
+    "lat": 45.4514345,
+    "lng": 28.0246854
+  },
+  {
+    "address": "GALATI,  B-dul. Dunarea, Nr. 23, Bl. D8, Sc. 2, Ap. 39",
+    "contractNo": "374",
+    "email": "anca_doc@yahoo.com",
+    "medicName": "PROFIR ANCA",
+    "phone": "0236432611",
+    "supplierName": "SC CABINET MEDICAL DR. PROFIR ANCA SRL-D",
+    "lat": 44.4341379,
+    "lng": 26.1019915
+  },
+  {
+    "address": "GALATI,  B-dul. Dunarea, Nr. 23, Bl. D8, Sc. 2, Ap. 39",
+    "contractNo": "375",
+    "email": "elim_medical@yahoo.com",
+    "medicName": "PROFIR LIVIU",
+    "phone": "0236432611",
+    "supplierName": "SC CABINET MEDICAL DR. PROFIR LIVIU SRL",
+    "lat": 44.4341379,
+    "lng": 26.1019915
+  },
+  {
+    "address": "GALATI,  Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "387",
+    "email": "biomedicalclinique@yahoo.com",
+    "medicName": "RATA IAMANDICA",
+    "phone": "0236479421",
+    "supplierName": "SC BIOMEDICAL CLINIQUE SRL",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI, Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "387",
+    "email": "biomedicalclinique@yahoo.com",
+    "medicName": "FOLEA  MIHAELA",
+    "phone": "0236416570",
+    "supplierName": "SC BIOMEDICAL CLINIQUE SRL",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI, Str. Brailei, Nr. 236, Bl. E6",
+    "contractNo": "3",
+    "email": "doina_ringheanu@yahoo.com",
+    "medicName": "RINGHEANU DOINA",
+    "phone": "0236467004",
+    "supplierName": "C.M.I. DR. RINGHEANU DOINA",
+    "lat": 45.416123,
+    "lng": 28.010603
+  },
+  {
+    "address": "GALATI, Str. Moruzzi, Nr. 5-7",
+    "contractNo": "321",
+    "email": "alx1dec80@yahoo.com",
+    "medicName": "ROPOTAN ALEXANDRA",
+    "phone": "0236/497909",
+    "supplierName": "C.M.I. DR. ROPOTAN ALEXANDR.A",
+    "lat": 45.4391325,
+    "lng": 28.061772
+  },
+  {
+    "address": "GALATI ,  Str. Rosiori, Nr. 33",
+    "contractNo": "202",
+    "email": "maria.ghelase@gmail.com",
+    "medicName": "GHELASE  MARIA",
+    "phone": "0236438888",
+    "supplierName": "C.M.I. DR.GHELASE  MARIA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI ,  Str. Regiment 11 Siret, Nr. 1",
+    "contractNo": "82",
+    "email": "rodica_gheorghiu@yahoo.com",
+    "medicName": "GHEORGHIU RODICA",
+    "phone": "0236316572",
+    "supplierName": "C.M.I. DR.GHEORGHIU RODICA",
+    "lat": 45.426558,
+    "lng": 28.033062
+  },
+  {
+    "address": "GALATI , Str. 1 Decembrie 1918, Bl. S9D",
+    "contractNo": "50",
+    "email": "golieanum@yahoo.com",
+    "medicName": "GOLIEANU MADALINA",
+    "phone": "0236315876",
+    "supplierName": "C.M.I. DR.GOLIEANU MADALINA",
+    "lat": 45.4450058,
+    "lng": 28.0230887
+  },
+  {
+    "address": "GALATI , Str. Brailei, nr. 17, Complex Comercial Potcoava de Aur",
+    "contractNo": "214",
+    "email": "grcdoina@yahoo.com;grcdoina@gmail.com",
+    "medicName": "GRECU DOINA",
+    "phone": "0236490334",
+    "supplierName": "C.M.I. DR.GRECU DOINA",
+    "lat": 45.4327981,
+    "lng": 28.050435
+  },
+  {
+    "address": "GALATI ,  Str. Saturn, Nr. 18",
+    "contractNo": "53",
+    "email": "vivi_ana_anca@yahoo.com",
+    "medicName": "IORGA VIVIANA ANCA",
+    "phone": "0236472424",
+    "supplierName": "C.M.I. DR.IORGA VIVIANA ANCA",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI , Str. Macedona, nr. 16, Complex Comercial \"Continental",
+    "contractNo": "390",
+    "email": "auroraterzi15@gmail.com",
+    "medicName": "TERZI AURORA",
+    "phone": "0236493363",
+    "supplierName": "C.M.I. TERZI AURORA",
+    "lat": 45.4276741,
+    "lng": 28.0167734
+  },
+  {
+    "address": "GALATI, Str. Moruzzi, Nr. 5-7, pct. lucru com. Valea Marului",
+    "contractNo": "330",
+    "email": "cmidr.ramonapasat@yahoo.com",
+    "medicName": "PASAT RAMONA",
+    "phone": "0725940094",
+    "supplierName": "C.M.I. DR. PASAT RAMONA",
+    "lat": 45.4391325,
+    "lng": 28.061772
+  },
+  {
+    "address": "GALATI, Str. Gorunului, Nr. 2, bl T, scara 1",
+    "contractNo": "101",
+    "email": "sandu_corina_viorica@yahoo.com",
+    "medicName": "SANDU CORINA VIORICA",
+    "phone": "0236415470",
+    "supplierName": "C.M.I. DR.SANDU CORINA VIORICA",
+    "lat": 45.4249224,
+    "lng": 28.0171313
+  },
+  {
+    "address": "GALATI, Str. Brailei,Nr.17, Complex Potcoava de Aur",
+    "contractNo": "306",
+    "email": "george_sava2006@yahoo.com",
+    "medicName": "SAVA GEORGE",
+    "phone": "0263471027",
+    "supplierName": "C.M.I. DR.SAVA GEORGE",
+    "lat": 45.4327393,
+    "lng": 28.05148
+  },
+  {
+    "address": "GALATI, Str. Regiment 11 Siret, Nr. 1",
+    "contractNo": "384",
+    "email": "dr.monica.solomon@gmail.com",
+    "medicName": "SOLOMON MONICA",
+    "phone": "0236430340",
+    "supplierName": "SC MEDFAM SOLOMON SRL",
+    "lat": 45.426558,
+    "lng": 28.033062
+  },
+  {
+    "address": "GALATI, Str. Brailei, Nr.80,Bl.BR4B,Ap.1",
+    "contractNo": "111",
+    "email": "soproncu@yahoo.com",
+    "medicName": "SOPRONCU IULIA",
+    "phone": "0236325844",
+    "supplierName": "C.M.I. DR.SOPRONCU IULIA",
+    "lat": 45.4307221,
+    "lng": 28.0448609
+  },
+  {
+    "address": "GALATI, Str. Eroilor, Nr. 5",
+    "contractNo": "219",
+    "email": "dr.stananisoara@yahoo.com",
+    "medicName": "STAN ANISOARA",
+    "phone": "0236493983",
+    "supplierName": "C.M.I. DR.STAN ANISOARA",
+    "lat": 45.4402713,
+    "lng": 28.0554198
+  },
+  {
+    "address": "GALATI, Str. Gorunului, Nr. 4, Bl. S2",
+    "contractNo": "187",
+    "email": "cabmedtaftaluminita@yahoo.com",
+    "medicName": "TAFTA LUMINITA",
+    "phone": "0236467410",
+    "supplierName": "C.M.I. DR.TAFTA LUMINITA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 18",
+    "contractNo": "239",
+    "email": "medfelicia@yahoo.com",
+    "medicName": "TAMAS FELICIA",
+    "phone": "0236410042",
+    "supplierName": "C.M.I. DR.TAMAS FELICIA",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI, Str. Democratiei, Nr. 32",
+    "contractNo": "210",
+    "email": "dr_carmen_tanase@yahoo.com",
+    "medicName": "TANASE CARMEN",
+    "phone": "0236499983",
+    "supplierName": "C.M.I. DR.TANASE CARMEN",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI , Str. 1 Decembrie 1918, Bl. S9D",
+    "contractNo": "297",
+    "email": "grig.ioana 78@yahoo.com",
+    "medicName": "TANASESCU IOANA IULIANA",
+    "phone": "0236495551",
+    "supplierName": "C.M.I. DR.TANASESCU IOANA IULIANA",
+    "lat": 45.4450058,
+    "lng": 28.0230887
+  },
+  {
+    "address": "GALATI, Str. Roşiori, Nr. 33",
+    "contractNo": "212",
+    "email": "geta.teodorescu@gmail.com",
+    "medicName": "TEODORESCU GEORGETA EVELINA",
+    "phone": "0236499728",
+    "supplierName": "C.M.I. DR.TEODORESCU GEORGETA EVELINA",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Furnalisrilor, nr. 16, Bl. J8, ap. 22",
+    "contractNo": "362",
+    "email": "toader_norica@yahoo.com",
+    "medicName": "TOADER NORICA",
+    "phone": "0236465091",
+    "supplierName": "SC NORIMED TN SRL",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 18",
+    "contractNo": "48",
+    "email": "ungurianudanielas@yahoo.com",
+    "medicName": "UNGURIANU DANIELA",
+    "phone": "0236411301",
+    "supplierName": "C.M.I. DR.UNGURIANU DANIELA",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 18",
+    "contractNo": "189",
+    "email": "urechedragosi@yahoo.com",
+    "medicName": "URECHE TITA",
+    "phone": "0236480995",
+    "supplierName": "C.M.I. DR.URECHE TITA",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI, Str. Otelarilor, nr. 33, bl. H9, ap. 61",
+    "contractNo": "348",
+    "email": "vasilache_florentina@yahoo.com",
+    "medicName": "VASILACHE FLORENTINA",
+    "phone": "0336401925",
+    "supplierName": "C.M.I. DR. VASILACHE FLORENTINA",
+    "lat": 45.4149159,
+    "lng": 28.0100639
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 18",
+    "contractNo": "28",
+    "email": "vasiletanta@yahoo.com",
+    "medicName": "VASILE CONSTANŢA",
+    "phone": "0236410042",
+    "supplierName": "C.M.I. DR.VASILE CONSTANŢA",
+    "lat": 45.42425799999999,
+    "lng": 28.0285449
+  },
+  {
+    "address": "GALATI, Str. Aviator M. Zorileanu, Nr. 4A, Micro 40",
+    "contractNo": "58",
+    "email": "lumi_s_s70@yahoo.com",
+    "medicName": "VLAD LUMINITA STEFANIA",
+    "phone": "0236462230",
+    "supplierName": "C.M.I. DR.VLAD LUMINITA STEFANIA",
+    "lat": 45.4514345,
+    "lng": 28.0246854
+  },
+  {
+    "address": "GALATI, Str. Regiment 11 Siret, Nr. 1, Bl. E1, Ap. 22",
+    "contractNo": "357",
+    "email": "anyghinoiu@yahoo.com",
+    "medicName": "NICOLAE ANY MAGDALENA",
+    "phone": "0771260048",
+    "supplierName": "C.M.I. DR. NICOLAE ANY MAGDALENA",
+    "lat": 45.426558,
+    "lng": 28.033062
+  },
+  {
+    "address": "GALATI, Str. Saturn, Nr. 4, Bl. C2, Ap. 24",
+    "contractNo": "160",
+    "email": "officeavicenna@yahoo.com",
+    "medicName": "BALAUTA LUCIA",
+    "phone": "0236/312944",
+    "supplierName": "S.C. AVICENNA S.R.L.",
+    "lat": 45.4261861,
+    "lng": 28.0286549
+  },
+  {
+    "address": "GALATI , Str. Traian Vuia nr.2, bloc L 2, ap. 21",
+    "contractNo": "289",
+    "email": "soscentrumedical@clicknet.ro",
+    "medicName": "STAN LOUANNA MARIANA",
+    "phone": "0236460872",
+    "supplierName": "SC ACTUAL MEDICA LMS SRL",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI,  Str Siderurgistilor, Nr. 40, Bl. M5, Ap. 110",
+    "contractNo": "157",
+    "email": "scgrantlmbsrl94@tahoo.com",
+    "medicName": "IONESCU MARIANA VOICHITA",
+    "phone": "0236412741",
+    "supplierName": "SC GRANT LMB SRL",
+    "lat": 45.440543,
+    "lng": 28.022415
+  },
+  {
+    "address": "GALATI, Str. Victor Vilcovici nr.22A",
+    "contractNo": "278",
+    "email": "soscentrumedical@clicknet.ro",
+    "medicName": "STAN MIHAIL",
+    "phone": "0236314540",
+    "supplierName": "SC SOS CENTRUL MEDICAL SRL",
+    "lat": 45.412287,
+    "lng": 28.016788
+  },
+  {
+    "address": "GALATI, Str. Oltului, Nr. 34, Bl. I6A, Ap. 21",
+    "contractNo": "336",
+    "email": "cabinet.dumitru.georgeta@gmail.com",
+    "medicName": "DUMITRU  GEORGETA",
+    "phone": "0236/466968",
+    "supplierName": "SC MED FAM FENYX",
+    "lat": 45.426317,
+    "lng": 28.017444
+  },
+  {
+    "address": "GALATI, Str. Nicolae Holban, Nr. 7",
+    "contractNo": "338",
+    "email": "sarbustanca@yahoo.com",
+    "medicName": "SIRBU PATRASCUTA STANCA",
+    "phone": "0236460733",
+    "supplierName": "SC MED PRIVAT SPS SRL",
+    "lat": 45.4390918,
+    "lng": 28.0524117
+  },
+  {
+    "address": "GALATI, Str. Otelarilor, nr. 33, bl. H9, ap. 61",
+    "contractNo": "342",
+    "email": "cabinetmedicaid@yahoo.com",
+    "medicName": "GRECOV SEBASTIAN ALEXANDRU",
+    "phone": "0336401887",
+    "supplierName": "SC MEDICAID1 SRL",
+    "lat": 45.4149159,
+    "lng": 28.0100639
+  },
+  {
+    "address": "GALATI, Str. Ghe. Asachi, Nr. 11A",
+    "contractNo": "378",
+    "email": "crianamaria@yahoo.com",
+    "medicName": "IOFCEA CRISTINA ANA MARIA",
+    "phone": "0236460005",
+    "supplierName": "SC DR CRISTINA IOFCEA SRL",
+    "lat": 44.4249881,
+    "lng": 26.0368493
+  },
+  {
+    "address": "GALATI, Str. Brailei, Complex Comercial \"Potcoava de aur\", Nr. 17",
+    "contractNo": "356",
+    "email": "dr_anghel@yahoo.com",
+    "medicName": "ANGHEL NICOLETA",
+    "phone": "0236316360",
+    "supplierName": "SC ECOHOMEOPATIE SRL",
+    "lat": 45.4327981,
+    "lng": 28.050435
+  },
+  {
+    "address": "GALATI  , Str. Brailei, nr. 17, Complex Comercial Potcoava de Aur",
+    "contractNo": "344",
+    "email": "praxis_dv@yahoo.com",
+    "medicName": "VASILIU DOINA",
+    "phone": "0236321132",
+    "supplierName": "SC VASIMED CLINIC SRL",
+    "lat": 45.4327981,
+    "lng": 28.050435
+  },
+  {
+    "address": "GALATI, Str. Crinului, nr.23",
+    "contractNo": "396",
+    "email": "office@expert-med.ro",
+    "medicName": "AMARINE DANIELA",
+    "phone": "0236316165",
+    "supplierName": "SC EXPERT MED CENTRUL MEDICAL IRINA SRL",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Traian, nr. 136, Piata Centrala, Corp adiacent, bl. A3, sc.2, parter si etaj; Pct. Lucru str. Brailei, nr. 196, bl B3A-B3B, parter",
+    "contractNo": "399",
+    "email": "office@pro-clinic.ro",
+    "medicName": "DEJU MARIA",
+    "phone": "03360912; 0236466968",
+    "supplierName": "SC PROCLINIC FOR LIFE SRL",
+    "lat": 45.44058,
+    "lng": 28.0483399
+  },
+  {
+    "address": "GALATI, Pct. Lucru str. Brailei, nr. 196, Micro19, bl B3A-B3B, parter",
+    "contractNo": "399",
+    "email": "office@pro-clinic.ro",
+    "medicName": "TUDOROAEA CRISTINA-MIHAELA",
+    "phone": "0336912; 0236466968",
+    "supplierName": "SC PROCLINIC FOR LIFE SRL",
+    "lat": 45.419923,
+    "lng": 28.017751
+  },
+  {
+    "address": "GALATI, Str. Brailei, nr.17, Complex Comercial Potcoava de Aur",
+    "contractNo": "405",
+    "email": "silviu.rolea@yahoo.com",
+    "medicName": "ROLEA SILVIU",
+    "phone": "",
+    "supplierName": "SC CABINET ROLEAMED SRL",
+    "lat": 45.4327981,
+    "lng": 28.050435
+  },
+  {
+    "address": "GALATI, Str. Tineretului, nr. 16A, bl. LG2",
+    "contractNo": "406",
+    "email": "daniel.antohe@medicover.ro",
+    "medicName": "TUDOSA IULIA-TAMARA",
+    "phone": "0336/101399; 0336/107854",
+    "supplierName": "SC MEDICOVER SRL",
+    "lat": 45.4353208,
+    "lng": 28.0079945
+  },
+  {
+    "address": "GALATI, Str. Otelarilor, Nr.33, bl.H9,Sc,2, Ap.24, parter",
+    "contractNo": "407",
+    "email": "bezman_narcisa@yahoo.com",
+    "medicName": "BEZMAN MARIA NARCISA",
+    "phone": "0236/410511",
+    "supplierName": "SC MED NARCISA SRL",
+    "lat": 45.4149159,
+    "lng": 28.0100639
+  },
+  {
+    "address": "TECUCI, Str. Aleea Strandului, Nr. 6",
+    "contractNo": "337",
+    "email": "cmi.vulpoiada@clicknet.ro",
+    "medicName": "VULPOI ADALGIZA",
+    "phone": "0236813909;0336143281",
+    "supplierName": "SC ADALGIZA ANCAMED SRL",
+    "lat": 45.8384143,
+    "lng": 27.434056
+  },
+  {
+    "address": "TECUCI, Str. Aleea Matei Basarab, Nr. 12",
+    "contractNo": "347",
+    "email": "rodica.morozan@yahoo.com",
+    "medicName": "MOROZAN MARIA RODICA",
+    "phone": "0766818282",
+    "supplierName": "SC RODIMED CLINIC SRL",
+    "lat": 45.8385729,
+    "lng": 27.423325
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, nr. 29",
+    "contractNo": "105",
+    "email": "liliana_basalic@yahoo.com",
+    "medicName": "BASALIC LILIANA",
+    "phone": "0236/864112",
+    "supplierName": "C.M.I. DR. BASALIC LILIANA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "178",
+    "email": "botez.ionica@gmail.com",
+    "medicName": "BOTEZ IONICA",
+    "phone": "0236/811690",
+    "supplierName": "C.M.I. DR. BOTEZ IONICA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "149",
+    "email": "doinagbusila@yahoo.com",
+    "medicName": "BUSILA DOINA GABRIELA",
+    "phone": "0236/811357",
+    "supplierName": "C.M.I. DR. BUSILA DOINA GABRIELA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "Sat Cosmesti Vale, Com. Cosmesti, Str. 1 Decembrie 1918, nr. 29",
+    "contractNo": "303",
+    "email": "mirela_butunoi@yahoo.com",
+    "medicName": "BUTUNOI MIRELA MIHAELA",
+    "phone": "0761498836",
+    "supplierName": "C.M.I. DR. BUTUNOI MIRELA MIHAELA",
+    "lat": 45.8694555,
+    "lng": 27.3107783
+  },
+  {
+    "address": "Nicoresti, C.M.I.Str. 1 Decembrie 1918, nr. 29",
+    "contractNo": "56",
+    "email": "lcarmenchiriac@yahoo.com",
+    "medicName": "CHIRIAC LILIANA CARMEN",
+    "phone": "0236/836665",
+    "supplierName": "C.M.I. DR. CHIRIAC LILIANA CARMEN",
+    "lat": 44.4417123,
+    "lng": 26.1122112
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "215",
+    "email": "condrache.rozalina@yahoo.com",
+    "medicName": "CONDRACHE ROSALINA LAURA",
+    "phone": "0236/820340",
+    "supplierName": "C.M.I. DR. CONDR.ACHE ROSALINA LAURA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "44",
+    "email": "corcobee@yahoo.com",
+    "medicName": "CRISTEA CORNELIA",
+    "phone": "0236/812620",
+    "supplierName": "C.M.I. DR. CRISTEA CORNELIA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "217",
+    "email": "cristinacucoanes@yahoo.com",
+    "medicName": "CUCOANES CRISTINA",
+    "phone": "0236/813035",
+    "supplierName": "C.M.I. DR. CUCOANES CRISTINA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. Ana Ipatescu, Nr. 86",
+    "contractNo": "67",
+    "email": "buligavirginia@yahoo.com",
+    "medicName": "GROSU VIRGINIA",
+    "phone": "0236/820783",
+    "supplierName": "C.M.I. DR. GROSU VIRGINIA",
+    "lat": 45.8346867,
+    "lng": 27.4046266
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "67",
+    "email": "buligavirginia@yahoo.com",
+    "medicName": "GROSU VIRGINIA",
+    "phone": "0236/820783",
+    "supplierName": "C.M.I. DR. GROSU VIRGINIA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI,  Str. Transilvaniei, Nr. 36, cab. 6",
+    "contractNo": "377",
+    "email": "cmianutagroza@yahoo.com",
+    "medicName": "GROZA ANUTA",
+    "phone": "0236819407",
+    "supplierName": "SC SERALES TEAM 70 SRL",
+    "lat": 45.8490923,
+    "lng": 27.4241268
+  },
+  {
+    "address": "TECUCI,  Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "66",
+    "email": "mariana_cmi@yahoo.com",
+    "medicName": "HULEA MARIANA",
+    "phone": "0236820283",
+    "supplierName": "C.M.I. DR. HULEA MARIANA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. Aleea Strandului, Nr. 6",
+    "contractNo": "34",
+    "email": "rodi_idor@yahoo.com",
+    "medicName": "IDOR RODICA",
+    "phone": "0236815520",
+    "supplierName": "C.M.I. DR. IDOR RODICA",
+    "lat": 45.8384143,
+    "lng": 27.434056
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "175",
+    "email": "gerard 633@yahoo.com",
+    "medicName": "NIAGU OANA ANCA",
+    "phone": "0236820290",
+    "supplierName": "C.M.I. DR. NIAGU OANA ANCA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI,  Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "174",
+    "email": "raulucianovidiu@yahoo.com",
+    "medicName": "RAU MIRELA",
+    "phone": "0236814191",
+    "supplierName": "C.M.I. DR. RAU MIRELA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI,  Str. Cpt. Gh. Decuseară, nr.6, bloc F1, ap.1",
+    "contractNo": "209",
+    "email": "glod_madelina@yahoo.com",
+    "medicName": "GLOD MADELINA",
+    "phone": "0336566966",
+    "supplierName": "C.M.I. DR.GLOD MADELINA",
+    "lat": 45.8490923,
+    "lng": 27.4241268
+  },
+  {
+    "address": "TECUCI, Str. Aleea Strandului, Nr. 6",
+    "contractNo": "36",
+    "email": "florirosu2007@yahoo.com",
+    "medicName": "ROSU APOSTOLEANU FLORICA",
+    "phone": "0236815520",
+    "supplierName": "C.M.I. DR.ROSU APOSTOLEANU FLORICA",
+    "lat": 45.8384143,
+    "lng": 27.434056
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "27",
+    "email": "drsarpestela@yahoo.com",
+    "medicName": "SARPE STELA",
+    "phone": "0236818330",
+    "supplierName": "C.M.I. DR.SARPE STELA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "45",
+    "email": "claudiuchiriac@yahoo.com;scutariuliliana@yahoo.com",
+    "medicName": "SCUTARIU LILIANA CARMEN",
+    "phone": "0236819201",
+    "supplierName": "C.M.I. DR.SCUTARIU LILIANA CARMEN",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "TECUCI, Str. 1 Decembrie 1918, Nr. 29",
+    "contractNo": "176",
+    "email": "silviavoicu@gmail.com",
+    "medicName": "VOICU SILVIA",
+    "phone": "0236820290",
+    "supplierName": "C.M.I. DR.VOICU SILVIA",
+    "lat": 45.8357944,
+    "lng": 27.4377315
+  },
+  {
+    "address": "Jorasti,  Str. Ghe. Buzoianu, Nr. 13",
+    "contractNo": "259",
+    "email": "darie.carmen@yahoo.com",
+    "medicName": "DARIE CARMEN DANIELA",
+    "phone": "0236/340234",
+    "supplierName": "C.M.I. DR. DARIE CARMEN DANIELA",
+    "lat": 45.99183720000001,
+    "lng": 27.8694339
+  },
+  {
+    "address": "TARGU BUJOR,  Str. Ghe. Buzoianu, Nr. 13",
+    "contractNo": "128",
+    "email": "yvonne.muha@gmail.com",
+    "medicName": "MUHA YVONNE IRINEL",
+    "phone": "0236340464",
+    "supplierName": "C.M.I. DR. MUHA YVONNE IRINEL",
+    "lat": 45.8740128,
+    "lng": 27.9162254
+  },
+  {
+    "address": "TARGU BUJOR,  Str. Ghe. Buzoianu, Nr. 13",
+    "contractNo": "246",
+    "email": "cmidr.pleseacatalin@gmail.com",
+    "medicName": "PLESEA CONDRATOVICI CATALIN",
+    "phone": "0236341437",
+    "supplierName": "C.M.I. DR. PLESEA CONDR.ATOVICI CATALIN",
+    "lat": 45.8740128,
+    "lng": 27.9162254
+  },
+  {
+    "address": "COM. BALENI,",
+    "contractNo": "332",
+    "email": "cahul2012@gmail.com",
+    "medicName": "CAPRITA GHENADIE",
+    "phone": "0757872812",
+    "supplierName": "C.M.I. DR.CAPRITA GHENADIE",
+    "lat": 44.4181568,
+    "lng": 26.0598739
+  },
+  {
+    "address": "COM. BANEASA,",
+    "contractNo": "313",
+    "email": "placintaanna@yahoo.com",
+    "medicName": "PLACINTA ANA",
+    "phone": "0236/348804     0236/348816",
+    "supplierName": "C.M.I. DR. PLACINTA ANA",
+    "lat": 44.4937263,
+    "lng": 26.076048
+  },
+  {
+    "address": "COM. BARCEA,",
+    "contractNo": "290",
+    "email": "crcndaniela@yahoo.com",
+    "medicName": "CRACIUN DANIELA CARMEN",
+    "phone": "0236/335662",
+    "supplierName": "C.M.I. DR. CRACIUN DANIELA CARMEN",
+    "lat": 45.7530125,
+    "lng": 27.4690679
+  },
+  {
+    "address": "COM. BARCEA,",
+    "contractNo": "360",
+    "email": "postcristina@yahoo.it",
+    "medicName": "POSTOLACHE CRISTINA",
+    "phone": "0236860802",
+    "supplierName": "C.M.I. DR. POSTOLACHE CRISTINA",
+    "lat": 45.7530125,
+    "lng": 27.4690679
+  },
+  {
+    "address": "COM. BARCEA SI PCT LUCRU SAT PODOLENI-COM BARCEA,",
+    "contractNo": "331",
+    "email": "dr.evabuliga@gmail.com",
+    "medicName": "BULIGA EVA CRISTINA",
+    "phone": "0744235125",
+    "supplierName": "C.M.I. DR. BULIGA EVA CRISTINA",
+    "lat": 45.74776079999999,
+    "lng": 27.445013
+  },
+  {
+    "address": "COM. BERESTI, Str. Muzicii, nr.1A",
+    "contractNo": "393",
+    "email": "negrugeorgefelix@yahoo.com",
+    "medicName": "NEGRU GEORGE-FELIX",
+    "phone": "0729661667",
+    "supplierName": "C.M.I. NEGRU GEORGE-FELIX",
+    "lat": 46.094207,
+    "lng": 27.886106
+  },
+  {
+    "address": "COM. BERESTI MERIA,",
+    "contractNo": "380",
+    "email": "dr.gabriela_cristian@yahoo.com",
+    "medicName": "CRISTIAN GABRIELA",
+    "phone": "0236/342443",
+    "supplierName": "SC CRISTIAN MEDICOFAM SRL",
+    "lat": 46.0848106,
+    "lng": 27.9028633
+  },
+  {
+    "address": "COM. BRAHASESTI,",
+    "contractNo": "190",
+    "email": "adrianavlasie@yahoo.com",
+    "medicName": "VLASIE ADRIANA",
+    "phone": "0236867748",
+    "supplierName": "C.M.I. DR.VLASIE ADR.IANA",
+    "lat": 46.0402603,
+    "lng": 27.3693836
+  },
+  {
+    "address": "COM. BRANISTEA,",
+    "contractNo": "263",
+    "email": "alexferdean@yahoo.com",
+    "medicName": "FERDEAN  ION",
+    "phone": "0236332539",
+    "supplierName": "C.M.I. DR.FERDEAN  ION",
+    "lat": 44.6826865,
+    "lng": 25.5756359
+  },
+  {
+    "address": "COM. CERTESTI,",
+    "contractNo": "193",
+    "email": "medhouse2005@yahoo.com",
+    "medicName": "SIMILACHI DUMITRU CIPRIAN",
+    "phone": "0236337613",
+    "supplierName": "C.M.I. DR.SIMILACHI DUMITRU CIPRIAN",
+    "lat": 46.0129678,
+    "lng": 27.6324466
+  },
+  {
+    "address": "COM. CORNI,",
+    "contractNo": "78",
+    "email": "valyboldea@yahoo.com",
+    "medicName": "BOLDEA VALENTIN",
+    "phone": "0236/330702",
+    "supplierName": "C.M.I. DR. BOLDEA VALENTIN",
+    "lat": 45.8565637,
+    "lng": 27.7829744
+  },
+  {
+    "address": "COM. COROD,",
+    "contractNo": "139",
+    "email": "floaresfloentina@yahoo.co.uk",
+    "medicName": "FLOARES  FLORENTINA",
+    "phone": "0236864018",
+    "supplierName": "C.M.I. DR.FLOARES  FLORENTINA",
+    "lat": 44.3936999,
+    "lng": 26.0396241
+  },
+  {
+    "address": "COM. COROD,",
+    "contractNo": "404",
+    "email": "alburadu_romania@yahoo.com",
+    "medicName": "ALBU RADU MIHAIL",
+    "phone": "",
+    "supplierName": "SC ALBMED ECO SRL",
+    "lat": 44.3936999,
+    "lng": 26.0396241
+  },
+  {
+    "address": "COM. COSMESTI, Sat Furceni",
+    "contractNo": "118",
+    "email": "dr_banica_viorica@yahoo.com; claudiu.chiriac@yahoo.com",
+    "medicName": "BANICA VIORICA",
+    "phone": "0236/336000",
+    "supplierName": "C.M.I. DR. BANICA VIORICA",
+    "lat": 45.8342697,
+    "lng": 27.3281281
+  },
+  {
+    "address": "Tecuci, Str. Elena Doamna, nr. 34",
+    "contractNo": "120",
+    "email": "gantoigabriela@yahoo.com",
+    "medicName": "GANTOI  GABRIELA  NICOLETA",
+    "phone": "0236890113",
+    "supplierName": "C.M.I. DR.GANTOI GABRIELA NICOLETA",
+    "lat": 45.8443786,
+    "lng": 27.4250345
+  },
+  {
+    "address": "COM. COSMESTI,",
+    "contractNo": "119",
+    "email": "patriche1957@yahoo.com",
+    "medicName": "PATRICHI MARICICA NUTA",
+    "phone": "0236862807",
+    "supplierName": "C.M.I. DR. PATRICHE MARICICA NUTA",
+    "lat": 44.46424649999999,
+    "lng": 26.0451065
+  },
+  {
+    "address": "COM. COSTACHE NEGRI,",
+    "contractNo": "266",
+    "email": "lilianavatafu@yahoo.com",
+    "medicName": "VATAFU LILIANA",
+    "phone": "0236825803",
+    "supplierName": "C.M.I. DR.VATAFU LILIANA",
+    "lat": 44.4322826,
+    "lng": 26.078671
+  },
+  {
+    "address": "COM. CUCA,",
+    "contractNo": "260",
+    "email": "DOCTOR_GROZACIPRIAN@yahoo.com",
+    "medicName": "GROZA CIPRIAN",
+    "phone": "0236335240",
+    "supplierName": "C.M.I. DR. GROZA CIPRIAN",
+    "lat": 44.4267674,
+    "lng": 26.1025384
+  },
+  {
+    "address": "COM. CUDALBI,",
+    "contractNo": "123",
+    "email": "dinuioana53@yahoo.com",
+    "medicName": "DINU IOANA",
+    "phone": "0236/862036",
+    "supplierName": "C.M.I. DR. DINU IOANA",
+    "lat": 45.7696512,
+    "lng": 27.689457
+  },
+  {
+    "address": "COM. CUDALBI,",
+    "contractNo": "71",
+    "email": "dr.auraromila@gmail.com",
+    "medicName": "ROMILA AURA DANIELA",
+    "phone": "0236862172",
+    "supplierName": "C.M.I. DR.ROMILA AURA DANIELA",
+    "lat": 45.7696512,
+    "lng": 27.689457
+  },
+  {
+    "address": "COM. CUDALBI SI PCT LUCRU COM.VALEA MARULUI,",
+    "contractNo": "273",
+    "email": "anamaria_ivascu@yahoo.com",
+    "medicName": "UTA ANA-MARIA",
+    "phone": "0236862036",
+    "supplierName": "C.M.I. DR. UTA ANA MARIA",
+    "lat": 45.83841289999999,
+    "lng": 27.6910064
+  },
+  {
+    "address": "COM. CUZA VODA,",
+    "contractNo": "194",
+    "email": "cipriancabinet1@yahoo.com; dinuliliana@yahoo.com",
+    "medicName": "DINU LILIANA",
+    "phone": "0236/824807",
+    "supplierName": "C.M.I. DR. DINU LILIANA",
+    "lat": 44.4224988,
+    "lng": 26.1054123
+  },
+  {
+    "address": "COM. DRAGANESTI,",
+    "contractNo": "116",
+    "email": "cristi1994@clicknet.ro",
+    "medicName": "FILITA RODICA NARCIZA",
+    "phone": "0236820983",
+    "supplierName": "C.M.G. MEDISAN",
+    "lat": 44.1735908,
+    "lng": 24.5150899
+  },
+  {
+    "address": "COM. DRAGANESTI,",
+    "contractNo": "116",
+    "email": "luc_medi@yahoo.com",
+    "medicName": "TUDOSA CORINA LUCIANA",
+    "phone": "0236812229",
+    "supplierName": "C.M.G. MEDISAN",
+    "lat": 44.1735908,
+    "lng": 24.5150899
+  },
+  {
+    "address": "COM. DRAGANESTI,",
+    "contractNo": "400",
+    "email": "fluturealexandra@yahoo.com",
+    "medicName": "FLUTURE ELENA ALEXANDRA",
+    "phone": "762647919",
+    "supplierName": "C.M.I. DR. FLUTURE ELENA ALEXANDRA",
+    "lat": 44.1735908,
+    "lng": 24.5150899
+  },
+  {
+    "address": "COM. DRAGUSENI, SAT Adam",
+    "contractNo": "17",
+    "email": "pamant_cecilia@yahoo.com",
+    "medicName": "PAMINT CECILIA IULIA",
+    "phone": "0236331329",
+    "supplierName": "C.M.I. DR. PAMANT CECILIA IULIA",
+    "lat": 46.0280807,
+    "lng": 27.7318685
+  },
+  {
+    "address": "COM. DRAGUSENI,",
+    "contractNo": "16",
+    "email": "pamant_vasile@yahoo.com",
+    "medicName": "PAMINT VASILE",
+    "phone": "0236331303",
+    "supplierName": "C.M.I. DR. PAMANT VASILE",
+    "lat": 45.9786128,
+    "lng": 27.7634105
+  },
+  {
+    "address": "COM. FARTANESTI, SAT VIILE SI PCT LUCRU SAT FARTANESTI, COM. FARTANESTI, SAT VIILE",
+    "contractNo": "358",
+    "email": "nebunuv@gmail.com",
+    "medicName": "NEBUNU VLADIMIR",
+    "phone": "0336522857",
+    "supplierName": "C.M.I. DR.NEBUNU VLADIMIR",
+    "lat": 45.8066071,
+    "lng": 27.9429181
+  },
+  {
+    "address": "COM. FOLTESTI, Str. Petru Rares, Nr.1",
+    "contractNo": "235",
+    "email": "balta_c_bogdan@yahoo.com",
+    "medicName": "BALTA BOGDAN",
+    "phone": "0236/344500",
+    "supplierName": "C.M.I. DR. BALTA BOGDAN",
+    "lat": 45.7425335,
+    "lng": 28.0585475
+  },
+  {
+    "address": "COM. FRUMUSITA, Str. Petru Rares, Nr.1",
+    "contractNo": "129",
+    "email": "bratoveanusorin@yahoo.com",
+    "medicName": "BRATOVEANU SORIN MARIAN",
+    "phone": "0723294253",
+    "supplierName": "C.M.I. DR. BRATOVEANU SORIN MARIAN",
+    "lat": 45.6533628,
+    "lng": 28.0615387
+  },
+  {
+    "address": "COM. FRUMUSITA,",
+    "contractNo": "70",
+    "email": "cmi_selin@yahoo.com",
+    "medicName": "SELIN ECATERINA",
+    "phone": "0236344509",
+    "supplierName": "C.M.I. DR.SELIN ECATERINA",
+    "lat": 44.4688588,
+    "lng": 26.1452017
+  },
+  {
+    "address": "COM. FARTANESTI,",
+    "contractNo": "207",
+    "email": "dr_auraistrate@yahoo.com",
+    "medicName": "ISTRATE AURA",
+    "phone": "0236347438",
+    "supplierName": "C.M.I. DR. ISTRATE AURA",
+    "lat": 45.7887694,
+    "lng": 27.9907981
+  },
+  {
+    "address": "COM. FUNDENI, Sat Hanu Conachi",
+    "contractNo": "150",
+    "email": "bon_monique@yahoo.com; monica.cabmed@gmail.com",
+    "medicName": "MIHALCIA MONICA",
+    "phone": "0236/865431",
+    "supplierName": "C.M.I. DR. MIHALCIA MONICA",
+    "lat": 45.57790749999999,
+    "lng": 27.5487424
+  },
+  {
+    "address": "COM. FUNDENI, Sat Hanu Conachi",
+    "contractNo": "180",
+    "email": "cmi_maruntelu@yahoo.com",
+    "medicName": "MARUNTELU DOINA MARIA",
+    "phone": "0724549777",
+    "supplierName": "C.M.I. DR. MARUNTELU DOINA MARIA",
+    "lat": 45.57790749999999,
+    "lng": 27.5487424
+  },
+  {
+    "address": "COM. GHIDIGENI,",
+    "contractNo": "23",
+    "email": "bdanimed@yahoo.com; bdanimed1@gmail.com",
+    "medicName": "BANU DANIELA NICOLETA",
+    "phone": "0236/868219",
+    "supplierName": "C.M.I. DR. BANU DANIELA NICOLETA",
+    "lat": 44.4122302,
+    "lng": 26.0226674
+  },
+  {
+    "address": "COM. GHIDIGENI,  Sat Talpigi",
+    "contractNo": "262",
+    "email": "grecumed@yahoo.com",
+    "medicName": "GRECU MIRCEA MARIAN",
+    "phone": "0726705508",
+    "supplierName": "C.M.I. DR. GRECU MIRCEA MARIAN",
+    "lat": 46.0087702,
+    "lng": 27.4759768
+  },
+  {
+    "address": "COM. GOHOR,",
+    "contractNo": "206",
+    "email": "georgecfluture@yahoo.com",
+    "medicName": "FLUTURE GEORGE",
+    "phone": "0236/869401",
+    "supplierName": "C.M.I. DR. FLUTURE GEORGE",
+    "lat": 46.062885,
+    "lng": 27.4011555
+  },
+  {
+    "address": "COM. GRIVITA,",
+    "contractNo": "10",
+    "email": "florea_mihai57@yahoo.com",
+    "medicName": "FLOREA MIHAI",
+    "phone": "0236825402",
+    "supplierName": "C.M.I. DR.FLOREA MIHAI",
+    "lat": 44.4656402,
+    "lng": 26.053795
+  },
+  {
+    "address": "COM. INDEPENDENTA,",
+    "contractNo": "211",
+    "email": "ameliatimpau@gmail.com",
+    "medicName": "TIMPAU AMELIA",
+    "phone": "0236827366",
+    "supplierName": "C.M.I. DR.TIMPAU AMELIA",
+    "lat": 44.4267674,
+    "lng": 26.1025384
+  },
+  {
+    "address": "COM. INDEPENDENTA,",
+    "contractNo": "59",
+    "email": "popescu.corinadoina@gmail.com",
+    "medicName": "POPESCU CORINA DOINA",
+    "phone": "0236826939",
+    "supplierName": "C.M.I. DR. POPESCU CORINA DOINA",
+    "lat": 44.4267674,
+    "lng": 26.1025384
+  },
+  {
+    "address": "COM. IVESTI,",
+    "contractNo": "152",
+    "email": "doctortora@yahoo.com",
+    "medicName": "ANGHEL FLORENTINA",
+    "phone": "0236/833848",
+    "supplierName": "C.M.I. DR. ANGHEL FLORENTINA",
+    "lat": 45.6897612,
+    "lng": 27.5354375
+  },
+  {
+    "address": "COM. IVESTI, Sat Bucesti",
+    "contractNo": "134",
+    "email": "dr cretzu@yahoo.com",
+    "medicName": "CRETU VALENTIN",
+    "phone": "0236/822277",
+    "supplierName": "C.M.I. DR. CRETU VALENTIN",
+    "lat": 45.6548953,
+    "lng": 27.5321168
+  },
+  {
+    "address": "COM. IVESTI, Str. Gen. Eremia Grigorescu, nr.565, bl. I3B, parter, cam. 2",
+    "contractNo": "392",
+    "email": "royal.therapies@yahoo.com",
+    "medicName": "TATU ADRIAN",
+    "phone": "763468879",
+    "supplierName": "SC ROYAL MOSSAD MEDICAL SRI SRL",
+    "lat": 45.6897612,
+    "lng": 27.5354375
+  },
+  {
+    "address": "COM. LIESTI,",
+    "contractNo": "318",
+    "email": "dr.baicansorin@yahoo.com",
+    "medicName": "BAICAN NICOLAE SORINEL",
+    "phone": "0236821080",
+    "supplierName": "C.M.I. DR. BAICAN NICOLAE SORINEL",
+    "lat": 45.806667,
+    "lng": 27.5091671
+  },
+  {
+    "address": "COM. LIESTI,",
+    "contractNo": "250",
+    "email": "gabyvyky@yahoo.com",
+    "medicName": "BORBIL  GABRIELA",
+    "phone": "0236819800",
+    "supplierName": "C.M.I. DR.BORBIL  GABRIELA",
+    "lat": 45.806667,
+    "lng": 27.5091671
+  },
+  {
+    "address": "COM. LIESTI,",
+    "contractNo": "40",
+    "email": "cmidrenachi@yahoo.com",
+    "medicName": "ENACHI  MARICEL",
+    "phone": "0236821119",
+    "supplierName": "C.M.I. DR.ENACHI  MARICEL",
+    "lat": 45.806667,
+    "lng": 27.5091671
+  },
+  {
+    "address": "COM. LIESTI, Sat Serbanesti",
+    "contractNo": "54",
+    "email": "simcris33@yahoo.co.uk",
+    "medicName": "MOCANU SIMONA",
+    "phone": "0236821000",
+    "supplierName": "SC SACRIS SRL",
+    "lat": 44.3246749,
+    "lng": 24.6950218
+  },
+  {
+    "address": "COM. MASTACANI, Sat Chiraftei",
+    "contractNo": "230",
+    "email": "ta_cmi@yahoo.com",
+    "medicName": "TEODORESCU ANCA",
+    "phone": "0236346532/0236346627",
+    "supplierName": "C.M.I. DR.TEODORESCU ANCA",
+    "lat": 45.7715145,
+    "lng": 28.0267538
+  },
+  {
+    "address": "COM. MASTACANI,",
+    "contractNo": "241",
+    "email": "cmi_harabagiu@yahoo.com",
+    "medicName": "HARABAGIU MIRELA",
+    "phone": "0236346519",
+    "supplierName": "C.M.I. DR. HARABAGIU MIRELA",
+    "lat": 45.7645806,
+    "lng": 28.052801
+  },
+  {
+    "address": "COM. MATCA,",
+    "contractNo": "352",
+    "email": "lucia.borza@yahoo.com",
+    "medicName": "BORZA DEDIU LUCIA",
+    "phone": "0236/860003",
+    "supplierName": "C.M.I. DR. BORZA DEDIU-LUCIA",
+    "lat": 45.8529369,
+    "lng": 27.5275862
+  },
+  {
+    "address": "COM. MATCA,",
+    "contractNo": "350",
+    "email": "rita.gorduz@yahoo.com",
+    "medicName": "GORDUZ RITA",
+    "phone": "0236860002",
+    "supplierName": "C.M.I. DR. GORDUZ RITA",
+    "lat": 45.8529369,
+    "lng": 27.5275862
+  },
+  {
+    "address": "COM. MATCA,",
+    "contractNo": "351",
+    "email": "aurelia.stoian@yahoo.com",
+    "medicName": "STOIAN AURELIA",
+    "phone": "",
+    "supplierName": "C.M.I. DR. STOIAN AURELIA",
+    "lat": 45.8529369,
+    "lng": 27.5275862
+  },
+  {
+    "address": "COM. MATCA,",
+    "contractNo": "354",
+    "email": "adrianfrangulea@yahoo.com",
+    "medicName": "FRANGULEA VALERICA",
+    "phone": "0236860002",
+    "supplierName": "C.M.I. DR. FRANGULEA VALERICA",
+    "lat": 45.8529369,
+    "lng": 27.5275862
+  },
+  {
+    "address": "COM. MATCA,",
+    "contractNo": "117",
+    "email": "medi_sil@yahoo.com",
+    "medicName": "TUDOSA SORIN SILVIU",
+    "phone": "0236860002",
+    "supplierName": "C.M.I. DR. TUDOSA SORIN SILVIU",
+    "lat": 45.8529369,
+    "lng": 27.5275862
+  },
+  {
+    "address": "COM. MOVILENI,",
+    "contractNo": "386",
+    "email": "koziket@yahoo.com",
+    "medicName": "CAPRARU LAURA COSSETTE",
+    "phone": "0236/823001",
+    "supplierName": "SC RUBIN THEOMEDFAM SRL",
+    "lat": 44.5082536,
+    "lng": 26.0126292
+  },
+  {
+    "address": "COM. MUNTENI, Sat Ungureni",
+    "contractNo": "138",
+    "email": "rosculetnico@yahoo.com",
+    "medicName": "ROSCULET NICOLAE",
+    "phone": "0236832493",
+    "supplierName": "C.M.I. DR.ROSCULET NICOLAE",
+    "lat": 45.9112647,
+    "lng": 27.4659394
+  },
+  {
+    "address": "COM. MUNTENI,",
+    "contractNo": "122",
+    "email": "udrealacramioara@yahoo.com;claudiu.chiriac@yahoo.com",
+    "medicName": "UDREA LACRAMIOARA",
+    "phone": "0236811135",
+    "supplierName": "C.M.I. DR.UDR.EA LACRAMIOARA",
+    "lat": 45.9260679,
+    "lng": 27.4336118
+  },
+  {
+    "address": "COM. MUNTENI,",
+    "contractNo": "63",
+    "email": "oancapetru@yahoo.com",
+    "medicName": "OANCA PETRU",
+    "phone": "0236832450",
+    "supplierName": "C.M.I. DR. OANCA PETRU",
+    "lat": 45.9260679,
+    "lng": 27.4336118
+  },
+  {
+    "address": "COM. NAMOLOASA,",
+    "contractNo": "269",
+    "email": "cazansilviu@yahoo.com",
+    "medicName": "CAZAN SILVIU AURELIAN",
+    "phone": "0767652637",
+    "supplierName": "C.M.I. DR. CAZAN SILVIU AURELIAN",
+    "lat": 45.5337497,
+    "lng": 27.5520953
+  },
+  {
+    "address": "COM. NEGRILESTI,",
+    "contractNo": "334",
+    "email": "gancearmihail@yahoo.com",
+    "medicName": "GANCEAR MIHAIL",
+    "phone": "0336/623179",
+    "supplierName": "C.M.I. DR. GANCEAR MIHAIL",
+    "lat": 47.2707226,
+    "lng": 24.0481368
+  },
+  {
+    "address": "COM. NICORESTI,",
+    "contractNo": "370",
+    "email": "dr_uriesu@yahoo.com",
+    "medicName": "URIESU GEANINA",
+    "phone": "0236867163",
+    "supplierName": "C.M.I. DR. URIESU GEANINA",
+    "lat": 44.4417123,
+    "lng": 26.1122112
+  },
+  {
+    "address": "COM. OANCEA,",
+    "contractNo": "369",
+    "email": "antonineb.378@gmail.com",
+    "medicName": "NEBUNU ANTONINA",
+    "phone": "0734731834",
+    "supplierName": "C.M.I. DR. NEBUNU ANTONINA",
+    "lat": 45.917782,
+    "lng": 28.109492
+  },
+  {
+    "address": "COM. PECHEA,",
+    "contractNo": "317",
+    "email": "cammymed@yahoo.com",
+    "medicName": "TARALUNGA CARMEN MIHAELA",
+    "phone": "0236823524",
+    "supplierName": "C.M.I. DR.TARALUNGA CARMEN MIHAELA",
+    "lat": 44.4899276,
+    "lng": 26.0916421
+  },
+  {
+    "address": "COM. PECHEA, Str.Galati, nr.195A",
+    "contractNo": "198",
+    "email": "aliema.trandafir@yahoo.com",
+    "medicName": "TRANDAFIR ALICE EMANUELA",
+    "phone": "0236824302",
+    "supplierName": "C.M.I. DR.CRETU ALICE EMANUELA",
+    "lat": 45.6268412,
+    "lng": 27.8047219
+  },
+  {
+    "address": "COM. PECHEA, Str.Galati, nr.195A",
+    "contractNo": "110",
+    "email": "iuliavirgolici@yahoo.com",
+    "medicName": "VIRGOLICI IULIA CRISTINA",
+    "phone": "0236823714",
+    "supplierName": "C.M.I. DR.VIRGOLICI IULIA CRISTINA",
+    "lat": 45.6268412,
+    "lng": 27.8047219
+  },
+  {
+    "address": "COM. PECHEA,",
+    "contractNo": "283",
+    "email": "lefter_marta@yahoo.com",
+    "medicName": "LEFTER MARTA",
+    "phone": "0236823719",
+    "supplierName": "C.M.I. DR. LEFTER MARTA",
+    "lat": 44.4899276,
+    "lng": 26.0916421
+  },
+  {
+    "address": "COM. PISCU,",
+    "contractNo": "83",
+    "email": "dobos.liliana@yahoo.com",
+    "medicName": "DOBOS LILIANA",
+    "phone": "0745.582.094",
+    "supplierName": "C.M.I. DR. DOBOS LILIANA",
+    "lat": 44.7357845,
+    "lng": 26.0722308
+  },
+  {
+    "address": "COM. PISCU,",
+    "contractNo": "69",
+    "email": "zcmsnake@yahoo.com",
+    "medicName": "ZOTA CATALIN MIRCEA",
+    "phone": "0236827782",
+    "supplierName": "C.M.I. DR.ZOTA CATALIN MIRCEA",
+    "lat": 44.7357845,
+    "lng": 26.0722308
+  },
+  {
+    "address": "COM. POIANA,",
+    "contractNo": "295",
+    "email": "hulea_ghiorghe@yahoo.com",
+    "medicName": "HULEA GHIORGHE",
+    "phone": "0236836621",
+    "supplierName": "C.M.I. DR. HULEA GHIORGHE",
+    "lat": 44.4267674,
+    "lng": 26.1025384
+  },
+  {
+    "address": "COM. RADESTI SI PCT LUCRU COM.BALABANESTI ,",
+    "contractNo": "316",
+    "email": "cmi.dr.anwar@gmail.com",
+    "medicName": "ANWAR ABDELNASIR",
+    "phone": "0236/333600",
+    "supplierName": "C.M.I. DR. ANWAR ABDELNASIR",
+    "lat": 46.0747736,
+    "lng": 27.7894306
+  },
+  {
+    "address": "COM. REDIU SI PCT LUCRU COM REDIU-SAT SUHURLUI,",
+    "contractNo": "213",
+    "email": "maurentiu@yahoo.com",
+    "medicName": "MOCANU LAURENTIU",
+    "phone": "0236330005",
+    "supplierName": "C.M.I. DR. MOCANU LAURENTIU",
+    "lat": 45.7268313,
+    "lng": 27.8230501
+  },
+  {
+    "address": "COM. SCANTEIESTI,",
+    "contractNo": "140",
+    "email": "mciovica@yahoo.com",
+    "medicName": "CIOVICA MIOARA",
+    "phone": "0236/348002",
+    "supplierName": "C.M.I. DR. CIOVICA MIOARA",
+    "lat": 45.6746363,
+    "lng": 28.0008359
+  },
+  {
+    "address": "COM. SCANTEIESTI,  Sat Fantanele",
+    "contractNo": "97",
+    "email": "iliecarmenflorentina@gmail.com",
+    "medicName": "ILIE  CARMEN FLORENTINA",
+    "phone": "0236348177",
+    "supplierName": "C.M.I. DR. ILIE CARMEN FLORENTINA",
+    "lat": 45.6746363,
+    "lng": 28.0008359
+  },
+  {
+    "address": "COM. SCHELA,",
+    "contractNo": "65",
+    "email": "drstefanpopa@yahoo.com",
+    "medicName": "POPA STEFAN",
+    "phone": "0336732667",
+    "supplierName": "C.M.I. DR. POPA STEFAN",
+    "lat": 44.4740919,
+    "lng": 26.0434253
+  },
+  {
+    "address": "COM. SENDRENI, str. Dispensarului, nr. 2",
+    "contractNo": "84",
+    "email": "drmariami.gl@gmail.com",
+    "medicName": "AMITROAEI MARIA",
+    "phone": "0236/826372; 0748.093.666",
+    "supplierName": "C.M.I. DR. AMITROAEI MARIA",
+    "lat": 44.4267674,
+    "lng": 26.1025384
+  },
+  {
+    "address": "COM. SENDRENI SI PCT LUCRU COM. BRANISTEA, Sat Serbestii-Vechi",
+    "contractNo": "312",
+    "email": "dr_iuliana@yahoo.com",
+    "medicName": "JIREGHIE IULIANA",
+    "phone": "0336732664-Serbestii Vechi /0336732753-Branistea",
+    "supplierName": "C.M.I. DR. JIREGHIE IULIANA",
+    "lat": 45.4366244,
+    "lng": 27.8397917
+  },
+  {
+    "address": "COM. SLOBOZIA CONACHI,",
+    "contractNo": "232",
+    "email": "simona_baiesiu@yahoo.com",
+    "medicName": "BAIESIU SIMONA ALINA",
+    "phone": "0236/824711",
+    "supplierName": "C.M.I. DR. BAIESIU SIMONA ALINA",
+    "lat": 45.5754856,
+    "lng": 27.7671584
+  },
+  {
+    "address": "COM. SLOBOZIA CONACHI,",
+    "contractNo": "231",
+    "email": "adibr2001@yahoo.com",
+    "medicName": "BRAILESCU ADRIAN",
+    "phone": "0236/824711",
+    "supplierName": "C.M.I. DR. BRAILESCU ADR.IAN",
+    "lat": 45.5754856,
+    "lng": 27.7671584
+  },
+  {
+    "address": "COM. SMARDAN,",
+    "contractNo": "359",
+    "email": "chermer_mihaela_ana@yahoo.com",
+    "medicName": "CHEMER MIHAELA-ANA",
+    "phone": "0236830079",
+    "supplierName": "C.M.I. DR. CHEMER MIHAELA-ANA",
+    "lat": 44.43229480000001,
+    "lng": 26.1001853
+  },
+  {
+    "address": "COM. SMULTI,",
+    "contractNo": "349",
+    "email": "nicoletadone@yahoo.com",
+    "medicName": "HOGAS NICOLETA",
+    "phone": "0744481090",
+    "supplierName": "C.M.I. DR. HOGAS NICOLETA",
+    "lat": 45.9339536,
+    "lng": 27.7488805
+  },
+  {
+    "address": "SAT SUCEVENI, COM SUCEVENI, NR. 35",
+    "contractNo": "381",
+    "email": "strumph1977@yahoo.com",
+    "medicName": "CODRESCU IONUT AURELIAN",
+    "phone": "",
+    "supplierName": "SC CODRESCU A. IONUT SRL",
+    "lat": 46.0007897,
+    "lng": 28.0300023
+  },
+  {
+    "address": "SAT ROGOJENI, COM. SUCEVENI, NR.188",
+    "contractNo": "381",
+    "email": "strumph1977@yahoo.com",
+    "medicName": "CODRESCU IONUT AURELIAN",
+    "phone": "",
+    "supplierName": "SC CODRESCU A. IONUT SRL",
+    "lat": 45.9807729,
+    "lng": 28.0906334
+  },
+  {
+    "address": "COM. TEPU PCT LUCRU PRIPONESTI,",
+    "contractNo": "395",
+    "email": "gicutah@yahoo,com",
+    "medicName": "HODOROGEA PRISECARU GICA",
+    "phone": "0236869005",
+    "supplierName": "SC HOUSE MED HODOR SRL",
+    "lat": 46.0832186,
+    "lng": 27.4368367
+  },
+  {
+    "address": "COM. TUDOR VLADIMIRESCU,",
+    "contractNo": "274",
+    "email": "mugur_gogot@dr.com",
+    "medicName": "GOGOT MUGUR VICTOR",
+    "phone": "0236828175",
+    "supplierName": "C.M.I. DR.GOGOT MUGUR VICTOR",
+    "lat": 44.41689239999999,
+    "lng": 26.0476559
+  },
+  {
+    "address": "COM. TOFLEA, SAT BRAHARESTI,",
+    "contractNo": "398",
+    "email": "cmidronofreifluturelarisa@yahoo.com",
+    "medicName": "ONOFREI FLUTURE LARISA",
+    "phone": "0770490761",
+    "supplierName": "C.M.I. DR. ONOFREI FLUTURE LARISA",
+    "lat": 46.06082259999999,
+    "lng": 27.3345764
+  },
+  {
+    "address": "COM. TUDOR VLADIMIRESCU,",
+    "contractNo": "39",
+    "email": "anad_52@yahoo.com",
+    "medicName": "SAVA DANA HENRIETTA",
+    "phone": "0236828605",
+    "supplierName": "C.M.I. DR.SAVA DANA HENRIETTA",
+    "lat": 44.41689239999999,
+    "lng": 26.0476559
+  },
+  {
+    "address": "COM. TUDOR VLADIMIRESCU,  Manastirea Tudor Vladimirescu",
+    "contractNo": "173",
+    "email": "popescucristinamaria@yahoo.com",
+    "medicName": "POPESCU CRISTINA MARIA",
+    "phone": "0736357515",
+    "supplierName": "C.M.I. DR. POPESCU CRISTINA MARIA",
+    "lat": 44.4337093,
+    "lng": 26.0424368
+  },
+  {
+    "address": "COM. TULUCESTI,",
+    "contractNo": "145",
+    "email": "lioara_zarnescu@yahoo.com",
+    "medicName": "ZARNESCU LIOARA",
+    "phone": "0236341410",
+    "supplierName": "C.M.I. DR.ZARNESCU LIOARA",
+    "lat": 45.5661305,
+    "lng": 28.0435022
+  },
+  {
+    "address": "COM. TULUCESTI, Sat Sivita",
+    "contractNo": "397",
+    "email": "daniel_enache2005@yahoo.com",
+    "medicName": "MURGOCI ELEN LORIANA",
+    "phone": "0236345539",
+    "supplierName": "SC CABINET MEDICAL DR. MURGOCI ELEN LORIANA SRL",
+    "lat": 45.6145728,
+    "lng": 28.0535147
+  },
+  {
+    "address": "COM. IVESTI,",
+    "contractNo": "314",
+    "email": "lazarlilianageorgeta@yahoo.com",
+    "medicName": "LAZAR LILIANA GEORGETA",
+    "phone": "0236819819",
+    "supplierName": "C.M.I. DR.LAZAR LILIANA GEORGETA",
+    "lat": 45.6897612,
+    "lng": 27.5354375
+  },
+  {
+    "address": "COM. UMBRARESTI,",
+    "contractNo": "385",
+    "email": "tudoran_aneta@yahoo.com",
+    "medicName": "TUDORAN ANETA",
+    "phone": "0236829784",
+    "supplierName": "SC SIRONA SALUS MEDIKA SRL",
+    "lat": 45.7164048,
+    "lng": 27.4723068
+  },
+  {
+    "address": "COM. UMBRARESTI SI PCT LUCRU SAT CONDREA-COM.UMBRARESTI,",
+    "contractNo": "26",
+    "email": "roza_ciobanu@yahoo.com",
+    "medicName": "CIOBANU ROZICA",
+    "phone": "0236/829878",
+    "supplierName": "C.M.I. DR. CIOBANU ROZICA",
+    "lat": 45.7105106,
+    "lng": 27.4310922
+  },
+  {
+    "address": "COM. VALEA MARULUI SI PCT DE LUCRU SAT MANDRESTI,",
+    "contractNo": "355",
+    "email": "orlovmihail@gmail.com",
+    "medicName": "ORLOV MIHAIL",
+    "phone": "0744831525",
+    "supplierName": "C.M.I. DR. ORLOV MIHAIL",
+    "lat": 45.87886719999999,
+    "lng": 27.6981176
+  },
+  {
+    "address": "COM. VARLEZI SI PCT LUCRU VARLEZI,SAT CRAIESTI,",
+    "contractNo": "68",
+    "email": "valeriuharabor@yahoo.com",
+    "medicName": "HARABOR VALERIU ROMULUS",
+    "phone": "0236332105          0236331914",
+    "supplierName": "C.M.I. DR. HARABOR VALERIU ROMULUS",
+    "lat": 45.9412568,
+    "lng": 27.8076117
+  },
+  {
+    "address": "COM. VLADESTI SI PCT LUCRU COM CAVADINESTI,",
+    "contractNo": "296",
+    "email": "dr.carmenbuleandra@gmail.com",
+    "medicName": "BULEANDRA CARMEN FLORINA",
+    "phone": "0766892013",
+    "supplierName": "C.M.I. DR. BULEANDR.A CARMEN FLORINA",
+    "lat": 46.078601,
+    "lng": 27.9992966
+  },
+  {
+    "address": "COM. VANATORI, Str. Ciresului, nr.23",
+    "contractNo": "365",
+    "email": "praxis_vanatori@yahoo.com",
+    "medicName": "PLESA GEANINA",
+    "phone": "0236344003",
+    "supplierName": "SC INTERTOP MEDICA GA SRL",
+    "lat": 45.5308585,
+    "lng": 28.0225594
   }
 ]
