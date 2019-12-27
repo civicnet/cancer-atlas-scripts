@@ -9,7 +9,7 @@ let read_path =
   | Some(dirname) =>
     Node.Path.resolve(
       dirname,
-      "../data/json/mf_arges.json",
+      "../data/json/mf_arad.json",
     )
   | None => fileError("Dirname missing")
   };
@@ -19,7 +19,7 @@ let write_path =
   | Some(dirname) =>
     Node.Path.resolve(
       dirname,
-      "../data/json/mf_arges_with_loc.json",
+      "../data/json/mf_arad_with_loc.json",
     )
   | None => fileError("Dirname missing")
   };
@@ -54,7 +54,9 @@ let rec suppliersWithAddress = (supps: list(FamilyMedic.supplier), acc) =>
     geocode(encodeURIComponent(hd.address))
     |> Js.Promise.then_(value => {
          let name = hd.medicName;
-         Js.log({j| Looking at $name |j});
+         let parsedCount = List.length(acc);
+         let totalCount = List.length(supps);
+         Js.log({j| $parsedCount / $totalCount: Looking at $name |j});
 
          let supp = {supplier: hd, location: value};
          suppliersWithAddress(tl, List.append(acc, [supp]));

@@ -1,0 +1,2904 @@
+{
+    "list": [
+        {
+            "address": "Arad, Strada Andrei Şaguna, nr. 14",
+            "contractNo": "1077",
+            "email": "",
+            "medicName": "ACHIM EMANUEL-IOSIF",
+            "phone": "0752959921",
+            "supplierName": "DR.ACHIM EMANUEL IOSIF - CABINET MEDICAL MEDICINA DE FAMILIE",
+            "lat": 46.1807063,
+            "lng": 21.3084558
+        },
+        {
+            "address": "Arad, Calea Timişorii, nr. 71",
+            "contractNo": "7",
+            "email": "",
+            "medicName": "ANGHEL LOTTE",
+            "phone": "0257287963",
+            "supplierName": "CMI DR.ANGHEL LOTTE",
+            "lat": 46.1507662,
+            "lng": 21.3219433
+        },
+        {
+            "address": "Arad, Calea Aurel Vlaicu 56",
+            "contractNo": "1115",
+            "email": "",
+            "medicName": "ALBOTA CATALIN",
+            "phone": "0747396973",
+            "supplierName": "POLICLINICA AS SRL",
+            "lat": 46.19183169999999,
+            "lng": 21.3116845
+        },
+        {
+            "address": "Arad, Strada Semănătorilor, Bloc 254, Scara A, Apartament 3",
+            "contractNo": "9",
+            "email": "",
+            "medicName": "ARDELEAN SIMONA-LILIANA",
+            "phone": "0357412263",
+            "supplierName": "CMI DR.ARDELEAN SIMONA",
+            "lat": 46.177326,
+            "lng": 21.351734
+        },
+        {
+            "address": "Arad, Calea Victoriei, nr. 60-62",
+            "contractNo": "17",
+            "email": "",
+            "medicName": "BALICA RODICA",
+            "phone": "0257270800",
+            "supplierName": "CENTRUL MEDICAL RUBIO SRL",
+            "lat": 44.437583,
+            "lng": 26.097721
+        },
+        {
+            "address": "Arad, Bulevard Revoluţiei, nr. 26-38, Scara A, Apartament 3",
+            "contractNo": "238",
+            "email": "",
+            "medicName": "BEGHER DORIN-FLORIAN",
+            "phone": "0257231243",
+            "supplierName": "CENTRUL MEDICAL DR.BEGHER SRL",
+            "lat": 46.182099,
+            "lng": 21.32232
+        },
+        {
+            "address": "Arad,Strada Faleza Sud, Bloc 36, Apartament 2",
+            "contractNo": "1040",
+            "email": "",
+            "medicName": "BERNAZ MĂRIOARA",
+            "phone": "0257258261",
+            "supplierName": "DR.BERNAZ  SRL",
+            "lat": 46.164095,
+            "lng": 21.2928679
+        },
+        {
+            "address": "Arad, Strada G-ral Ion Dragalina, nr. 16, Apartament 10",
+            "contractNo": "242",
+            "email": "",
+            "medicName": "BERZACOVICI DIANA-GABRIELA",
+            "phone": "0722648874",
+            "supplierName": "DIAMEDICA  SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada G-ral Ion Dragalina, nr. 16, ap. 2",
+            "contractNo": "32",
+            "email": "",
+            "medicName": "BOTEZATU LUCICA",
+            "phone": "0257281552",
+            "supplierName": "DR.BOTEZATU LUCICA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Tiberiu, nr. 4",
+            "contractNo": "34",
+            "email": "",
+            "medicName": "BRAN MARIA",
+            "phone": "0257240121",
+            "supplierName": "CMI DR.BRAN MARIA",
+            "lat": 46.192935,
+            "lng": 21.2948429
+        },
+        {
+            "address": "Arad, Strada Oituz, nr. 224-226",
+            "contractNo": "36",
+            "email": "",
+            "medicName": "BRETOTEANU ECATERINA",
+            "phone": "0257280312",
+            "supplierName": "DR.BRETOTEANU ECATERINA - CABINET MEDICAL DE MEDICINA GENERALA ADULTI",
+            "lat": 46.16312,
+            "lng": 21.2960892
+        },
+        {
+            "address": "Arad, Strada Oituz, nr. 224-227",
+            "contractNo": "99",
+            "email": "",
+            "medicName": "BRÎNZAN COSMINA",
+            "phone": "0257285905",
+            "supplierName": "CENTRUL MEDICAL IGNAT SRL",
+            "lat": 46.16366259999999,
+            "lng": 21.2960504
+        },
+        {
+            "address": "Arad, Strada Zalău, nr. 1, Bloc 505, Apartament 3",
+            "contractNo": "37",
+            "email": "",
+            "medicName": "BUHAŞ-DOBRE MIHAELA-TAMARA",
+            "phone": "0257219544",
+            "supplierName": "CMI DR.BUHAS TAMARA",
+            "lat": 46.171841,
+            "lng": 21.3514069
+        },
+        {
+            "address": "Arad, Strada Octavian Goga, nr. 41",
+            "contractNo": "239",
+            "email": "",
+            "medicName": "BULBOACĂ EMILIA-IULIANA",
+            "phone": "0257259636",
+            "supplierName": "CMI EMILIA BULBOACA SRL",
+            "lat": 46.1751016,
+            "lng": 21.3084646
+        },
+        {
+            "address": "Arad, Bulevard Decebal, nr. 12, ap.6",
+            "contractNo": "1161",
+            "email": "",
+            "medicName": "BUTUŞINĂ ELENA",
+            "phone": "0257281907",
+            "supplierName": "MEDICAL SERVICE CENTRUM SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Rodnei, Bloc 11, sc. A, ap.19",
+            "contractNo": "47",
+            "email": "",
+            "medicName": "CIRIN HORIA",
+            "phone": "0257252956",
+            "supplierName": "DR.CIRIN HORIA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.182435,
+            "lng": 21.2929401
+        },
+        {
+            "address": "Arad, Strada Călăraşilor, nr. 3",
+            "contractNo": "49",
+            "email": "",
+            "medicName": "CIULEAN-CRUŢA RUJA",
+            "phone": "0257273171",
+            "supplierName": "CMI DR.CIULEAN CRUTA RUJA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Tiberiu, nr. 4",
+            "contractNo": "51",
+            "email": "",
+            "medicName": "COMŞA CORNELIA",
+            "phone": "0257242120",
+            "supplierName": "CMI DR.COMSA CORNELIA",
+            "lat": 46.192935,
+            "lng": 21.2948429
+        },
+        {
+            "address": "Arad,Calea Aurel Vlaicu, nr. 57A, Bloc C 300, parter",
+            "contractNo": "58",
+            "email": "",
+            "medicName": "CREŢIU VIOREL",
+            "phone": "0357439009",
+            "supplierName": "DR.CRETIU VIOREL - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.19078500000001,
+            "lng": 21.30828
+        },
+        {
+            "address": "Arad,Strada Mioritei, nr. 5, Bloc 142, Apartament 3",
+            "contractNo": "1156",
+            "email": "",
+            "medicName": "CRISTE MARIA-XENIA",
+            "phone": "0257259026",
+            "supplierName": "AMMA MEDICAL FAM SRL",
+            "lat": 46.173746,
+            "lng": 21.350173
+        },
+        {
+            "address": "Arad, Strada Ştefan cel Mare, nr. 2A, Apartament 2B",
+            "contractNo": "61",
+            "email": "",
+            "medicName": "CRISTEA HERACLIA-DANIELA",
+            "phone": "0722232051",
+            "supplierName": "AL MEDICAL CARE SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Bulevard G-ral Vasile Milea, nr. 23, Apartament 4,",
+            "contractNo": "40",
+            "email": "",
+            "medicName": "CĂPĂŢÎNĂ MARIUS-EUGEN-AUREL",
+            "phone": "0257252568",
+            "supplierName": "CMI DR.CAPATINA MARIUS EUGEN",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada G-ral Ion Dragalina, nr. 16",
+            "contractNo": "64",
+            "email": "",
+            "medicName": "DARIDA ENIKŐ",
+            "phone": "0257281552",
+            "supplierName": "CMI DR.DARIDA ENIKO",
+            "lat": 44.431113,
+            "lng": 26.0821108
+        },
+        {
+            "address": "Arad, Strada Popa Gheorghe de Teiuş, nr. 3",
+            "contractNo": "1188",
+            "email": "",
+            "medicName": "MUNTEAN ELIAN DANUT",
+            "phone": "0357420294",
+            "supplierName": "GRADA MEDICA SRL",
+            "lat": 46.177074,
+            "lng": 21.315619
+        },
+        {
+            "address": "Arad, Calea Aurel Vlaicu, Bloc 7, Apartament 34",
+            "contractNo": "237",
+            "email": "",
+            "medicName": "DĂRĂBANŢIU ADRIAN-DAN",
+            "phone": "0257212950 0357408305",
+            "supplierName": "CENTRUL MEDICAL ARAD-VEST SRL",
+            "lat": 46.198232,
+            "lng": 21.295969
+        },
+        {
+            "address": "Arad, Calea Aurel Vlaicu, Bloc 7, Apartament 34",
+            "contractNo": "237",
+            "email": "",
+            "medicName": "DĂRĂBANŢIU MARGARETA",
+            "phone": "0257212950 0357408305",
+            "supplierName": "CENTRUL MEDICAL ARAD-VEST SRL",
+            "lat": 46.198232,
+            "lng": 21.295969
+        },
+        {
+            "address": "Arad, Strada Nucet, nr. 10, Bloc 564, Scara B, Apartament 2",
+            "contractNo": "67",
+            "email": "",
+            "medicName": "DINGA MARIA",
+            "phone": "0257368875",
+            "supplierName": "DR.DINGA MARIA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.168726,
+            "lng": 21.350565
+        },
+        {
+            "address": "Arad, Strada G-ral Gheorghe Magheru, Bloc 301, Scara E, Apartament 37B",
+            "contractNo": "69",
+            "email": "",
+            "medicName": "DRUŢĂU DANIELA-MONICA",
+            "phone": "0257259832",
+            "supplierName": "DAROM MEDICA SRL",
+            "lat": 46.1782401,
+            "lng": 21.3397316
+        },
+        {
+            "address": "Arad, Calea Timişorii, nr. 71",
+            "contractNo": "70",
+            "email": "",
+            "medicName": "FECHETE FELICIA",
+            "phone": "0257287659",
+            "supplierName": "CMI DR.FECHETE FELICIA",
+            "lat": 46.1507662,
+            "lng": 21.3219433
+        },
+        {
+            "address": "Arad, Bulevard Iuliu Maniu, nr. 13, Bloc P3, Apartament 1",
+            "contractNo": "266",
+            "email": "",
+            "medicName": "FILIMON MARIA",
+            "phone": "0257228522",
+            "supplierName": "DR.FILIMON MARIA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Conduraşilor, nr. 59, Bloc 68, sc. A, Apartament 1",
+            "contractNo": "73",
+            "email": "",
+            "medicName": "FOITIK ADRIANA-EMILIA",
+            "phone": "0257214122",
+            "supplierName": "CMI DR.FOITIK ADRIANA",
+            "lat": 46.1661596,
+            "lng": 21.2917897
+        },
+        {
+            "address": "Arad,Strada Dornei, nr. 19",
+            "contractNo": "260",
+            "email": "",
+            "medicName": "GAŞPAR BENIAMIN-IOAN",
+            "phone": "0746119096",
+            "supplierName": "PROMPT MEDICA SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Bulevard Revoluţiei, nr. 100, ap 2",
+            "contractNo": "80",
+            "email": "",
+            "medicName": "GAVRILUŢĂ CARMEN-SILVIA",
+            "phone": "0257281279",
+            "supplierName": "DR.GAVRILUTA CARMEN - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.171249,
+            "lng": 21.315248
+        },
+        {
+            "address": "Arad, Strada Dr. Ioan Suciu, Bloc 7, Scara B, Etaj P, Apartament 1",
+            "contractNo": "1301",
+            "email": "",
+            "medicName": "GHERDAN OVIDIU-IOAN",
+            "phone": "0257235952",
+            "supplierName": "DR.GHERDAN OVIDIU-IOAN - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Ilarie Chendi, nr. 1-3",
+            "contractNo": "82",
+            "email": "",
+            "medicName": "GHINEA ELISABETA",
+            "phone": "0257250059",
+            "supplierName": "CMI DR.GHINEA ELISABETA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad,Strada Episcop Roman Ciorogariu, Bloc 56, Scara A, Apartament 2",
+            "contractNo": "84",
+            "email": "",
+            "medicName": "GHIUŢĂ SIMONA-CORINA",
+            "phone": "0257277787",
+            "supplierName": "CABINET MEDICAL DR.SIMONA CORINA GHIUTA SRL",
+            "lat": 46.1764843,
+            "lng": 21.2983753
+        },
+        {
+            "address": "Arad,Strada Dr. Cornel Radu, nr. 3",
+            "contractNo": "1320",
+            "email": "",
+            "medicName": "GRECU ANCUŢA-EUGENIA",
+            "phone": "0752188829",
+            "supplierName": "GENESYS MEDICAL CLINIC SRL",
+            "lat": 46.1745265,
+            "lng": 21.3460342
+        },
+        {
+            "address": "Arad, str. Călăraşilor, nr. 3, corp. B, ap. 14",
+            "contractNo": "1320",
+            "email": "",
+            "medicName": "GRECU ANCUŢA-EUGENIA",
+            "phone": "0752188829",
+            "supplierName": "GENESYS MEDICAL CLINIC SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, P-ta Gării, nr 11, Bloc G, Scara B, ap. 44A",
+            "contractNo": "89",
+            "email": "",
+            "medicName": "HANDRA LIDIA-FLORICA",
+            "phone": "0357410668",
+            "supplierName": "DR.HANDRA LIDIA FLORICA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Ştefan Cicio-Pop, nr. 20, Bloc Corp B, Apartament 21",
+            "contractNo": "1415",
+            "email": "",
+            "medicName": "IACOB ADRIANA-SIMONA",
+            "phone": "0257214282",
+            "supplierName": "DR.IACOB ADRIANA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.171006,
+            "lng": 21.311355
+        },
+        {
+            "address": "Arad, Strada Călăraşilor, nr. 3, Corp B, Etaj parter, Ap. 13",
+            "contractNo": "204",
+            "email": "",
+            "medicName": "RUDOLF IZABELA",
+            "phone": "0257212898",
+            "supplierName": "CABINET MEDICAL DR.TAMASDAN CORINA SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Independentei, nr. 11",
+            "contractNo": "1393",
+            "email": "",
+            "medicName": "ILYES STELIAN-GABRIEL",
+            "phone": "0740189296",
+            "supplierName": "DR.ILYES STELIAN SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Steagului, nr. 19",
+            "contractNo": "103",
+            "email": "",
+            "medicName": "JIPA ADRIANA-EMILIA",
+            "phone": "0257278595",
+            "supplierName": "CMI DR.JIPA ADRIANA",
+            "lat": 46.140719,
+            "lng": 21.3418959
+        },
+        {
+            "address": "Arad, Strada Miron Costin, nr. 16-22, Bloc B, Scara E, Apartament 1",
+            "contractNo": "263",
+            "email": "",
+            "medicName": "JURCA DANIELA-LIGIA",
+            "phone": "0257252833",
+            "supplierName": "TAHIMED SRL",
+            "lat": 46.186953,
+            "lng": 21.3226411
+        },
+        {
+            "address": "Arad, Strada Dornei, nr. 19",
+            "contractNo": "104",
+            "email": "",
+            "medicName": "JURCULEŢ IRINA",
+            "phone": "0257281643",
+            "supplierName": "CMI DR.JURCULET IRINA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Steagului, nr. 19, Apartament 1",
+            "contractNo": "1037",
+            "email": "",
+            "medicName": "JURJUŢ MIRELA-SANDA",
+            "phone": "0257280223",
+            "supplierName": "CMI DR.JURJUT MIRELA SANDA - MEDICINA GENERALA",
+            "lat": 46.140719,
+            "lng": 21.3418959
+        },
+        {
+            "address": "Arad, Strada Bogdan Voievod I, nr. 32",
+            "contractNo": "111",
+            "email": "",
+            "medicName": "KOVACS MAGDALENA",
+            "phone": "0257349999",
+            "supplierName": "CMI DR.KOVACS MAGDALENA",
+            "lat": 46.2048068,
+            "lng": 21.2775325
+        },
+        {
+            "address": "Arad, Strada Mitropolit Andrei Şaguna, nr. 14",
+            "contractNo": "118",
+            "email": "",
+            "medicName": "LUCHIN BOJIŢA",
+            "phone": "0257213211",
+            "supplierName": "LUCHIN BOJITA SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Dornei, nr. 19",
+            "contractNo": "121",
+            "email": "",
+            "medicName": "LUPUŢI FLORINA-MIHAIELA",
+            "phone": "0257280149",
+            "supplierName": "CMI DR.LUPUTI FLORINA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Abrud, nr. 92, Bloc 159, Apartament 17B",
+            "contractNo": "745",
+            "email": "",
+            "medicName": "MAGHERA ADRIAN",
+            "phone": "0257219646",
+            "supplierName": "CMI DR.MAGHERA ADRIAN - MEDICINA DE FAMILIE",
+            "lat": 46.1779647,
+            "lng": 21.3455967
+        },
+        {
+            "address": "Arad, Calea Aurel Vlaicu, nr. 56",
+            "contractNo": "129",
+            "email": "",
+            "medicName": "MATICA DAN-SORIN-GHEORGHE",
+            "phone": "0788318705",
+            "supplierName": "CMI DR.MATICA DAN - MEDIC MEDICINA GENERALA",
+            "lat": 46.19183169999999,
+            "lng": 21.3116845
+        },
+        {
+            "address": "ARAD, BDUL Nicolae Titulescu Bl. 342, SC. A, AP.39D",
+            "contractNo": "1352",
+            "email": "",
+            "medicName": "MĂNUILĂ MELINDA-NATALIA",
+            "phone": "0736650713",
+            "supplierName": "DR.MANUILA MELINDA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.174267,
+            "lng": 21.3469567
+        },
+        {
+            "address": "Arad, Strada Călăraşilor, nr. 3",
+            "contractNo": "126",
+            "email": "",
+            "medicName": "MĂRGĂRINT MARIA-RUXANDRA",
+            "phone": "0257275055",
+            "supplierName": "CMI DR.MARGARINT MARIA RUXANDRA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Călăraşilor, nr. 3",
+            "contractNo": "131",
+            "email": "",
+            "medicName": "MICŞA SANDA-LUCIA",
+            "phone": "0357419166 0745520488",
+            "supplierName": "CMI DR.MICSA SANDA LUCIA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Calea Aurel Vlaicu 56",
+            "contractNo": "1115",
+            "email": "",
+            "medicName": "MOLDOVAN AIDA-ELENA",
+            "phone": "0723156988",
+            "supplierName": "POLICLINICA AS SRL",
+            "lat": 46.19183169999999,
+            "lng": 21.3116845
+        },
+        {
+            "address": "Arad, Strada Călăraşilor, nr. 3",
+            "contractNo": "139",
+            "email": "",
+            "medicName": "MOLDOVAN FLOARE",
+            "phone": "0257274212",
+            "supplierName": "DR.MOLDOVAN FLOARE - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Preparandiei, nr. 51, Apartament 5",
+            "contractNo": "233",
+            "email": "",
+            "medicName": "MOTOARCĂ FLORINA-MONICA",
+            "phone": "0257282786",
+            "supplierName": "CABINET MEDICAL DR.MOTOARCA SRL",
+            "lat": 46.166906,
+            "lng": 21.312937
+        },
+        {
+            "address": "Arad,Strada Inului, nr. 11, Bloc B, Apartament 9",
+            "contractNo": "264",
+            "email": "",
+            "medicName": "MOŢ SIMONA-ADELA",
+            "phone": "0257289318",
+            "supplierName": "TEHNOSOFT MEDICA SRL",
+            "lat": 46.189911,
+            "lng": 21.305846
+        },
+        {
+            "address": "Arad, Strada Popa Gheorghe de Teiuş, nr. 3, ap. 1C",
+            "contractNo": "145",
+            "email": "",
+            "medicName": "MUREŞAN DANIELA-CORNELIA",
+            "phone": "0257257097",
+            "supplierName": "DR.MURESAN DANIELA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.177074,
+            "lng": 21.315619
+        },
+        {
+            "address": "Arad, Strada Petru Rareş 23-25, ap. 2",
+            "contractNo": "147",
+            "email": "",
+            "medicName": "NAGY TEODORA-DANIELA",
+            "phone": "0257212676",
+            "supplierName": "DR.NAGY TEODORA DANIELA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad,Strada Abrud, nr. 92, Bloc 159, Apartament 17G",
+            "contractNo": "149",
+            "email": "",
+            "medicName": "NEDEA NICOLAE",
+            "phone": "0257219740",
+            "supplierName": "DR.NEDEA NICOLAE - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1779647,
+            "lng": 21.3455967
+        },
+        {
+            "address": "Arad, Bulevard Iuliu Maniu, nr.19, Bloc P2, Apartament 2",
+            "contractNo": "160",
+            "email": "",
+            "medicName": "OPRIN LUCI-ELENA",
+            "phone": "0357420417",
+            "supplierName": "CMI DR.OPRIN LUCI ELENA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Mitropolit Andrei Şaguna, nr. 14",
+            "contractNo": "1366",
+            "email": "",
+            "medicName": "LAZAR IONELA",
+            "phone": "0257213211",
+            "supplierName": "CENTRUL MEDICAL LASER SYSTEM SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Poet Andrei Mureşanu, nr. 19, Apartament 3",
+            "contractNo": "180",
+            "email": "",
+            "medicName": "POENARU MIHAIL",
+            "phone": "0257250700 0745647954",
+            "supplierName": "CABINET MEDICAL MIHAIL POENARU S.R.L.",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Abrud, nr. 902, Bloc 159, Apartament 17C",
+            "contractNo": "1775",
+            "email": "",
+            "medicName": "POPA IOAN MARIUS",
+            "phone": "0257219344;       0722281259",
+            "supplierName": "DR. POPA IOAN-MARIUS - CABINET MEDICAL DE MEDICINĂ DE FAMILIE",
+            "lat": 46.1763224,
+            "lng": 21.3546737
+        },
+        {
+            "address": "Arad,STR. CĂLĂRAŞILOR, nr. 3, AP. 6, PARTER, CORP B",
+            "contractNo": "249",
+            "email": "",
+            "medicName": "POPA CARMEN-MONICA",
+            "phone": "0257273171",
+            "supplierName": "DR.ZAHARIE MARIA & CARMEN SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Bulevard Nicolae Titulescu, Bloc 332, Scara C, Apartament 1 B",
+            "contractNo": "1391",
+            "email": "",
+            "medicName": "POPA CĂLIN DANIEL",
+            "phone": "0257279529 0752170488",
+            "supplierName": "CENTRUL MEDICAL SF.LUCA AL CRIMEEI SRL",
+            "lat": 46.1746182,
+            "lng": 21.3476549
+        },
+        {
+            "address": "Arad, Strada Mioritei, nr. 5, Bloc 142, Apartament 3",
+            "contractNo": "1156",
+            "email": "",
+            "medicName": "GURBAN PATRICK",
+            "phone": "0257259026",
+            "supplierName": "AMMA MEDICAL FAM SRL",
+            "lat": 46.173746,
+            "lng": 21.350173
+        },
+        {
+            "address": "Arad, Strada Octavian Goga, nr. 41",
+            "contractNo": "182",
+            "email": "",
+            "medicName": "POPA LIDIA",
+            "phone": "0257212216",
+            "supplierName": "CMI DR.LIDIA POPA SRL",
+            "lat": 46.1751016,
+            "lng": 21.3084646
+        },
+        {
+            "address": "Arad, Strada Ilarie Chendi, nr. 1-3, Etaj parter, Apartament 2C",
+            "contractNo": "199",
+            "email": "",
+            "medicName": "POPESCU MARIANA",
+            "phone": "0257214242",
+            "supplierName": "CABINET DR.SUCIU MARIA SRL",
+            "lat": 46.175362,
+            "lng": 21.314868
+        },
+        {
+            "address": "Arad, Strada Ştefan cel Mare, nr. 59, Bloc 13, Scara A, Apartament 2",
+            "contractNo": "183",
+            "email": "",
+            "medicName": "POPESCU OLIMPIA",
+            "phone": "0257288299",
+            "supplierName": "CMI DR.POPESCU OLIMPIA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Octavian Goga, nr. 41, Apartament 1",
+            "contractNo": "240",
+            "email": "",
+            "medicName": "POSA EUGENIA",
+            "phone": "0257256268",
+            "supplierName": "CMI EUGENIA POSA SRL",
+            "lat": 46.1751016,
+            "lng": 21.3084646
+        },
+        {
+            "address": "Arad, Strada G-ral Ion Dragalina, nr. 16, Apartament 11",
+            "contractNo": "255",
+            "email": "",
+            "medicName": "RĂDUŢIU ADELA",
+            "phone": "0257283848",
+            "supplierName": "MIRAMED SAN SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad,Strada Calarasilor, nr. 3",
+            "contractNo": "262",
+            "email": "",
+            "medicName": "SANDUTU DORICA-RODICA",
+            "phone": "0745976933",
+            "supplierName": "SANAVEST SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Petru Rareş, nr.23, Apartament 4, ARAD",
+            "contractNo": "1417",
+            "email": "",
+            "medicName": "SAVIN ALEXANDRU-MARIUS",
+            "phone": "0257276562",
+            "supplierName": "ADEMEDSAN SRL",
+            "lat": 46.193746,
+            "lng": 21.332547
+        },
+        {
+            "address": "Arad, Strada Petru Rareş 23,  judet Arad,",
+            "contractNo": "1648",
+            "email": "",
+            "medicName": "SCHILL ROBERTO-GABRIEL",
+            "phone": "0755113800",
+            "supplierName": "DR.SCHILL ROBERTO - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.193746,
+            "lng": 21.332547
+        },
+        {
+            "address": "Arad, Bulevard Nicolae Titulescu, Bloc 332, Scara C, Apartament 1",
+            "contractNo": "189",
+            "email": "",
+            "medicName": "SELEGEAN TRĂIAN-EUGEN",
+            "phone": "0257219493",
+            "supplierName": "CMI DR.SELEGEAN TRAIAN EUGEN",
+            "lat": 46.1746182,
+            "lng": 21.3476549
+        },
+        {
+            "address": "Arad, Strada Steagului, nr. 19",
+            "contractNo": "190",
+            "email": "",
+            "medicName": "SENTICI ŞTEFAN-STELIAN",
+            "phone": "0257278595",
+            "supplierName": "CMI DR.SENTICI STEFAN",
+            "lat": 46.140719,
+            "lng": 21.3418959
+        },
+        {
+            "address": "Arad, Strada Constantin Brâncuşi, nr. 93",
+            "contractNo": "196",
+            "email": "",
+            "medicName": "STANA CRISTINA-CARMEN",
+            "phone": "03574918977",
+            "supplierName": "DR.STANA CRISTINA CARMEN - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1929844,
+            "lng": 21.298446
+        },
+        {
+            "address": "Arad, Strada Cozia, nr.7",
+            "contractNo": "201",
+            "email": "",
+            "medicName": "SUCOVERSCHI-NAN MONICA",
+            "phone": "0257338121",
+            "supplierName": "DR.SUCOVERSCHI NAN MONICA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.168033,
+            "lng": 21.316101
+        },
+        {
+            "address": "Arad, Strada Ilarie Chendi, nr. 1-3",
+            "contractNo": "191",
+            "email": "",
+            "medicName": "ŞERB ELENA",
+            "phone": "0257255578",
+            "supplierName": "CMI DR.SERB ELENA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Făt Frumos, nr. 37, Bloc A4, Scara C, Apartament 3",
+            "contractNo": "205",
+            "email": "",
+            "medicName": "TAMŞA SILVIA",
+            "phone": "0257275256",
+            "supplierName": "CMI DR.TAMSA SILVIA",
+            "lat": 46.2037072,
+            "lng": 21.2932254
+        },
+        {
+            "address": "Arad, str.Obedenaru, nr.3, ap.1",
+            "contractNo": "1114",
+            "email": "",
+            "medicName": "TĂŞEDAN DANA",
+            "phone": "0745517101",
+            "supplierName": "DR.TASEDAN DANA SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Bulevard Nicolae Titulescu, Bloc 330, Scara A, Apartament 26",
+            "contractNo": "207",
+            "email": "",
+            "medicName": "TĂTUCU DOROTEA",
+            "phone": "0257279529 0722407753",
+            "supplierName": "DR.TATUCU DOROTEA - CABINET MEDICAL DE MEDICINA GENERALA PEDIATRIE",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Dr.Ion Georgescu, nr. 6",
+            "contractNo": "257",
+            "email": "",
+            "medicName": "TEAHA JANETA-CRISTINA",
+            "phone": "0257218843",
+            "supplierName": "DR.TEAHA MEDICA SRL",
+            "lat": 46.1733845,
+            "lng": 21.3125675
+        },
+        {
+            "address": "Arad, Calea Aurel Vlaicu, Bloc 7, Apartament 34",
+            "contractNo": "237",
+            "email": "",
+            "medicName": "TERCHET CAMELIA-FLORINA",
+            "phone": "0257212950 0357408305",
+            "supplierName": "CENTRUL MEDICAL ARAD-VEST SRL",
+            "lat": 46.198232,
+            "lng": 21.295969
+        },
+        {
+            "address": "Arad, Strada Liviu Rebreanu, nr. 26",
+            "contractNo": "1355",
+            "email": "",
+            "medicName": "TOFAN DANA MARIA",
+            "phone": "0257256177",
+            "supplierName": "CENTRUL MEDICAL TOFAN SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Calea Timişorii, nr. 71",
+            "contractNo": "212",
+            "email": "",
+            "medicName": "TOMŞA GHEORGHE ŞTEFAN",
+            "phone": "0257242494",
+            "supplierName": "CMI DR.TOMSA GHEORGHE - MEDICINA DE FAMILIE",
+            "lat": 46.1507662,
+            "lng": 21.3219433
+        },
+        {
+            "address": "Arad, Strada Petru Rareş, nr. 23, Etaj S + P, Apartament 1",
+            "contractNo": "217",
+            "email": "",
+            "medicName": "TROCAN TITANIA MARIA",
+            "phone": "0257212646",
+            "supplierName": "DR.TROCAN TITANIA MARIA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.193746,
+            "lng": 21.332547
+        },
+        {
+            "address": "Arad, Strada Abrud, Bloc 159, Apartament 17D",
+            "contractNo": "218",
+            "email": "",
+            "medicName": "TUDEROIU MONICA",
+            "phone": "0257219434",
+            "supplierName": "CMI DR.TUDEROIU MONICA",
+            "lat": 46.17675999999999,
+            "lng": 21.349501
+        },
+        {
+            "address": "Arad, Strada Episcop Roman Ciorogariu, nr. 52",
+            "contractNo": "247",
+            "email": "",
+            "medicName": "TURCIN LUMINIŢA-ADELA",
+            "phone": "0257285510",
+            "supplierName": "DR.TURCIN SRL",
+            "lat": 46.1771166,
+            "lng": 21.2987426
+        },
+        {
+            "address": "Arad, Strada Transilvaniei, nr. 21, Apartament 1",
+            "contractNo": "206",
+            "email": "",
+            "medicName": "ŢAREAN HORAŢIU-DAN",
+            "phone": "0257214911",
+            "supplierName": "DR.TAREAN DAN - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Strada Poet Andrei Mureşanu, nr. 19, Apartament 3",
+            "contractNo": "261",
+            "email": "",
+            "medicName": "MIUŢESCU RAMONA-GABRIELA",
+            "phone": "0257250700",
+            "supplierName": "RAPID CONSULT SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Calea Aurel Vlaicu, Bloc B22, Scara B, Apartament 2",
+            "contractNo": "250",
+            "email": "",
+            "medicName": "URETU MARIA-LIVIA",
+            "phone": "0257348877",
+            "supplierName": "ECOMED SRL",
+            "lat": 46.201176,
+            "lng": 21.2845793
+        },
+        {
+            "address": "Arad, Strada Cozia, nr. 7",
+            "contractNo": "230",
+            "email": "",
+            "medicName": "URSUŢA ROZALIA-ANA",
+            "phone": "0257338121",
+            "supplierName": "CMI DR.URSUTA ROZALIA",
+            "lat": 46.168033,
+            "lng": 21.316101
+        },
+        {
+            "address": "Arad, Strada Roşiorilor, nr. 28 -32, Bloc R 7, Apartament 1",
+            "contractNo": "220",
+            "email": "",
+            "medicName": "VAMOŞIU ANA",
+            "phone": "0357417318 0723573422",
+            "supplierName": "DR.VAMOSIU ANA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Arad, Bulevard Revoluţiei, nr. 76, Apartament 8",
+            "contractNo": "248",
+            "email": "",
+            "medicName": "ZAHARIA DINU-ŞTEFAN",
+            "phone": "0257257171",
+            "supplierName": "DR.ZAHARIA  SRL",
+            "lat": 46.1755799,
+            "lng": 21.3179511
+        },
+        {
+            "address": "Arad, Strada Timisorii",
+            "contractNo": "1724",
+            "email": "",
+            "medicName": "PANTEA CLAUDIU-GHEORGHE",
+            "phone": "0257534525",
+            "supplierName": "DOCTOR PANTEA MEDICAL PRACTICE SRL",
+            "lat": 44.4703001,
+            "lng": 26.0475232
+        },
+        {
+            "address": "Comuna Semlac, nr. 649",
+            "contractNo": "1724",
+            "email": "",
+            "medicName": "PANTEA CLAUDIU-GHEORGHE",
+            "phone": "0257534525",
+            "supplierName": "DOCTOR PANTEA MEDICAL PRACTICE SRL",
+            "lat": 46.1139125,
+            "lng": 20.9255219
+        },
+        {
+            "address": "Arad, Bulevard Revoluţiei, nr. 10, Bloc 10, Etaj parter, Apartament 33",
+            "contractNo": "1364",
+            "email": "",
+            "medicName": "MERMETE CRISTINA",
+            "phone": "0257217704",
+            "supplierName": "MEDIQA SANTE DEVELOPMENT SRL",
+            "lat": 46.1863762,
+            "lng": 21.3251614
+        },
+        {
+            "address": "Zimandcuz, nr. 213",
+            "contractNo": "1364",
+            "email": "",
+            "medicName": "MERMETE CRISTINA",
+            "phone": "0257217704",
+            "supplierName": "MEDIQA SANTE DEVELOPMENT SRL",
+            "lat": 46.2564335,
+            "lng": 21.3837528
+        },
+        {
+            "address": "Comuna Agrişu Mare, nr. 837",
+            "contractNo": "176",
+            "email": "",
+            "medicName": "PINTEA CORNEL-GEORGIŢA",
+            "phone": "0257371514",
+            "supplierName": "CMI DR.PINTEA CORNEL",
+            "lat": 46.2684641,
+            "lng": 21.7481912
+        },
+        {
+            "address": "Drauţ, FN",
+            "contractNo": "176",
+            "email": "",
+            "medicName": "PINTEA CORNEL-GEORGIŢA",
+            "phone": "0257371514",
+            "supplierName": "CMI DR.PINTEA CORNEL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Almaş, nr. 613",
+            "contractNo": "213",
+            "email": "",
+            "medicName": "TOMUŢA GABRIEL",
+            "phone": "0257313375 0727068035",
+            "supplierName": "CMI DR.TOMUTA GABRIEL",
+            "lat": 46.2820917,
+            "lng": 22.228679
+        },
+        {
+            "address": "Comuna Almaş,nr. 613",
+            "contractNo": "1035",
+            "email": "",
+            "medicName": "MAŞCAŞ DACIANA-ELEONORA",
+            "phone": "0257313304",
+            "supplierName": "DR.MASCAS DACIANA ELEONORA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2820917,
+            "lng": 22.228679
+        },
+        {
+            "address": "Dieci, nr. 137",
+            "contractNo": "1035",
+            "email": "",
+            "medicName": "MAŞCAŞ DACIANA-ELEONORA",
+            "phone": "0257313304",
+            "supplierName": "DR.MASCAS DACIANA ELEONORA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Apateu, nr. 324",
+            "contractNo": "259",
+            "email": "",
+            "medicName": "HAGĂU CĂLIN",
+            "phone": "0257327111",
+            "supplierName": "PRO MEDISANA FAM SRL",
+            "lat": 46.6212124,
+            "lng": 21.7726498
+        },
+        {
+            "address": "Comuna Apateu, nr. 324",
+            "contractNo": "259",
+            "email": "",
+            "medicName": "HAGĂU RAMONA-JULIETA",
+            "phone": "0257327111",
+            "supplierName": "PRO MEDISANA FAM SRL",
+            "lat": 46.6212124,
+            "lng": 21.7726498
+        },
+        {
+            "address": "Comuna Archiş, nr. 115 B",
+            "contractNo": "85",
+            "email": "",
+            "medicName": "GIURGIULESCU SILVIU",
+            "phone": "0257323505",
+            "supplierName": "CMI DR.GIURGIULESCU SILVIU",
+            "lat": 46.4773812,
+            "lng": 22.0518268
+        },
+        {
+            "address": "Comuna Bârsa,nr. 386",
+            "contractNo": "35",
+            "email": "",
+            "medicName": "BRAUN ZOLTAN-RUDOLF",
+            "phone": "0257321150",
+            "supplierName": "CMI DR.BRAUN RUDOLF",
+            "lat": 46.3786018,
+            "lng": 22.0696714
+        },
+        {
+            "address": "Comuna Bârzava, nr. 139",
+            "contractNo": "173",
+            "email": "",
+            "medicName": "PETRILĂ OTILIA",
+            "phone": "0257433116",
+            "supplierName": "CMI DR.PETRILA OTILIA",
+            "lat": 46.1104382,
+            "lng": 21.9925191
+        },
+        {
+            "address": "Comuna Beliu, nr. 334A",
+            "contractNo": "1",
+            "email": "",
+            "medicName": "SUCIU GHEORGHE",
+            "phone": "0257322229",
+            "supplierName": "DR.SUCIU GHEORGHE - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.4934786,
+            "lng": 21.9877342
+        },
+        {
+            "address": "Comuna Birchiş,nr. 162",
+            "contractNo": "117",
+            "email": "",
+            "medicName": "LUCA MARIUS-ADRIAN",
+            "phone": "0257434410",
+            "supplierName": "CMI DR.LUCA MARIUS - MEDICINA DE FAMILIE",
+            "lat": 44.4678031,
+            "lng": 26.0314409
+        },
+        {
+            "address": "Bata, nr. 288",
+            "contractNo": "117",
+            "email": "",
+            "medicName": "LUCA MARIUS-ADRIAN",
+            "phone": "0257434410",
+            "supplierName": "CMI DR.LUCA MARIUS - MEDICINA DE FAMILIE",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Bocsig,nr. 565",
+            "contractNo": "1780",
+            "email": "",
+            "medicName": "PETRAR BIANCA",
+            "phone": "0257325106, 0766354215",
+            "supplierName": "DR. PETRAR BIANCA - CABINET MEDICAL DE MEDICINĂ DE FAMILIE",
+            "lat": 46.4213489,
+            "lng": 21.9389872
+        },
+        {
+            "address": "Comuna Bocsig, nr. 565",
+            "contractNo": "1723",
+            "email": "",
+            "medicName": "ROLAND-MARIUS ZSIROS",
+            "phone": "0257325106, 0749243411",
+            "supplierName": "DR. ZSIROS ROLAND-MARIUS-CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.4213489,
+            "lng": 21.9389872
+        },
+        {
+            "address": "Comuna Brazii,nr. 26",
+            "contractNo": "27",
+            "email": "",
+            "medicName": "BLAJOVAN IOAN-DAN",
+            "phone": "0257317503 0257317631",
+            "supplierName": "DR.BLAJOVAN IOAN DAN - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Buteni, nr. 313,",
+            "contractNo": "53",
+            "email": "",
+            "medicName": "CORBEI IOAN",
+            "phone": "0257320114",
+            "supplierName": "CMI DR.CORBEI IOAN",
+            "lat": 46.3288898,
+            "lng": 22.1223923
+        },
+        {
+            "address": "Comuna Buten,nr. 313",
+            "contractNo": "54",
+            "email": "",
+            "medicName": "COŞERI MARIANA-ELENA",
+            "phone": "0257320012",
+            "supplierName": "CMI DR.COSERI MARIANA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Caporal Alexa, nr. 192",
+            "contractNo": "124",
+            "email": "",
+            "medicName": "MARALESCU DORINA",
+            "phone": "0744420775",
+            "supplierName": "DR.MARALESCU DORINA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.3362543,
+            "lng": 21.5836494
+        },
+        {
+            "address": "Santana, str. Muncii, nr. 53A, AP. 10",
+            "contractNo": "124",
+            "email": "",
+            "medicName": "MARALESCU DORINA",
+            "phone": "0744420775",
+            "supplierName": "DR.MARALESCU DORINA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 44.43532219999999,
+            "lng": 26.166151
+        },
+        {
+            "address": "Comuna Cărand, nr. 162",
+            "contractNo": "198",
+            "email": "",
+            "medicName": "STOICA FELICIA",
+            "phone": "0257321550",
+            "supplierName": "CMI DR.STOICA FELICIA",
+            "lat": 44.4678031,
+            "lng": 26.0314409
+        },
+        {
+            "address": "Comuna Cermei,nr. 865",
+            "contractNo": "253",
+            "email": "",
+            "medicName": "TERCHET CORNELIA",
+            "phone": "0257328116",
+            "supplierName": "MEDICA DR.TERCHET SRL",
+            "lat": 46.5466809,
+            "lng": 21.8422496
+        },
+        {
+            "address": "Comuna Cermei,nr. 866",
+            "contractNo": "253",
+            "email": "",
+            "medicName": "TERCHET MATEI",
+            "phone": "0257328116",
+            "supplierName": "MEDICA DR.TERCHET SRL",
+            "lat": 46.5466809,
+            "lng": 21.8422496
+        },
+        {
+            "address": "Comuna Chereluş, nr. 212",
+            "contractNo": "192",
+            "email": "",
+            "medicName": "ŞEREDAN IOANA-RAMONA",
+            "phone": "0740237643",
+            "supplierName": "CMI DR.SEREDAN IOANA RAMONA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Chier,nr. 15, ap. 3",
+            "contractNo": "123",
+            "email": "",
+            "medicName": "MAIER MIRELA-ANGELICA",
+            "phone": "0257370184",
+            "supplierName": "DR.MAIER MIRELA-ANGELICA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 15.9128998,
+            "lng": 79.7399875
+        },
+        {
+            "address": "Chişineu-Criş, Strada Înfrăţirii, nr. 95",
+            "contractNo": "245",
+            "email": "",
+            "medicName": "MICOARĂ MARGARETA MARIA",
+            "phone": "0257350058",
+            "supplierName": "DR.MICOARA MARGARETA SRL",
+            "lat": 46.5236871,
+            "lng": 21.5171814
+        },
+        {
+            "address": "Chisineu Cris.nr.4A",
+            "contractNo": "1084",
+            "email": "",
+            "medicName": "PALFI LAURA",
+            "phone": "0723296026",
+            "supplierName": "DR.PALFI LAURA SRL",
+            "lat": 46.5258941,
+            "lng": 21.5148915
+        },
+        {
+            "address": "Chişineu Criş, P-ţa A. Iancu",
+            "contractNo": "1084",
+            "email": "",
+            "medicName": "PALFI LAURA",
+            "phone": "0723296026",
+            "supplierName": "DR.PALFI LAURA SRL",
+            "lat": 46.5198204,
+            "lng": 21.5185359
+        },
+        {
+            "address": "Ţipar , nr. 342;",
+            "contractNo": "1084",
+            "email": "",
+            "medicName": "PALFI LAURA",
+            "phone": "0723296026",
+            "supplierName": "DR.PALFI LAURA SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Cintei, nr.89",
+            "contractNo": "1733",
+            "email": "",
+            "medicName": "STOICA MONICA",
+            "phone": "0745068472",
+            "supplierName": "CABINET MEDICAL DR. STOICA SRL",
+            "lat": 46.44480799999999,
+            "lng": 21.5621812
+        },
+        {
+            "address": "Lipova, str. N.Titulescu, nr.4, ap.8",
+            "contractNo": "52",
+            "email": "",
+            "medicName": "CONOPAN RAMONA-GEORGETA",
+            "phone": "0745523703",
+            "supplierName": "CABINET MEDICAL DR. CONOPAN RAMONA-GEORGETA SRL",
+            "lat": 46.0887169,
+            "lng": 21.6950507
+        },
+        {
+            "address": "Comuna Conop, nr.220",
+            "contractNo": "52",
+            "email": "",
+            "medicName": "CONOPAN RAMONA-GEORGETA",
+            "phone": "0745523703",
+            "supplierName": "CABINET MEDICAL DR. CONOPAN RAMONA-GEORGETA SRL",
+            "lat": 46.1028523,
+            "lng": 21.8809554
+        },
+        {
+            "address": "Comuna Covăsânţ,nr. 319b, ap.2",
+            "contractNo": "79",
+            "email": "",
+            "medicName": "GAŞPAR ALEXANDRU",
+            "phone": "0257385010",
+            "supplierName": "DR.GASPAR ALEXANDRU - CABINET MEDICAL DE MEDICINA GENERALA-PEDIATRIE",
+            "lat": 46.2016808,
+            "lng": 21.6047967
+        },
+        {
+            "address": "Comuna Craiva, nr.168",
+            "contractNo": "127",
+            "email": "",
+            "medicName": "MARIŞ CAMELIA",
+            "phone": "0257324172",
+            "supplierName": "CMI DR.MARIS CAMELIA",
+            "lat": 46.5876202,
+            "lng": 21.9780845
+        },
+        {
+            "address": "Comuna Craiva, nr.168",
+            "contractNo": "151",
+            "email": "",
+            "medicName": "NETEA CONSTANTIN-SILVIU",
+            "phone": "0257324224",
+            "supplierName": "CMI DR.NETEA CONSTANTIN",
+            "lat": 46.5876202,
+            "lng": 21.9780845
+        },
+        {
+            "address": "Cuied, nr. 378",
+            "contractNo": "68",
+            "email": "",
+            "medicName": "DRĂGAN-DRAGOŞ ELENA",
+            "phone": "0257372883",
+            "supplierName": "CMI DR.DRAGAN-DRAGOS ELENA",
+            "lat": 46.3357344,
+            "lng": 22.0140324
+        },
+        {
+            "address": "Curtici, Strada 1 Decembrie 1918, nr. 49-51",
+            "contractNo": "120",
+            "email": "",
+            "medicName": "LUPAŞ GHEORGHE-IOAN",
+            "phone": "0257464421",
+            "supplierName": "CMI DR.LUPAS GHEORGHE",
+            "lat": 46.3430924,
+            "lng": 21.3076258
+        },
+        {
+            "address": "Curtici, Strada 1 Decembrie 1918, nr. 49, Etaj 1, Apartament 3",
+            "contractNo": "1160",
+            "email": "",
+            "medicName": "NEAG ALINA",
+            "phone": "0257464346 0740865553",
+            "supplierName": "DR.NEAG ALINA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.3430924,
+            "lng": 21.3076258
+        },
+        {
+            "address": "Curtici, Strada Primăriei, nr. 43",
+            "contractNo": "1158",
+            "email": "",
+            "medicName": "SĂCUI CAMELIA",
+            "phone": "0740828401",
+            "supplierName": "DR.SACUI CAMELIA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.344631,
+            "lng": 21.3064689
+        },
+        {
+            "address": "Curtici, Strada 1 Decembrie 1918, nr 49, Apartament 2",
+            "contractNo": "1112",
+            "email": "",
+            "medicName": "VEREŞ-GRAD BOGDAN-ŞTEFAN",
+            "phone": "0730613072 0257464606",
+            "supplierName": "DR.VERES-GRAD BOGDAN - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.3430924,
+            "lng": 21.3076258
+        },
+        {
+            "address": "Curtici,  str. 1Decembrie 1918, nr. 49-51,ap.5",
+            "contractNo": "265",
+            "email": "",
+            "medicName": "VIŢELAR-VAŞAR IULIANA",
+            "phone": "0257465606 0722457812",
+            "supplierName": "VITA-SAN SRL",
+            "lat": 46.3428131,
+            "lng": 21.3071802
+        },
+        {
+            "address": "Comuna Dezna, Bulevard Avram Iancu,nr. 85",
+            "contractNo": "71",
+            "email": "",
+            "medicName": "FETEA ALEXANDRU",
+            "phone": "0257312609",
+            "supplierName": "CMI DR.FETEA ALEXANDRU - MEDICINA DE FAMILIE",
+            "lat": 46.4053987,
+            "lng": 22.247706
+        },
+        {
+            "address": "Comuna Dorobanţi, nr. 428",
+            "contractNo": "112",
+            "email": "",
+            "medicName": "LASZLO TEREZIA",
+            "phone": "0257535050",
+            "supplierName": "LASZLO MED SRL",
+            "lat": 44.4590762,
+            "lng": 26.0967384
+        },
+        {
+            "address": "Comuna Fântânele,nr. 116",
+            "contractNo": "1155",
+            "email": "",
+            "medicName": "BOTA LIDIA-ALINA",
+            "phone": "0357445600",
+            "supplierName": "DOCTOR BOTA LIDIA ALINA SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Felnac, nr. 393",
+            "contractNo": "125",
+            "email": "",
+            "medicName": "MARCU RALUCA-RODICA",
+            "phone": "0257411000",
+            "supplierName": "ADRA MEDICA SRL",
+            "lat": 46.117043,
+            "lng": 21.1428392
+        },
+        {
+            "address": "Comuna Frumuşeni, nr. 463",
+            "contractNo": "5",
+            "email": "",
+            "medicName": "AGUD VIOLETA",
+            "phone": "0257455115",
+            "supplierName": "CMI DR.AGUD VIOLETA",
+            "lat": 46.101412,
+            "lng": 21.4601111
+        },
+        {
+            "address": "Aluniş, nr.289",
+            "contractNo": "5",
+            "email": "",
+            "medicName": "AGUD VIOLETA",
+            "phone": "0257455115",
+            "supplierName": "CMI DR.AGUD VIOLETA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Frumuşeni,nr. 463",
+            "contractNo": "81",
+            "email": "",
+            "medicName": "GHIBAN CAMELIA",
+            "phone": "0257455115 0745543565",
+            "supplierName": "DR.GHIBAN CAMELIA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.101412,
+            "lng": 21.4601111
+        },
+        {
+            "address": "Aluniş, nr. 289",
+            "contractNo": "81",
+            "email": "",
+            "medicName": "GHIBAN CAMELIA",
+            "phone": "0257455115 0745543565",
+            "supplierName": "DR.GHIBAN CAMELIA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 45.2033237,
+            "lng": 25.8556264
+        },
+        {
+            "address": "Galsa, nr. 484",
+            "contractNo": "1421",
+            "email": "",
+            "medicName": "BERKI CRISTINA",
+            "phone": "0754903053",
+            "supplierName": "DR.BERKI CRISTINA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2878535,
+            "lng": 21.6506445
+        },
+        {
+            "address": "Galşa,nr. 217",
+            "contractNo": "114",
+            "email": "",
+            "medicName": "LIVADĂ DANIELA-CORNELIA",
+            "phone": "0257531090",
+            "supplierName": "CABINET MEDICAL DR. LIVADA DANIELA SRL",
+            "lat": 46.2878535,
+            "lng": 21.6506445
+        },
+        {
+            "address": "Comuna Ghioroc, Strada nr. 2, Apartament 1",
+            "contractNo": "243",
+            "email": "",
+            "medicName": "BÂRSAN LEONTINA",
+            "phone": "0257461197",
+            "supplierName": "DR.BARSAN MEDICA SRL",
+            "lat": 46.1545588,
+            "lng": 21.5899546
+        },
+        {
+            "address": "Comuna Ghioroc, str. Iuliu Maniu nr. 2, ap. 2",
+            "contractNo": "1736",
+            "email": "",
+            "medicName": "BLAGA FLORICA EMILIA",
+            "phone": "0257461113",
+            "supplierName": "CM DR BLAGA EMILIA SRL",
+            "lat": 46.1545588,
+            "lng": 21.5899546
+        },
+        {
+            "address": "Comuna Grăniceri, nr. 10",
+            "contractNo": "258",
+            "email": "",
+            "medicName": "POTOP GEORGETA-CĂTĂLINA",
+            "phone": "0257353118 0744709033",
+            "supplierName": "DR.CATALINA POTOP  SRL",
+            "lat": 46.5224242,
+            "lng": 21.3010158
+        },
+        {
+            "address": "Şiclău, nr. 2",
+            "contractNo": "258",
+            "email": "",
+            "medicName": "POTOP GEORGETA-CĂTĂLINA",
+            "phone": "0257353118 0744709033",
+            "supplierName": "DR.CATALINA POTOP  SRL",
+            "lat": 46.4896702,
+            "lng": 21.365724
+        },
+        {
+            "address": "Arad, str. A. Şaguna, nr. 14",
+            "contractNo": "258",
+            "email": "",
+            "medicName": "POTOP GEORGETA-CĂTĂLINA",
+            "phone": "0257353118 0744709033",
+            "supplierName": "DR.CATALINA POTOP  SRL",
+            "lat": 46.1807063,
+            "lng": 21.3084558
+        },
+        {
+            "address": "Comuna Gurahonţ, Strada Ioan Buteanu, nr. 28",
+            "contractNo": "87",
+            "email": "",
+            "medicName": "HALIC ANA",
+            "phone": "0257316442",
+            "supplierName": "CMI DR.HALIC ANA",
+            "lat": 46.2729212,
+            "lng": 22.3410698
+        },
+        {
+            "address": "Comuna Gurahonţ, Strada Ioan Buteanu, nr. 28",
+            "contractNo": "128",
+            "email": "",
+            "medicName": "MATEI VASILIE",
+            "phone": "0257316020",
+            "supplierName": "CMI DR.MATEI VASILE",
+            "lat": 46.2729212,
+            "lng": 22.3410698
+        },
+        {
+            "address": "Comuna Gurahonţ, Strada Ioan Buteanu, nr. 28",
+            "contractNo": "203",
+            "email": "",
+            "medicName": "ŞUPIALĂ CORINA DANA",
+            "phone": "0257316443",
+            "supplierName": "CMI DR.SUPIALA CORINA DANA",
+            "lat": 46.2729212,
+            "lng": 22.3410698
+        },
+        {
+            "address": "Comuna Gurba, nr. 40",
+            "contractNo": "1203",
+            "email": "",
+            "medicName": "GHIZĂL GABRIELA MARIA",
+            "phone": "0257325571",
+            "supplierName": "DR.GHIZAL GABRIELA SRL",
+            "lat": 46.46710849999999,
+            "lng": 21.7860559
+        },
+        {
+            "address": "Beliu, nr. 213",
+            "contractNo": "1203",
+            "email": "",
+            "medicName": "GHIZĂL GABRIELA MARIA",
+            "phone": "0257325571",
+            "supplierName": "DR.GHIZAL GABRIELA SRL",
+            "lat": 46.4934786,
+            "lng": 21.9877342
+        },
+        {
+            "address": "Comuna Hălmagiu, Strada Primăriei, nr. 19",
+            "contractNo": "174",
+            "email": "",
+            "medicName": "PETROVICI MARIA-PERSIDA",
+            "phone": "0257319215",
+            "supplierName": "DR.PETROVICI MARIA PERSIDA-CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2665393,
+            "lng": 22.5943279
+        },
+        {
+            "address": "Comuna Hălmagiu, Strada Primăriei, nr.19",
+            "contractNo": "748",
+            "email": "",
+            "medicName": "CONOVALCIUC SVETLANA",
+            "phone": "0257319060",
+            "supplierName": "DR.CONOVALCIUC SVETLANA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2665393,
+            "lng": 22.5943279
+        },
+        {
+            "address": "Chisindia, nr. 193A",
+            "contractNo": "748",
+            "email": "",
+            "medicName": "CONOVALCIUC SVETLANA",
+            "phone": "0257319060",
+            "supplierName": "DR.CONOVALCIUC SVETLANA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2901136,
+            "lng": 22.0965504
+        },
+        {
+            "address": "Comuna Hălmăgel,  strada Primariei, nr. 1,",
+            "contractNo": "175",
+            "email": "",
+            "medicName": "PIHULEAC MODEST",
+            "phone": "0257319679",
+            "supplierName": "CMI DR.PIHULEAC MODEST",
+            "lat": 46.2674979,
+            "lng": 22.6230638
+        },
+        {
+            "address": "Comuna Hăşmaş, nr. 34",
+            "contractNo": "208",
+            "email": "",
+            "medicName": "ŢIGĂNAŞ OTILIA",
+            "phone": "0257321715",
+            "supplierName": "CENTRUL MEDICAL TIGANAS SRL",
+            "lat": 44.4363773,
+            "lng": 26.1971091
+        },
+        {
+            "address": "Horia, nr. 524",
+            "contractNo": "1422",
+            "email": "",
+            "medicName": "FOLDENYI  MARIA",
+            "phone": "0747396973",
+            "supplierName": "CABINET MEDICAL DR.ALBOTA SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Ineu,Calea Republicii, nr. 62-64, Apartament 15",
+            "contractNo": "254",
+            "email": "",
+            "medicName": "IONESCU EMILIA-MARGARETA",
+            "phone": "0257513330",
+            "supplierName": "DR.IONESCU MEDICA SRL",
+            "lat": 46.42493899999999,
+            "lng": 21.842403
+        },
+        {
+            "address": "Ineu, Strada Dunării, nr. 7, bl. 44, Apartament 2",
+            "contractNo": "107",
+            "email": "",
+            "medicName": "KÖKENY EUGENIA-MARIA",
+            "phone": "0723674946",
+            "supplierName": "CMI DR.KOKENY EUGENIA MARIA",
+            "lat": 46.4310262,
+            "lng": 21.840539
+        },
+        {
+            "address": "Ineu, Strada Dunării, nr. 3, Bloc 42, Apartament 3",
+            "contractNo": "153",
+            "email": "",
+            "medicName": "OANA HORIA",
+            "phone": "0257511860",
+            "supplierName": "CMI DR.OANA HORIA",
+            "lat": 46.4310262,
+            "lng": 21.840539
+        },
+        {
+            "address": "Ineu, Calea Republicii, nr. 60, Bloc 25, Apartament 2",
+            "contractNo": "234",
+            "email": "",
+            "medicName": "POPA ANA-LENICA",
+            "phone": "0257512314",
+            "supplierName": "DR.POPA ANA-LENICA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.425235,
+            "lng": 21.84143
+        },
+        {
+            "address": "Ineu, Strada Decebal, nr. 8",
+            "contractNo": "194",
+            "email": "",
+            "medicName": "ŞOPŢ EUGENIA-MARIA",
+            "phone": "0257511299",
+            "supplierName": "CMI DR.SOPT EUGENIA MARIA",
+            "lat": 46.4310262,
+            "lng": 21.840539
+        },
+        {
+            "address": "Ineu, Strada Dunării, nr. 13, Bloc 47, Apartament 2",
+            "contractNo": "215",
+            "email": "",
+            "medicName": "TRIPA LEONORA-CORNELIA",
+            "phone": "0257513407",
+            "supplierName": "DR.TRIPA LEONORA - CABINET MEDICAL DE MEDICINA GENERALA PEDIATRIE",
+            "lat": 46.4310262,
+            "lng": 21.840539
+        },
+        {
+            "address": "Ineu, Strada Dunării, nr. 7, Bloc 44, Apartament 2",
+            "contractNo": "225",
+            "email": "",
+            "medicName": "VLAD DIANA-MANUELA",
+            "phone": "0745261240",
+            "supplierName": "CMI DR.VLAD DIANA",
+            "lat": 46.4310262,
+            "lng": 21.840539
+        },
+        {
+            "address": "Ineu, Calea Republicii, nr. 62-64, Apartament 15",
+            "contractNo": "254",
+            "email": "",
+            "medicName": "IONESCU IONEL",
+            "phone": "0257513330",
+            "supplierName": "DR.IONESCU MEDICA SRL",
+            "lat": 46.42493899999999,
+            "lng": 21.842403
+        },
+        {
+            "address": "Cermei, nr. 385",
+            "contractNo": "254",
+            "email": "",
+            "medicName": "IONESCU IONEL",
+            "phone": "0257513330",
+            "supplierName": "DR.IONESCU MEDICA SRL",
+            "lat": 46.5466809,
+            "lng": 21.8422496
+        },
+        {
+            "address": "Comuna Iratosu,FN",
+            "contractNo": "142",
+            "email": "",
+            "medicName": "MOŞESCU DOINA",
+            "phone": "0257454007",
+            "supplierName": "CMI DR.MOSESCU DOINA",
+            "lat": 46.3147002,
+            "lng": 21.2067203
+        },
+        {
+            "address": "Comuna Iratoşu, nr. 439",
+            "contractNo": "168",
+            "email": "",
+            "medicName": "PATKO ROBERT",
+            "phone": "0257454300",
+            "supplierName": "CABINET MEDICAL DR.PATKO SRL",
+            "lat": 46.3147002,
+            "lng": 21.2067203
+        },
+        {
+            "address": "Lipova, Strada Detaşamentul Păuliş, nr. 294",
+            "contractNo": "19",
+            "email": "",
+            "medicName": "BANDICI LUCIA-SIMONA",
+            "phone": "0257563108",
+            "supplierName": "MM BANDICI SRL",
+            "lat": 44.4412331,
+            "lng": 26.0789882
+        },
+        {
+            "address": "Lipova, Calea Timişorii, nr. 5",
+            "contractNo": "45",
+            "email": "",
+            "medicName": "CINGHIŢĂ IOAN-DAN",
+            "phone": "0257563246",
+            "supplierName": "CMI DR.CINGHITA IOAN DAN",
+            "lat": 46.0887169,
+            "lng": 21.6950507
+        },
+        {
+            "address": "Lipova,Strada Nicolae Bălcescu 33, Apartament 3",
+            "contractNo": "1635",
+            "email": "",
+            "medicName": "CRAŞOVAN ALINA-RAMONA",
+            "phone": "0757869727",
+            "supplierName": "DR.CRASOVAN ALINA-RAMONA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.0887169,
+            "lng": 21.6950507
+        },
+        {
+            "address": "Lipova,str.Fagetului,nr.6",
+            "contractNo": "1424",
+            "email": "",
+            "medicName": "MEJDI IOANA-FLORENTINA",
+            "phone": "0743660476",
+            "supplierName": "MEJDI MED SRL",
+            "lat": 46.0935521,
+            "lng": 21.698322
+        },
+        {
+            "address": "Lipova, Strada Bugariu, nr 10, Apartament 2",
+            "contractNo": "1423",
+            "email": "",
+            "medicName": "MICOARĂ DORINA-TITIANA",
+            "phone": "0740232875",
+            "supplierName": "DR.MICOARA DORINA TITIANA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.0948648,
+            "lng": 21.6980896
+        },
+        {
+            "address": "Lipova, Strada Aurel Vlaicu, nr.4/A, Bloc C.a parter, Apartament 1",
+            "contractNo": "1321",
+            "email": "",
+            "medicName": "MORAR GABRIELA-ALINA",
+            "phone": "0257563001 0746121811",
+            "supplierName": "POLICLINICA MEDEXPERT SRL",
+            "lat": 46.0887169,
+            "lng": 21.6950507
+        },
+        {
+            "address": "Lipova, Strada Nicolae Titulescu, nr. 4",
+            "contractNo": "202",
+            "email": "",
+            "medicName": "SULINŢAN ANA MARIA",
+            "phone": "0257561987",
+            "supplierName": "CMI DR.SULINTAN ANA-MARIA",
+            "lat": 46.09191209999999,
+            "lng": 21.6943509
+        },
+        {
+            "address": "Lipova, Calea Timişorii, nr. 5",
+            "contractNo": "227",
+            "email": "",
+            "medicName": "ZIBILEANU CODRUŢA-MARIANA",
+            "phone": "0257561736",
+            "supplierName": "CMI DR.ZIBILEANU CODRUTA",
+            "lat": 46.0887169,
+            "lng": 21.6950507
+        },
+        {
+            "address": "Comuna Livada,nr. 157a, ap.2",
+            "contractNo": "44",
+            "email": "",
+            "medicName": "CHIŞIU MARIA-CLARA",
+            "phone": "0257381079",
+            "supplierName": "DR.CHISIU MARIA-CLARA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.2111522,
+            "lng": 21.3912704
+        },
+        {
+            "address": "Comuna Macea,nr. 789",
+            "contractNo": "77",
+            "email": "",
+            "medicName": "GAL ALBERT",
+            "phone": "0257536107",
+            "supplierName": "CMI DR.GAL ALBERT",
+            "lat": 46.3791373,
+            "lng": 21.314195
+        },
+        {
+            "address": "Comuna Macea,nr. 790",
+            "contractNo": "78",
+            "email": "",
+            "medicName": "GAL ANNA",
+            "phone": "0257536107",
+            "supplierName": "CMI DR.GAL ANNA",
+            "lat": 46.3791373,
+            "lng": 21.314195
+        },
+        {
+            "address": "Comuna Macea, nr. 269",
+            "contractNo": "241",
+            "email": "",
+            "medicName": "MOHOREA-MOŢIU AIDA-ELENA",
+            "phone": "0257536106",
+            "supplierName": "CMI DR.MOHOREA AIDA SRL",
+            "lat": 46.3791373,
+            "lng": 21.314195
+        },
+        {
+            "address": "Comuna Mândruloc,nr. 314",
+            "contractNo": "1078",
+            "email": "",
+            "medicName": "GAŞPAR OANA",
+            "phone": "0740130249",
+            "supplierName": "DR.GASPAR OANA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.144684,
+            "lng": 21.4624123
+        },
+        {
+            "address": "Comuna Mişca, nr. 37",
+            "contractNo": "236",
+            "email": "",
+            "medicName": "PANAGHIU  DIANA-CARMEN",
+            "phone": "0257354234 0762978734",
+            "supplierName": "CABINET MEDICAL DIAMED SRL",
+            "lat": 46.6005663,
+            "lng": 21.596683
+        },
+        {
+            "address": "Satu Nou, nr.321",
+            "contractNo": "236",
+            "email": "",
+            "medicName": "PANAGHIU  DIANA-CARMEN",
+            "phone": "0257354234 0762978734",
+            "supplierName": "CABINET MEDICAL DIAMED SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Moneasa, nr. 73",
+            "contractNo": "72",
+            "email": "",
+            "medicName": "FETEA CARMEN-VIRGINIA",
+            "phone": "0257313110",
+            "supplierName": "CMI DR.FETEA CARMEN",
+            "lat": 44.4488253,
+            "lng": 26.0956769
+        },
+        {
+            "address": "Comuna Nadăş, nr. 72",
+            "contractNo": "251",
+            "email": "",
+            "medicName": "STRAGEA CRISTIAN-DIMITRIE",
+            "phone": "0257372525",
+            "supplierName": "FAMEDICA STRAGEA SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Nadlac, str.George Cosbuc, nr.48",
+            "contractNo": "1694",
+            "email": "",
+            "medicName": "BOBCSOK CARLA ANA",
+            "phone": "0744621776",
+            "supplierName": "DR.BOBCSOK CARLA ANA - CABINET MEDICAL MEDICINA DE FAMILIE",
+            "lat": 46.1673933,
+            "lng": 20.753028
+        },
+        {
+            "address": "Nadab, nr. 268",
+            "contractNo": "30",
+            "email": "",
+            "medicName": "BOLDUŢ FĂGEAN MARIUS MIRCEA",
+            "phone": "0257352712",
+            "supplierName": "CMI DR.BOLDUT FAGEAN MARIUS MIRCEA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Nadlac, Strada George Coşbuc, nr. 62, Apartament 3",
+            "contractNo": "14",
+            "email": "",
+            "medicName": "BAKOŞ CAROL",
+            "phone": "0257473759",
+            "supplierName": "DR.BAKOS CAROL - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1684924,
+            "lng": 20.7565097
+        },
+        {
+            "address": "Nadlac, Strada Independentei, nr. 33",
+            "contractNo": "106",
+            "email": "",
+            "medicName": "KIZUR CAMELIA-VIOLETA-SPERANŢA",
+            "phone": "0257474546",
+            "supplierName": "CMI DR.KIZUR CAMELIA",
+            "lat": 46.16621199999999,
+            "lng": 20.754135
+        },
+        {
+            "address": "Nadlac, Strada Decebal, nr. 8",
+            "contractNo": "1586",
+            "email": "",
+            "medicName": "NIŢĂ CORNELIA-ALINA",
+            "phone": "0765578017",
+            "supplierName": "DR.NITA CORNELIA ALINA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1684924,
+            "lng": 20.7565097
+        },
+        {
+            "address": "Nadlac, Strada George Coşbuc, nr. 62,                                  Apartament 2",
+            "contractNo": "162",
+            "email": "",
+            "medicName": "ORBAN ECATERINA-MARIA",
+            "phone": "0257474548",
+            "supplierName": "CMI DR.ORBAN ECATERINA",
+            "lat": 46.1684924,
+            "lng": 20.7565097
+        },
+        {
+            "address": "Strada Tudor Vladimirescu 63, Sat component al comunei Şeitin",
+            "contractNo": "1782",
+            "email": "",
+            "medicName": "NOŢINGHER IOANA",
+            "phone": "0773757720",
+            "supplierName": "NOŢINGHER MED SRL",
+            "lat": 46.1100374,
+            "lng": 20.8412774
+        },
+        {
+            "address": "Nadlac , str.Mihai Viteazu nr.68",
+            "contractNo": "1782",
+            "email": "",
+            "medicName": "NOŢINGHER IOANA",
+            "phone": "0773757720",
+            "supplierName": "NOŢINGHER MED SRL",
+            "lat": 46.1684924,
+            "lng": 20.7565097
+        },
+        {
+            "address": "Comuna Olari, nr. 316",
+            "contractNo": "743",
+            "email": "",
+            "medicName": "ZELEA LUCIAN",
+            "phone": "0257377016 0741939055",
+            "supplierName": "CMI DR.ZELEA LUCIAN",
+            "lat": 44.4389853,
+            "lng": 26.1169696
+        },
+        {
+            "address": "Comuna Păuliş, nr. 1B, Ap. 4",
+            "contractNo": "1595",
+            "email": "",
+            "medicName": "GUŢU ALINA CRISTINA",
+            "phone": "0257388210  0731290540",
+            "supplierName": "DR.GUTU ALINA-CRISTINA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.11916840000001,
+            "lng": 21.5918833
+        },
+        {
+            "address": "Comuna Păuliş, nr. 1B, ap. 3",
+            "contractNo": "59",
+            "email": "",
+            "medicName": "CRIŞAN ANA",
+            "phone": "0257388350",
+            "supplierName": "DR.CRISAN ANA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.11916840000001,
+            "lng": 21.5918833
+        },
+        {
+            "address": "Covăsânţ, nr. 317/B, ap. 1",
+            "contractNo": "59",
+            "email": "",
+            "medicName": "CRIŞAN ANA",
+            "phone": "0257388350",
+            "supplierName": "DR.CRISAN ANA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2016808,
+            "lng": 21.6047967
+        },
+        {
+            "address": "Pâncota, Strada Luncii, nr. 2",
+            "contractNo": "29",
+            "email": "",
+            "medicName": "BLAŞKO FLORENŢA",
+            "phone": "0257467167",
+            "supplierName": "DR.BLASKO FLORENTA - CABINET MEDICAL DE MEDICINA GENERALA-PEDIATRIE",
+            "lat": 46.3284025,
+            "lng": 21.6866668
+        },
+        {
+            "address": "Pâncota, Bulevard Tudor Vladimirescu, nr. 60,",
+            "contractNo": "55",
+            "email": "",
+            "medicName": "COSMA AGNETA-SAROLTA",
+            "phone": "0257467179",
+            "supplierName": "CMI DR.COSMA AGNETA",
+            "lat": 46.3284025,
+            "lng": 21.6866668
+        },
+        {
+            "address": "Pâncota, Bulevard Tudor Vladimirescu, nr. 60",
+            "contractNo": "56",
+            "email": "",
+            "medicName": "COSMA MARCEL-THEODOR",
+            "phone": "0257467179",
+            "supplierName": "CMI DR.COSMA MARCEL",
+            "lat": 46.3284025,
+            "lng": 21.6866668
+        },
+        {
+            "address": "Pâncota, Strada Luncii, nr. 2",
+            "contractNo": "94",
+            "email": "",
+            "medicName": "HORNARIU VIRGIL",
+            "phone": "0257467494",
+            "supplierName": "DR.HORNARIU VIRGIL - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.3284025,
+            "lng": 21.6866668
+        },
+        {
+            "address": "Pecica,Strada 2, nr. 173, Etaj Corp P, Apartament 1",
+            "contractNo": "42",
+            "email": "",
+            "medicName": "CARTOJAN IANCU-CRISTIAN-MIRCEA-DAN",
+            "phone": "0257468313",
+            "supplierName": "DR.CARTOJAN IANCU - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.158403,
+            "lng": 21.063654
+        },
+        {
+            "address": "Pecica,Strada 2, nr. 96",
+            "contractNo": "91",
+            "email": "",
+            "medicName": "HEDEŞAN LIDIA SORINA ALEXANDRINA",
+            "phone": "0257468083",
+            "supplierName": "DR.HEDESAN LIDIA-CABINET MEDICAL DE MEDICINA GENERALA-PEDIATRIE",
+            "lat": 46.1634976,
+            "lng": 21.0695403
+        },
+        {
+            "address": "Pecica,Strada 2, nr. 96",
+            "contractNo": "97",
+            "email": "",
+            "medicName": "IANCU SIMONA",
+            "phone": "0257469916",
+            "supplierName": "DR.IANCU SIMONA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1634976,
+            "lng": 21.0695403
+        },
+        {
+            "address": "Pecica, Strada 2, nr 173, ap. 2",
+            "contractNo": "122",
+            "email": "",
+            "medicName": "MAER OVIDIU-MIRCEA",
+            "phone": "0257469505",
+            "supplierName": "DR.MAER OVIDIU MIRCEA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1689414,
+            "lng": 21.0678377
+        },
+        {
+            "address": "Pecica, Strada 2, nr. 173",
+            "contractNo": "163",
+            "email": "",
+            "medicName": "PÁLFI ALEXANDRU",
+            "phone": "0257468100",
+            "supplierName": "DR.PALFI ALEXANDRU - CABINET MEDICAL DE MEDICINA GENERALA/MEDICINA DE FAMILIE",
+            "lat": 46.1689414,
+            "lng": 21.0678377
+        },
+        {
+            "address": "Pecica, Strada 2, nr. 173",
+            "contractNo": "164",
+            "email": "",
+            "medicName": "PÁLFI ENIKŐ",
+            "phone": "0257468100",
+            "supplierName": "DR.PALFI ENIKO - CABINET MEDICAL DE MEDICINA GENERALA/MEDICINA DE FAMILIE",
+            "lat": 46.1689414,
+            "lng": 21.0678377
+        },
+        {
+            "address": "Pecica, nr.173, Apartament 1, Oras ce apartine de judet,altul decat resedinta Pecica, ARAD",
+            "contractNo": "1752",
+            "email": "",
+            "medicName": "VASADI MIHAELA RAMONA",
+            "phone": "0257468159",
+            "supplierName": "DR.VASADI MIHAELA RAMONA- CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.1689414,
+            "lng": 21.0678377
+        },
+        {
+            "address": "Comuna Peregu Mare,nr. 139",
+            "contractNo": "83",
+            "email": "",
+            "medicName": "GHIULAI ŞTEFAN",
+            "phone": "0257459106 0257459012",
+            "supplierName": "CMI DR.GHIULAI STEFAN",
+            "lat": 46.2369328,
+            "lng": 20.9085434
+        },
+        {
+            "address": "Peregu Mic, nr. 329",
+            "contractNo": "83",
+            "email": "",
+            "medicName": "GHIULAI ŞTEFAN",
+            "phone": "0257459106 0257459012",
+            "supplierName": "CMI DR.GHIULAI STEFAN",
+            "lat": 46.249427,
+            "lng": 20.9477925
+        },
+        {
+            "address": "Comuna Pilu, nr. 69 A",
+            "contractNo": "1094",
+            "email": "",
+            "medicName": "TURCIN DUŞAN-IVAN",
+            "phone": "0257353704 0722288572",
+            "supplierName": "DR.DUSAN TURCIN SRL",
+            "lat": 46.5756616,
+            "lng": 21.3445217
+        },
+        {
+            "address": "Vărşand, nr. 119",
+            "contractNo": "1094",
+            "email": "",
+            "medicName": "TURCIN DUŞAN-IVAN",
+            "phone": "0257353704 0722288572",
+            "supplierName": "DR.DUSAN TURCIN SRL",
+            "lat": 44.38261259999999,
+            "lng": 26.0947864
+        },
+        {
+            "address": "Comuna Pleşcuţa,nr. 84",
+            "contractNo": "90",
+            "email": "",
+            "medicName": "HĂRDUŢ MARIA",
+            "phone": "0257318108",
+            "supplierName": "DR.HARDUT MARIA - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.300559,
+            "lng": 22.4239348
+        },
+        {
+            "address": "Comuna Săvârşin,nr. 432b",
+            "contractNo": "1340",
+            "email": "",
+            "medicName": "VIDICAN MARIA-NICOLETA",
+            "phone": "0257557406 0745039668",
+            "supplierName": "VIDIMED SANTE SRL",
+            "lat": 46.0101844,
+            "lng": 22.2336407
+        },
+        {
+            "address": "Petriş, nr. 83",
+            "contractNo": "1340",
+            "email": "",
+            "medicName": "VIDICAN MARIA-NICOLETA",
+            "phone": "0257557406 0745039668",
+            "supplierName": "VIDIMED SANTE SRL",
+            "lat": 46.0447066,
+            "lng": 22.3887609
+        },
+        {
+            "address": "Comuna Sâmbăteni, nr. 22",
+            "contractNo": "100",
+            "email": "",
+            "medicName": "ILLE VIOLETA",
+            "phone": "0257216460",
+            "supplierName": "DR.ILLE VIOLETA CABINET MEDICAL SRL",
+            "lat": 46.138825,
+            "lng": 21.5176165
+        },
+        {
+            "address": "Sânmartin,nr. 65",
+            "contractNo": "1587",
+            "email": "",
+            "medicName": "KISS GEZA-LEVENTE",
+            "phone": "0257536751 0745053781",
+            "supplierName": "DR.KISS GEZA-LEVENTE - CABINET MEDICAL INDIVIDUAL",
+            "lat": 44.392744,
+            "lng": 26.060173
+        },
+        {
+            "address": "Comuna Sânpetru German, nr. 237",
+            "contractNo": "166",
+            "email": "",
+            "medicName": "PARFENIE ALEXANDRU",
+            "phone": "0257439196 0744512821",
+            "supplierName": "DR.PARFENIE ALEXANDRU - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1146128,
+            "lng": 21.0519316
+        },
+        {
+            "address": "Sântana, Strada Câmpului, nr. 98",
+            "contractNo": "3",
+            "email": "",
+            "medicName": "BEDE ILDICO",
+            "phone": "0257374210",
+            "supplierName": "CABINET MEDICAL DR.BEDE SRL",
+            "lat": 46.340474,
+            "lng": 21.503952
+        },
+        {
+            "address": "Sântana, Strada Muncii, nr. 60",
+            "contractNo": "235",
+            "email": "",
+            "medicName": "PETRESCU CRISTIAN-CAIUS",
+            "phone": "0257463076 0745368795",
+            "supplierName": "CABINET MEDICAL DR.PARTENE SI DR.PETRESCU SRL",
+            "lat": 44.43532219999999,
+            "lng": 26.166151
+        },
+        {
+            "address": "Sântana, Strada Bistriţei, nr. 113",
+            "contractNo": "746",
+            "email": "",
+            "medicName": "PETRIC ANAMARIA-ADRIANA",
+            "phone": "0257374035 0745963022",
+            "supplierName": "ANNAMARIA MEDICA SRL",
+            "lat": 46.34449780000001,
+            "lng": 21.503643
+        },
+        {
+            "address": "Sântana, str. Păcii, nr. 67",
+            "contractNo": "746",
+            "email": "",
+            "medicName": "PETRIC ANAMARIA-ADRIANA",
+            "phone": "0257374035 0745963022",
+            "supplierName": "ANNAMARIA MEDICA SRL",
+            "lat": 44.4340179,
+            "lng": 26.0041224
+        },
+        {
+            "address": "Sântana, Strada Ghioceilor, nr. 20",
+            "contractNo": "177",
+            "email": "",
+            "medicName": "PÎRV DANIEL-MIRCEA",
+            "phone": "0257374220",
+            "supplierName": "CABINET M.F. DR. PIRV DANIEL SRL",
+            "lat": 46.34449780000001,
+            "lng": 21.503643
+        },
+        {
+            "address": "Sebis, Bulevard Republicii, nr. 33",
+            "contractNo": "23",
+            "email": "",
+            "medicName": "BĂTRÂNA ADRIANA-VIORICA",
+            "phone": "0257310595",
+            "supplierName": "CMI DR.BATRANA ADRIANA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Sebiş, Calea Aradului, nr. 3a",
+            "contractNo": "252",
+            "email": "",
+            "medicName": "LAMBING ANA",
+            "phone": "0257310045",
+            "supplierName": "LAMBING MEDICAL SRL",
+            "lat": 46.3710683,
+            "lng": 22.1238316
+        },
+        {
+            "address": "Sebiş, Calea Aradului, nr. 3a",
+            "contractNo": "252",
+            "email": "",
+            "medicName": "LAMBING MARIUS-TIBERIU",
+            "phone": "0257310045",
+            "supplierName": "LAMBING MEDICAL SRL",
+            "lat": 46.3710683,
+            "lng": 22.1238316
+        },
+        {
+            "address": "Sebiş, Bulevard Republicii, nr. 35, Apartament 3",
+            "contractNo": "1093",
+            "email": "",
+            "medicName": "ŢOLEA CARMEN",
+            "phone": "0257310541",
+            "supplierName": "MEDICAL BOCATO SRL",
+            "lat": 46.3730822,
+            "lng": 22.1279431
+        },
+        {
+            "address": "Comuna Secusigiu, nr. 279, ap.1",
+            "contractNo": "258",
+            "email": "",
+            "medicName": "DRAGOŞ BENIAMIN",
+            "phone": "0744709033",
+            "supplierName": "DR.CATALINA POTOP  SRL",
+            "lat": 46.0885311,
+            "lng": 20.9800381
+        },
+        {
+            "address": "Comuna Secusigiu, nr. 265",
+            "contractNo": "1115",
+            "email": "",
+            "medicName": "URSZINYI MONICA",
+            "phone": "0723156988",
+            "supplierName": "POLICLINICA AS SRL",
+            "lat": 46.0885311,
+            "lng": 20.9800381
+        },
+        {
+            "address": "Comuna Seleuş,nr. 200",
+            "contractNo": "33",
+            "email": "",
+            "medicName": "BOTUŞESCU OFELIA",
+            "phone": "0257329104",
+            "supplierName": "CMI DR.BOTUSESCU OFELIA",
+            "lat": 44.41862099999999,
+            "lng": 26.1706201
+        },
+        {
+            "address": "Moroda nr.331",
+            "contractNo": "33",
+            "email": "",
+            "medicName": "BOTUŞESCU OFELIA",
+            "phone": "0257329104",
+            "supplierName": "CMI DR.BOTUSESCU OFELIA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Seleuş.nr. 200",
+            "contractNo": "46",
+            "email": "",
+            "medicName": "CIOCAN CAMELIA",
+            "phone": "0257329104 0257467285",
+            "supplierName": "CMI DR.CIOCAN CAMELIA - MEDICINA DE FAMILIE",
+            "lat": 44.41862099999999,
+            "lng": 26.1706201
+        },
+        {
+            "address": "Măderat, nr. 415",
+            "contractNo": "46",
+            "email": "",
+            "medicName": "CIOCAN CAMELIA",
+            "phone": "0257329104 0257467285",
+            "supplierName": "CMI DR.CIOCAN CAMELIA - MEDICINA DE FAMILIE",
+            "lat": 46.296149,
+            "lng": 21.7099779
+        },
+        {
+            "address": "Comuna Semlac, nr. 649",
+            "contractNo": "1647",
+            "email": "",
+            "medicName": "TOTH CSONGOR",
+            "phone": "0743041989",
+            "supplierName": "DR.TOTH PRAXIS SRL",
+            "lat": 46.1139125,
+            "lng": 20.9255219
+        },
+        {
+            "address": "Comuna Semlac, nr. 650",
+            "contractNo": "1647",
+            "email": "",
+            "medicName": "TOTH LADISLAU",
+            "phone": "0257534112",
+            "supplierName": "DR.TOTH PRAXIS SRL",
+            "lat": 46.1139125,
+            "lng": 20.9255219
+        },
+        {
+            "address": "Comuna Sintea Mare, nr. 229",
+            "contractNo": "156",
+            "email": "",
+            "medicName": "OPREA CARMEN-LILIANA",
+            "phone": "0257357108",
+            "supplierName": "OPREA CARMEN CONSULT SRL",
+            "lat": 46.5198984,
+            "lng": 21.6027763
+        },
+        {
+            "address": "Chişineu Criş, str. Înfrăţirii, nr. 95",
+            "contractNo": "156",
+            "email": "",
+            "medicName": "OPREA CARMEN-LILIANA",
+            "phone": "0257357108",
+            "supplierName": "OPREA CARMEN CONSULT SRL",
+            "lat": 46.5236871,
+            "lng": 21.5171814
+        },
+        {
+            "address": "Comuna Socodor,nr. 331",
+            "contractNo": "185",
+            "email": "",
+            "medicName": "RANI CRISTINA-MONICA",
+            "phone": "0257358107",
+            "supplierName": "CMI DR.RANI CRISTINA",
+            "lat": 46.5112734,
+            "lng": 21.4354283
+        },
+        {
+            "address": "Comuna Socodor nr. 331",
+            "contractNo": "244",
+            "email": "",
+            "medicName": "MICOARĂ ADOLF-ALADAR",
+            "phone": "0257358107",
+            "supplierName": "DR.MICOARA ADOLF SRL",
+            "lat": 46.5112734,
+            "lng": 21.4354283
+        },
+        {
+            "address": "Chişineu Criş, str. N. Bălcescu, nr. 40",
+            "contractNo": "244",
+            "email": "",
+            "medicName": "MICOARĂ ADOLF-ALADAR",
+            "phone": "0257358107",
+            "supplierName": "DR.MICOARA ADOLF SRL",
+            "lat": 46.5258941,
+            "lng": 21.5148915
+        },
+        {
+            "address": "Comuna Şagu,nr. 282",
+            "contractNo": "134",
+            "email": "",
+            "medicName": "COSMA ANDA-MARIA",
+            "phone": "0257418533",
+            "supplierName": "MIHUTA MEDICA SRL",
+            "lat": 46.0597281,
+            "lng": 21.2840562
+        },
+        {
+            "address": "Comuna Şagu, nr. 283",
+            "contractNo": "1179",
+            "email": "",
+            "medicName": "POLK HILDA-INGRID",
+            "phone": "0257418263 0745178638",
+            "supplierName": "DR.POLK INGRID SRL",
+            "lat": 44.49208300000001,
+            "lng": 26.085224
+        },
+        {
+            "address": "Comuna Şepreuş, nr. 407",
+            "contractNo": "181",
+            "email": "",
+            "medicName": "POPA ANGELICA-MARIANA",
+            "phone": "0257356206",
+            "supplierName": "CMI DR.POPA ANGELICA MARIANA",
+            "lat": 46.5732683,
+            "lng": 21.7343281
+        },
+        {
+            "address": "Comuna Şepreuş,nr. 407",
+            "contractNo": "1162",
+            "email": "",
+            "medicName": "STANA MIHAELA",
+            "phone": "0257356159 0753507900",
+            "supplierName": "DR.STANA MIHAELA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.5732683,
+            "lng": 21.7343281
+        },
+        {
+            "address": "Comuna Şicula,nr. 323",
+            "contractNo": "1363",
+            "email": "",
+            "medicName": "MONŢA FLAVIUS-CĂLIN",
+            "phone": "0357406928",
+            "supplierName": "DR.MONTA FLAVIUS CALIN - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.436695,
+            "lng": 21.7617278
+        },
+        {
+            "address": "Comuna Şicula, nr. 201",
+            "contractNo": "155",
+            "email": "",
+            "medicName": "ONIŢA VIOREL-DOREL",
+            "phone": "0357420418 0743802970",
+            "supplierName": "DR.ONITA VIOREL DOREL - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.436695,
+            "lng": 21.7617278
+        },
+        {
+            "address": "Comuna Şimand,nr. 418",
+            "contractNo": "76",
+            "email": "",
+            "medicName": "FRUNZA DAN-HORIA",
+            "phone": "0257373618",
+            "supplierName": "CMI DR.FRUNZA DAN",
+            "lat": 46.421796,
+            "lng": 21.45546
+        },
+        {
+            "address": "Comuna Şimand, nr. 923",
+            "contractNo": "543",
+            "email": "",
+            "medicName": "MARTIN ADRIAN",
+            "phone": "0752595594",
+            "supplierName": "SANO SIMFAMED SRL",
+            "lat": 46.421796,
+            "lng": 21.45546
+        },
+        {
+            "address": "Comuna Siria,Strada 85 Infanteriei, nr. 91",
+            "contractNo": "12",
+            "email": "",
+            "medicName": "BĂBEANU CAMELIA",
+            "phone": "0257531187",
+            "supplierName": "CMI DR.BABEANU CAMELIA SRL",
+            "lat": 46.2618467,
+            "lng": 21.6299881
+        },
+        {
+            "address": "Comuna Şiria, Strada 85 Infanteriei, nr. 90",
+            "contractNo": "1634",
+            "email": "",
+            "medicName": "SUCIU BOGDAN",
+            "phone": "0257531788",
+            "supplierName": "CABINET MEDICAL DR. SUCIU BOGDAN SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Şiria, Strada 85 Infanteriei, nr. 90",
+            "contractNo": "195",
+            "email": "",
+            "medicName": "ŞORA MARIANA",
+            "phone": "0257384148",
+            "supplierName": "CMI DR.SORA MARIANA",
+            "lat": 46.2618467,
+            "lng": 21.6299881
+        },
+        {
+            "address": "Comuna Şofronea,nr. 221",
+            "contractNo": "20",
+            "email": "",
+            "medicName": "BARBU-BĂNEŞ ION",
+            "phone": "0257416178",
+            "supplierName": "CMI DR.BARBU BANES ION",
+            "lat": 46.27879129999999,
+            "lng": 21.3077145
+        },
+        {
+            "address": "Comuna Şofronea, nr. 221",
+            "contractNo": "187",
+            "email": "",
+            "medicName": "ROB DIANA-MARINELA",
+            "phone": "0257416178",
+            "supplierName": "CMI DR.ROB DIANA",
+            "lat": 46.27879129999999,
+            "lng": 21.3077145
+        },
+        {
+            "address": "Şilindia, nr. 61",
+            "contractNo": "8",
+            "email": "",
+            "medicName": "ARDELEAN GAROFIŢA-GEORGETA",
+            "phone": "0257372108",
+            "supplierName": "CMI DR.ARDELEAN GAROFITA",
+            "lat": 46.3397313,
+            "lng": 21.9130216
+        },
+        {
+            "address": "Comuna Tauţ, nr. 925",
+            "contractNo": "8",
+            "email": "",
+            "medicName": "ARDELEAN GAROFIŢA-GEORGETA",
+            "phone": "0257372108",
+            "supplierName": "CMI DR.ARDELEAN GAROFITA",
+            "lat": 46.289918,
+            "lng": 21.9107523
+        },
+        {
+            "address": "Comuna Târnova ,nr. 731, ap. 1",
+            "contractNo": "22",
+            "email": "",
+            "medicName": "BĂŢĂLĂREAN IONEL",
+            "phone": "0257370205",
+            "supplierName": "DR.BATALAREAN IONEL - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.3191347,
+            "lng": 21.7962551
+        },
+        {
+            "address": "Comuna Turnu,nr. 244, Apartament 1",
+            "contractNo": "1341",
+            "email": "",
+            "medicName": "LUCAN GABRIELA",
+            "phone": "0257533001 0745645899",
+            "supplierName": "G & M FAMILY MEDICAL CONSULT SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Arad, str. Miron Costin, nr. 3, bl. 1, ap. 3",
+            "contractNo": "1341",
+            "email": "",
+            "medicName": "LUCAN GABRIELA",
+            "phone": "0257533001 0745645899",
+            "supplierName": "G & M FAMILY MEDICAL CONSULT SRL",
+            "lat": 46.1865606,
+            "lng": 21.3122677
+        },
+        {
+            "address": "Comuna Ususău,nr. 87 A",
+            "contractNo": "1089",
+            "email": "",
+            "medicName": "PATKO EDITH-ANTONIA",
+            "phone": "0746174531",
+            "supplierName": "CMI DR.PATKO EDITH - MEDICINA DE FAMILIE",
+            "lat": 46.0685094,
+            "lng": 21.8214481
+        },
+        {
+            "address": "Comuna Vărădia de Mureş nr.126",
+            "contractNo": "1774",
+            "email": "",
+            "medicName": "HANTIG CAMELIA",
+            "phone": "0257417120",
+            "supplierName": "DR HANTIG CAMELIA-LUCIA-CABINET MEDICAL INDIVIDUAL",
+            "lat": 46.00416,
+            "lng": 22.15914
+        },
+        {
+            "address": "Comuna Varfurile Strada Primăriei, nr. 33",
+            "contractNo": "21",
+            "email": "",
+            "medicName": "BĂRBULESCU VALERICĂ",
+            "phone": "0723567443",
+            "supplierName": "CMI DR.BARBULESCU VALERICA",
+            "lat": 46.3112927,
+            "lng": 22.5274424
+        },
+        {
+            "address": "Comuna Vinga, nr. 85",
+            "contractNo": "102",
+            "email": "",
+            "medicName": "IUHASZ CARMEN",
+            "phone": "0257460052",
+            "supplierName": "CMI DR.IUHASZ CARMEN",
+            "lat": 46.0140462,
+            "lng": 21.2113857
+        },
+        {
+            "address": "Comuna Vinga, nr. 85",
+            "contractNo": "1778",
+            "email": "",
+            "medicName": "ORASAN-ALIC IRINA-MONICA",
+            "phone": "0257460677",
+            "supplierName": "DR.ORASAN-ALIC IRINA-MONICA CABINET MEDICAL MEDICINĂ DE FAMILIE",
+            "lat": 46.0140462,
+            "lng": 21.2113857
+        },
+        {
+            "address": "Comuna Vladimirescu,Strada Progresului, nr. 64- 66, Bloc B2, Apartament 2",
+            "contractNo": "13",
+            "email": "",
+            "medicName": "BAICU IULIANA-MIHAELA",
+            "phone": "0257514002",
+            "supplierName": "SILVER MEDICAL SRL",
+            "lat": 46.1632457,
+            "lng": 21.4060103
+        },
+        {
+            "address": "Comuna Vladimirescu, str.Progresului, nr. 76",
+            "contractNo": "1115",
+            "email": "",
+            "medicName": "FONTA CLARA-ECATERINA",
+            "phone": "0721235689",
+            "supplierName": "POLICLINICA AS SRL",
+            "lat": 46.1632457,
+            "lng": 21.4060103
+        },
+        {
+            "address": "Comuna Vladimirescu, Strada Progresului, nr. 69",
+            "contractNo": "1585",
+            "email": "",
+            "medicName": "HORNARIU MIHAI",
+            "phone": "0257514709      0741013431",
+            "supplierName": "MEDMUN SRL",
+            "lat": 46.1632457,
+            "lng": 21.4060103
+        },
+        {
+            "address": "Comuna Vladimirescu, Strada Gării, Bloc A3, Scara 1, Apartament 1",
+            "contractNo": "170",
+            "email": "",
+            "medicName": "PĂUN HORAŢIU-GABRIEL",
+            "phone": "0257514771",
+            "supplierName": "DR.PAUN HORATIU GABRIEL - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1632457,
+            "lng": 21.4060103
+        },
+        {
+            "address": "Comuna Vladimirescu, Strada Gării, Bloc A3, Scara 1, Apartament 1",
+            "contractNo": "210",
+            "email": "",
+            "medicName": "ŢINTE DANIEL-CRISTIAN",
+            "phone": "0257514174",
+            "supplierName": "DR.TINTE DANIEL CRISTIAN - CABINET MEDICAL DE MEDICINA GENERALA",
+            "lat": 46.1632457,
+            "lng": 21.4060103
+        },
+        {
+            "address": "Comuna Zăbrani, nr. 97",
+            "contractNo": "115",
+            "email": "",
+            "medicName": "LUCA GABRIELA-LUMINIŢA",
+            "phone": "0257457014",
+            "supplierName": "DR.LUCA GABRIELA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.0702378,
+            "lng": 21.5550315
+        },
+        {
+            "address": "Comuna Zăbrani,nr. 97",
+            "contractNo": "116",
+            "email": "",
+            "medicName": "LUCA GEORGETA",
+            "phone": "0257457014 0257457791",
+            "supplierName": "DR.LUCA GEORGETA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.0702378,
+            "lng": 21.5550315
+        },
+        {
+            "address": "Chesinţ, nr. 633",
+            "contractNo": "116",
+            "email": "",
+            "medicName": "LUCA GEORGETA",
+            "phone": "0257457014 0257457791",
+            "supplierName": "DR.LUCA GEORGETA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.0479832,
+            "lng": 21.57292
+        },
+        {
+            "address": "Neudorf, nr. 150",
+            "contractNo": "116",
+            "email": "",
+            "medicName": "LUCA GEORGETA",
+            "phone": "0257457014 0257457791",
+            "supplierName": "DR.LUCA GEORGETA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Comuna Zădăreni, nr. 262A",
+            "contractNo": "125",
+            "email": "",
+            "medicName": "ORBAN MARIUS-CAROL",
+            "phone": "0257411000",
+            "supplierName": "ADRA MEDICA SRL",
+            "lat": 46.1338452,
+            "lng": 21.2171866
+        },
+        {
+            "address": "Comuna Zădăreni, nr. 262A",
+            "contractNo": "169",
+            "email": "",
+            "medicName": "PAUL PETRU-OVIDIU",
+            "phone": "0257413107",
+            "supplierName": "CMI DR.PAUL PETRU OVIDIU",
+            "lat": 46.1338452,
+            "lng": 21.2171866
+        },
+        {
+            "address": "Comuna Zărand, nr. 901",
+            "contractNo": "179",
+            "email": "",
+            "medicName": "POCRISER CRISTIAN",
+            "phone": "0257359103",
+            "supplierName": "PROFAMILIAMED POCRI SRL",
+            "lat": 46.4088159,
+            "lng": 21.6487613
+        },
+        {
+            "address": "Comuna Zerind,nr. 18",
+            "contractNo": "1425",
+            "email": "",
+            "medicName": "BURIAN ALEXANDRU",
+            "phone": "0762036603 0752595594",
+            "supplierName": "SANO ZERMED SRL",
+            "lat": 46.6225105,
+            "lng": 21.5174194
+        },
+        {
+            "address": "Iermata Neagră, nr. 50",
+            "contractNo": "1425",
+            "email": "",
+            "medicName": "BURIAN ALEXANDRU",
+            "phone": "0762036603 0752595594",
+            "supplierName": "SANO ZERMED SRL",
+            "lat": 46.6364132,
+            "lng": 21.4980921
+        },
+        {
+            "address": "Comuna Zimandu Nou, nr. 410",
+            "contractNo": "63",
+            "email": "",
+            "medicName": "DANCIU MARIA",
+            "phone": "0257380257",
+            "supplierName": "DR.DANCIU MARIA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2815966,
+            "lng": 21.3959958
+        },
+        {
+            "address": "Comuna Zimandu Nou ,nr. 410",
+            "contractNo": "197",
+            "email": "",
+            "medicName": "STEOP MARIA-SIMONA",
+            "phone": "0257380066",
+            "supplierName": "DR.STEOP MARIA-SIMONA - CABINET MEDICAL DE MEDICINA DE FAMILIE",
+            "lat": 46.2815966,
+            "lng": 21.3959958
+        }
+    ]
+}
