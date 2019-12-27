@@ -1,0 +1,1414 @@
+{
+    "list": [
+        {
+            "address": "Dr.Tr.Severin, str. Dunării nr. 2",
+            "contractNo": "266MF",
+            "email": "olgaalbici@yahoo.com",
+            "medicName": "Albici Olga",
+            "phone": "740011404",
+            "supplierName": "SC MEDPRIM SRL",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Strehaia, str. Al. I. Cuza Nr. 1",
+            "contractNo": "225MF",
+            "email": "popescu_otilia@yahoo.com.au",
+            "medicName": "Anton Otilia Ileana",
+            "phone": "252371197",
+            "supplierName": "CMI DR. ANTON OTILIA ILEANA",
+            "lat": 44.62424250000001,
+            "lng": 23.1918416
+        },
+        {
+            "address": "Cazanesti",
+            "contractNo": "125MF",
+            "email": "florinbaloi2004@yahoo.com",
+            "medicName": "Baloi Florin Daniel",
+            "phone": "252385066",
+            "supplierName": "CMI DR. BALOI FLORIN",
+            "lat": 44.4295335,
+            "lng": 26.2039971
+        },
+        {
+            "address": "Baia de Arama, str.\nC-tin Brancoveanu nr. 6",
+            "contractNo": "36MF",
+            "email": "ionut_mg23@yahoo.com",
+            "medicName": "Baloi Ionut Victor",
+            "phone": "252381088",
+            "supplierName": "CMI DR. BALOI IONUT VICTOR",
+            "lat": 44.3955673,
+            "lng": 26.109829
+        },
+        {
+            "address": "Jiana",
+            "contractNo": "121MF",
+            "email": "balulescucamelia@yahoo.com",
+            "medicName": "Balulescu Camelia",
+            "phone": "252358756",
+            "supplierName": "CMI DR. BALULESCU CAMELIA",
+            "lat": 44.401858,
+            "lng": 22.7106375
+        },
+        {
+            "address": "Jidostita",
+            "contractNo": "122MF",
+            "email": "crissmon66@yahoo.com",
+            "medicName": "Balus Cristina Monica",
+            "phone": "729806412",
+            "supplierName": "CMI IRIMED",
+            "lat": 44.71362939999999,
+            "lng": 22.5894882
+        },
+        {
+            "address": "Husnicioara",
+            "contractNo": "123MF",
+            "email": "barbulescularisa@yahoo.com",
+            "medicName": "Barbulescu Larisa",
+            "phone": "252342967",
+            "supplierName": "CMI LARI-SAN",
+            "lat": 44.6773044,
+            "lng": 22.8473939
+        },
+        {
+            "address": "Dr.Tr.Severin, Privighetorilor Nr. 8, Bl. T1, Sc. 3, Ap. 2",
+            "contractNo": "124MF",
+            "email": "bechirvictorita@yahoo.com",
+            "medicName": "Bechir Victorita",
+            "phone": "252321335",
+            "supplierName": "CMI DR. BECHIR\nVICTORTA",
+            "lat": 44.6409188,
+            "lng": 22.6549738
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Calomfirescu Nr. 27",
+            "contractNo": "120MF",
+            "email": "cmi.drben@yahoo.com",
+            "medicName": "Bengulescu Aurel",
+            "phone": "252326995",
+            "supplierName": "CMI DR. BENGULESCU\n AUREL",
+            "lat": 44.629486,
+            "lng": 22.6433399
+        },
+        {
+            "address": "Orşova, Str. Bradului Nr. 2, Sc. C, Ap. 4",
+            "contractNo": "126MF",
+            "email": "valeriabercovici@yahoo.com",
+            "medicName": "Bercovici-Panduru Valeria Maria",
+            "phone": "252363643",
+            "supplierName": "CMI DR. BERCOVICI-PANDURU VALERIA-MARIA",
+            "lat": 44.72846209999999,
+            "lng": 22.3943257
+        },
+        {
+            "address": "Simian",
+            "contractNo": "127MF",
+            "email": "sabinabilgar@yahoo.com",
+            "medicName": "Bilgar Sabina",
+            "phone": "724509005",
+            "supplierName": "CMI ECOMED",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Simian",
+            "contractNo": "213MF",
+            "email": "cabmedauto@yahoo.com",
+            "medicName": "a) Bliojiu Marioara Lenuta\nb) Rolea Elisabeta\nZenovia",
+            "phone": "252338329",
+            "supplierName": "SC ALCID - MED SRL",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Pristol",
+            "contractNo": "131MF",
+            "email": "bdorinapaula@yahoo.com",
+            "medicName": "Boboc Dorina Paula",
+            "phone": "252394503",
+            "supplierName": "CMI DR. BOBOC DORINA PAULA",
+            "lat": 51.38363039999999,
+            "lng": -2.7135463
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Orly Nr. 47, Bl. G5, Sc. 1, Ap. 1",
+            "contractNo": "132MF",
+            "email": "marianboeangiu@yahoo.com",
+            "medicName": "Boeangiu Marian-Ion",
+            "phone": "252333131",
+            "supplierName": "CMI DR. BOEANGIU MARIAN-ION",
+            "lat": 44.6396029,
+            "lng": 22.6518081
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Independentei Nr. 53, Bl. B, sc. 1,apt. 1",
+            "contractNo": "133MF",
+            "email": "doctorbolboaselenuta@yahoo.com",
+            "medicName": "Bolboase Lenuta",
+            "phone": "252214340",
+            "supplierName": "CMI DR. BOLBOASE\n LENUTA",
+            "lat": 44.6320987,
+            "lng": 22.6660172
+        },
+        {
+            "address": "Voloiac",
+            "contractNo": "134MF",
+            "email": "mihaela.bolocan@yahoo.com",
+            "medicName": "Bolocan Mihaela",
+            "phone": "724501080",
+            "supplierName": "CMI MIHMED",
+            "lat": 44.6244619,
+            "lng": 23.0910136
+        },
+        {
+            "address": "Simian",
+            "contractNo": "135MF",
+            "email": "simedsimian@yahoo.com",
+            "medicName": "Braila Augustina",
+            "phone": "252338003",
+            "supplierName": "CMI SIMED",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Sovarna",
+            "contractNo": "2",
+            "email": "costy_tania@yahoo.com",
+            "medicName": "Breazu-Fleancu Tania",
+            "phone": "723526898",
+            "supplierName": "CMI ARY MED DR. BREAZU FLEANCU TANIA",
+            "lat": 44.8489535,
+            "lng": 22.8060502
+        },
+        {
+            "address": "Livezile",
+            "contractNo": "136MF",
+            "email": "mihaibrinas@yahoo.com",
+            "medicName": "Brinas Diana Livia",
+            "phone": "252354122",
+            "supplierName": "CMI DR. BRINAS DIANA LIVIA",
+            "lat": 47.1864923,
+            "lng": 24.5830613
+        },
+        {
+            "address": "Oprisor",
+            "contractNo": "137MF",
+            "email": "danisanbd@yahoo.com",
+            "medicName": "Bumb Daniel-Brutus-Octavian",
+            "phone": "352524350",
+            "supplierName": "CMI DANISAN",
+            "lat": 44.4379734,
+            "lng": 26.1275043
+        },
+        {
+            "address": "Stingaceaua",
+            "contractNo": "429MF",
+            "email": "dr.oana_buruiana@yahoo.com",
+            "medicName": "Buruiana Onita",
+            "phone": "766692643",
+            "supplierName": "CMI DR. BURUIANA ONITA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Isverna +\npunct Balta",
+            "contractNo": "138MF",
+            "email": "horianabusuioc@yahoo.com",
+            "medicName": "Busuioc Horiana",
+            "phone": "252388153",
+            "supplierName": "CMI HORIMED",
+            "lat": 44.8934881,
+            "lng": 22.6342203
+        },
+        {
+            "address": "Obirsia de Cimp",
+            "contractNo": "139MF",
+            "email": "olgacerga@yahoo.com",
+            "medicName": "Cerga Olga",
+            "phone": "352259524",
+            "supplierName": "CMI DR. CERGA OLGA",
+            "lat": 44.1713376,
+            "lng": 23.0079537
+        },
+        {
+            "address": "Timna",
+            "contractNo": "140MF",
+            "email": "dr.laurachircu@yahoo.com",
+            "medicName": "Chircu Laura",
+            "phone": "727783325",
+            "supplierName": "CMI DR. CHIRCU LAURA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Bala",
+            "contractNo": "141MF",
+            "email": "iulianacioaba@yahoo.com",
+            "medicName": "Cioaba Iuliana",
+            "phone": "252386029",
+            "supplierName": "CMI DR. CIOABĂ IULIANA",
+            "lat": 44.8822342,
+            "lng": 22.8368403
+        },
+        {
+            "address": "Dr.Tr.Severin, Aleea Privighetorii 2D",
+            "contractNo": "142MF",
+            "email": "drcirciumarumihaela@yahoo.com",
+            "medicName": "Circiumaru Mihaela",
+            "phone": "352412512",
+            "supplierName": "CMI DR. CIRCIUMARU\n MIHAELA",
+            "lat": 44.6390861,
+            "lng": 22.6557225
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Crisan Nr. 59, Bl. O5, Sc. 1, Ap. 2",
+            "contractNo": "9MF",
+            "email": "citu_anca@yahoo.com",
+            "medicName": "a) Citu Anca\nb) Citu Irina Elisabeta",
+            "phone": "352414424",
+            "supplierName": "CMI DR. CITU ANCA",
+            "lat": 44.6411144,
+            "lng": 22.6489355
+        },
+        {
+            "address": "Dumbrava",
+            "contractNo": "144MF",
+            "email": "dacian.ciulei@yahoo.com",
+            "medicName": "Ciulei Dacian",
+            "phone": "747059859",
+            "supplierName": "CMI DR. CIULEI DACIAN DANIEL",
+            "lat": 44.3995055,
+            "lng": 26.120616
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Timisoarei Nr. 165, Bl. S4, Sc. 3, Ap. 1",
+            "contractNo": "145MF",
+            "email": "coandavalentin@yahoo.com",
+            "medicName": "Coanda Anca Emilia",
+            "phone": "252312032",
+            "supplierName": "CMI DR. COANDA\n ANCA EMILIA",
+            "lat": 44.62453199999999,
+            "lng": 22.617676
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Corneliu Savoiu Nr. 2, Bl. B1, sc.1,ap.1",
+            "contractNo": "426MF",
+            "email": "constantincoltan@yahoo.com",
+            "medicName": "Coltan Constantin",
+            "phone": "352402802",
+            "supplierName": "CMI DR. COLTAN CONSTANTIN",
+            "lat": 44.6346941,
+            "lng": 22.6593952
+        },
+        {
+            "address": "Baia de Arama, Str. Victoriei 20",
+            "contractNo": "17MF",
+            "email": "gabriel.cunita@yahoo.com",
+            "medicName": "Cunita Gabriel\nAdrian",
+            "phone": "252381254",
+            "supplierName": "CMI DR. CUNITA GABRIEL\nADRIAN",
+            "lat": 44.9990601,
+            "lng": 22.8074848
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Jidostitei nr. 60, Bl. 39, sc.1, ap.1",
+            "contractNo": "148MF",
+            "email": "danieldanciulescu@yahoo.com",
+            "medicName": "a) Danciulescu\n Daniel\nb) Popescu Constantin",
+            "phone": "252342133",
+            "supplierName": "CMI DR. DANCIULESCU\n DANIEL",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Timisoarei Nr. 165, Bl. S4, sc. 3, ap. 1",
+            "contractNo": "149MF",
+            "email": "valeriadascalumf@yahoo.com",
+            "medicName": "Dascalu Valeria",
+            "phone": "252312032",
+            "supplierName": "CMI DR. DASCALU\n VALERIA",
+            "lat": 44.62453199999999,
+            "lng": 22.617676
+        },
+        {
+            "address": "Balacita",
+            "contractNo": "150MF",
+            "email": "dinca_margareta@yahoo.com",
+            "medicName": "Dinca Margareta",
+            "phone": "252356054",
+            "supplierName": "SC VITAL PRAXIS SRL",
+            "lat": 44.3864773,
+            "lng": 23.1215103
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd.T. Vladimirescu Nr. 225,bl. 3,sc. 4,ap. 1",
+            "contractNo": "151MF",
+            "email": "drdincavioleta@yahoo.com",
+            "medicName": "Dinca Violeta",
+            "phone": "252313947",
+            "supplierName": "CMI VIO-SAN",
+            "lat": 44.6312969,
+            "lng": 22.6710409
+        },
+        {
+            "address": "Svinita",
+            "contractNo": "152MF",
+            "email": "luminitadiu@yahoo.fr",
+            "medicName": "Diu Luminita",
+            "phone": "744162187",
+            "supplierName": "CMI DR. DIU LUMINITA",
+            "lat": 44.4982566,
+            "lng": 22.1020858
+        },
+        {
+            "address": "Breznita de Ocol",
+            "contractNo": "153MF",
+            "email": "roxipirvu82@yahoo.com",
+            "medicName": "Draghici Lizoneta",
+            "phone": "755639596",
+            "supplierName": "CMI LIZMED",
+            "lat": 44.6720669,
+            "lng": 22.6137051
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Serpentina Roşiori, Nr. 1",
+            "contractNo": "154MF",
+            "email": "dr.mihaeladraghici@yahoo.com",
+            "medicName": "Draghici Mihaela",
+            "phone": "352401965",
+            "supplierName": "CMI DR. DRAGHICI\n MIHAELA",
+            "lat": 44.624725,
+            "lng": 22.641968
+        },
+        {
+            "address": "Pătulele",
+            "contractNo": "160MF",
+            "email": "drdragumaria@yahoo.com",
+            "medicName": "Dragu Maria",
+            "phone": "252392610",
+            "supplierName": "CMI DRAGUMED",
+            "lat": 44.3432711,
+            "lng": 22.7766762
+        },
+        {
+            "address": "Orşova, Str. 1 Decembrie 1918 ,nr. 4+punct Podeni",
+            "contractNo": "8MF",
+            "email": "fam_dbm@yahoo.com",
+            "medicName": "Duica Mirela",
+            "phone": "352420563",
+            "supplierName": "SC FAM DBM MED CONSULT SRL",
+            "lat": 44.7329296,
+            "lng": 22.4041803
+        },
+        {
+            "address": "Rogova",
+            "contractNo": "157MF",
+            "email": "virginia_tanasie@yahoo.com",
+            "medicName": "Dumitriu Virginia",
+            "phone": "252353040",
+            "supplierName": "CMI DR. DUMITRIU VIRGINIA",
+            "lat": 44.4729035,
+            "lng": 22.805056
+        },
+        {
+            "address": "Gogoşu",
+            "contractNo": "158MF",
+            "email": "cabmeddr.duta@yahoo.com",
+            "medicName": "Duta Adrian\nDuta Monica",
+            "phone": "252357022",
+            "supplierName": "CMG DR. DUTĂ ADRIAN",
+            "lat": 44.3714069,
+            "lng": 22.5957561
+        },
+        {
+            "address": "Cujmir",
+            "contractNo": "159MF",
+            "email": "eugeniaenache@gmail.com",
+            "medicName": "Enache Eugenia",
+            "phone": "252390507",
+            "supplierName": "CMI DR. ENACHE EUGENIA",
+            "lat": 44.2100783,
+            "lng": 22.9275128
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Danubius Nr. 3 Bl. XF8, sc. 2, ap. 1",
+            "contractNo": "155MF",
+            "email": "corneliaene60@yahoo.com",
+            "medicName": "Ene Cornelia",
+            "phone": "252330611",
+            "supplierName": "CMI DR. ENE\n CORNELIA",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Petre Sergescu Nr. 3",
+            "contractNo": "156MF",
+            "email": "fensan@live.com",
+            "medicName": "Ene Marilena",
+            "phone": "352882827",
+            "supplierName": "CMI FENSAN",
+            "lat": 44.6338331,
+            "lng": 22.6738942
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Crisan Nr. 59, Bl. O5, sc. 1, ap. 2",
+            "contractNo": "162MF",
+            "email": "stelafiru@yahoo.com",
+            "medicName": "a) Firu Stela\nb) Aionese Rodica",
+            "phone": "352405396",
+            "supplierName": "SC MEDISTAR\nCONSULTING SRL",
+            "lat": 44.6411144,
+            "lng": 22.6489355
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Privighetorilor Nr. 8, Bl. T1, sc. 3, ap. 2",
+            "contractNo": "163MF",
+            "email": "cmifamilia@gmail.com",
+            "medicName": "Florescu Mihaela Ioana",
+            "phone": "252321335",
+            "supplierName": "CMI FAMILIA DR. FLORESCU MIHAELA-IOANA",
+            "lat": 44.6409188,
+            "lng": 22.6549738
+        },
+        {
+            "address": "Salcia",
+            "contractNo": "164MF",
+            "email": "nicolaefloricel@gmail.com",
+            "medicName": "Floricel Nicolae",
+            "phone": "352524049",
+            "supplierName": "CMI DR. FLORICEL NICOLAE",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Danubius Nr. 3 Bl. XF8, sc. 2, ap. 1",
+            "contractNo": "165MF",
+            "email": "gavriselenaioana@yahoo.com",
+            "medicName": "Gavriş Elena Ioana",
+            "phone": "745328115",
+            "supplierName": "CMI DR. GAVRIŞ ELENA IOANA",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Walter Maracineanu Nr. 4, Bl. 13, Sc. 5",
+            "contractNo": "20MF",
+            "email": "assosiacionmedsrl@yahoo.com",
+            "medicName": "a) Ghiţă Florina\nb) Lepri Marcela",
+            "phone": "352804138",
+            "supplierName": "SC ASSOSIACIONMED SRL",
+            "lat": 44.63992959999999,
+            "lng": 22.6598045
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Traian 205",
+            "contractNo": "167MF",
+            "email": "dr_mirris@yahoo.com",
+            "medicName": "Gociu Mirela",
+            "phone": "252326395",
+            "supplierName": "CMI DR. GOCIU MIRELA",
+            "lat": 44.626953,
+            "lng": 22.663104
+        },
+        {
+            "address": "Devesel",
+            "contractNo": "168MF",
+            "email": "cmigonciulea@gmail.com",
+            "medicName": "Gonciulea Nelia",
+            "phone": "252353280",
+            "supplierName": "CMI DR. GONCIULEA NELIA",
+            "lat": 44.0552259,
+            "lng": 24.3905146
+        },
+        {
+            "address": "Strehaia, Str. Al. I. Cuza Nr. 1",
+            "contractNo": "169MF",
+            "email": "mihaela_hoanca@yahoo.com",
+            "medicName": "a) Hoancă Mihaela\nMaria\nb) Varwijk-Disea\nNicoleta-Georgiana",
+            "phone": "252370494",
+            "supplierName": "CMI DR. HOANCĂ MIHAELA",
+            "lat": 44.62424250000001,
+            "lng": 23.1918416
+        },
+        {
+            "address": "Bd. Carol I, Nr . 19",
+            "contractNo": "6MF",
+            "email": "alicehogea@gmail.com",
+            "medicName": "Hogea Alice",
+            "phone": "252332334",
+            "supplierName": "CMI DR. HOGEA ALICE",
+            "lat": 44.43603,
+            "lng": 26.104834
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Mrs. nr.47, Bl. G5, Sc. 1",
+            "contractNo": "170MF",
+            "email": "simona_hotaranu@yahoo.com",
+            "medicName": "Hotarănu Angela Simona",
+            "phone": "252314857",
+            "supplierName": "CMI MONA MED",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Corcova",
+            "contractNo": "171MF",
+            "email": "cmimarimed@yahoo.com",
+            "medicName": "Iliescu Mariana Coca",
+            "phone": "252383895",
+            "supplierName": "CMI MARIMED",
+            "lat": 44.6974455,
+            "lng": 23.0373853
+        },
+        {
+            "address": "Dr.Tr.Severin, str.Mrs.\nCorneliu Săvoiu nr. 2, bl.B1, sc.1, ap.1",
+            "contractNo": "21MF",
+            "email": "georgianas2003@yahoo.com",
+            "medicName": "Iordache Georgiana Livia",
+            "phone": "352402802",
+            "supplierName": "DR. IORDACHE\nGEORGIANA LIVIA SRL",
+            "lat": 44.6346941,
+            "lng": 22.6593952
+        },
+        {
+            "address": "Braniştea",
+            "contractNo": "",
+            "email": "teosan28@yahoo.com",
+            "medicName": "Iorga Narcisa",
+            "phone": "352524025",
+            "supplierName": "CMI TEOSAN",
+            "lat": 44.6826865,
+            "lng": 25.5756359
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd. T. Vladimirescu Nr. 225, Bl. 3, Sc. 4, Ap. 1",
+            "contractNo": "173MF",
+            "email": "liviaivaschescu@yahoo.com",
+            "medicName": "Ivăşchescu Livia",
+            "phone": "252310422",
+            "supplierName": "CMI LISAN",
+            "lat": 44.6312969,
+            "lng": 22.6710409
+        },
+        {
+            "address": "Orşova, Str. Primaverii nr. 3, sc. A, ap. 3",
+            "contractNo": "180MF",
+            "email": "dorina.jojica@yahoo.com",
+            "medicName": "Jojică Dorina",
+            "phone": "722762512",
+            "supplierName": "CMI FLADINA-MED",
+            "lat": 44.72846209999999,
+            "lng": 22.3943257
+        },
+        {
+            "address": "Ponoarele +punct Obîrşia Closani",
+            "contractNo": "176MF",
+            "email": "juganaru_diana@yahoo.com",
+            "medicName": "Jugănaru Diana Nicoleta",
+            "phone": "745267268",
+            "supplierName": "CMI DR. JUGĂNARU DIANA NICOLETA",
+            "lat": 44.9798836,
+            "lng": 22.7685848
+        },
+        {
+            "address": "Devesel",
+            "contractNo": "179MF",
+            "email": "lascumihaiela@yahoo.com",
+            "medicName": "Lascu Angelica Mihaiela",
+            "phone": "723927177",
+            "supplierName": "CMI MINAMED",
+            "lat": 44.0552259,
+            "lng": 24.3905146
+        },
+        {
+            "address": "Bîcleş",
+            "contractNo": "175MF",
+            "email": "cmisinemed@yahoo.com",
+            "medicName": "Lascu Georgeta Sidonia",
+            "phone": "252375269",
+            "supplierName": "CMI SINEMED",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Salcia+\npunct Vrata",
+            "contractNo": "182MF",
+            "email": "florian.lican@gmail.com",
+            "medicName": "a) Lican Florian\nb) Giura-Mocanu Lavinia",
+            "phone": "252391604",
+            "supplierName": "CMI DR. LICAN FLORIAN",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Floreşti",
+            "contractNo": "183MF",
+            "email": "liliana.lupu2007@yahoo.com",
+            "medicName": "Lupu Ioan-Petre",
+            "phone": "252383341",
+            "supplierName": "CMI DR. LUPU IOAN PETRE",
+            "lat": 44.45431,
+            "lng": 26.04154
+        },
+        {
+            "address": "Broşteni",
+            "contractNo": "184MF",
+            "email": "liliana.lupu2007@yahoo.com",
+            "medicName": "Lupu Liliana",
+            "phone": "252383019",
+            "supplierName": "CMI DR. LUPU LILIANA",
+            "lat": 44.4943005,
+            "lng": 26.0739487
+        },
+        {
+            "address": "Vînători, Roşiori",
+            "contractNo": "177MF",
+            "email": "lapadat_l@yahoo.com",
+            "medicName": "Lapadat Carmen Luminiţa",
+            "phone": "729841249",
+            "supplierName": "CMI DR. LAPADAT CARMEN",
+            "lat": 44.1085569,
+            "lng": 24.9949784
+        },
+        {
+            "address": "Vînju Mare, Str. Rahovei Nr. 6",
+            "contractNo": "186MF",
+            "email": "lizetamarcu@yahoo.com",
+            "medicName": "Marcu Lizeta",
+            "phone": "252350246",
+            "supplierName": "CMI DR. MARCU LIZETA",
+            "lat": 44.4251659,
+            "lng": 22.8726248
+        },
+        {
+            "address": "Vînju Mare, Str. Republicii Nr. 89",
+            "contractNo": "192MF",
+            "email": "marinescuaida@yahoo.com",
+            "medicName": "Maliborschi- Marinescu Aida- Marinela",
+            "phone": "252350754",
+            "supplierName": "CMI NASTIMED",
+            "lat": 44.4245173,
+            "lng": 22.8723655
+        },
+        {
+            "address": "Poroina Mare",
+            "contractNo": "187MF",
+            "email": "marinescuamalia83@yahoo.com",
+            "medicName": "Marinescu Amalia Michaela",
+            "phone": "728265708",
+            "supplierName": "CMI DR. MARINESCU AMALIA",
+            "lat": 44.4957245,
+            "lng": 22.9327269
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Crisan Nr. 59, Bl. O5, sc. 1, ap. 2",
+            "contractNo": "188MF",
+            "email": "livia_marinescu2004@yahoo.com",
+            "medicName": "Marinescu Livia",
+            "phone": "745370107",
+            "supplierName": "CMI PROSAN",
+            "lat": 44.6411144,
+            "lng": 22.6489355
+        },
+        {
+            "address": "Şişesti",
+            "contractNo": "189MF",
+            "email": "iaiamarinescu@yahoo.com",
+            "medicName": "Marinescu Maria Daniela Liana",
+            "phone": "252384036",
+            "supplierName": "CMI DR. MARINESCU MARIA DANIELA LIANA",
+            "lat": 44.3750909,
+            "lng": 26.0984825
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd.T. Vladimirescu Nr. 225,bl. 3,sc. 4,ap. 1",
+            "contractNo": "193MF",
+            "email": "drmml@yahoo.com",
+            "medicName": "Marinescu Maria Luminita",
+            "phone": "352805085",
+            "supplierName": "CMI LUMIMED",
+            "lat": 44.6312969,
+            "lng": 22.6710409
+        },
+        {
+            "address": "Vînju Mare, Str. Republicii Nr. 89",
+            "contractNo": "191MF",
+            "email": "cmimedaida@yahoo.com",
+            "medicName": "Marinescu Marius",
+            "phone": "252350754",
+            "supplierName": "CMI MEDAIDA",
+            "lat": 44.4245173,
+            "lng": 22.8723655
+        },
+        {
+            "address": "Butoieşti",
+            "contractNo": "190MF",
+            "email": "ileana.marinoiu@yahoo.ro",
+            "medicName": "Marinoiu Ileana",
+            "phone": "751178958",
+            "supplierName": "CMI ELAMED",
+            "lat": 44.5871794,
+            "lng": 23.3726225
+        },
+        {
+            "address": "Orşova, Str. Stefan Cel Mare Nr. 45",
+            "contractNo": "195MF",
+            "email": "sanda_martin@yahoo.com",
+            "medicName": "Martin Sanda",
+            "phone": "252360890",
+            "supplierName": "CMI DR. MARTIN SANDA",
+            "lat": 44.73556,
+            "lng": 22.40629
+        },
+        {
+            "address": "Ilovăţ",
+            "contractNo": "196MF",
+            "email": "",
+            "medicName": "Martinas Traian Romică",
+            "phone": "252384623",
+            "supplierName": "CMI DR. MARTINAS TRAIAN",
+            "lat": 44.8114587,
+            "lng": 22.7634446
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Serpentina Roşiori, Nr. 1",
+            "contractNo": "197MF",
+            "email": "oanapaun90@yahoo.com",
+            "medicName": "Mateias Sanda",
+            "phone": "252322044",
+            "supplierName": "CMI SANMED",
+            "lat": 44.624725,
+            "lng": 22.641968
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Corneliu Savoiu Nr. 2, Bl. B1, sc.1,ap.1",
+            "contractNo": "198MF",
+            "email": "silvamed53@yahoo.ro",
+            "medicName": "Mazilu Silvia",
+            "phone": "352402802",
+            "supplierName": "CMI SILVAMED",
+            "lat": 44.6346941,
+            "lng": 22.6593952
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Petre Sergescu Nr. 3",
+            "contractNo": "199MF",
+            "email": "melcioiu_doina@yahoo.com",
+            "medicName": "a) Melcioiu Doina\nb) Lapadat Mimii",
+            "phone": "252332569",
+            "supplierName": "CMI L.M.1",
+            "lat": 44.6338331,
+            "lng": 22.6738942
+        },
+        {
+            "address": "Gruia",
+            "contractNo": "203MF",
+            "email": "momirleanucristiana@gmail.com",
+            "medicName": "Momirleanu Ecaterina",
+            "phone": "252394015",
+            "supplierName": "CMI DR. MOMÎRLEANU ECATERINA",
+            "lat": 44.4011409,
+            "lng": 26.0815122
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd. Carol I Nr. 37",
+            "contractNo": "201MF",
+            "email": "mortunmonica@yahoo.com",
+            "medicName": "Mortun Monica",
+            "phone": "252322028",
+            "supplierName": "CMI DR.MORTUN\nMONICA",
+            "lat": 44.6233985,
+            "lng": 22.6529784
+        },
+        {
+            "address": "Dîrvari",
+            "contractNo": "202MF",
+            "email": "motrocelena@yahoo.com",
+            "medicName": "Motroc Elena",
+            "phone": "723229571",
+            "supplierName": "CMI ELIAS",
+            "lat": 44.4428311,
+            "lng": 26.1069286
+        },
+        {
+            "address": "Orşova, Aleea Rozelor 2",
+            "contractNo": "185MF",
+            "email": "muller_francisc@yahoo.com",
+            "medicName": "Muller Adina",
+            "phone": "252360553",
+            "supplierName": "CMI ADIMED",
+            "lat": 44.7196851,
+            "lng": 22.3962041
+        },
+        {
+            "address": "Izvorul Bîrzii",
+            "contractNo": "204MF",
+            "email": "naidanelena@yahoo.com",
+            "medicName": "Naidan Elena",
+            "phone": "252707560",
+            "supplierName": "CMI DR. NAIDAN ELENA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Greci",
+            "contractNo": "206MF",
+            "email": "niculescuanton@yahoo.com",
+            "medicName": "Niculescu Anton",
+            "phone": "768328580",
+            "supplierName": "CMI DR. NICULESCU ANTON",
+            "lat": 44.407509,
+            "lng": 26.0794429
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Danubius Nr. 3 Bl. XF8, Sc. 2, Ap. 1",
+            "contractNo": "207MF",
+            "email": "dr.nistor@yahoo.com",
+            "medicName": "Nistor Ileana",
+            "phone": "252330479",
+            "supplierName": "CMI DR. NISTOR ILEANA",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Vînjuleţ",
+            "contractNo": "435MF",
+            "email": "elena_madalina_nitu@yahoo.com",
+            "medicName": "Nitu Elena Madalina",
+            "phone": "763856956",
+            "supplierName": "CMI DR. NITU ELENA MADALINA",
+            "lat": 44.442799,
+            "lng": 22.792581
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Serpentina Roşiori, Nr. 1",
+            "contractNo": "210MF",
+            "email": "rdnuta@yahoo.com",
+            "medicName": "Nuta Adriana",
+            "phone": "352401917",
+            "supplierName": "CMI FLAVIMED",
+            "lat": 44.624725,
+            "lng": 22.641968
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Independenţei Nr. 53, bl.2, sc.1, ap.1",
+            "contractNo": "211MF",
+            "email": "lavinia.paraschiv@yahoo.com",
+            "medicName": "Paraschiv Lavinia Marcela",
+            "phone": "742045664",
+            "supplierName": "CMI DR. PARASCHIV LAVINIA-MARCELA",
+            "lat": 44.636773,
+            "lng": 22.665357
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. 1 Decembrie 1918 nr. 40, bl.7, sc.1, ap.3",
+            "contractNo": "214MF",
+            "email": "pasovflorin@yahoo.com",
+            "medicName": "Pasov Florin",
+            "phone": "352425144",
+            "supplierName": "CMI DR. PAŞOV FLORIN",
+            "lat": 44.6290979,
+            "lng": 22.6673645
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd. T. Vladimirescu Nr. 225, Bl. 3, Sc. 4, Ap. 1",
+            "contractNo": "215MF",
+            "email": "mihaela_patrascuta@yahoo.com",
+            "medicName": "Patrascuta Zenovia Mihaila",
+            "phone": "252313947",
+            "supplierName": "CMI ZENO-MED",
+            "lat": 44.6312969,
+            "lng": 22.6710409
+        },
+        {
+            "address": "Pătulele",
+            "contractNo": "217MF",
+            "email": "adrian1969@gmail.com",
+            "medicName": "Petcu Dumitru Adrian",
+            "phone": "252392823",
+            "supplierName": "CMI DR. PETCU DUMITRU- ADRIAN",
+            "lat": 44.3432711,
+            "lng": 22.7766762
+        },
+        {
+            "address": "Corcova",
+            "contractNo": "219MF",
+            "email": "inasancorcova@yahoo.com",
+            "medicName": "Piţigoi Doina",
+            "phone": "252383594",
+            "supplierName": "CMI INASAN",
+            "lat": 44.6974455,
+            "lng": 23.0373853
+        },
+        {
+            "address": "Corlăţel+\npunct Padina",
+            "contractNo": "220MF",
+            "email": "ploscaruvalentina@yahoo.com",
+            "medicName": "Ploscaru Valentina",
+            "phone": "744776535",
+            "supplierName": "CMI VAL - MED",
+            "lat": 44.5231576,
+            "lng": 26.0804595
+        },
+        {
+            "address": "Tîmna",
+            "contractNo": "221MF",
+            "email": "mira_pb@yahoo.com",
+            "medicName": "Pogonici-Bălţăţeanu Mirela-Alina",
+            "phone": "745815362",
+            "supplierName": "CMI DR. POGONICI-BĂLŢĂŢEANU MIRELA-ALINA",
+            "lat": 44.4267674,
+            "lng": 26.1025384
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Privighetorilor Nr. 8, Bl. T1, Sc. 3, Ap. 2",
+            "contractNo": "222MF",
+            "email": "marianiacobpop@yahoo.com",
+            "medicName": "Pop Marian",
+            "phone": "252321335",
+            "supplierName": "CMI DR. POP MARIAN",
+            "lat": 44.6409188,
+            "lng": 22.6549738
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd. T. Vladimirescu Nr. 133",
+            "contractNo": "224MF",
+            "email": "emalianapopescu@yahoo.com",
+            "medicName": "Popescu Emaliana",
+            "phone": "744614657",
+            "supplierName": "CMI DR. POPESCU EMALIANA",
+            "lat": 44.632839,
+            "lng": 22.659163
+        },
+        {
+            "address": "Strehaia, Str. Al. I. Cuza nr.1",
+            "contractNo": "262MF",
+            "email": "popescudanielamihaela@yahoo.com",
+            "medicName": "Popescu Mihaela Daniela",
+            "phone": "252370177",
+            "supplierName": "CMI SAN-BEBE",
+            "lat": 44.62424250000001,
+            "lng": 23.1918416
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Independenţei Nr. 53, bl.2, sc.1, ap.1",
+            "contractNo": "18MF",
+            "email": "minuca70@yahoo.com",
+            "medicName": "Popescu Minodora",
+            "phone": "352804496",
+            "supplierName": "CMI DR. POPESCU MINODORA",
+            "lat": 44.636773,
+            "lng": 22.665357
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Walter Maracineanu Nr. 4, bl. 11, sc. 5, ap. 3",
+            "contractNo": "60MF",
+            "email": "victoriapopescu61@gmail.com",
+            "medicName": "a) Popescu Victoria\nb) Năstasie Anca",
+            "phone": "352405295",
+            "supplierName": "SC TOP-REYN SRL",
+            "lat": 44.63992959999999,
+            "lng": 22.6598045
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Timisoarei Nr. 204",
+            "contractNo": "227MF",
+            "email": "dr.doina.radu@gmail.com",
+            "medicName": "Radu Doina Elena",
+            "phone": "755741891",
+            "supplierName": "CMI DR. RADU DOINA ELENA",
+            "lat": 44.6237786,
+            "lng": 22.6161333
+        },
+        {
+            "address": "Cerneti",
+            "contractNo": "33MF",
+            "email": "corina.deliarotaru@gmail.com",
+            "medicName": "Rotaru Delia Corina",
+            "phone": "0252/210978 0740/033486",
+            "supplierName": "SC SANTE DEL KOR SRL",
+            "lat": 44.6429147,
+            "lng": 22.7125485
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd. Carol I Nr. 37",
+            "contractNo": "231MF",
+            "email": "aidaroventa@yahoo.com",
+            "medicName": "Rovenţa Elena Aida",
+            "phone": "722221146",
+            "supplierName": "CMI BIOROV",
+            "lat": 44.6233985,
+            "lng": 22.6529784
+        },
+        {
+            "address": "Dubova",
+            "contractNo": "174MF",
+            "email": "dr_rusudana@yahoo.fr",
+            "medicName": "Rusu Daniela",
+            "phone": "252368003",
+            "supplierName": "CMI DR. RUSU DANIELA",
+            "lat": 44.616667,
+            "lng": 22.2666671
+        },
+        {
+            "address": "Grozeşti",
+            "contractNo": "232MF",
+            "email": "rusinaru_ovidiu@yahoo.com",
+            "medicName": "Ruşinaru Mihaela-Adela",
+            "phone": "766260414",
+            "supplierName": "CMI DR. RUŞINARU MIHAELA",
+            "lat": 46.98976,
+            "lng": 28.0572712
+        },
+        {
+            "address": "Brezniţa de Ocol",
+            "contractNo": "235MF",
+            "email": "dr.savucarmen@yahoo.com",
+            "medicName": "Savu Lili Luminiţa Carmen",
+            "phone": "749214921",
+            "supplierName": "CMI CARMED",
+            "lat": 44.6720669,
+            "lng": 22.6137051
+        },
+        {
+            "address": "Orşova, Str. Marinarilor\n nr. 2,sc.F, ap. 2",
+            "contractNo": "233MF",
+            "email": "viorica_sanatescu@yahoo.com",
+            "medicName": "Sanatescu Viorica",
+            "phone": "724249872",
+            "supplierName": "CMI DR. SĂNĂTESCU VIORICA",
+            "lat": 44.7213564,
+            "lng": 22.3970694
+        },
+        {
+            "address": "Eşelniţa",
+            "contractNo": "236MF",
+            "email": "semen.monica@gmail.com",
+            "medicName": "Semen Monica",
+            "phone": "252365484",
+            "supplierName": "CMI CONSEM",
+            "lat": 44.70198329999999,
+            "lng": 22.3633615
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Corneliu Săvoiu, nr.2, bl.B1, sc.1,ap. 1",
+            "contractNo": "238MF",
+            "email": "simion_veronica60@yahoo.com",
+            "medicName": "Simion Veronica",
+            "phone": "352402802",
+            "supplierName": "CMI VEROMED",
+            "lat": 44.6346941,
+            "lng": 22.6593952
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Mrs. Antonescu Nr. 47,bl. G5,sc. 1",
+            "contractNo": "239MF",
+            "email": "simpaleanmitra@yahoo.com",
+            "medicName": "Simpalean Mitra",
+            "phone": "252328672",
+            "supplierName": "CMI DIAMED",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Iuliu Maniu Nr. 28,bl. 2,sc. 4,ap. 5",
+            "contractNo": "237MF",
+            "email": "cmi_teomed@yahoo.com",
+            "medicName": "Sirbu Teodora",
+            "phone": "352401521",
+            "supplierName": "CMI TEOMED",
+            "lat": 44.63641399999999,
+            "lng": 22.667541
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Gării Nr. 3",
+            "contractNo": "240MF",
+            "email": "merisors@yahoo.com",
+            "medicName": "Slama Carmen Maria",
+            "phone": "722211557",
+            "supplierName": "CMI MEVA",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd. Carol I Nr. 37",
+            "contractNo": "241MF",
+            "email": "soaregeorgeta53@yahoo.com",
+            "medicName": "Soare Georgeta Silvia",
+            "phone": "252311160",
+            "supplierName": "CMI DR. SOARE GEORGETA",
+            "lat": 44.6233985,
+            "lng": 22.6529784
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Mrs. Antonescu Nr. 47, Bl. G5, Sc. 1",
+            "contractNo": "263MF",
+            "email": "dr.staicu@yahoo.com",
+            "medicName": "Staicu Rodica",
+            "phone": "252330086",
+            "supplierName": "CMI RODI-SAN",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Jiana+punct Dănceu",
+            "contractNo": "242MF",
+            "email": "sverginacapete@yahoo.com",
+            "medicName": "Stancioiu Vergina",
+            "phone": "252358844",
+            "supplierName": "CMI DR. STĂNCIOIU VERGINA",
+            "lat": 44.365828,
+            "lng": 22.715192
+        },
+        {
+            "address": "Malovăţ",
+            "contractNo": "243MF",
+            "email": "s_emilia_dorina@yahoo.com",
+            "medicName": "Stanciulescu Emilia Dorina",
+            "phone": "252342322",
+            "supplierName": "CMI ALEMASAN",
+            "lat": 44.7067796,
+            "lng": 22.727365
+        },
+        {
+            "address": "Strehaia, Str. Al. I. Cuza Nr. 1",
+            "contractNo": "245MF",
+            "email": "liviastoenica@yahoo.com",
+            "medicName": "Stoenica Livia",
+            "phone": "745513135",
+            "supplierName": "CMI DR. STOENICĂ LIVIA",
+            "lat": 44.62424250000001,
+            "lng": 23.1918416
+        },
+        {
+            "address": "Punghina",
+            "contractNo": "52MF",
+            "email": "Dr.StoichescuMihaela@yahoo.com",
+            "medicName": "Stoichescu\nMihaela",
+            "phone": "252707337",
+            "supplierName": "CMI DR.STOICHESCU\nMIHAELA",
+            "lat": 44.2820376,
+            "lng": 22.9353909
+        },
+        {
+            "address": "Vînju Mare, Str. Rahovei Nr. 6",
+            "contractNo": "26MF",
+            "email": "cristi_steanta@yahoo.com",
+            "medicName": "Steanta\nCristian",
+            "phone": "252350670",
+            "supplierName": "CMI DR. ŞTEANŢĂ CRISTIAN",
+            "lat": 44.4251659,
+            "lng": 22.8726248
+        },
+        {
+            "address": "Hinova",
+            "contractNo": "244MF",
+            "email": "nelli_stefan@yahoo.com",
+            "medicName": "Stefan Cornelia",
+            "phone": "252354250",
+            "supplierName": "CMI DR. ŞTEFAN CORNELIA",
+            "lat": 44.5381857,
+            "lng": 22.7773084
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Serpentina Roşiori, Nr. 1",
+            "contractNo": "1",
+            "email": "astaneisimona@yahoo.com",
+            "medicName": "Tanasie\nSimona",
+            "phone": "252311550",
+            "supplierName": "CMI DR.TANASIE\nSIMONA",
+            "lat": 44.624725,
+            "lng": 22.641968
+        },
+        {
+            "address": "Dr.Tr.Severin, Bd. Carol I Nr. 37",
+            "contractNo": "247MF",
+            "email": "rodica.tolbus@yahoo.com",
+            "medicName": "Tolbus Ana Rodica",
+            "phone": "252311160",
+            "supplierName": "CMI DR. TOLBUŞ ANA RODICA",
+            "lat": 44.6233985,
+            "lng": 22.6529784
+        },
+        {
+            "address": "Ilovita",
+            "contractNo": "53MF",
+            "email": "dantorsin@yahoo.com",
+            "medicName": "Torsin Tiberiu Dan",
+            "phone": "727994722",
+            "supplierName": "CMI DR.TORSIN TIBERIU-DAN",
+            "lat": 44.7603061,
+            "lng": 22.4701605
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Traian Nr. 289, Bl. B2, Sc. 3, Ap. 45",
+            "contractNo": "250MF",
+            "email": "troneacarmen@yahoo.com",
+            "medicName": "Tronea Carmen Mariana",
+            "phone": "252311007",
+            "supplierName": "CMI NORMOVITA",
+            "lat": 44.62699,
+            "lng": 22.672023
+        },
+        {
+            "address": "Burila Mare",
+            "contractNo": "248MF",
+            "email": "iuliatraista@yahoo.com",
+            "medicName": "Traista Iuliana",
+            "phone": "252357410",
+            "supplierName": "CMI BURIMED",
+            "lat": 44.4542846,
+            "lng": 22.5753134
+        },
+        {
+            "address": "Burila Mare",
+            "contractNo": "249MF",
+            "email": "vioreltraista@yahoo.com",
+            "medicName": "Traista Viorel",
+            "phone": "252357410",
+            "supplierName": "CMI DR. TRAISTĂ VIOREL",
+            "lat": 44.4542846,
+            "lng": 22.5753134
+        },
+        {
+            "address": "Bîlvăneşti",
+            "contractNo": "1MF",
+            "email": "Danielaellyserban@yahoo.com",
+            "medicName": "Trita Daniela Elly",
+            "phone": "722318971",
+            "supplierName": "CMI DR.TRIŢĂ DANIELA ELLY",
+            "lat": 44.7976371,
+            "lng": 22.6807363
+        },
+        {
+            "address": "Dr.Tr.Severin, str.Serpentina\nRoşiori nr.1-3",
+            "contractNo": "19MF",
+            "email": "sanziana82@yahoo.com",
+            "medicName": "Ugrai Sinziana",
+            "phone": "352401958",
+            "supplierName": "SC SÎNZIANA TOP MED SRL",
+            "lat": 44.624725,
+            "lng": 22.641968
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Danubius Nr. 3 Bl. Xf8, Sc. 2, Ap. 1",
+            "contractNo": "252MF",
+            "email": "anamedungurean@yahoo.com",
+            "medicName": "Ungurean Ana Liliana",
+            "phone": "740217813",
+            "supplierName": "CMI ANAMED",
+            "lat": 44.6369227,
+            "lng": 22.6597342
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Aluniş Nr. 1",
+            "contractNo": "253MF",
+            "email": "urseroxana@yhoo.com",
+            "medicName": "Urse Roxana Daniela",
+            "phone": "352401917",
+            "supplierName": "CMI ALMAMED",
+            "lat": 44.6233985,
+            "lng": 22.6529784
+        },
+        {
+            "address": "Broşteni",
+            "contractNo": "254MF",
+            "email": "dr_vacaroiunicoleta@yahoo.com",
+            "medicName": "Vacaroiu Nicoleta",
+            "phone": "252383145",
+            "supplierName": "CMI DR. VĂCĂROIU NICOLETA",
+            "lat": 44.4943005,
+            "lng": 26.0739487
+        },
+        {
+            "address": "Strehaia, Str. Al. I. Cuza Nr. 1",
+            "contractNo": "255MF",
+            "email": "cabmarisan@yahoo.com",
+            "medicName": "Viasu-Bolocan Marioara",
+            "phone": "722262210",
+            "supplierName": "CMI MARISAN",
+            "lat": 44.62424250000001,
+            "lng": 23.1918416
+        },
+        {
+            "address": "Gîrla Mare",
+            "contractNo": "256MF",
+            "email": "vladulescucmi@yahoo.com",
+            "medicName": "Vladulescu Gica",
+            "phone": "252393008",
+            "supplierName": "CMI DR. VLĂDULESCU GICA",
+            "lat": 44.2095198,
+            "lng": 22.7756323
+        },
+        {
+            "address": "Gîrla Mare",
+            "contractNo": "257MF",
+            "email": "vladulescucmi@yahoo.com",
+            "medicName": "Vladulescu Victor",
+            "phone": "252393008",
+            "supplierName": "CMI DR. VLĂDULESCU VICTOR",
+            "lat": 44.2095198,
+            "lng": 22.7756323
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Independenţei Nr. 53,bl B, Sc 1,ap 1",
+            "contractNo": "258MF",
+            "email": "carmenvoinea67@yahoo.com",
+            "medicName": "Voinea Carmen Antonela",
+            "phone": "352401925",
+            "supplierName": "CMI DR. VOINEA CARMEN",
+            "lat": 44.6320987,
+            "lng": 22.6660172
+        },
+        {
+            "address": "Orşova,\nbd. 1 Decembrie 1918, nr. 10,\nbl.10, ap. 2",
+            "contractNo": "265MF",
+            "email": "robimaneea@yahoo.com",
+            "medicName": "Voneafca Robert",
+            "phone": "252362711",
+            "supplierName": "CMI BETTYMED",
+            "lat": 44.72849,
+            "lng": 22.400541
+        },
+        {
+            "address": "Brezniţa de Motru",
+            "contractNo": "259MF",
+            "email": "cmidumimed@yahoo.com",
+            "medicName": "Vulpe Dumitru",
+            "phone": "252374006",
+            "supplierName": "CMI DUMIMED",
+            "lat": 44.56211630000001,
+            "lng": 23.2145937
+        },
+        {
+            "address": "Dr.Tr.Severin, Str. Topolniței Nr. 9 Bl 3,sc. 1,ap. 1",
+            "contractNo": "37MF",
+            "email": "CM.ALTEO@yahoo.ro",
+            "medicName": "Zaharescu\nNicoleta Daniela",
+            "phone": "352420410",
+            "supplierName": "CENTRUL MEDICAL ALTEO SRL",
+            "lat": 44.6276945,
+            "lng": 22.6725141
+        },
+        {
+            "address": "Baia de Arama,\nstr. Victoriei\nnr. 20",
+            "contractNo": "54MF",
+            "email": "doctor.doctor91@yahoo.com",
+            "medicName": "Zaroniu Nicolita Lorena",
+            "phone": "252381106",
+            "supplierName": "CMI DR. ZĂRONIU NICOLIŢA LORENA",
+            "lat": 44.99715279999999,
+            "lng": 22.8119052
+        },
+        {
+            "address": "Prunişor",
+            "contractNo": "261MF",
+            "email": "marioarazglimbea@yahoo.com",
+            "medicName": "Zglimbea Marioara",
+            "phone": "252339008",
+            "supplierName": "CMI DR. ZGLIMBEA MARIOARA",
+            "lat": 44.3954314,
+            "lng": 26.0417665
+        }
+    ]
+}
