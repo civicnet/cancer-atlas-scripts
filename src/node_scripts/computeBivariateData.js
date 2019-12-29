@@ -58,7 +58,7 @@ fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats
             .classes(popBreaks);
 
         const medBreaks = chroma.limits(data.map(item => item.properties.medDensity), 'q', 3);
-        const medScale = chroma.scale(['#404788', '#482677', '#440154'])
+        const medScale = chroma.scale(['#404788', '#440154'])
             .classes(medBreaks);
 
         data = data.map(uat => ({
@@ -66,8 +66,8 @@ fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats
             properties: {
                 ...uat.properties,
                 color: chroma.blend(
-                    popScale(uat.properties.popDensity),
                     medScale(uat.properties.medDensity),
+                    popScale(uat.properties.popDensity),
                     'darken'
                 ).hex(),
             }
