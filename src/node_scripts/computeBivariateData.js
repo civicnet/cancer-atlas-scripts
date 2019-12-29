@@ -53,20 +53,21 @@ fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats
             }
         });
 
-        const popBreaks = chroma.scale('PuRd').classes(
-            chroma.limits(data.map(item => item.properties.popDensity), 'k', 3)
-        );
-        const medBreaks = chroma.scale('YlGn').classes(
-            chroma.limits(data.map(item => item.properties.medDensity), 'k', 3)
-        );
+        const popBreaks = chroma.limits(data.map(item => item.properties.popDensity), 'q', 3);
+        const popScale = chroma.scale(['#FDE725', '#73D055'])
+            .classes(popBreaks);
+
+        const medBreaks = chroma.limits(data.map(item => item.properties.medDensity), 'q', 3);
+        const medScale = chroma.scale(['#404788', '#482677', '#440154'])
+            .classes(medBreaks);
 
         data = data.map(uat => ({
             ...uat,
             properties: {
                 ...uat.properties,
                 color: chroma.blend(
-                    popBreaks(uat.properties.popDensity),
-                    medBreaks(uat.properties.medDensity),
+                    popScale(uat.properties.popDensity),
+                    medScale(uat.properties.medDensity),
                     'darken'
                 ).hex(),
             }
