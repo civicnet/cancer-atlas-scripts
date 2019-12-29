@@ -11,6 +11,7 @@ const familyMedicinePath = `${__dirname}/../../data/json/national/family_medicin
 const outPath = `${__dirname}/../../data/json/national/uats_with_family_medicine_weights.json`;
 
 const medicalData = JSON.parse(fs.readFileSync(familyMedicinePath, 'utf8'));
+const checkedColors = [];
 
 fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats.json`)
     .then(res => res.json())
@@ -54,25 +55,35 @@ fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats
         });
 
         const popBreaks = chroma.limits(data.map(item => item.properties.popDensity), 'k', 3);
-        const popScale = chroma.scale(['#F3F3F3', '#E6A2D0'])
+        const popScale = chroma.scale(['#F3F3F3', '#EAC5DD', '#E6A2D0'])
             .classes(popBreaks);
 
         const medBreaks = chroma.limits(data.map(item => item.properties.medDensity), 'k', 3);
-        const medScale = chroma.scale(['#F3F3F3', '#8BE2AE'])
+        const medScale = chroma.scale(['#F3F3F3', '#C2F2D5', '#8BE2AE'])
             .classes(medBreaks);
 
-        data = data.map(uat => ({
-            ...uat,
-            properties: {
-                ...uat.properties,
-                color: chroma.blend(
-                    medScale(uat.properties.medDensity),
-                    popScale(uat.properties.popDensity),
-                    'darken'
-                ).hex(),
-            }
-        }));
+        const getColor = uat => chroma.blend(
+            medScale(uat.properties.medDensity),
+            popScale(uat.properties.popDensity),
+            'darken'
+        ).hex(); 
 
+        console.log(popBreaks, medBreaks);
+
+        data = data.map(uat => {
+            checkedColors.push(getColor(uat));
+            return {
+                ...uat,
+                properties: {
+                    ...uat.properties,
+                    color: getColor(uat),
+                    medColor: medScale(uat.properties.medDensity).hex(),
+                    popColor: popScale(uat.properties.medDensity).hex(),
+                }
+            };
+        });
+
+        console.log([...new Set(checkedColors)]);
         fs.writeFile(outPath, JSON.stringify(data), 'utf8', (err) => {
             if (err) {
                 console.log(`Error saving: ${err.message}`);
