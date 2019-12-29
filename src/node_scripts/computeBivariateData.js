@@ -53,11 +53,11 @@ fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats
             }
         });
 
-        const popBreaks = chroma.scale('Purples').classes(
-            chroma.limits(data.map(item => item.properties.popDensity), 'k', 2)
+        const popBreaks = chroma.scale('PuRd').classes(
+            chroma.limits(data.map(item => item.properties.popDensity), 'k', 3)
         );
-        const medBreaks = chroma.scale('Greens').classes(
-            chroma.limits(data.map(item => item.properties.medDensity), 'k', 2)
+        const medBreaks = chroma.scale('YlGn').classes(
+            chroma.limits(data.map(item => item.properties.medDensity), 'k', 3)
         );
 
         data = data.map(uat => ({
@@ -71,7 +71,7 @@ fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats
                 ).hex(),
             }
         }));
-        
+
         fs.writeFile(outPath, JSON.stringify(data), 'utf8', (err) => {
             if (err) {
                 console.log(`Error saving: ${err.message}`);
