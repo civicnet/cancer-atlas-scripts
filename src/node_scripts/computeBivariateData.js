@@ -55,17 +55,17 @@ fetch(`https://cdn.jsdelivr.net/gh/civicnet/geojson-romania@0.1.0/generated/uats
         });
 
         const popBreaks = chroma.limits(data.map(item => item.properties.popDensity), 'k', 3);
-        const popScale = chroma.scale(['#F3F3F3', '#EAC5DD', '#E6A2D0'])
+        const popScale = chroma.scale(['#f4cfd3', '#e48791', '#d44050'])
             .classes(popBreaks);
 
         const medBreaks = chroma.limits(data.map(item => item.properties.medDensity), 'k', 3);
-        const medScale = chroma.scale(['#F3F3F3', '#C2F2D5', '#8BE2AE'])
+        const medScale = chroma.scale(['#d2e8f9', '#8ec5f1', '#4ba3e9'])
             .classes(medBreaks);
 
         const getColor = uat => chroma.blend(
             medScale(uat.properties.medDensity),
             popScale(uat.properties.popDensity),
-            'darken'
+            'multiply'
         ).hex(); 
 
         console.log(popBreaks, medBreaks);
